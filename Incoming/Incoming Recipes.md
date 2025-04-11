@@ -1,0 +1,1 @@
+Recipes will automatically be dropped in this folder by my AI agents.

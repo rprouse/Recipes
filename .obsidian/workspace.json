@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "7f1845e8d7870373",
+    "type": "split",
+    "children": [
+      {
+        "id": "0689ef46c6358912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b97bfa820afa9e45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76d8899914991161",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1164f6e5b62c62a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2247007034cf037c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "43477834acb07683",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94678fcc7af934a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a06bfb23406978de",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 476.5
+  },
+  "right": {
+    "id": "1fdd5cdc487ee9cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c3ae9a8c60f77f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48667c34d2224178",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "c5116e02c55112d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "7c5473757987c8e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50b63d1d074d03cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b97bfa820afa9e45",
+  "lastOpenFiles": [
+    "Templates/Recipe.md",
+    "Sides/Don't Buy French Fries Anymore.md",
+    "Incoming/Incoming Recipes.md",
+    "Sous Vide/Sous Vide Basics with Babish.md",
+    "Sous Vide",
+    "Beef/Dinner - Asian Cabbage Stir-Fry.pdf",
+    "Beef/Steak - Filet, NY Strip, & Flank.md",
+    "Sides",
+    "Beef",
+    "BBQ/Pastrami.md",
+    "Mexican/Tacos de Bistec a la Plancha.md",
+    "BBQ",
+    "Mexican/Fish Tacos.md",
+    "Chicken/Japanese Rice Bowl.md",
+    "Mexican",
+    "Chicken/Chicken Wings.md",
+    "Chicken/Dinner - Lemon Chicken & Spaghetti Squash Recipe by Tasty.pdf",
+    "Baking/The 5 minute baguette.md",
+    "Chicken",
+    "Welcome.md",
+    "Noodles/Stir-Fried Garlic Egg Ramen.md",
+    "Baking/Pizza Dough.md",
+    "Noodles/Fried Killer Spaghetti.md",
+    "Noodles/15 Minute Chili Garlic Noodles.md",
+    "Noodles/Peanut Butter and Chili Udon Noodles.md",
+    "Baking/No knead bread.md",
+    "Noodles/Homemade Ramen Cup Noodles.md",
+    "Mischen Sie einfach 3 Eier und Thunfisch in Dosen! Dieses Gericht wird jeden sofort beeindrucken!.md",
+    "Noodles/Homemade Cup Noodles.md",
+    "Noodles/Gochujang Garlic Noodles.md",
+    "Baking/French Baguettes.md",
+    "Noodles",
+    "Baking/Dutch Oven Bread.md",
+    "Baking/Crumpets.md",
+    "Baking/1 Dough 3 Loaves.md",
+    "Baking"
+  ]
+}
