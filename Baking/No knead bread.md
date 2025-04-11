@@ -1,5 +1,7 @@
 ---
-tags: [bread, homemade, easy]
+tags:
+  - bread
+  - baking
 title: 4 Ingredients! No need to knead the bread! Anyone can make this homemade bread!
 link: https://www.youtube.com/watch?v=Nov2Mm0-x5w
 channel: Fast Easy Delicious - @FastEasyDelicious1

@@ -1,5 +1,8 @@
 ---
-tags: [crumpets, breakfast, baked-goods]
+tags:
+  - crumpets
+  - breakfast
+  - baking
 title: Crumpets, you'll never buy another crumpet from the store.
 link: https://www.youtube.com/watch?v=ganHDnSz3yw
 channel: John Kirkwood - @JohnKirkwoodProFoodHomemade

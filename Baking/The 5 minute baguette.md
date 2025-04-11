@@ -1,5 +1,8 @@
 ---
-tags: [bread, quick, baguette]
+tags:
+  - bread
+  - baguette
+  - baking
 title: The 5 minute baguette
 link: https://www.youtube.com/watch?v=Z-husjZkxHw
 channel: Voila - Voila! - @voilavoila8303

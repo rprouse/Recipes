@@ -1,5 +1,9 @@
 ---
-tags: [noodles, spicy, quick]
+tags:
+  - noodles
+  - spicy
+  - quick
+  - lunch
 title: These 15 Minute Chili Garlic Noodles Will Change Your LIFE!
 link: https://www.youtube.com/watch?v=qR9W6NH1ukI
 channel: Aaron and Claire - @AaronandClaire

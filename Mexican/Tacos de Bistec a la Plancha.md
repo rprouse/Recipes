@@ -1,5 +1,8 @@
 ---
-tags: [tacos, street, bistec]
+tags:
+  - tacos
+  - steak
+  - beef
 title: Easy Street Tacos Recipe - Taqueria Style Tacos de Bistec a la Plancha (Super Delicious)
 link: https://www.youtube.com/watch?v=JKy9TNh1xB4
 channel: ArnieTex - @ArnieTex

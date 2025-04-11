@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0689ef46c6358912",
+        "id": "bd1bdd257d763186",
         "type": "tabs",
         "children": [
           {
-            "id": "b97bfa820afa9e45",
+            "id": "c62c5a81fc3146fb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:baked-goods",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 246.5
   },
   "right": {
     "id": "1fdd5cdc487ee9cc",
@@ -175,43 +175,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b97bfa820afa9e45",
+  "active": "c62c5a81fc3146fb",
   "lastOpenFiles": [
-    "Templates/Recipe.md",
-    "Sides/Don't Buy French Fries Anymore.md",
-    "Incoming/Incoming Recipes.md",
+    "Readme.md",
     "Sous Vide/Sous Vide Basics with Babish.md",
-    "Sous Vide",
-    "Beef/Dinner - Asian Cabbage Stir-Fry.pdf",
-    "Beef/Steak - Filet, NY Strip, & Flank.md",
-    "Sides",
-    "Beef",
-    "BBQ/Pastrami.md",
-    "Mexican/Tacos de Bistec a la Plancha.md",
-    "BBQ",
-    "Mexican/Fish Tacos.md",
-    "Chicken/Japanese Rice Bowl.md",
-    "Mexican",
-    "Chicken/Chicken Wings.md",
-    "Chicken/Dinner - Lemon Chicken & Spaghetti Squash Recipe by Tasty.pdf",
-    "Baking/The 5 minute baguette.md",
-    "Chicken",
-    "Welcome.md",
+    "Sides/How to Make Chile Crunch.md",
+    "Sides/Don't Buy French Fries Anymore.md",
     "Noodles/Stir-Fried Garlic Egg Ramen.md",
-    "Baking/Pizza Dough.md",
-    "Noodles/Fried Killer Spaghetti.md",
-    "Noodles/15 Minute Chili Garlic Noodles.md",
     "Noodles/Peanut Butter and Chili Udon Noodles.md",
-    "Baking/No knead bread.md",
     "Noodles/Homemade Ramen Cup Noodles.md",
-    "Mischen Sie einfach 3 Eier und Thunfisch in Dosen! Dieses Gericht wird jeden sofort beeindrucken!.md",
     "Noodles/Homemade Cup Noodles.md",
     "Noodles/Gochujang Garlic Noodles.md",
+    "Noodles/15 Minute Chili Garlic Noodles.md",
+    "Noodles/Fried Killer Spaghetti.md",
+    "Mexican/Tacos de Bistec a la Plancha.md",
+    "Mexican/Fish Tacos.md",
+    "Beef/Asian Cabbage Stir-Fry.pdf",
+    "Chicken/Lemon Chicken & Spaghetti Squash.pdf",
+    "Chicken/Japanese Rice Bowl.md",
+    "Chicken/Chicken Wings.md",
+    "Beef/Steak - Filet, NY Strip, & Flank.md",
+    "BBQ/Pastrami.md",
+    "Baking/The 5 minute baguette.md",
+    "Baking/Pizza Dough.md",
+    "Baking/No knead bread.md",
     "Baking/French Baguettes.md",
-    "Noodles",
     "Baking/Dutch Oven Bread.md",
     "Baking/Crumpets.md",
     "Baking/1 Dough 3 Loaves.md",
+    "Templates/Recipe.md",
+    "Incoming/Incoming Recipes.md",
+    "Sous Vide",
+    "Sides",
+    "Beef",
+    "BBQ",
+    "Mexican",
+    "Chicken",
+    "Noodles",
     "Baking"
   ]
 }

@@ -1,5 +1,7 @@
 ---
-tags: [potatoes, snacks, airfryer]
+tags:
+  - potatoes
+  - airfryer
 title: Don't Buy French Fries Anymore!!! NEW Japanese Hack Taking Is Over the World!
 link: https://www.youtube.com/watch?v=ybdPveqWOQU
 channel: Webspoon World - @WebspoonWorld

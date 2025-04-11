@@ -1,5 +1,8 @@
 ---
-tags: [noodles, peanut butter, chili]
+tags:
+  - noodles
+  - chili
+  - quick
 title: Have peanut butter?  Try these Noodles!
 link: https://www.youtube.com/watch?v=1uOLXNgZYqg
 channel: Yeung Man Cooking - @YEUNGMANCOOKING

@@ -1,5 +1,7 @@
 ---
-tags: [bread, baking, homemade]
+tags:
+  - bread
+  - baking
 title: 1 Dough 3 Loaves 2.0 (I Made My Best Bread Recipe Even Easier)
 link: https://www.youtube.com/watch?v=HdoP33KPYtY
 channel: Brian Lagerstrom  - @BrianLagerstrom

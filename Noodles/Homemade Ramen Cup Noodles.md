@@ -1,5 +1,9 @@
 ---
-tags: [noodles, meal prep, healthy]
+tags:
+  - noodles
+  - soup
+  - lunch
+  - quick
 title: HOMEMADE CUP NOODLES » 3 Easy & Healthy Recipes for Homemade Ramen Meal Prep
 link: https://www.youtube.com/watch?v=DOvP16A_bAA
 channel: Toasty Apron - @toastyapron

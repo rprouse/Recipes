@@ -1,5 +1,9 @@
 ---
-tags: [wings, appetizers, grilled]
+tags:
+  - wings
+  - appetizers
+  - grilled
+  - chicken
 title: How to Make the Best Wings at Home | Basics with Babish
 link: https://www.youtube.com/watch?v=mXtKxjyfRFU
 channel: Babish Culinary Universe - @babishculinaryuniverse

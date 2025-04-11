@@ -1,80 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Recipe",
-      "path": "Templates/Recipe.md"
-    },
-    {
-      "basename": "Don't Buy French Fries Anymore",
-      "path": "Sides/Don't Buy French Fries Anymore.md"
-    },
-    {
-      "basename": "Incoming Recipes",
-      "path": "Incoming/Incoming Recipes.md"
+      "basename": "Readme",
+      "path": "Readme.md"
     },
     {
       "basename": "Sous Vide Basics with Babish",
       "path": "Sous Vide/Sous Vide Basics with Babish.md"
     },
     {
-      "basename": "Dinner - Asian Cabbage Stir-Fry",
-      "path": "Beef/Dinner - Asian Cabbage Stir-Fry.pdf"
+      "basename": "How to Make Chile Crunch",
+      "path": "Sides/How to Make Chile Crunch.md"
     },
     {
-      "basename": "Steak - Filet, NY Strip, & Flank",
-      "path": "Beef/Steak - Filet, NY Strip, & Flank.md"
-    },
-    {
-      "basename": "Pastrami",
-      "path": "BBQ/Pastrami.md"
-    },
-    {
-      "basename": "Tacos de Bistec a la Plancha",
-      "path": "Mexican/Tacos de Bistec a la Plancha.md"
-    },
-    {
-      "basename": "Fish Tacos",
-      "path": "Mexican/Fish Tacos.md"
-    },
-    {
-      "basename": "Japanese Rice Bowl",
-      "path": "Chicken/Japanese Rice Bowl.md"
-    },
-    {
-      "basename": "Chicken Wings",
-      "path": "Chicken/Chicken Wings.md"
-    },
-    {
-      "basename": "Dinner - Lemon Chicken & Spaghetti Squash Recipe by Tasty",
-      "path": "Chicken/Dinner - Lemon Chicken & Spaghetti Squash Recipe by Tasty.pdf"
-    },
-    {
-      "basename": "The 5 minute baguette",
-      "path": "Baking/The 5 minute baguette.md"
+      "basename": "Don't Buy French Fries Anymore",
+      "path": "Sides/Don't Buy French Fries Anymore.md"
     },
     {
       "basename": "Stir-Fried Garlic Egg Ramen",
       "path": "Noodles/Stir-Fried Garlic Egg Ramen.md"
     },
     {
-      "basename": "Pizza Dough",
-      "path": "Baking/Pizza Dough.md"
-    },
-    {
-      "basename": "Fried Killer Spaghetti",
-      "path": "Noodles/Fried Killer Spaghetti.md"
-    },
-    {
-      "basename": "15 Minute Chili Garlic Noodles",
-      "path": "Noodles/15 Minute Chili Garlic Noodles.md"
-    },
-    {
       "basename": "Peanut Butter and Chili Udon Noodles",
       "path": "Noodles/Peanut Butter and Chili Udon Noodles.md"
-    },
-    {
-      "basename": "No knead bread",
-      "path": "Baking/No knead bread.md"
     },
     {
       "basename": "Homemade Ramen Cup Noodles",
@@ -87,6 +35,58 @@
     {
       "basename": "Gochujang Garlic Noodles",
       "path": "Noodles/Gochujang Garlic Noodles.md"
+    },
+    {
+      "basename": "15 Minute Chili Garlic Noodles",
+      "path": "Noodles/15 Minute Chili Garlic Noodles.md"
+    },
+    {
+      "basename": "Fried Killer Spaghetti",
+      "path": "Noodles/Fried Killer Spaghetti.md"
+    },
+    {
+      "basename": "Tacos de Bistec a la Plancha",
+      "path": "Mexican/Tacos de Bistec a la Plancha.md"
+    },
+    {
+      "basename": "Fish Tacos",
+      "path": "Mexican/Fish Tacos.md"
+    },
+    {
+      "basename": "Asian Cabbage Stir-Fry",
+      "path": "Beef/Asian Cabbage Stir-Fry.pdf"
+    },
+    {
+      "basename": "Lemon Chicken & Spaghetti Squash",
+      "path": "Chicken/Lemon Chicken & Spaghetti Squash.pdf"
+    },
+    {
+      "basename": "Japanese Rice Bowl",
+      "path": "Chicken/Japanese Rice Bowl.md"
+    },
+    {
+      "basename": "Chicken Wings",
+      "path": "Chicken/Chicken Wings.md"
+    },
+    {
+      "basename": "Steak - Filet, NY Strip, & Flank",
+      "path": "Beef/Steak - Filet, NY Strip, & Flank.md"
+    },
+    {
+      "basename": "Pastrami",
+      "path": "BBQ/Pastrami.md"
+    },
+    {
+      "basename": "The 5 minute baguette",
+      "path": "Baking/The 5 minute baguette.md"
+    },
+    {
+      "basename": "Pizza Dough",
+      "path": "Baking/Pizza Dough.md"
+    },
+    {
+      "basename": "No knead bread",
+      "path": "Baking/No knead bread.md"
     },
     {
       "basename": "French Baguettes",
@@ -103,6 +103,14 @@
     {
       "basename": "1 Dough 3 Loaves",
       "path": "Baking/1 Dough 3 Loaves.md"
+    },
+    {
+      "basename": "Recipe",
+      "path": "Templates/Recipe.md"
+    },
+    {
+      "basename": "Incoming Recipes",
+      "path": "Incoming/Incoming Recipes.md"
     }
   ],
   "omittedPaths": [],

@@ -1,5 +1,7 @@
 ---
-tags: [pizza, dough, basics]
+tags:
+  - pizza
+  - dough
 title: Pizza Dough | Basics with Babish
 link: https://www.youtube.com/watch?v=n1O3uHPCOLA
 channel: Babish Culinary Universe - @babishculinaryuniverse

@@ -1,6 +1,8 @@
 ---
-tags: [pasta, italian, recipes]
-title: Fried Killer Spaghetti: the Italian Recipe That Breaks all Pasta Rules
+tags:
+  - pasta
+  - noodles
+title: Fried Killer Spaghetti the Italian Recipe That Breaks all Pasta Rules
 link: https://www.youtube.com/watch?v=gv3lvKy_WD4
 channel: Claudia Romeo - @claudia-romeo
 date: 2023-07-14T10:49:24-07:00

@@ -1,5 +1,8 @@
 ---
-tags: [rice, japanese, lowcalorie]
+tags:
+  - rice
+  - japanese
+  - chicken
 title: Low Calorie High Protein Japanese Rice Bowl Recipe
 link: https://www.youtube.com/watch?v=seM3nUQjZnI
 channel: CHEF'S LABO | Cook at home like a PRO - @CHEFSLABO

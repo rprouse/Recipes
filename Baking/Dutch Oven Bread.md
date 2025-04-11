@@ -1,5 +1,7 @@
 ---
-tags: [bread, dutch oven, easy]
+tags:
+  - bread
+  - baking
 title: Dutch Oven Bread, An amazing crispy bread recipe.
 link: https://www.youtube.com/watch?v=XBRroV1Anjk
 channel: John Kirkwood - @JohnKirkwoodProFoodHomemade

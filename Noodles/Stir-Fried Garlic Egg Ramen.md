@@ -1,5 +1,8 @@
 ---
-tags: [ramen, stir-fry, quick-meal]
+tags:
+  - noodles
+  - quick
+  - lunch
 title: 이걸 알고 나서는 국물 라면을 안 먹게 됩니다!! 쉽고 맛있습니다!!
 link: https://www.youtube.com/watch?v=D5B8WqlISUM
 channel: 쿠킹하루 Cooking Haru :) - @cooking_haru

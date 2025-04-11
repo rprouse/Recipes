@@ -1,4 +1,10 @@
-# Homemade Cup Noodles
+---
+tags:
+  - noodles
+  - soup
+  - lunch
+  - quick
+---
 
 ### Ingredients
 - 3 broccolini, chopped into small bite-sized pieces

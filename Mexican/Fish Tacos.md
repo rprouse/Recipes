@@ -1,5 +1,7 @@
 ---
-tags: [fish, tacos, summer]
+tags:
+  - fish
+  - tacos
 title: FISH TACOS | The Taco Series Pt 3
 link: https://www.youtube.com/watch?v=yNb6UCOabtY
 channel: Brian Lagerstrom  - @BrianLagerstrom

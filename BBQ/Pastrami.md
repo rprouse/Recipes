@@ -1,5 +1,10 @@
 ---
-tags: [pastrami, smoked, brisket]
+tags:
+  - pastrami
+  - smoked
+  - brisket
+  - bbq
+  - beef
 title: How to Make Pastrami | Cure & Smoke
 link: https://www.youtube.com/watch?v=G3z1kcZfkEE
 channel: allthingsbbq - @allthingsbbq
