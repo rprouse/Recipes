@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bd1bdd257d763186",
+        "id": "ddf58006d8a04ec0",
         "type": "tabs",
         "children": [
           {
-            "id": "c62c5a81fc3146fb",
+            "id": "b8e681d2ad9155ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Baking/Roberta's Pizza Dough.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Roberta's Pizza Dough"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:baked-goods",
+                "query": "tag:#pizza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,15 +182,19 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c62c5a81fc3146fb",
+  "active": "b8e681d2ad9155ab",
   "lastOpenFiles": [
+    "Baking/The 5 minute baguette.md",
+    "Baking/Easy Pizza Dough.md",
+    "Baking/Pizza Dough 3 Ways.md",
+    "Baking/Roberta's Pizza Dough.md",
+    "Baking/French Baguettes.md",
+    "Baking/No knead bread.md",
     "Readme.md",
     "Sous Vide/Sous Vide Basics with Babish.md",
     "Sides/How to Make Chile Crunch.md",
@@ -196,15 +214,9 @@
     "Chicken/Chicken Wings.md",
     "Beef/Steak - Filet, NY Strip, & Flank.md",
     "BBQ/Pastrami.md",
-    "Baking/The 5 minute baguette.md",
-    "Baking/Pizza Dough.md",
-    "Baking/No knead bread.md",
-    "Baking/French Baguettes.md",
     "Baking/Dutch Oven Bread.md",
     "Baking/Crumpets.md",
     "Baking/1 Dough 3 Loaves.md",
-    "Templates/Recipe.md",
-    "Incoming/Incoming Recipes.md",
     "Sous Vide",
     "Sides",
     "Beef",

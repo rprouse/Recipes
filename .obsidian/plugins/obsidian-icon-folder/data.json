@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "❓",
-      "🚰",
-      "🍟",
-      "🐄",
-      "🔥"
+      "🫓",
+      "🥖",
+      "🍞",
+      "🍕",
+      "❓"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,14 @@
   "Beef": "🐄",
   "Sides": "🍟",
   "Sous Vide": "🚰",
-  "Readme.md": "❓"
+  "Readme.md": "❓",
+  "Baking/Easy Pizza Dough.md": "🍕",
+  "Baking/Roberta's Pizza Dough.md": "🍕",
+  "Baking/Pizza Dough 3 Ways.md": "🍕",
+  "Baking/No knead bread.md": "🍞",
+  "Baking/The 5 minute baguette.md": "🥖",
+  "Baking/French Baguettes.md": "🥖",
+  "Baking/Dutch Oven Bread.md": "🍞",
+  "Baking/1 Dough 3 Loaves.md": "🍞",
+  "Baking/Crumpets.md": "🫓"
 }
