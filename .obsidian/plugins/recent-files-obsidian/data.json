@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Incoming Recipes",
+      "path": "Incoming/Incoming Recipes.md"
+    },
+    {
       "basename": "Roberta's Pizza Dough",
       "path": "Baking/Roberta's Pizza Dough.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Recipe",
       "path": "Templates/Recipe.md"
-    },
-    {
-      "basename": "Incoming Recipes",
-      "path": "Incoming/Incoming Recipes.md"
     }
   ],
   "omittedPaths": [],
