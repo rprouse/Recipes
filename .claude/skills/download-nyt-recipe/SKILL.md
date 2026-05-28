@@ -71,7 +71,7 @@ sync. Three things to know about why this snippet is shaped the way it is:
   rendered page, so we grab a slice of `body.innerText` near the word "Tip" and let
   you lift the real sentence(s) out of it afterward.
 - **Images come as several crops.** We return them so you can pick the largest
-  landscape in step 5.
+  landscape in step 4.
 
 ```js
 () => {
@@ -182,7 +182,7 @@ Guidance:
 - Embed the image with `![[attachments/<Recipe Name>.jpg]]` — an Obsidian wikilink embed, consistent with the `obsidian-markdown` skill.
 - Drop the `> [!tip]` callout entirely if there's no tip.
 
-### 7. Report back
+### 6. Report back
 
 Tell the user the note path, the image path, the folder you chose (and why, if it
 was a close call), and any judgment calls — so they can move or retag if they

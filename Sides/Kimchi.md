@@ -1,0 +1,39 @@
+---
+tags: [sides]
+title: Kimchi
+author: Eric Kim
+servings: gallon
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1023416-kimchi
+---
+
+![[attachments/Kimchi.jpg]]
+
+# Kimchi
+
+Sometimes called mak kimchi, this kimchi formula starts with chopped napa cabbage and is as easy as dressing a salad. You just toss everything together in a large bowl. Fish sauce anchors the kimchi sauce with incredible savoriness, while gochugaru, the Korean red-pepper powder, lends a deep crimson sheen and mild, fruity heat. Whatever chopped vegetables you add to the onion-garlic-ginger purée will lend their own natural sweetness as they ferment with the cabbage; scallions and daikon are the most traditional, but carrot works in a pinch and lends great color. We all need a good burp every now and then, so be sure to open the lid of your jar every couple of days to allow the gas from the fermentation process to escape. For the spice-averse, start with ¼ cup of gochugaru, or turn to baek kimchi, which is a fragrant, chile-free version.
+
+### 🛒 Ingredients
+- 1 medium head napa cabbage (2 to 2 ½ pounds), any dirty outer leaves removed
+- 3 tablespoons coarse kosher salt or 5 tablespoons kosher salt (such as Diamond Crystal)
+- 1 medium green apple or Asian pear, peeled, quartered and cored
+- 1 small yellow onion, peeled and quartered
+- 10 garlic cloves, peeled
+- 1 (2-inch) piece fresh ginger, peeled
+- 1 tablespoon granulated sugar
+- ⅓ cup gochugaru (Korean red pepper)
+- ⅓ cup fish sauce
+- 3 scallions, trimmed
+- 1 medium carrot or ½ medium daikon, peeled
+- 1 tablespoon pine nuts (optional)
+
+### 🥣 Steps
+1. Dry-brine the cabbage: Rinse the head of cabbage under cold running water, making sure to get in between the leaves. Trim the root end off the cabbage and cut crosswise into 1-inch-thick slices, carving out any core if it’s especially big and tough. Transfer the cabbage strips to your largest bowl. Sprinkle over the salt and toss with your hands until evenly distributed. Set aside to brine at room temperature until the hard leaves shrink and become wet and limp (but are still crunchy), 1 ½ to 2 hours.
+2. Rinse the cabbage: Fill the bowl with cold running water and swish the leaves around to rinse them of their salt (and to clean off any dirt). Lift them up out of the water and transfer to a colander. Repeat once or twice until the cabbage leaves still taste discernibly salted, but not too salty that you can’t eat it like a salad. Rinse out the bowl.
+3. Make the sauce: To a food processor, add the apple, onion, garlic, ginger, sugar and process until very finely chopped into a fluffy purée. Transfer the sauce to the empty bowl and stir in the gochugaru and fish sauce. Cut the scallions into 1-inch-long pieces and add to the bowl. Cut the carrot into matchsticks: slice crosswise into 1-inch lengths, then thinly slice lengthwise, stack the slices and cut lengthwise again into thin strips. Add to the bowl, along with the pine nuts, if using. Stir to combine. Add the drained cabbage to the sauce and toss with clean hands until well combined.
+4. Transfer the sauced cabbage to a clean ½-gallon jar, using your hands to gently pack it down. (A few air gaps are fine; they’ll fill with liquid over time.) This amount of cabbage should leave about an inch of room at the top of the jar. Top the jar with any remaining sauce left behind in the bowl. Loosely close with a lid (see Tip). Wash your hands and rinse off the outside of the jar at this stage.
+5. Let the jar of kimchi begin fermenting on the kitchen counter at room temperature for 2 to 3 days, “burping” it every 12 hours or so, which just means opening the lid to let out any excess build-up of gas. After this, the cabbage should have released even more of its liquid; it’s OK if the liquid doesn’t completely cover the cabbage at this point, though it may. Refrigerate the kimchi to finish fermenting until it’s sour, 2 to 3 weeks and up to 6 months, at which point it will be very, very sour and should be eaten or turned into jjigae. Check (and taste!) the kimchi every 2 to 3 days both to familiarize yourself with the fermentation process but also to allow gas to escape.
+
+> [!tip] Tip
+> 1/3 cup of soy sauce plus 1 to 2 tablespoons of doenjang or miso can be used as a vegan substitute for the fish sauce. The flavor won’t be the same, but it will still taste wonderful. Many containers work for kimchi, but some are better than others. Glass jars with plastic lids work beautifully, as do stainless steel containers with metal lids that lock into place. Plastic containers with locking plastic lids work just fine for this recipe as well. All of these can be found online or at Korean supermarkets and work well for kimchi since the lids aren’t airtight. Avoid using Mason jars with airtight lids since they can explode as gas builds up during the fermentation process.

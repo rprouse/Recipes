@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🥕",
-      "🍝",
-      "🫓",
-      "🥖",
-      "🍞"
+      "LiSoup",
+      "🍚",
+      "🍟",
+      "🐟",
+      "🥗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,7 +45,7 @@
   "Mexican": "🌮",
   "BBQ": "🔥",
   "Beef": "🐄",
-  "Sides": "🍟",
+  "Sides": "🍚",
   "Sous Vide": "🚰",
   "Readme.md": "❓",
   "Baking/Easy Pizza Dough.md": "🍕",
@@ -60,5 +60,14 @@
   "Baking/Everyday Sourdough.md": "🍞",
   "Pasta": "🍝",
   "Pizza": "🍕",
-  "Vegetarian": "🥕"
+  "Vegetarian": "🥕",
+  "Breakfast": "🥓",
+  "Pork": "🐖",
+  "Salads": "🥗",
+  "Seafood": "🐟",
+  "Snacks": "🍟",
+  "Soups": {
+    "iconName": "LiSoup",
+    "iconColor": "#bc0101"
+  }
 }

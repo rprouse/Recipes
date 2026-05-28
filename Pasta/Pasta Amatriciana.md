@@ -1,0 +1,31 @@
+---
+tags: [pasta]
+title: Pasta Amatriciana
+author: Kay Chun
+servings: 4 servings
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1023018-pasta-amatriciana
+---
+
+![[attachments/Pasta Amatriciana.jpg]]
+
+# Pasta Amatriciana
+
+Pasta amatriciana is a traditional Italian dish that features a sauce of guanciale (salt-cured pork jowl), tomato, pecorino romano and chiles. Some variations include onion and white wine. The final product tastes much more complex than the ingredient list would suggest: This simple pantry meal delivers deep flavors, as the bright, tangy tomato base balances the rich pork, and a mix of dried peppers adds layers of subtle heat. Guanciale can be found in Italian specialty shops or online, but pancetta is a good alternative. Bucatini is a thicker pasta with a hollow center that captures the thick sauce, but spaghetti delivers equally tasty results.
+
+### 🛒 Ingredients
+- 2 tablespoons extra-virgin olive oil
+- 4 ounces guanciale or pancetta, chopped into ¼-inch cubes (¾ cup)
+- 1 (28-ounce) can whole tomatoes, crushed with your hands in a bowl
+- ⅛ teaspoon black pepper, plus more to taste
+- ⅛ teaspoon red-pepper flakes
+- Kosher salt (such as Diamond Crystal)
+- 1 pound dried bucatini
+- ¾ cup grated Pecorino Romano, plus more for garnish
+
+### 🥣 Steps
+1. In a large (12-inch) skillet, heat olive oil over medium. Add guanciale and cook, stirring occasionally, until golden, about 5 minutes. To the skillet, add tomatoes, black pepper and red-pepper flakes, and season with salt. Cook, stirring occasionally and smashing tomatoes with the back of a wooden spoon, until tomatoes have broken down and sauce is thickened, about 15 minutes.
+2. Meanwhile, in a large pot of salted water, cook pasta according to package directions until just shy of al dente. Reserve 1 cup of the pasta cooking water and drain.
+3. Add pasta, tomato sauce and ½ cup of pasta cooking water back to the large pasta pot and stir vigorously over medium-high heat until pasta is evenly coated in the sauce, about 1 minute. (Add more pasta water if sauce is dry.) Remove from heat, stir in the cheese and season to taste with salt.
+4. Divide pasta among bowls and garnish with more cheese and black pepper.

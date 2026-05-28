@@ -1,0 +1,185 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Home" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img [ref=e8]
+        - generic [ref=e10]:
+          - search [ref=e12]:
+            - generic [ref=e13]:
+              - generic [ref=e14]:
+                - img [ref=e15]
+                - searchbox "What would you like to cook?" [ref=e17]
+              - button "Clear Search" [ref=e18] [cursor=pointer]:
+                - img [ref=e20]
+          - navigation "Account"
+      - navigation "Main" [ref=e24]:
+        - button "What to Cook" [ref=e26] [cursor=pointer]
+        - button "Recipes" [ref=e28] [cursor=pointer]
+        - button "Ingredients" [ref=e30] [cursor=pointer]
+        - button "Occasions" [ref=e32] [cursor=pointer]
+        - button "Articles" [ref=e34] [cursor=pointer]
+        - button "About" [ref=e36] [cursor=pointer]
+    - main [ref=e38]:
+      - generic [ref=e40]:
+        - navigation [ref=e45]:
+          - generic [ref=e46]:
+            - link "Saved Recipes" [ref=e47] [cursor=pointer]:
+              - /url: /recipe-box/all
+              - img [ref=e49]
+              - paragraph [ref=e52]: Saved Recipes
+            - link "Cooked Recipes" [ref=e53] [cursor=pointer]:
+              - /url: /recipe-box/cooked-recipes
+              - img [ref=e55]
+              - paragraph [ref=e59]: Cooked Recipes
+            - link "Recently Viewed" [ref=e60] [cursor=pointer]:
+              - /url: /recipe-box/recently-viewed
+              - img [ref=e62]
+              - paragraph [ref=e67]: Recently Viewed
+            - button "Grocery List" [ref=e68] [cursor=pointer]:
+              - img [ref=e70]
+              - paragraph [ref=e73]: Grocery List
+          - generic [ref=e74]:
+            - paragraph [ref=e75]: Your Folders
+            - button "New Folder" [ref=e77] [cursor=pointer]:
+              - img [ref=e79]
+              - paragraph [ref=e82]: New Folder
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - generic [ref=e87]:
+                - heading "Saved Recipes" [level=2] [ref=e89]
+                - paragraph [ref=e90]
+              - search [ref=e91]:
+                - generic [ref=e92]:
+                  - img [ref=e93]
+                  - searchbox "Search your saved recipes" [ref=e95]
+                  - button "Clear Search Query" [ref=e96] [cursor=pointer]
+            - button "Filter" [ref=e100] [cursor=pointer]:
+              - img [ref=e101]
+              - generic [ref=e106]: Filters
+          - paragraph [ref=e110]: Loading recipes...
+    - contentinfo [ref=e111]:
+      - generic [ref=e113]:
+        - generic [ref=e115]:
+          - heading "Get Our Newsletter" [level=3] [ref=e116]
+          - paragraph [ref=e117]: Get recipes, tips and NYT special offers delivered straight to your inbox.
+          - paragraph [ref=e118]:
+            - text: Opt out or
+            - link "contact us" [ref=e119] [cursor=pointer]:
+              - /url: https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us
+            - text: anytime. See our
+            - link "Privacy Policy" [ref=e120] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/privacy-policy
+            - text: .
+        - generic [ref=e121]:
+          - heading "Follow Us" [level=3] [ref=e122]
+          - generic [ref=e123]:
+            - link "Visit NYT Cooking on Instagram" [ref=e124] [cursor=pointer]:
+              - /url: https://www.instagram.com/nytcooking/
+              - img [ref=e125]
+            - link "Visit NYT Cooking on Facebook" [ref=e129] [cursor=pointer]:
+              - /url: https://www.facebook.com/nytcooking
+              - img [ref=e130]
+            - link "Visit NYT Cooking on YouTube" [ref=e132] [cursor=pointer]:
+              - /url: https://www.youtube.com/nytcooking
+              - img [ref=e133]
+            - link "Visit NYT Cooking on TikTok" [ref=e135] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nytcooking
+              - img [ref=e136]
+            - link "Visit NYT Cooking on Pinterest" [ref=e139] [cursor=pointer]:
+              - /url: https://www.pinterest.com/nytcooking/
+              - img [ref=e140]
+        - generic [ref=e143]:
+          - link "Download the iOS NYT Cooking app" [ref=e144] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/nyt-cooking/id911422904
+            - img [ref=e145]
+          - link "Download the Android NYT Cooking app" [ref=e150] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.nytimes.cooking
+            - img [ref=e151]
+      - generic [ref=e160]:
+        - generic [ref=e162]:
+          - heading "About Us" [level=3] [ref=e163]
+          - paragraph [ref=e164]:
+            - text: New York Times Cooking offers subscribers recipes, advice and inspiration for better everyday cooking. From easy weeknight dinners to holiday meals, our recipes have been tested and perfected to meet the needs of home cooks of all levels.
+            - link "Subscribe now" [ref=e165] [cursor=pointer]:
+              - /url: https://www.nytimes.com/subscriptions/Multiproduct/lp8R3WU.html?campaignId=79RLU
+            - text: for full access.
+        - generic [ref=e166]:
+          - generic [ref=e167]:
+            - generic [ref=e168]:
+              - heading "Learn More" [level=3] [ref=e169]
+              - list [ref=e170]:
+                - listitem [ref=e171]:
+                  - link "About Us" [ref=e172] [cursor=pointer]:
+                    - /url: /about-us
+                - listitem [ref=e173]:
+                  - link "FAQ" [ref=e174] [cursor=pointer]:
+                    - /url: https://help.nytimes.com/hc/en-us/sections/360011047512
+                - listitem [ref=e175]:
+                  - link "NYTimes.com/food" [ref=e176] [cursor=pointer]:
+                    - /url: https://www.nytimes.com/section/food
+            - generic [ref=e177]:
+              - heading "Shop" [level=3] [ref=e178]
+              - list [ref=e179]:
+                - listitem [ref=e180]:
+                  - link "Gift Subscription" [ref=e181] [cursor=pointer]:
+                    - /url: https://www.nytimes.com/subscriptions/Multiproduct/cooking_gift.html?campaignId=7HYRF
+                - listitem [ref=e182]:
+                  - link "Merchandise" [ref=e183] [cursor=pointer]:
+                    - /url: https://store.nytimes.com/collections/cooking-collection?utm_source=nyt_cooking&utm_medium=referral&utm_campaign=cooking_collection&utm_content=footer
+                - listitem [ref=e184]:
+                  - link "Send Us Feedback" [ref=e185] [cursor=pointer]:
+                    - /url: mailto:cookingcare@nytimes.com
+          - generic [ref=e187]:
+            - heading "Recipes" [level=3] [ref=e188]
+            - list [ref=e189]:
+              - listitem [ref=e190]:
+                - link "From Our Newsletters" [ref=e191] [cursor=pointer]:
+                  - /url: /topics/what-to-cook-this-week
+              - listitem [ref=e192]:
+                - link "Weeknight" [ref=e193] [cursor=pointer]:
+                  - /url: /topics/easy-weeknight
+              - listitem [ref=e194]:
+                - link "Pasta" [ref=e195] [cursor=pointer]:
+                  - /url: /topics/our-best-pasta-recipes
+              - listitem [ref=e196]:
+                - link "Dinner" [ref=e197] [cursor=pointer]:
+                  - /url: /topics/dinner-recipes
+              - listitem [ref=e198]:
+                - link "Healthy" [ref=e199] [cursor=pointer]:
+                  - /url: /topics/healthy-recipes
+              - listitem [ref=e200]:
+                - link "Vegetarian" [ref=e201] [cursor=pointer]:
+                  - /url: /topics/vegetarian
+              - listitem [ref=e202]:
+                - link "Vegan" [ref=e203] [cursor=pointer]:
+                  - /url: /topics/vegan-recipes
+              - listitem [ref=e204]:
+                - link "Thanksgiving" [ref=e205] [cursor=pointer]:
+                  - /url: /thanksgiving
+              - listitem [ref=e206]:
+                - link "Christmas" [ref=e207] [cursor=pointer]:
+                  - /url: /christmas
+        - list [ref=e210]:
+          - listitem [ref=e211]:
+            - link "© 2026 The New York Times Company" [ref=e212] [cursor=pointer]:
+              - /url: http://www.nytco.com
+              - text: ©
+              - generic [ref=e214]: 2026 The New York Times Company
+          - listitem [ref=e215]:
+            - link "Terms of Service" [ref=e216] [cursor=pointer]:
+              - /url: https://help.nytimes.com/115014893428-Terms-of-Service/
+          - listitem [ref=e217]:
+            - link "Privacy Policy" [ref=e218] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/privacy-policy
+          - listitem [ref=e219]:
+            - link "Cookie Policy" [ref=e220] [cursor=pointer]:
+              - /url: https://nytimes.com/cookie-policy
+          - listitem [ref=e221]:
+            - link "Your Privacy Choices" [ref=e222] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/your-privacy-choices
+              - img [ref=e223]
+              - text: Your Privacy Choices
+  - alert [ref=e226]
