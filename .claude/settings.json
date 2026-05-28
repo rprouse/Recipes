@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "Bash(npx playwright *)",
+      "Bash(npx @playwright/mcp@latest install-browser firefox)",
+      "mcp__plugin_playwright_playwright__browser_snapshot",
+      "mcp__plugin_playwright_playwright__browser_evaluate",
+      "Bash(mkdir -p attachments)",
+      "Bash(ls -la .claude/)",
+      "Bash(ls .claude/skills/)",
+      "Bash(grep -oE \"[0-9]+$\")",
+      "mcp__plugin_playwright_playwright__browser_network_requests",
+    ]
+  }
+}
