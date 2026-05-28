@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bed23563389ed135",
+        "id": "7a6bd175997e6ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "af4f74a59b9b8df0",
+            "id": "87daf2b45b4a7bfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Incoming/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By"
             }
           }
         ]
@@ -84,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 469.5
   },
   "right": {
     "id": "1fdd5cdc487ee9cc",
@@ -174,43 +188,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2247007034cf037c",
+  "active": "87daf2b45b4a7bfc",
   "lastOpenFiles": [
-    "Baking/Roberta's Pizza Dough.md",
-    "Baking/The 5 minute baguette.md",
-    "Baking/Easy Pizza Dough.md",
-    "Baking/Pizza Dough 3 Ways.md",
-    "Baking/French Baguettes.md",
-    "Baking/No knead bread.md",
+    "Incoming/Incoming Recipes.md",
+    "Incoming/Very Good Chili Crisp Recipe.md",
     "Readme.md",
+    "Vegetarian",
+    "Vegetarian/Rice & Beans are elite, especially in times of need.md",
+    "Pizza",
+    "Incoming/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
+    "Pasta/The only White Sauce Pasta Recipe you'll ever need!.md",
+    "Templates/Recipe.md",
+    "Pizza/10 Pizza Rules That Separate Amateurs from Pros.md",
+    "Pasta",
+    "Pasta/5 Restaurant Quality Pasta Sauces in 15 Minutes.md",
+    "Mexican/Tacos de Bistec a la Plancha.md",
+    "Mexican/Fish Tacos.md",
+    "Baking/Roberta's Pizza Dough.md",
+    "Baking/Pizza Dough 3 Ways.md",
+    "Baking/Everyday Sourdough.md",
+    "Baking/Crumpets.md",
+    "Baking/Easy Pizza Dough.md",
+    "Baking/French Baguettes.md",
+    "Noodles/Tomato Juice Macaroni and Cheese.md",
+    "Baking/The 5 minute baguette.md",
+    "Baking/No knead bread.md",
     "Sous Vide/Sous Vide Basics with Babish.md",
     "Sides/How to Make Chile Crunch.md",
     "Sides/Don't Buy French Fries Anymore.md",
     "Noodles/Stir-Fried Garlic Egg Ramen.md",
     "Noodles/Peanut Butter and Chili Udon Noodles.md",
-    "Noodles/Homemade Ramen Cup Noodles.md",
-    "Noodles/Homemade Cup Noodles.md",
-    "Noodles/Gochujang Garlic Noodles.md",
-    "Noodles/15 Minute Chili Garlic Noodles.md",
-    "Noodles/Fried Killer Spaghetti.md",
-    "Mexican/Tacos de Bistec a la Plancha.md",
-    "Mexican/Fish Tacos.md",
     "Beef/Asian Cabbage Stir-Fry.pdf",
     "Chicken/Lemon Chicken & Spaghetti Squash.pdf",
-    "Chicken/Japanese Rice Bowl.md",
-    "Chicken/Chicken Wings.md",
-    "Beef/Steak - Filet, NY Strip, & Flank.md",
-    "BBQ/Pastrami.md",
-    "Baking/Dutch Oven Bread.md",
-    "Baking/Crumpets.md",
-    "Baking/1 Dough 3 Loaves.md",
     "Sous Vide",
     "Sides",
     "Beef",
     "BBQ",
-    "Mexican",
-    "Chicken",
-    "Noodles",
-    "Baking"
+    "Mexican"
   ]
 }

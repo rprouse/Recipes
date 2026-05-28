@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥕",
+      "🍝",
       "🫓",
       "🥖",
-      "🍞",
-      "🍕",
-      "❓"
+      "🍞"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,9 @@
   "Baking/French Baguettes.md": "🥖",
   "Baking/Dutch Oven Bread.md": "🍞",
   "Baking/1 Dough 3 Loaves.md": "🍞",
-  "Baking/Crumpets.md": "🫓"
+  "Baking/Crumpets.md": "🫓",
+  "Baking/Everyday Sourdough.md": "🍞",
+  "Pasta": "🍝",
+  "Pizza": "🍕",
+  "Vegetarian": "🥕"
 }
