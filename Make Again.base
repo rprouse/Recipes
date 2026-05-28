@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.hasTag("make-again")
+    - file.ext == "md"
+properties:
+  file.folder:
+    displayName: Category
+  author:
+    displayName: Author
+  servings:
+    displayName: Servings
+  time:
+    displayName: Time
+views:
+  - type: cards
+    name: Make Again
+    order:
+      - file.name
+      - time
+      - tags
+      - servings
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: All
+    order:
+      - file.name
+      - file.folder
+      - author
+      - servings
+      - time
+      - date
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC

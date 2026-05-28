@@ -11,24 +11,13 @@
             "id": "a070dbf633d87ba1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Make Again.base",
+                "viewName": "Make Again"
               },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "icon": "lucide-layout-grid",
+              "title": "Make Again"
             }
           }
         ]
@@ -185,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2247007034cf037c",
+  "active": "a070dbf633d87ba1",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Make Again.base",
     "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md.tmp.112372.0a7a70a32dd7",
     "Sides/Very Good Chili Crisp Recipe.md",
     "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
-    "CLAUDE.md",
     "CLAUDE.md.tmp.112372.b9c498144180",
     "Chicken/Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill.md",
     "Sides/Spicy Stir-Fried Cabbage.md",
@@ -242,8 +233,6 @@
     "Desserts/attachments",
     "Desserts",
     "Drinks/attachments",
-    "Drinks",
-    "Soups/attachments",
-    "Soups"
+    "Drinks"
   ]
 }
