@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "966f618dc8e69c3b",
+        "id": "2053d02af809ac38",
         "type": "tabs",
         "children": [
           {
-            "id": "d6e1e8423d400055",
+            "id": "a070dbf633d87ba1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Breakfast/Cottage Cheese Egg Bites.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cottage Cheese Egg Bites"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pizza",
+                "query": "tag:sheet-pan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 304.5
   },
   "right": {
     "id": "1fdd5cdc487ee9cc",
@@ -114,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Breakfast/Cottage Cheese Egg Bites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cottage Cheese Egg Bites"
+              "title": "Backlinks"
             }
           },
           {
@@ -170,13 +155,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "64125dcb463092aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,53 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6e1e8423d400055",
+  "active": "64125dcb463092aa",
   "lastOpenFiles": [
-    "Breakfast/Breakfast Bars With Oats and Coconut.md",
-    "Breakfast/Baked Oatmeal Breakfast Bars.md",
-    "Baking/Chile Crisp Cheese Crackers.md",
-    "Baking/Cornbread.md",
-    "Soups/Bo Kho.md",
-    "Soups/attachments/Bo Kho.jpg",
-    "Pasta/Pasta Amatriciana.md",
-    "Pasta/attachments/Pasta Amatriciana.jpg",
-    "Chicken/Kimchi Chicken Lettuce Wraps.md",
-    "Chicken/attachments/Kimchi Chicken Lettuce Wraps.jpg",
-    "Chicken/Miso-Maple Sheet-Pan Chicken With Brussels Sprouts.md",
-    "Chicken/attachments/Miso-Maple Sheet-Pan Chicken With Brussels Sprouts.jpg",
-    "Sides/Kimchi.md",
-    "Sides/attachments/Kimchi.jpg",
-    "Pasta/Slow Cooker Chicken Diavolo With Orzo.md",
-    "Pasta/attachments/Slow Cooker Chicken Diavolo With Orzo.jpg",
-    "Beef/Sheet-Pan Charred Meat Pitas.md",
-    "Beef/attachments/Sheet-Pan Charred Meat Pitas.jpg",
-    "Pasta/One-Pot Cheddar Tomato Mac.md",
-    "Pasta/attachments/One-Pot Cheddar Tomato Mac.jpg",
-    "Chicken/Butter Chicken.md",
-    "Chicken/attachments/Butter Chicken.jpg",
-    "Pork/Pork and Garlic-Chive Potstickers.md",
-    "Pork/attachments/Pork and Garlic-Chive Potstickers.jpg",
-    "Chicken/Spicy Marmalade Chicken and Sweet Potatoes.md",
-    "Pasta/Tomato-Braised Bacon Pasta.md",
-    "Seafood/Salmon Gyro Bowls.md",
-    "Soups/Stewed Greens and Chickpeas With Toasted Garlic and Lemon.md",
-    "Beef/Japanese Ground Beef Curry.md",
-    "Sides/Japanese Curry Brick.md",
-    "Sides/Silken Tofu-Miso Dressing.md",
-    "Chicken/Sheet-Pan Chicken With Black Beans and Squash.md",
-    "Soups/Spicy Pork Noodle Soup.md",
+    "Chicken/Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill.md",
+    "Sides/Spicy Stir-Fried Cabbage.md",
+    "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
+    "Salads/Pan-Roasted Corn and Tomato Salad.md",
+    "Salads/attachments/Pan-Roasted Corn and Tomato Salad.jpg",
+    "Soups/Kale Soup With Potatoes and Sausage.md",
+    "Soups/attachments/Kale Soup With Potatoes and Sausage.jpg",
+    "Pasta/Baked Alfredo Pasta With Broccoli Rabe and Lemon.md",
+    "Pasta/attachments/Baked Alfredo Pasta With Broccoli Rabe and Lemon.jpg",
+    "Soups/Texas-Style Chili.md",
+    "Soups/attachments/Texas-Style Chili.jpg",
+    "Seafood/Spicy Slow-Roasted Salmon With Cucumbers and Feta.md",
+    "Seafood/attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg",
+    "Seafood/Salmon With Sesame and Herbs.md",
+    "Seafood/attachments/Salmon With Sesame and Herbs.jpg",
+    "Seafood/Salmon en Papillote (Salmon in Parchment).md",
+    "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg",
+    "Seafood/Provençal Salmon With Fennel, Rosemary and Orange Zest.md",
+    "Seafood/attachments/Provençal Salmon With Fennel, Rosemary and Orange Zest.jpg",
+    "Soups/Mushroom Soup.md",
+    "Soups/attachments/Mushroom Soup.jpg",
+    "Chicken/Stir-Fries With Fresh Vegetables.md",
+    "Pasta/Cheesy Baked Pasta With Sausage and Ricotta.md",
+    "Pasta/Shrimp Scampi With Orzo.md",
+    "Chicken/Maangchi’s Cheese Buldak (Fire Chicken).md",
+    "Breakfast/Shakshuka With Feta.md",
+    "Sides/Grilled Broccoli With Soy Sauce, Maple Syrup and Balsamic Vinegar.md",
+    "Salads/Kale Salad With Cranberries, Pecans and Blue Cheese.md",
+    "Soups/Speedy Fish Chowder.md",
+    "Mexican/New Mexican Hot Dish.md",
+    "Chicken/Three-Cup Chicken.md",
+    "Soups/Texas Chili.md",
+    "Chicken/Spicy Roasted Chicken Thighs.md",
+    "Chicken/Crispy Frico Chicken Breasts With Mushrooms and Thyme.md",
+    "Chicken/Baked Chicken With Crispy Parmesan and Tomatoes.md",
+    "Chicken/Chicken Breasts With Tomatoes and Capers.md",
+    "BBQ/attachments",
+    "Sous Vide/attachments",
+    "Pizza/attachments",
+    "Desserts/attachments",
+    "Desserts",
+    "Drinks/attachments",
+    "Drinks",
     "Soups/attachments",
     "Soups",
-    "Chicken/Chicken With Artichokes and Lemon.md",
-    "Pasta/Pasta Alla Gricia.md",
-    "Vegetarian/Bean and Vegetable Japanese Curry.md",
-    "Pork/attachments",
-    "Pork",
-    "Mexican/attachments",
-    "Chicken/attachments",
-    "Salads/attachments",
-    "Salads",
-    "Seafood/attachments",
-    "Seafood"
+    "Pork/attachments"
   ]
 }

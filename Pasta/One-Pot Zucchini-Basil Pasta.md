@@ -1,0 +1,31 @@
+---
+tags: [pasta, easy, fall, quick, summer, weeknight]
+title: One-Pot Zucchini-Basil Pasta
+author: Alexa Weibel
+servings: 4 servings
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1020395-one-pot-zucchini-basil-pasta
+---
+
+![[attachments/One-Pot Zucchini-Basil Pasta.jpg]]
+
+# One-Pot Zucchini-Basil Pasta
+
+This no-colander-necessary, one-pot pasta method isn’t a gimmick: Cooking the noodles in just enough seasoned stock means they’re done in the same amount of time it takes the liquid to reduce into a concentrated, extra flavorful sauce. Mascarpone makes it silky, though crème fraîche or even softened cream cheese would be solid substitutes. While the pasta cooks, make a quick gremolata of chopped parsley, salted almonds and basil, which adds brightness and texture to the finished dish. Though this pasta comes together quickly, it requires more attention than some: Be sure to stir frequently so the noodles cook evenly, and add a splash of water toward the end of cooking, as needed, so they stay saucy.
+
+### 🛒 Ingredients
+- 2 ¾ cups vegetable stock
+- 12 ounces medium pasta shells
+- 2 medium zucchini (about 14 ounces total), trimmed and cut into ½-inch cubes
+- 4 ounces mascarpone, crème fraîche or softened cream cheese
+- 1 large garlic clove, finely chopped
+- ⅓ packed cup thinly sliced basil
+- Kosher salt and black pepper
+- 3 tablespoons chopped roasted salted almonds
+- 3 tablespoons chopped Italian parsley
+
+### 🥣 Steps
+1. In a large, deep 12-inch skillet, bring stock to a boil over high heat. Once stock boils, stir in pasta, zucchini, mascarpone, garlic and half the basil; season generously with salt and pepper and reduce the heat to medium-high. Cook, stirring frequently, until pasta is tender and liquid is reduced until thickened and creamy, 12 to 13 minutes, adding a splash of water during the last few minutes of cooking if needed to moisten. Season to taste with salt and pepper.
+2. Meanwhile, prepare the gremolata: Chop almonds and parsley with remaining basil until finely chopped and combined; season with salt and pepper.
+3. Divide pasta among shallow bowls. Sprinkle with gremolata and serve immediately.

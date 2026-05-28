@@ -1,0 +1,34 @@
+---
+tags: [salads, easy, summer, weeknight]
+title: Spicy Watermelon Salad With Pineapple and Lime
+author: Alexa Weibel
+servings: 6 to 8 servings
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1020374-spicy-watermelon-salad-with-pineapple-and-lime
+---
+
+![[attachments/Spicy Watermelon Salad With Pineapple and Lime.jpg]]
+
+# Spicy Watermelon Salad With Pineapple and Lime
+
+Refreshing, sweet and spicy, this salad is the edible equivalent of a crisp beer on a hot summer’s day. It pushes the watermelon-feta-mint combination to new heights with a Mexican-inspired flavor profile of lime, jalapeño and cilantro. It’s also easy to prepare, requiring little more than a knife, a bowl and a whisk. Enjoy it as soon as it’s assembled, as the salty dressing draws the juice out of the fruit fairly quickly and the salad can lose its fresh crunch. A sprinkle of Tajín, a chile-lime Mexican spice blend, is optional, but adds a touch of smoke.
+
+### 🛒 Ingredients
+- 3 tablespoons extra-virgin olive oil
+- 2 tablespoons apple cider vinegar
+- 1 teaspoon fresh lime zest, plus 2 tablespoons juice
+- 1 tablespoon honey
+- 1 jalapeño, thinly sliced
+- Kosher salt and black pepper
+- ¼ cup finely chopped red onion
+- 1 ¼ pounds fresh watermelon, chilled
+- 1 ¼ pounds fresh pineapple, chilled
+- 4 ounces feta, crumbled (about ⅔ cup)
+- 1 packed cup small cilantro sprigs, or ⅓ packed cup torn fresh mint
+- Tajín, for sprinkling (optional)
+
+### 🥣 Steps
+1. In a large bowl, stir together oil, vinegar, lime zest and juice, honey and jalapeño. Season generously with salt and pepper. Add the red onion and toss to coat. Let marinate, 10 minutes.
+2. While the onions marinate, chop the watermelon and the pineapple into 1-inch cubes, discarding any seeds. Add watermelon and pineapple to the vinaigrette and toss to coat; season to taste. Refrigerate until serving.
+3. When ready to serve, add feta and herbs to salad and toss to coat. Sprinkle with Tajin, if using, and serve immediately.

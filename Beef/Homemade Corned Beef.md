@@ -1,0 +1,31 @@
+---
+tags: [beef, winter]
+title: Homemade Corned Beef
+author: Sam Sifton
+servings: 8 to 12 servings
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1018642-homemade-corned-beef
+---
+
+![[attachments/Homemade Corned Beef.jpg]]
+
+# Homemade Corned Beef
+
+“The reason to corn your own beef is flavor,” said Michael Ruhlman, a chef and passionate advocate of the process. He wrote about it with Brian Polcyn in their book, “Charcuterie: The Craft of Salting, Smoking and Curing.” “You can achieve tastes that aren’t available in the mass produced versions,” he said. Feel free to experiment with the “pickling spices” called for below — you can customize them, if you like, from a base of coriander seeds, black peppercorns and garlic — but please do not omit the curing salt, which gives the meat immense flavor in addition to a reddish hue. (It’s perfectly safe, Mr. Ruhlman exhorts: “It’s not a chemical additive. Most of the nitrates we eat come in vegetables!”) Finally, if you want a traditional boiled dinner, slide quartered cabbage and some peeled carrots into the braise for the final hour or so of cooking. Or use the meat for Irish tacos.
+
+### 🛒 Ingredients
+- 2 cups coarse kosher salt
+- ½ cup sugar
+- 5 garlic cloves, smashed
+- 5 tablespoons pickling spices
+- 1 tablespoon plus 1 teaspoon pink curing salt (sodium nitrite)
+- 1 4- to 5-pound beef brisket
+- 2 bottles of good beer
+- 2 bottles of good ginger beer
+
+### 🥣 Steps
+1. Brine the brisket: In a medium pot set over high heat, combine about a gallon of water, the salt, the sugar, the garlic, 3 tablespoons pickling spices and the pink curing salt. Stir mixture as it heats until sugar and salt are dissolved, about 1 minute. Transfer liquid to a container large enough for the brine and the brisket, then refrigerate until liquid is cool.
+2. Place brisket in the cooled liquid and weigh the meat down with a plate so it is submerged. Cover container and place in the refrigerator for 5 days, or up to 7 days, turning every day or so.
+3. To cook brisket, remove it from the brine and rinse under cool water. Place in a pot just large enough to hold it and cover with one of the beers and one of the ginger beers. If you need more liquid to cover the meat, add enough of the other beer, and the other ginger beer, to do so. Add remaining 2 tablespoons pickling spices. Bring to a boil over high heat, then turn heat to low so liquid is barely simmering. Cover and let cook until you can easily insert a fork into the meat, about 3 hours, adding water along the way if needed to cover the brisket.
+4. Keep warm until serving, or let cool in the liquid and reheat when ready to eat, up to three or four days. Slice thinly and serve on sandwiches, in Irish tacos (see recipe) or with carrots and cabbage simmered until tender in the cooking liquid.

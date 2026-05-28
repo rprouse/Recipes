@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🍦",
+      "🍹",
       "LiSoup",
       "🍚",
-      "🍟",
-      "🐟",
-      "🥗"
+      "🍟"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -69,5 +69,7 @@
   "Soups": {
     "iconName": "LiSoup",
     "iconColor": "#bc0101"
-  }
+  },
+  "Drinks": "🍹",
+  "Desserts": "🍦"
 }

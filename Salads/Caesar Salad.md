@@ -1,0 +1,38 @@
+---
+tags: [salads]
+title: Caesar Salad
+author: Samin Nosrat
+servings: 6 to 8 servings
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1018732-caesar-salad
+---
+
+![[attachments/Caesar Salad.jpg]]
+
+# Caesar Salad
+
+Making the dressing for Caesar salad is an exercise in the art of layering salty ingredients to build flavor; there are anchovies, Parmesan and Worcestershire sauce, in addition to the salt itself. (There is also garlic, which is pounded with a pinch of salt using a mortar and pestle to make a smooth paste.) Since a delicious balanced dressing depends on working in the right amounts of each of those ingredients — and the other, unsalted elements — refrain from adding the salt crystals until you’ve added the right amount of everything else. This recipe is adapted from "Salt, Fat, Acid, Heat" by Samin Nosrat, and it's absolutely worth making the torn croutons — store-bought croutons can’t compete, and you'll have leftovers for another salad.
+
+### 🛒 Ingredients
+- 1-pound loaf day-old country or sourdough bread
+- ⅓ cup extra-virgin olive oil
+- Salt, to taste
+- 1 egg yolk at room temperature
+- ¾ cup neutral oil, such as grapeseed
+- 3 to 4 tablespoons lemon juice, more if needed for mayonnaise
+- 8 anchovy fillets
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+- 1 teaspoon white wine vinegar
+- 1 3-ounce chunk of Parmesan, finely grated (about 1 cup), plus more for serving
+- ¾ teaspoon Worcestershire sauce
+- Salt and ground black pepper
+- Romaine lettuce, Little Gem lettuce, chicories, raw or blanched kale, shaved brussels sprouts or Belgian endive
+
+### 🥣 Steps
+1. Make the torn croutons: Heat oven to 400 degrees. Remove the crusts from the bread, then cut into inch-thick slices. Cut each slice into inch-wide strips, and tear each strip into inch-size pieces. Toss with olive oil to coat them evenly, then spread pieces out in a single layer on a baking sheet. (Use a second sheet if needed to prevent crowding.) Toast for 18 to 22 minutes, checking them after 8 minutes. Rotate pans, switch their oven positions and use a metal spatula to turn the croutons so they brown evenly. Bake until they’re golden brown and crunchy on the outside, with just a tiny bit of chew on the inside. Season with a light sprinkling of salt if needed. Use immediately; store leftovers in an airtight container for up to 2 days.
+2. Meanwhile, make mayonnaise: Place the egg yolk in a deep, medium metal or ceramic bowl. Dampen a tea towel and roll it up into a long log, then form it into a ring on the counter. Place the bowl inside the ring; this will hold the bowl in place while you whisk. (And if whisking by hand is simply out of the question, use a blender, stand mixer or food processor.)
+3. Use a ladle or bottle with a nozzle to drip in the neutral oil a drop at a time, while whisking the oil into the yolk. Go. Really. Slowly. And don’t stop whisking. Once you’ve added about half the oil, you can start adding a little more oil at once. You want the mayonnaise to be stiff, but if it thickens so much that it’s impossible to whisk, add a teaspoon or so of lemon juice to help thin it out.
+4. Prepare the dressing: Coarsely chop the anchovies and then pound them into a fine paste using a mortar and pestle. The more you break them down, the better the dressing will be.
+5. In a medium bowl, stir together the anchovies, mayonnaise, garlic, lemon juice, vinegar, Parmesan, Worcestershire and pepper. Taste with a leaf of lettuce, then add salt and adjust the acid (the lemon juice and vinegar) as needed, or add a little of each salty ingredient (Worcestershire, anchovies, Parmesan) to the dressing, bit by bit. Adjust the acid, then taste and adjust the salty ingredients until you reach the ideal balance of salt, fat and acid.
+6. Use your hands to toss the greens and torn croutons with an abundant amount of dressing in a large bowl to coat evenly. Garnish with Parmesan and black pepper and serve immediately. Refrigerate leftover dressing, covered, for up to 3 days.

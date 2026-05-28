@@ -1,0 +1,33 @@
+---
+tags: [vegetarian, easy, great-leftovers, quick, weeknight, vegan]
+title: Rosemary White Beans With Frizzled Onions and Tomato
+author: Melissa Clark
+servings: 3 to 4 servings
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1023775-rosemary-white-beans-with-frizzled-onions-and-tomato
+---
+
+![[attachments/Rosemary White Beans With Frizzled Onions and Tomato.jpg]]
+
+# Rosemary White Beans With Frizzled Onions and Tomato
+
+A speedy, pantry-friendly dish, canned white beans braised in olive oil and tomatoes become stewlike and creamy. Pinches of fresh or dried rosemary, chile flakes and lemon zest add complexity to the mix, while a topping of frizzled, browned onions lends sweetness and a chewy-crisp texture. Serve this with toasted country bread drizzled with olive oil, or over a bowl of rice or farro for an easy, satisfying weeknight meal.
+
+### 🛒 Ingredients
+- ½ cup extra-virgin olive oil
+- 1 large white onion, halved and thinly sliced into half moons
+- Fine sea salt
+- 6 garlic cloves, thinly sliced
+- 2 teaspoons minced fresh rosemary, or ½ teaspoon dried rosemary
+- ¼ teaspoon red-pepper flakes, more for serving
+- 2 (15-ounce) cans white beans, such as cannellini or butter beans (preferably canned with salt), drained and rinsed
+- 1 cup chopped tomatoes, fresh or canned
+- 1 ½ teaspoons finely grated lemon zest
+- 1 cup chopped fresh parsley leaves and tender stems, more for garnish
+
+### 🥣 Steps
+1. In a large skillet, heat 2 tablespoons oil until it shimmers over medium-high heat. Add onion and cook, stirring occasionally, until well browned all over, 7 to 10 minutes. Reduce heat to medium, transfer half of the onions to a plate and season lightly with salt.
+2. Add remaining 6 tablespoons oil, the garlic, rosemary, red-pepper flakes and a pinch of salt to the onions in the skillet. Cook until garlic is pale gold at the edges (don’t let the garlic turn brown), 2 to 5 minutes.
+3. Add beans, chopped tomatoes, ½ cup of water and 1 teaspoon salt to skillet; stir until beans are well coated with sauce. Bring to a simmer over medium-low heat and cook until broth thickens, stirring occasionally, about 10 to 15 minutes.
+4. Stir in lemon zest and parsley, and taste, adding more salt if needed. Garnish with reserved onions, more parsley, olive oil and red-pepper flakes, if you’d like. The beans thicken as they cool, but you can add more water to make them brothier if you like.

@@ -1,0 +1,41 @@
+---
+tags: [beef, winter]
+title: Shepherd’s Pie
+author: Samantha Seneviratne
+servings: 6 servings
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1019096-shepherds-pie
+---
+
+![[attachments/Shepherd’s Pie.jpg]]
+
+# Shepherd’s Pie
+
+Shepherds are in the business of herding sheep, which makes lamb the most obvious choice for this shepherd's pie recipe, but ground beef is a tasty addition. The combination of ground lamb and ground beef is earthy and robust, and keeps lamb’s gaminess in check. Ground lamb tends to be fatty, so this recipe uses lean ground beef to compensate. If you prefer all beef, be sure to use something with a little more fat (and call it a cottage pie, if you like). And if you prefer all lamb, you may want to skim off some of the extra fat after browning the meat.
+
+### 🛒 Ingredients
+- 2 tablespoons kosher salt, plus more for seasoning
+- 2 ½ pounds (about 3 to 4 large) russet potatoes, peeled and quartered
+- 8 tablespoons unsalted butter
+- ½ cup whole milk
+- 1 cup shredded aged white Cheddar
+- Freshly ground black pepper
+- 1 small yellow onion, diced small (about 1 ¼ cups)
+- 2 medium carrots, peeled and diced small (about 1 ¼ cups)
+- 4 cloves garlic, minced
+- 4 sprigs fresh thyme
+- 2 4-inch sprigs fresh rosemary
+- ¾ pounds lean ground beef
+- ¾ pounds ground lamb (or use all ground beef)
+- ⅓ cup tomato paste
+- 1 tablespoon all-purpose flour
+- ¾ cup beef stock
+- 1 cup fresh parsley, chopped
+
+### 🥣 Steps
+1. In a large pot, bring a gallon of water and 2 tablespoons salt to a boil over high heat. Add potatoes to boiling water and boil for about 15 to 20 minutes, until soft; a knife should go in with almost no resistance.
+2. In a small saucepan or a microwave oven, heat 6 tablespoons of the butter and milk together until butter melts. Drain potatoes well and return to pot. Using a masher or a ricer, mash hot potatoes until smooth. Mix in the hot butter mixture, just until blended. Stir in the Cheddar. Season to taste with salt and pepper. Cover and set aside.
+3. Heat the oven to 375 degrees. Melt the remaining 2 tablespoons of the butter in a large oven-safe skillet with high sides or an enameled cast-iron braiser (at least 2 ½-quart capacity) over medium heat. Add the onion, carrot, garlic, thyme and rosemary and cook, stirring often with a wooden spoon, until the onions are translucent and the carrots are just tender, about 10 minutes. Add the beef and the lamb and cook, breaking the meat up with a spoon, until it is no longer pink. (At this point, you can drain off some of the excess fat if you like.) Season the mixture to taste with salt and pepper.
+4. Add the tomato paste and stir, cooking until it is well combined, another 2 to 3 minutes. Sprinkle the flour over the mixture and cook for 1 minute. Add the beef stock and cook, stirring, until the liquid has thickened slightly. Stir in the parsley and remove the thyme and rosemary stems. Season to taste with salt and pepper.
+5. Top the meat mixture with dollops of the mashed potatoes then spread them out over the top. (Or transfer the meat mixture to a 3-quart casserole dish and spread into an even layer, and top with potatoes.) Transfer to the oven and, if the mixture is at the top edges of your pan, set a foil-lined baking sheet underneath the pan to catch any drips. Bake the pie until the potatoes have begun to brown and the edges are bubbling, about 30 minutes. Let stand at room temperature for 15 minutes before serving.

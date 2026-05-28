@@ -1,158 +1,102 @@
 ---
 name: download-nyt-recipe
 description: >-
-  Download a recipe from NYT Cooking (cooking.nytimes.com) and save it into this
-  Obsidian recipe vault as a formatted note, image and all. Use this whenever the
+  Download recipes from NYT Cooking (cooking.nytimes.com) and save them into this
+  Obsidian recipe vault as formatted notes, images and all. Use this whenever the
   user gives a NYT Cooking recipe URL and wants it saved, imported, clipped, or
-  added to the vault — or says things like "grab this recipe", "save this NYT
-  recipe", "add this to my recipes", or "import this from NYT Cooking". The user
-  supplies the recipe URL; this skill does NOT pick a recipe for them. Drives a
-  logged-in Firefox via the Playwright MCP, reads the page's structured recipe
-  data, downloads the lead image to an attachments folder, and writes the note
-  using Templates/Recipe.md.
+  added to the vault — or says "grab this recipe", "save this NYT recipe", "add
+  this to my recipes", "import this from NYT Cooking". ALSO use it to bulk-import
+  the user's whole NYT recipe box / saved recipes (see "Bulk import" below). For a
+  single recipe the user supplies the URL; this skill does NOT invent a recipe.
+  Fetches the page's structured recipe data, downloads the lead image to an
+  attachments folder, and writes the note using Templates/Recipe.md.
 ---
 
-# Download an NYT Cooking recipe into the vault
+# Download NYT Cooking recipes into the vault
 
-This skill takes a **single NYT Cooking recipe URL** and produces a finished note
-in this vault: correct folder, frontmatter from `Templates/Recipe.md`, ingredients,
-steps, any cook's tip, and the lead photo embedded at the top (downloaded to an
-`attachments/` subfolder beside the note).
+Produces finished notes in this vault — correct folder, frontmatter from
+`Templates/Recipe.md`, ingredients, steps, the cook's tip, and the lead photo
+embedded at top (downloaded to an `attachments/` subfolder beside the note).
 
-The user provides the URL. Do not browse the recipe box or guess a recipe — if the
-user hasn't given a URL, ask for one.
+Two modes:
+- **Single recipe** from a URL the user gives → needs no login, just `curl`.
+- **Bulk import** of the whole recipe box → needs the user's login once, only to
+  list what's saved. See [Bulk import](#bulk-import-whole-recipe-box).
 
-## Why it works the way it does
+## The key fact: an individual recipe needs no login
 
-NYT Cooking is subscriber-only and renders most content with JavaScript, so a plain
-HTTP fetch returns a paywall stub. The reliable path is a **logged-in browser** plus
-the page's embedded **`schema.org/Recipe` JSON-LD** — a clean, structured blob with
-the name, author, times, yield, ingredients, and steps. Parsing that is far more
-robust than scraping rendered HTML. The images, by contrast, live on a public CDN
-(`static01.nyt.com`) and download fine with a normal request.
+NYT Cooking gates the *rendered reading experience*, but ships the complete
+**`schema.org/Recipe` JSON-LD** (name, author, times, yield, ingredients, steps,
+image) in the raw server HTML for SEO — and the cook's **tip** too (in a separate
+embedded blob). So a plain `curl` of any recipe URL gets everything; you do **not**
+need the Playwright browser or a subscription to read a single recipe. Images live
+on a public CDN (`static01.nyt.com`) and download with a normal request.
 
-## Prerequisites (one-time, usually already done)
+The browser is only needed to **enumerate the recipe box** (the saved-recipes list
+is behind auth) — see Bulk import.
 
-The Playwright MCP must drive a **browser that is actually installed**, in **headed**
-mode so the user can log in. This vault is configured to use Firefox. If a
-`browser_*` tool fails with `Chromium distribution 'chrome' is not found` or
-`Browser "firefox" is not installed`, fix it before continuing:
+## Single recipe — workflow
 
-1. Edit the Playwright MCP config(s) so the args include `"--browser", "firefox"`:
-   - `~/.claude/plugins/cache/claude-plugins-official/playwright/unknown/.mcp.json`
-   - `~/.claude/plugins/marketplaces/claude-plugins-official/external_plugins/playwright/.mcp.json`
-2. Install the matching browser build: `npx @playwright/mcp@latest install-browser firefox`
-3. Ask the user to reconnect the server (`/mcp` → reconnect **playwright**) — config
-   is only read at server startup, so edits don't apply until it restarts.
+You can do this inline (below) or, for convenience, run the bundled script:
+`python .claude/skills/download-nyt-recipe/scripts/nyt_fetch.py <one-line-manifest>`
+then classify + `nyt_write.py`. Inline is usually faster for one recipe:
 
-`--browser firefox` uses Playwright's own bundled Firefox, sidestepping the missing
-system-Chrome problem. (Edge via `"--channel", "msedge"` also works on Windows.)
+### 1. Fetch the page
 
-## Workflow
-
-### 1. Open the recipe (and confirm login)
-
-Navigate to the user's URL with `browser_navigate`. A headed Firefox window opens.
-Take a snapshot or evaluate `document.body.innerText` and check for a paywall /
-"Subscribe" wall instead of the recipe. If the user isn't logged in, ask them to log
-into NYT Cooking in the Firefox window, then continue. The Playwright profile is
-persistent, so login normally sticks across runs.
-
-### 2. Extract everything in one call
-
-Pull the recipe fields, the flattened steps, the image crops, and the tip text in a
-**single** `browser_evaluate` — one browser round-trip, and nothing can drift out of
-sync. Three things to know about why this snippet is shaped the way it is:
-
-- **Steps are nested inconsistently.** Some are plain `HowToStep` objects (`.text`);
-  others are wrapped in a `HowToSection` whose `.itemListElement` is a `HowToStep`.
-  The recursive `walk` flattens both into one ordered list.
-- **The tip is NOT in the JSON-LD.** NYT "Tip"/"Tips" notes only exist in the
-  rendered page, so we grab a slice of `body.innerText` near the word "Tip" and let
-  you lift the real sentence(s) out of it afterward.
-- **Images come as several crops.** We return them so you can pick the largest
-  landscape in step 4.
-
-```js
-() => {
-  const scripts = [...document.querySelectorAll('script[type="application/ld+json"]')];
-  let data = null;
-  for (const s of scripts) {
-    try {
-      let d = JSON.parse(s.textContent);
-      if (Array.isArray(d)) d = d.find(x => x['@type'] === 'Recipe') || d[0];
-      const t = d['@type'];
-      if (t === 'Recipe' || (Array.isArray(t) && t.includes('Recipe'))) { data = d; break; }
-    } catch (e) {}
-  }
-  if (!data) return 'NO_RECIPE_JSONLD';
-  const steps = [];
-  const walk = (n) => {
-    if (!n) return;
-    if (Array.isArray(n)) return n.forEach(walk);
-    if (n['@type'] === 'HowToStep' && n.text) steps.push(n.text.trim());
-    else if (n['@type'] === 'HowToSection') walk(n.itemListElement);
-  };
-  walk(data.recipeInstructions);
-  const bt = document.body.innerText;
-  const ti = bt.search(/\bTips?\b/);
-  const tipBlock = ti >= 0 ? bt.slice(ti, ti + 600) : 'NO_TIP';
-  const images = (Array.isArray(data.image) ? data.image : [data.image]).filter(Boolean)
-    .map(i => ({ url: i.url || i.contentUrl || i, w: parseInt(i.width) || 0 }));
-  return JSON.stringify({
-    name: data.name, author: data.author && data.author.name, yield: data.recipeYield,
-    totalTime: data.totalTime, category: data.recipeCategory, keywords: data.keywords,
-    diet: data.suitableForDiet, description: data.description,
-    ingredients: data.recipeIngredient, steps, images, tipBlock
-  });
-}
+```bash
+curl -sSL -A "Mozilla/5.0" "<recipe url>" -o /tmp/recipe.html
 ```
 
-Then interpret the result:
+### 2. Parse the recipe data
 
-- `totalTime` is ISO-8601 (`PT0H30M` → render as "30 minutes").
-- `tipBlock` is raw page text. If it's `NO_TIP`, there's no tip — skip the callout in
-  step 5. Otherwise lift just the actual tip sentence(s) and stop before unrelated
-  sections like "Similar Recipes".
-- `tags` come from `keywords` (and `diet`, e.g. add `vegetarian` only when
-  `suitableForDiet` says so) — lowercase, pick the useful few.
+Extract the `<script type="application/ld+json">` whose `@type` is `Recipe`
+(handle a top-level array or an `@graph` wrapper) and read: `name`, `author.name`,
+`recipeYield`, `totalTime`, `description`, `recipeCategory`, `keywords`,
+`suitableForDiet`, `recipeIngredient[]`, `recipeInstructions[]`, `image[]`.
 
-### 3. Pick the destination folder
+**Edge cases that bite at scale** (the bundled `nyt_fetch.py` handles all of these):
+- `recipeInstructions` mixes plain `HowToStep` (`.text`) with `HowToSection`
+  wrappers whose `.itemListElement` holds the step — flatten recursively.
+- `keywords` and `suitableForDiet` may be a **string OR a list** — coerce before
+  `.split`/`.lower`.
+- `recipeYield` may be a string or a list.
+- Older recipes have **no `totalTime`** — leave `time:` blank, that's fine.
+- `totalTime` is ISO-8601: `PT0H30M` → "30 minutes", `PT1H35M` → "1 hour 35 minutes".
 
-Match the recipe to an existing top-level folder using `recipeCategory` / `keywords`
-and judgment. Current folders: **Baking, BBQ, Beef, Chicken, Mexican, Noodles,
-Pasta, Pizza, Sides, Sous Vide, Vegetarian**. Use `Incoming` only as a last resort.
-Notes:
-- Long pasta (spaghetti, linguine) → `Pasta`; Asian noodles (ramen, udon, lo mein) → `Noodles`.
-- A meat-forward main goes by its protein (`Beef`, `Chicken`) even if it's a stew or stir-fry.
-- If two folders fit, pick the most specific and mention the choice so the user can move it.
+### 3. Get the cook's tip (NOT in the JSON-LD)
 
-### 4. Download the lead image
+The tip lives in an embedded app-data blob, not the JSON-LD:
+`"tips":[{"__typename":"ScoopRecipeTip","details":{"doc":{...}}}]`. Find `"tips":`
+in the HTML, JSON-decode the array that follows (Python: `JSONDecoder().raw_decode`
+at that offset), and collect the nested `"text"` fields. Skip the callout if absent.
+(Don't grep `body` text for "Tip" — that catches reviews quoting the tip.)
 
-The JSON-LD `image` array has several crops. Prefer the **largest landscape** for a
-header banner — typically the `...videoSixteenByNineJumbo1600.jpg` URL (1600×900);
-otherwise take the widest `contentUrl`/`url`. Save it into an `attachments/`
-subfolder beside the note, named after the recipe. Send a User-Agent or the CDN may
-refuse:
+### 4. Pick the destination folder
+
+Match to a top-level folder by main ingredient / dish type / cuisine — see the
+[folder rubric](#folder-rubric). Mention any close call so the user can move it.
+
+### 5. Download the lead image
+
+From the `image[]` crops, prefer the **largest landscape** — usually the
+`...videoSixteenByNineJumbo1600.jpg` (1600×900); else the widest `url`/`contentUrl`.
+A User-Agent is required or the CDN refuses:
 
 ```bash
 cd "<vault>/<Folder>" && mkdir -p attachments && \
 curl -sSL -A "Mozilla/5.0" -o "attachments/<Recipe Name>.jpg" "<image url>"
 ```
 
-Verify it's a real image (non-trivial size, `file` reports JPEG/PNG) before
-embedding. If there's no image, just skip the embed.
+Verify it's a real image (`file` reports JPEG/PNG, non-trivial size). Skip the embed
+if there's no image.
 
-### 5. Write the note
+### 6. Write the note
 
-Create `<Folder>/<Recipe Name>.md` following `Templates/Recipe.md`, with the image
-embedded at the very top. Match the vault's existing recipes: a YAML frontmatter
-block, then the embed, then `# Title`, the overview paragraph, and the
-`### 🛒 Ingredients` / `### 🥣 Steps` sections.
+`<Folder>/<Recipe Name>.md`, image embedded at top, following `Templates/Recipe.md`:
 
 ```markdown
 ---
-tags: [<from keywords/diet, lowercase, e.g. pasta, vegetarian, quick>]
+tags: [<folder + useful descriptors like quick, weeknight, vegetarian>]
 title: <name>
 author: <author.name>
 servings: <recipeYield>
@@ -176,25 +120,133 @@ link: <recipe URL>
 > <the cook's tip, if any>
 ```
 
-Guidance:
-- `date` uses today's date in the template's `YYYY-MM-DD dddd` format (e.g. `2026-05-28 Thursday`), not the recipe's publish date.
-- Keep ingredient and step text verbatim from the source; just trim stray whitespace and fix obvious artifacts (e.g. a lone "(in a food processor..." → "(In a food processor...").
-- Embed the image with `![[attachments/<Recipe Name>.jpg]]` — an Obsidian wikilink embed, consistent with the `obsidian-markdown` skill.
-- Drop the `> [!tip]` callout entirely if there's no tip.
+- `date` is **today** in `YYYY-MM-DD dddd` format, not the recipe's publish date.
+- Keep ingredient/step text verbatim; just trim whitespace and obvious artifacts.
+- `![[attachments/<Name>.jpg]]` is an Obsidian wikilink embed (see `obsidian-markdown`).
+- **Filename collisions:** if `<Folder>/<Name>.md` already exists but is a *different*
+  recipe (its NYT id isn't in the file), don't overwrite or skip — disambiguate by
+  appending the author, then the id: `<Name> - <Author>.md`, then `<Name> (<id>).md`.
+  Two different "Fried Rice" or "Kimchi" recipes are common.
 
-### 6. Report back
+### 7. Report back
 
-Tell the user the note path, the image path, the folder you chose (and why, if it
-was a close call), and any judgment calls — so they can move or retag if they
-disagree.
+Note path, image path, folder chosen (and why if close), any judgment calls.
+
+## Folder rubric
+
+Existing folders: **Baking, BBQ, Beef, Chicken, Mexican, Noodles, Pasta, Pizza,
+Sides, Sous Vide, Vegetarian**. Folders added during the bulk import: **Breakfast,
+Seafood, Pork, Soups, Salads, Desserts, Snacks, Drinks**. Use `Incoming` only as a
+true last resort. Apply in priority order:
+
+1. PASTA dish (spaghetti, fettuccine, gnocchi, macaroni, orzo, lasagna) → Pasta.
+   ASIAN NOODLE dish (ramen, soba, udon, lo mein, rice noodles, pho) → Noodles.
+2. SOUP or STEW (brothy, soup, stew, chili, chowder) → Soups.
+3. SALAD → Salads.
+4. PIZZA → Pizza. MEXICAN (tacos, enchiladas, quesadillas, mole) → Mexican.
+5. BREAKFAST (waffles, pancakes, eggs, granola, oatmeal, breakfast bars) → Breakfast.
+6. Bread/cracker/cornbread/biscuit/muffin → Baking. Sweet dessert → Desserts.
+   Snack bar (energy/granola bars not for breakfast) → Snacks. Beverage → Drinks.
+7. Protein-forward main by primary protein: Beef, Chicken (incl. turkey/poultry),
+   Pork (bacon, sausage, ham), Seafood (fish, shrimp, salmon, scallops).
+8. Meatless main with no better home → Vegetarian. Condiment/ferment/dressing/
+   slaw/pickle/sauce/spice-paste → Sides.
+9. BBQ or Sous Vide ONLY if explicitly that method.
+
+When a dish is both a pasta/noodle/soup/salad AND has a protein (e.g. "Shrimp Piccata
+Spaghetti", "Spicy Pork Noodle Soup"), DISH TYPE wins over protein.
+
+## Bulk import (whole recipe box)
+
+To import many/all of the user's saved recipes. Architecture: **enumerate via the
+recipe-box API (browser, once) → fetch+parse each via curl (script, no browser) →
+classify folders (model judgment) → write notes + images (script).** Each stage is
+resumable.
+
+### A. Enumerate the recipe box (needs login)
+
+The saved list is client-side rendered, but the page calls a clean JSON API. Get the
+user logged in (see [browser setup](#browser-setup-for-bulk-listing)), then from the
+browser context fetch every page (shares the login cookies):
+
+```js
+// browser_evaluate — find USER_ID first via /api/v5/users/me or the network log
+async () => {
+  const base = 'https://cooking.nytimes.com/api/v2/users/<USER_ID>/search/recipe_box_search?q=&per_page=48&page=';
+  const seen = new Set(), lines = [];
+  for (let p = 1; p <= 40; p++) {
+    const r = await fetch(base + p, { credentials: 'include' });
+    if (r.status !== 200) break;
+    const arr = (await r.json()).collectables || [];
+    if (!arr.length) break;
+    for (const c of arr) if (!seen.has(c.id)) { seen.add(c.id); lines.push(c.id + '|' + c.url); }
+  }
+  return `TOTAL=${seen.size}\n` + lines.join('\n');
+}
+```
+
+The result (`id|url` per line) may overflow the tool output to a file — that's fine,
+read it and build `manifest.json` = `[{"id","url"}]`. (`collectables[]` also has
+`name`, `byline`, `yield`, etc. if you want richer manifest entries.)
+
+### B. Fetch + parse all (no browser)
+
+```bash
+python .claude/skills/download-nyt-recipe/scripts/nyt_fetch.py <work>/manifest.json
+```
+Skips recipes already in the vault and already cached; writes `cache/<id>.json` and
+`classify_input.json`. Polite 1s/recipe by default (`--sleep`).
+
+### C. Classify folders (the only model step)
+
+Split `classify_input.json` into batches (~100) and fan out **Sonnet** sub-agents in
+parallel (one per batch), each writing `out_N.json`. **Use Sonnet, not Haiku** — a
+subagent inherits the full MCP tool catalog, which overflows Haiku's context
+("Prompt is too long"). Give each agent the [folder rubric](#folder-rubric) and have
+it return `{"assignments": {"<id>": "<Folder>"}, "new_folders_used": [...]}`. Merge
+the batches and **validate**: every input id present exactly once, every folder in
+the allowed set. Don't trust the agents' prose counts — verify the files. Write the
+merged result to `<work>/folders.json`.
+
+### D. Write notes + images
+
+```bash
+python .claude/skills/download-nyt-recipe/scripts/nyt_write.py
+```
+Downloads images and writes notes. Collision-safe and resumable: re-run any time; it
+skips a recipe only when its OWN note already exists, and disambiguates same-title
+recipes (see step 6). After it finishes, verify nothing is shadowed — for each id,
+confirm a note exists whose body contains that id.
+
+### E. Report
+
+Folder distribution, any new folders created, total notes/images, and any
+disambiguated filenames — for the user to review before committing.
+
+## Browser setup (for bulk listing)
+
+Only needed for stage A. The Playwright MCP must drive an **installed** browser in
+**headed** mode so the user can log in. This vault uses Firefox. If a `browser_*`
+tool errors with `Chromium distribution 'chrome' is not found` or
+`Browser "firefox" is not installed`:
+
+1. Add `"--browser", "firefox"` to the args in both Playwright MCP configs:
+   - `~/.claude/plugins/cache/claude-plugins-official/playwright/unknown/.mcp.json`
+   - `~/.claude/plugins/marketplaces/claude-plugins-official/external_plugins/playwright/.mcp.json`
+2. `npx @playwright/mcp@latest install-browser firefox`
+3. Ask the user to reconnect via `/mcp` (config is read only at server startup).
+
+Navigate to `https://cooking.nytimes.com/recipe-box`; if it shows a Subscribe wall,
+ask the user to log in in the Firefox window. The profile is persistent, so login
+sticks across runs (an occasional transient redirect to `/auth/login` clears on retry).
 
 ## Notes on robustness
 
-- If `browser_evaluate` returns `NO_RECIPE_JSONLD`, the page may not have finished
-  loading or the URL isn't a recipe page — re-navigate, wait, and retry before
-  falling back to scraping the visible DOM.
-- A full-page `browser_snapshot` on NYT can exceed the tool's output limit; prefer
-  targeted `browser_evaluate` calls (JSON-LD, specific text) over big snapshots.
-- Filenames: keep the recipe's natural title (spaces are fine in this vault). Strip
-  characters illegal on the filesystem (`\ / : * ? " < > |`) if the title contains them.
+- No JSON-LD `Recipe` in the HTML usually means a transient/incomplete fetch — retry.
+- A full `browser_snapshot` on NYT can exceed the tool output limit; prefer targeted
+  `browser_evaluate` / `curl` + parse over big snapshots.
+- Filenames: keep the natural title (spaces are fine here); strip only the characters
+  illegal on the filesystem (`\ / : * ? " < > |`).
+- Bulk image pulls add up (hundreds of MB) and this vault syncs to Google Drive —
+  worth flagging to the user before a large run.
 ```

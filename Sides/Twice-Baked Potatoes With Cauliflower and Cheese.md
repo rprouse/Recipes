@@ -1,0 +1,32 @@
+---
+tags: [sides]
+title: Twice-Baked Potatoes With Cauliflower and Cheese
+author: Sam Sifton
+servings: 4 servings
+time: 
+date: 2026-05-28 Thursday
+link: https://cooking.nytimes.com/recipes/1016870-twice-baked-potatoes-with-cauliflower-and-cheese
+---
+
+![[attachments/Twice-Baked Potatoes With Cauliflower and Cheese.jpg]]
+
+# Twice-Baked Potatoes With Cauliflower and Cheese
+
+This is a recipe that nods at a lesson taught by the British writer Nigel Slater, which is to poach the cauliflower in bay-leaf scented milk while the potatoes bake. The soft florets are then mashed in with the potato flesh and a healthy splash of the cooked milk. Add butter. Top with cheese.
+
+### 🛒 Ingredients
+- 4 large baking potatoes, like russets
+- 1 teaspoon olive oil
+- Kosher salt
+- 1 small head of cauliflower, cut into florets
+- 3 cups milk
+- 2 bay leaves
+- 4 tablespoons unsalted butter
+- 1 cup grated Parmesan cheese.
+
+### 🥣 Steps
+1. Preheat oven to 450.
+2. Scrub potatoes under running water; dry them, and rub the skin of each with the oil and a little salt. Pierce the skin of each in three or four places with the tines of a fork.
+3. Place the potatoes in the oven, and roast for 45 minutes to an hour, depending on the size of the potatoes, until they offer no resistance when a knife is inserted in their centers.
+4. While the potatoes are baking, put the cauliflower into a saucepan set over medium-high heat, and add the milk and bay leaves. Heat until almost boiling, then reduce flame to low, and simmer until tender, approximately 20 minutes.
+5. When the potatoes are done, remove them from the oven, slice them open down the middle and use a spoon to scrape out their flesh into a bowl. Add the butter, the cauliflower and a healthy splash of the milk, and mash to combine. Spoon the mixture back into the empty jackets, place on a baking sheet and shower with cheese. Return to the oven for approximately 15 minutes, until the cheese is melted and golden.
