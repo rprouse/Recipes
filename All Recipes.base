@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.path.contains("/")
+    - '!file.inFolder("Incoming")'
+    - '!file.inFolder("Templates")'
+properties:
+  file.folder:
+    displayName: Category
+  author:
+    displayName: Author
+  servings:
+    displayName: Servings
+  time:
+    displayName: Time
+views:
+  - type: cards
+    name: All Recipes
+    order:
+      - file.name
+      - servings
+      - time
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 1
+    imageFit: cover
+  - type: table
+    name: All
+    order:
+      - file.name
+      - file.folder
+      - author
+      - servings
+      - time
+      - date
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC

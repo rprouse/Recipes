@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧑‍🍳",
       "♻",
       "🤖",
       "🍦",
-      "🍹",
-      "LiSoup"
+      "🍹"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,6 @@
   "Drinks": "🍹",
   "Desserts": "🍦",
   "CLAUDE.md": "🤖",
-  "Make Again.base": "♻"
+  "Make Again.base": "♻",
+  "All Recipes.base": "🧑‍🍳"
 }

@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2053d02af809ac38",
+        "id": "355eb7b2e214c436",
         "type": "tabs",
         "children": [
           {
-            "id": "a070dbf633d87ba1",
+            "id": "dea9beaffc34c525",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "Make Again.base",
-                "viewName": "Make Again"
+                "file": "All Recipes.base",
+                "viewName": "All Recipes"
               },
               "icon": "lucide-layout-grid",
-              "title": "Make Again"
+              "title": "All Recipes"
             }
           }
         ]
@@ -187,11 +187,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a070dbf633d87ba1",
+  "active": "dea9beaffc34c525",
   "lastOpenFiles": [
+    "Sides/5-Minute Hummus.md",
+    "All Recipes.base",
+    "Pizza/10 Pizza Rules That Separate Amateurs from Pros.md",
+    "Readme.md",
+    "Make Again.base",
+    "Untitled.md",
     "Make Again.base.tmp.112372.5abb0fc26570",
     "CLAUDE.md",
-    "Make Again.base",
     "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md.tmp.112372.0a7a70a32dd7",
     "Sides/Very Good Chili Crisp Recipe.md",
     "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
@@ -225,15 +230,10 @@
     "Sides/Grilled Broccoli With Soy Sauce, Maple Syrup and Balsamic Vinegar.md",
     "Salads/Kale Salad With Cranberries, Pecans and Blue Cheese.md",
     "Soups/Speedy Fish Chowder.md",
-    "Mexican/New Mexican Hot Dish.md",
-    "Chicken/Three-Cup Chicken.md",
-    "Soups/Texas Chili.md",
     "BBQ/attachments",
     "Sous Vide/attachments",
     "Pizza/attachments",
     "Desserts/attachments",
-    "Desserts",
-    "Drinks/attachments",
-    "Drinks"
+    "Desserts"
   ]
 }
