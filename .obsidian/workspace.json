@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Incoming/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By"
             }
           },
           {
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
