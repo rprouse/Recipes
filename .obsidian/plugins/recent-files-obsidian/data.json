@@ -5,6 +5,10 @@
       "path": "All Recipes.base"
     },
     {
+      "basename": "15 Minute Chili Garlic Noodles",
+      "path": "Noodles/15 Minute Chili Garlic Noodles.md"
+    },
+    {
       "basename": "5-Minute Hummus",
       "path": "Sides/5-Minute Hummus.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "Gochujang Garlic Noodles",
       "path": "Noodles/Gochujang Garlic Noodles.md"
-    },
-    {
-      "basename": "15 Minute Chili Garlic Noodles",
-      "path": "Noodles/15 Minute Chili Garlic Noodles.md"
     },
     {
       "basename": "Fried Killer Spaghetti",
