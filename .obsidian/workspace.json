@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7a6bd175997e6ae9",
+        "id": "966f618dc8e69c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "87daf2b45b4a7bfc",
+            "id": "d6e1e8423d400055",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Incoming/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By"
+              "title": "New tab"
             }
           }
         ]
@@ -98,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 258.5
   },
   "right": {
     "id": "1fdd5cdc487ee9cc",
@@ -114,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incoming/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By"
+              "title": "Backlinks"
             }
           },
           {
@@ -175,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,15 +173,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87daf2b45b4a7bfc",
+  "active": "d6e1e8423d400055",
   "lastOpenFiles": [
+    "Beef/Beef, Asparagus and Tofu Stir-Fry.md",
+    "Beef/attachments/Beef, Asparagus and Tofu Stir-Fry.jpg",
+    "Beef/attachments",
+    "Pasta/Creamy Cottage Cheese Basil Pasta.md",
+    "Incoming/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
+    "Pasta/Creamy Cottage Cheese Basil Pasta.md.tmp.112372.b33a9cc21f19",
+    "Pasta/attachments/Creamy Cottage Cheese Basil Pasta.jpg",
+    "Pasta/attachments",
     "Incoming/Incoming Recipes.md",
     "Incoming/Very Good Chili Crisp Recipe.md",
     "Readme.md",
     "Vegetarian",
     "Vegetarian/Rice & Beans are elite, especially in times of need.md",
     "Pizza",
-    "Incoming/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
     "Pasta/The only White Sauce Pasta Recipe you'll ever need!.md",
     "Templates/Recipe.md",
     "Pizza/10 Pizza Rules That Separate Amateurs from Pros.md",
@@ -216,13 +209,9 @@
     "Sides/How to Make Chile Crunch.md",
     "Sides/Don't Buy French Fries Anymore.md",
     "Noodles/Stir-Fried Garlic Egg Ramen.md",
-    "Noodles/Peanut Butter and Chili Udon Noodles.md",
     "Beef/Asian Cabbage Stir-Fry.pdf",
     "Chicken/Lemon Chicken & Spaghetti Squash.pdf",
     "Sous Vide",
-    "Sides",
-    "Beef",
-    "BBQ",
-    "Mexican"
+    "Sides"
   ]
 }

@@ -1,0 +1,1277 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - link "Home" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img [ref=e9]
+        - generic [ref=e11]:
+          - search [ref=e13]:
+            - generic [ref=e14]:
+              - generic [ref=e15]:
+                - img [ref=e16]
+                - searchbox "What would you like to cook?" [ref=e18]
+              - button "Clear Search" [ref=e19] [cursor=pointer]:
+                - img [ref=e21]
+          - navigation "Account"
+      - navigation "Main" [ref=e25]
+    - main [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - generic [ref=e32]:
+              - heading "Creamy Cottage Cheese Basil Pasta" [level=1] [ref=e33]
+              - heading "By Ali Slagle" [level=2] [ref=e35]:
+                - text: By
+                - link "Ali Slagle" [ref=e36] [cursor=pointer]:
+                  - /url: /author/ali-slagle
+              - paragraph [ref=e37]: Updated April 6, 2026
+            - region "Recipe media" [ref=e39]:
+              - list [ref=e40]:
+                - listitem "1 of 1" [ref=e41]:
+                  - 'figure "Christopher Testani for The New York Times. Food Stylist: Simon Andrews." [ref=e42]':
+                    - button "Enter fullscreen" [ref=e45] [cursor=pointer]:
+                      - img [ref=e46]
+                    - generic [ref=e48]: "Christopher Testani for The New York Times. Food Stylist: Simon Andrews."
+              - generic: Media 1 of 1
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - term [ref=e52]: Ready In
+                - definition [ref=e53]: 35 min
+              - term [ref=e54]: Rating
+              - definition [ref=e55]:
+                - generic [ref=e56]: "5"
+                - generic [ref=e57]:
+                  - img [ref=e58]
+                  - img [ref=e60]
+                  - img [ref=e62]
+                  - img [ref=e64]
+                  - img [ref=e66]
+                - generic [ref=e68]: (1,209)
+              - term [ref=e69]: Comments
+              - definition [ref=e70]:
+                - link "Read 255 comments" [ref=e71] [cursor=pointer]:
+                  - /url: "#notes_section"
+                  - text: Read 255 comments
+                  - img [ref=e72]
+            - paragraph [ref=e79]:
+              - text: This one-pot pasta marries the vivid herbaceousness of
+              - link "pesto" [ref=e80] [cursor=pointer]:
+                - /url: https://cooking.nytimes.com/recipes/1018235-basic-pesto-sauce?algo=cooking_search_relevance_metric_ios_and_web&fellback=false&imp_id=8432564681430981&req_id=5939415954628932&surface=cooking-search&variant=0_relevance_reranking
+              - text: with the creaminess of
+              - link "Alfredo" [ref=e81] [cursor=pointer]:
+                - /url: https://cooking.nytimes.com/recipes/9025-elaines-fettuccine-alfredo?algo=cooking_search_relevance_metric_ios_and_web&fellback=false&imp_id=7191504382589017&req_id=280479817168595&surface=cooking-search&variant=0_relevance_reranking
+              - text: . Instead of heavy cream, however, this pasta’s silkiness comes from blending cottage cheese with plenty of Parmesan. You’ll want to use a high-speed blender or food processor to whirl the cheeses and greens into a smooth and glossy sauce, and if you have a scale, use it to make quick work of measuring the sauce’s ingredients.
+            - list [ref=e82]:
+              - listitem [ref=e83]:
+                - button "Save" [ref=e85] [cursor=pointer]:
+                  - img [ref=e86]
+                  - generic [ref=e88]: Save
+              - listitem [ref=e89]:
+                - button "Gift Recipe" [ref=e91] [cursor=pointer]:
+                  - img [ref=e92]
+                  - generic [ref=e94]: Give
+              - listitem [ref=e95]:
+                - button "Share Recipe" [ref=e97] [cursor=pointer]:
+                  - img [ref=e98]
+              - listitem [ref=e100]:
+                - button "Print Recipe" [ref=e103] [cursor=pointer]:
+                  - img [ref=e104]
+          - generic [ref=e106]:
+            - paragraph [ref=e107]: Advertisement
+            - link "SKIP ADVERTISEMENT" [ref=e109] [cursor=pointer]:
+              - /url: "#after-recipeDetail-mid-1"
+          - generic [ref=e110]:
+            - generic [ref=e112]:
+              - heading "Ingredients" [level=2] [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]: "Yield:"
+                - generic [ref=e116]: 4 to 6 servings
+              - list [ref=e117]:
+                - listitem [ref=e118]:
+                  - paragraph [ref=e119]: Salt
+                - listitem [ref=e120]:
+                  - paragraph [ref=e121]: 1 lemon
+                - listitem [ref=e122]:
+                  - paragraph [ref=e123]: 8 ounces whole-milk cottage cheese (1 cup), at room temperature
+                - listitem [ref=e124]:
+                  - paragraph [ref=e125]: 3½ ounces grated Parmesan (1 cup), plus more for serving (see Tip)
+                - listitem [ref=e126]:
+                  - paragraph [ref=e127]: 2 tablespoons extra-virgin olive oil, plus more for serving
+                - listitem [ref=e128]:
+                  - paragraph [ref=e129]: 1 garlic clove, smashed and peeled
+                - listitem [ref=e130]:
+                  - paragraph [ref=e131]: 3 ounces baby spinach (3 big handfuls)
+                - listitem [ref=e132]:
+                  - paragraph [ref=e133]: 2½ ounces torn basil leaves (2 packed cups)
+                - listitem [ref=e134]:
+                  - paragraph [ref=e135]: 1 pound spaghetti or other long pasta
+              - generic [ref=e136]:
+                - button "Add ingredients to Grocery List" [ref=e138] [cursor=pointer]:
+                  - generic [ref=e139]: Add ingredients to Grocery List
+                - link "Ingredient Substitution Guide" [ref=e140] [cursor=pointer]:
+                  - /url: /article/ingredient-substitutions
+            - generic [ref=e142]:
+              - generic [ref=e143]:
+                - heading "Preparation" [level=2] [ref=e144]
+                - list [ref=e145]:
+                  - listitem [ref=e146]:
+                    - generic [ref=e147]: Step 1
+                    - paragraph [ref=e149]: Bring a large pot of salted water to a boil. Meanwhile, zest and juice the lemon into a high-powered blender or food processor. Add the cottage cheese, Parmesan, oil, garlic, spinach and basil. Blend until very smooth. (in a food processor, this can take up to five minutes.)
+                  - listitem [ref=e150]:
+                    - heading [level=3]
+                    - list [ref=e151]:
+                      - listitem [ref=e152]:
+                        - generic [ref=e153]: Step 2
+                        - paragraph [ref=e155]: Add the pasta to the boiling water and cook until al dente according to package directions. Scoop out 1 ½ cups of the pasta water, then drain the pasta and return to the pot. With the blender running, pour ¾ cup of the pasta water into the cottage cheese mixture and blend until smooth.
+                  - listitem [ref=e156]:
+                    - heading [level=3]
+                    - list [ref=e157]:
+                      - listitem [ref=e158]:
+                        - generic [ref=e159]: Step 3
+                        - paragraph [ref=e161]: Off the heat, add the cottage cheese mixture to the pasta. Toss vigorously until the pasta is coated in sauce, adding more pasta water as needed until glossy. Season to taste with salt. Serve topped with a drizzle of olive oil and more Parmesan.
+              - generic [ref=e162]:
+                - text: Tip
+                - list [ref=e163]:
+                  - listitem [ref=e164]:
+                    - paragraph [ref=e165]: "Since you’re getting a blender or food processor dirty anyway, use it to grate the Parmesan, too: Chop the Parmesan into big chunks, then pulse in a blender until ground. Take some out for serving, then add the rest of the sauce ingredients and proceed."
+        - generic [ref=e166]:
+          - complementary [ref=e167]:
+            - generic [ref=e168]:
+              - heading "Similar Recipes" [level=3] [ref=e169]
+              - region "carousel" [ref=e170]:
+                - generic:
+                  - button "Previous" [disabled]:
+                    - img
+                - list [ref=e172]:
+                  - listitem [ref=e173]:
+                    - article [ref=e174] [cursor=pointer]:
+                      - link "Pasta, Green Beans and Potatoes With Pesto Nancy Harmon Jenkins" [ref=e175]:
+                        - /url: /recipes/6078-pasta-green-beans-and-potatoes-with-pesto
+                        - figure [ref=e176]
+                        - generic [ref=e177]:
+                          - paragraph [ref=e178]: Pasta, Green Beans and Potatoes With Pesto
+                          - paragraph [ref=e179]: Nancy Harmon Jenkins
+                  - listitem [ref=e180]:
+                    - article [ref=e181] [cursor=pointer]:
+                      - link "Mushroom and Cottage Cheese Pasta Hetty Lui McKinnon" [ref=e182]:
+                        - /url: /recipes/1023691-mushroom-and-cottage-cheese-pasta
+                        - figure [ref=e183]
+                        - generic [ref=e184]:
+                          - paragraph [ref=e185]: Mushroom and Cottage Cheese Pasta
+                          - paragraph [ref=e186]: Hetty Lui McKinnon
+                  - listitem [ref=e187]:
+                    - article [ref=e188] [cursor=pointer]:
+                      - link "Parsley Pesto Martha Rose Shulman" [ref=e189]:
+                        - /url: /recipes/1015448-parsley-pesto
+                        - figure [ref=e190]
+                        - generic [ref=e191]:
+                          - paragraph [ref=e192]: Parsley Pesto
+                          - paragraph [ref=e193]: Martha Rose Shulman
+                  - listitem [ref=e194]:
+                    - article [ref=e195] [cursor=pointer]:
+                      - link "Extra-Green Pasta Salad Andy Baraghani" [ref=e196]:
+                        - /url: /recipes/1025507-extra-green-pasta-salad
+                        - figure [ref=e197]:
+                          - img "Extra-green pasta salad is piled onto a white oval serving platter with a silver spoon." [ref=e198]
+                        - generic [ref=e199]:
+                          - paragraph [ref=e200]: Extra-Green Pasta Salad
+                          - paragraph [ref=e201]: Andy Baraghani
+                  - listitem [ref=e202]:
+                    - article [ref=e203] [cursor=pointer]:
+                      - link "Herby Cottage Cheese Dip Yossy Arefi" [ref=e204]:
+                        - /url: /recipes/1025822-herby-cottage-cheese-dip
+                        - figure [ref=e205]
+                        - generic [ref=e206]:
+                          - paragraph [ref=e207]: Herby Cottage Cheese Dip
+                          - paragraph [ref=e208]: Yossy Arefi
+                  - listitem [ref=e209]:
+                    - article [ref=e210] [cursor=pointer]:
+                      - link "Lemon-Garlic Linguine Ali Slagle" [ref=e211]:
+                        - /url: /recipes/1025371-lemon-garlic-linguine
+                        - figure [ref=e212]:
+                          - img "A beige bowl holds lemon-garlic linguine sprinkled with red pepper flakes." [ref=e213]
+                        - generic [ref=e214]:
+                          - paragraph [ref=e215]: Lemon-Garlic Linguine
+                          - paragraph [ref=e216]: Ali Slagle
+                  - listitem [ref=e217]:
+                    - article [ref=e218] [cursor=pointer]:
+                      - link "Pesto Pasta With Corn and Green Beans David Tanis" [ref=e219]:
+                        - /url: /recipes/1026983-pesto-pasta-with-corn-and-green-beans
+                        - figure [ref=e220]
+                        - generic [ref=e221]:
+                          - paragraph [ref=e222]: Pesto Pasta With Corn and Green Beans
+                          - paragraph [ref=e223]: David Tanis
+                  - listitem [ref=e224]:
+                    - article [ref=e225] [cursor=pointer]:
+                      - link "Spaghetti With Broccoli and Walnut-Ricotta Pesto Martha Rose Shulman" [ref=e226]:
+                        - /url: /recipes/1015778-spaghetti-with-broccoli-and-walnut-ricotta-pesto
+                        - figure [ref=e227]
+                        - generic [ref=e228]:
+                          - paragraph [ref=e229]: Spaghetti With Broccoli and Walnut-Ricotta Pesto
+                          - paragraph [ref=e230]: Martha Rose Shulman
+                  - listitem [ref=e231]:
+                    - article [ref=e232] [cursor=pointer]:
+                      - link "Cottage Cheese Pasta With Tomatoes, Scallions and Currants Melissa Clark" [ref=e233]:
+                        - /url: /recipes/1022261-cottage-cheese-pasta-with-tomatoes-scallions-and-currants
+                        - figure [ref=e234]
+                        - generic [ref=e235]:
+                          - paragraph [ref=e236]: Cottage Cheese Pasta With Tomatoes, Scallions and Currants
+                          - paragraph [ref=e237]: Melissa Clark
+                  - listitem [ref=e238]:
+                    - article [ref=e239] [cursor=pointer]:
+                      - link "Pesto Pasta Mark Bittman" [ref=e240]:
+                        - /url: /recipes/12672-pesto-pasta
+                        - figure [ref=e241]
+                        - generic [ref=e242]:
+                          - paragraph [ref=e243]: Pesto Pasta
+                          - paragraph [ref=e244]: Mark Bittman
+                  - listitem [ref=e245]:
+                    - article [ref=e246] [cursor=pointer]:
+                      - link "Pesto and Pistou Martha Rose Shulman" [ref=e247]:
+                        - /url: /recipes/1014208-pesto-and-pistou
+                        - figure [ref=e248]
+                        - generic [ref=e249]:
+                          - paragraph [ref=e250]: Pesto and Pistou
+                          - paragraph [ref=e251]: Martha Rose Shulman
+                  - listitem [ref=e252]:
+                    - article [ref=e253] [cursor=pointer]:
+                      - link "Basil Pesto Florence Fabricant" [ref=e254]:
+                        - /url: /recipes/2653-basil-pesto
+                        - figure [ref=e255]:
+                          - img "A close overhead shot shows a glass bowl of grass-green pesto, with visible flecks of basil and Parmesan." [ref=e256]
+                        - generic [ref=e257]:
+                          - paragraph [ref=e258]: Basil Pesto
+                          - paragraph [ref=e259]: Florence Fabricant
+                  - listitem [ref=e260]:
+                    - article [ref=e261] [cursor=pointer]:
+                      - link "Basic Pesto Sauce Samin Nosrat" [ref=e262]:
+                        - /url: /recipes/1018235-basic-pesto-sauce
+                        - figure [ref=e263]:
+                          - img "A glass jar of pesto with a swing top sits on a wooden table with a spoon sticking out of it. To the right is a white bowl filled with pesto pasta. Above the jar there is a wedge of cheese and in the upper left corner there is a metal pan with more pesto pasta." [ref=e264]
+                        - generic [ref=e265]:
+                          - paragraph [ref=e266]: Basic Pesto Sauce
+                          - paragraph [ref=e267]: Samin Nosrat
+                  - listitem [ref=e268]:
+                    - article [ref=e269] [cursor=pointer]:
+                      - link "Pasta With Butter, Sage And Parmesan Mark Bittman" [ref=e270]:
+                        - /url: /recipes/5704-pasta-with-butter-sage-and-parmesan
+                        - figure [ref=e271]
+                        - generic [ref=e272]:
+                          - paragraph [ref=e273]: Pasta With Butter, Sage And Parmesan
+                          - paragraph [ref=e274]: Mark Bittman
+                  - listitem [ref=e275]:
+                    - article [ref=e276] [cursor=pointer]:
+                      - link "Chile Crisp Fettuccine Alfredo With Spinach Genevieve Ko" [ref=e277]:
+                        - /url: /recipes/1023609-chile-crisp-fettuccine-alfredo-with-spinach
+                        - figure [ref=e278]:
+                          - img "A white bowl holds a tangle of bright orange chile crisp fettuccine Alfredo with spinach." [ref=e279]
+                        - generic [ref=e280]:
+                          - paragraph [ref=e281]: Chile Crisp Fettuccine Alfredo With Spinach
+                          - paragraph [ref=e282]: Genevieve Ko
+                  - listitem [ref=e283]:
+                    - article [ref=e284] [cursor=pointer]:
+                      - link "Spaghetti Carbonara Ian Fisher" [ref=e285]:
+                        - /url: /recipes/12965-spaghetti-carbonara
+                        - figure [ref=e286]:
+                          - img "A bowl of spaghetti carbonara on a white plate sits on a grey-and-white marble countertop." [ref=e287]
+                        - generic [ref=e288]:
+                          - paragraph [ref=e289]: Spaghetti Carbonara
+                          - paragraph [ref=e290]: Ian Fisher
+                  - listitem [ref=e291]:
+                    - article [ref=e292] [cursor=pointer]:
+                      - link "Basil Pesto Samin Nosrat" [ref=e293]:
+                        - /url: /recipes/1019719-basil-pesto
+                        - figure [ref=e294]
+                        - generic [ref=e295]:
+                          - paragraph [ref=e296]: Basil Pesto
+                          - paragraph [ref=e297]: Samin Nosrat
+                  - listitem [ref=e298]:
+                    - article [ref=e299] [cursor=pointer]:
+                      - link "Spring Garden Pasta Salad Julia Moskin" [ref=e300]:
+                        - /url: /recipes/1026697-spring-garden-pasta-salad
+                        - figure [ref=e301]
+                        - generic [ref=e302]:
+                          - paragraph [ref=e303]: Spring Garden Pasta Salad
+                          - paragraph [ref=e304]: Julia Moskin
+                  - listitem [ref=e305]:
+                    - article [ref=e306] [cursor=pointer]:
+                      - link "Basil, Spinach and Arugula Pesto Elaine Louie" [ref=e307]:
+                        - /url: /recipes/1015505-basil-spinach-and-arugula-pesto
+                        - figure [ref=e308]
+                        - generic [ref=e309]:
+                          - paragraph [ref=e310]: Basil, Spinach and Arugula Pesto
+                          - paragraph [ref=e311]: Elaine Louie
+                  - listitem [ref=e312]:
+                    - article [ref=e313] [cursor=pointer]:
+                      - link "Cream Cheese Ramen Kevin Pang" [ref=e314]:
+                        - /url: /recipes/777655304-cream-cheese-ramen
+                        - figure [ref=e315]
+                        - generic [ref=e316]:
+                          - paragraph [ref=e317]: Cream Cheese Ramen
+                          - paragraph [ref=e318]: Kevin Pang
+                - button "Next" [ref=e320] [cursor=pointer]:
+                  - img [ref=e321]
+          - generic [ref=e323]:
+            - heading "Ratings" [level=2] [ref=e324]
+            - generic [ref=e325]:
+              - img [ref=e326]
+              - generic [ref=e328]:
+                - generic [ref=e329]: 5 out of 5
+                - generic [ref=e330]: 1,209 user ratings
+            - generic [ref=e331]:
+              - generic [ref=e333]: Your rating
+              - generic [ref=e335]:
+                - radiogroup "User rating" [ref=e336]:
+                  - radio "1 star"
+                  - generic "1 star" [ref=e337] [cursor=pointer]:
+                    - generic: 1 star
+                    - img [ref=e338]
+                  - radio "2 stars"
+                  - generic "2 stars" [ref=e340] [cursor=pointer]:
+                    - generic: 2 stars
+                    - img [ref=e341]
+                  - radio "3 stars"
+                  - generic "3 stars" [ref=e343] [cursor=pointer]:
+                    - generic: 3 stars
+                    - img [ref=e344]
+                  - radio "4 stars"
+                  - generic "4 stars" [ref=e346] [cursor=pointer]:
+                    - generic: 4 stars
+                    - img [ref=e347]
+                  - radio "5 stars"
+                  - generic "5 stars" [ref=e349] [cursor=pointer]:
+                    - generic: 5 stars
+                    - img [ref=e350]
+                - button "Submit rating" [disabled]:
+                  - generic: Submit
+            - generic [ref=e352]:
+              - generic [ref=e353]: Have you cooked this?
+              - checkbox "Mark as Cooked" [ref=e356] [cursor=pointer]:
+                - img [ref=e357]
+                - generic [ref=e360]: Mark as Cooked
+          - generic [ref=e361]:
+            - heading "Comments" [level=2] [ref=e362]
+            - generic [ref=e363]:
+              - generic [ref=e365]: Add Comment
+              - textbox "Add Comment" [ref=e366]:
+                - /placeholder: Share your notes with other cooks or make a private note for yourself…
+              - generic [ref=e368]:
+                - radiogroup [ref=e369]:
+                  - radio "Public" [checked]
+                  - generic [ref=e370] [cursor=pointer]: Public
+                  - radio "Private"
+                  - generic [ref=e371] [cursor=pointer]: Private
+                - button "Submit" [ref=e373] [cursor=pointer]:
+                  - generic [ref=e374]: Submit
+            - tablist [ref=e376]:
+              - tab "All Comments (255)" [ref=e377] [cursor=pointer]:
+                - generic [ref=e378]:
+                  - text: All Comments
+                  - generic [ref=e379]: (255)
+              - tab "Most Helpful (91)" [selected] [ref=e380] [cursor=pointer]:
+                - generic [ref=e381]:
+                  - text: Most Helpful
+                  - generic [ref=e382]: (91)
+              - tab "Private" [ref=e383] [cursor=pointer]:
+                - generic [ref=e384]: Private
+            - tabpanel "Most Helpful (91)" [ref=e385]:
+              - generic [ref=e386]:
+                - generic [ref=e388]:
+                  - generic [ref=e389]: paulpap
+                  - time [ref=e390]: 2 months ago
+                - generic [ref=e391]:
+                  - paragraph [ref=e392]: Made this last night following the recipe to a T. It was delicious - and a really cool shade of green! We would not suggest making any changes or adjustments. Since it was just two of us, we halved the recipe and it was more than enough. We LOVE Ali Slagle’s pasta recipes!
+                  - button "Is this helpful? 255" [ref=e394] [cursor=pointer]:
+                    - generic [ref=e395]:
+                      - text: Is this helpful?
+                      - generic [ref=e396]:
+                        - img [ref=e397]
+                        - text: "255"
+              - generic [ref=e404]:
+                - generic [ref=e406]:
+                  - generic [ref=e407]: Natalie
+                  - time [ref=e408]: 2 months ago
+                - generic [ref=e409]:
+                  - paragraph [ref=e410]: "@NHMAAZTXCA I’ve literally done this hundreds of times with my $100 cuisenart food processor. Just cut it into ~1in cubes first. Works like a charm."
+                  - button "Is this helpful? 195" [ref=e412] [cursor=pointer]:
+                    - generic [ref=e413]:
+                      - text: Is this helpful?
+                      - generic [ref=e414]:
+                        - img [ref=e415]
+                        - text: "195"
+              - generic [ref=e422]:
+                - generic [ref=e424]:
+                  - generic [ref=e425]: NHMAAZTXCA
+                  - time [ref=e426]: 2 months ago
+                - generic [ref=e427]:
+                  - paragraph [ref=e428]: Do Not try to grate Parmesan in a food processor or blender. I almost ruined my high powered cuisinart. I had to mail it to the repair center. I begged them to fix it because I have all of the disc blades. But they had to break the bowl to dislodge it. Just grate the cheese by hand. It’s not that hard.
+                  - button "Is this helpful? 194" [ref=e430] [cursor=pointer]:
+                    - generic [ref=e431]:
+                      - text: Is this helpful?
+                      - generic [ref=e432]:
+                        - img [ref=e433]
+                        - text: "194"
+            - button "Show more comments" [ref=e441] [cursor=pointer]:
+              - generic [ref=e442]: Show more comments
+        - separator [ref=e443]
+        - generic [ref=e445]:
+          - heading "Recipe Tags" [level=3] [ref=e446]
+          - list [ref=e447]:
+            - listitem [ref=e448]:
+              - link "Cottage Cheese" [ref=e449] [cursor=pointer]:
+                - /url: /tag/cottage%20cheese
+              - text: ","
+            - listitem [ref=e450]:
+              - link "Basil" [ref=e451] [cursor=pointer]:
+                - /url: /tag/basil
+              - text: ","
+            - listitem [ref=e452]:
+              - link "Pastas" [ref=e453] [cursor=pointer]:
+                - /url: /tag/pastas
+              - text: ","
+            - listitem [ref=e454]:
+              - link "Dinner" [ref=e455] [cursor=pointer]:
+                - /url: /tag/dinner
+              - text: ","
+            - listitem [ref=e456]:
+              - link "Main Course" [ref=e457] [cursor=pointer]:
+                - /url: /tag/main%20course
+              - text: ","
+            - listitem [ref=e458]:
+              - link "Vegetarian" [ref=e459] [cursor=pointer]:
+                - /url: /tag/vegetarian
+              - text: ","
+            - listitem [ref=e460]:
+              - link "Parmesan" [ref=e461] [cursor=pointer]:
+                - /url: /tag/parmesan
+              - text: ","
+            - listitem [ref=e462]:
+              - link "Spaghetti" [ref=e463] [cursor=pointer]:
+                - /url: /tag/spaghetti
+              - text: ","
+            - listitem [ref=e464]:
+              - link "Quick" [ref=e465] [cursor=pointer]:
+                - /url: /tag/quick
+              - text: ","
+            - listitem [ref=e466]:
+              - link "Noodles" [ref=e467] [cursor=pointer]:
+                - /url: /tag/noodles
+              - text: ","
+            - listitem [ref=e468]:
+              - link "Stovetop" [ref=e469] [cursor=pointer]:
+                - /url: /tag/stovetop
+              - text: ","
+            - listitem [ref=e470]:
+              - link "Weeknight" [ref=e471] [cursor=pointer]:
+                - /url: /tag/weeknight
+              - text: ","
+            - listitem [ref=e472]:
+              - link "Budget" [ref=e473] [cursor=pointer]:
+                - /url: /tag/budget
+              - text: ","
+            - listitem [ref=e474]:
+              - link "Easy" [ref=e475] [cursor=pointer]:
+                - /url: /tag/easy
+        - generic [ref=e476]:
+          - paragraph [ref=e477]: Advertisement
+          - link "SKIP ADVERTISEMENT" [ref=e479] [cursor=pointer]:
+            - /url: "#after-recipeDetail-mid-2"
+        - separator [ref=e480]
+        - complementary "Related Recipes" [ref=e481]:
+          - generic [ref=e482]:
+            - heading "More From Cheap and Easy Meals" [level=3] [ref=e483]:
+              - text: More From
+              - link "Cheap and Easy Meals" [ref=e484] [cursor=pointer]:
+                - /url: /68861692-nyt-cooking/41238156-cheap-and-easy-dinner-ideas
+            - region "carousel" [ref=e485]:
+              - generic:
+                - button "Previous" [disabled]:
+                  - img
+              - list [ref=e487]:
+                - listitem [ref=e488]:
+                  - generic [ref=e489]:
+                    - article [ref=e490] [cursor=pointer]:
+                      - link "Basil-Butter Pasta Ali Slagle 1138 ratings with an average rating of 4 out of 5 stars 1,138 40 minutes" [ref=e491]:
+                        - /url: /recipes/1024372-basil-butter-pasta
+                        - figure [ref=e492]
+                        - generic [ref=e493]:
+                          - heading "Basil-Butter Pasta" [level=3] [ref=e494]
+                          - paragraph [ref=e495]: Ali Slagle
+                          - generic [ref=e496]:
+                            - generic: 1138 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e497]:
+                              - img [ref=e498]
+                              - img [ref=e500]
+                              - img [ref=e502]
+                              - img [ref=e504]
+                              - img [ref=e506]
+                            - paragraph [ref=e508]: 1,138
+                          - paragraph [ref=e509]: 40 minutes
+                    - checkbox "Save to Recipe Box" [ref=e512] [cursor=pointer]:
+                      - img [ref=e514]
+                - listitem [ref=e516]:
+                  - generic [ref=e517]:
+                    - article [ref=e518] [cursor=pointer]:
+                      - link "Curry Roasted Half Chicken and Peppers Genevieve Ko 277 ratings with an average rating of 5 out of 5 stars 277 50 minutes" [ref=e519]:
+                        - /url: /recipes/1025395-curry-roasted-half-chicken-and-peppers
+                        - figure [ref=e520]
+                        - generic [ref=e521]:
+                          - heading "Curry Roasted Half Chicken and Peppers" [level=3] [ref=e522]
+                          - paragraph [ref=e523]: Genevieve Ko
+                          - generic [ref=e524]:
+                            - generic: 277 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e525]:
+                              - img [ref=e526]
+                              - img [ref=e528]
+                              - img [ref=e530]
+                              - img [ref=e532]
+                              - img [ref=e534]
+                            - paragraph [ref=e536]: "277"
+                          - paragraph [ref=e537]: 50 minutes
+                    - checkbox "Save to Recipe Box" [ref=e540] [cursor=pointer]:
+                      - img [ref=e542]
+                - listitem [ref=e544]:
+                  - generic [ref=e545]:
+                    - article [ref=e546] [cursor=pointer]:
+                      - link "Stuffed Zucchini Lidey Heuck 1739 ratings with an average rating of 5 out of 5 stars 1,739 1 hour 40 minutes" [ref=e547]:
+                        - /url: /recipes/1025484-stuffed-zucchini
+                        - figure [ref=e548]
+                        - generic [ref=e549]:
+                          - heading "Stuffed Zucchini" [level=3] [ref=e550]
+                          - paragraph [ref=e551]: Lidey Heuck
+                          - generic [ref=e552]:
+                            - generic: 1739 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e553]:
+                              - img [ref=e554]
+                              - img [ref=e556]
+                              - img [ref=e558]
+                              - img [ref=e560]
+                              - img [ref=e562]
+                            - paragraph [ref=e564]: 1,739
+                          - paragraph [ref=e565]: 1 hour 40 minutes
+                    - checkbox "Save to Recipe Box" [ref=e568] [cursor=pointer]:
+                      - img [ref=e570]
+                - listitem [ref=e572]:
+                  - generic [ref=e573]:
+                    - article [ref=e574] [cursor=pointer]:
+                      - link "White Bean Shakshuka Ifrah F. Ahmed 762 ratings with an average rating of 5 out of 5 stars 762 45 minutes" [ref=e575]:
+                        - /url: /recipes/765383424-white-bean-shakshuka
+                        - figure [ref=e576]
+                        - generic [ref=e577]:
+                          - heading "White Bean Shakshuka" [level=3] [ref=e578]
+                          - paragraph [ref=e579]: Ifrah F. Ahmed
+                          - generic [ref=e580]:
+                            - generic: 762 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e581]:
+                              - img [ref=e582]
+                              - img [ref=e584]
+                              - img [ref=e586]
+                              - img [ref=e588]
+                              - img [ref=e590]
+                            - paragraph [ref=e592]: "762"
+                          - paragraph [ref=e593]: 45 minutes
+                    - checkbox "Save to Recipe Box" [ref=e596] [cursor=pointer]:
+                      - img [ref=e598]
+                - listitem [ref=e600]:
+                  - generic [ref=e601]:
+                    - article [ref=e602] [cursor=pointer]:
+                      - link "Oven BBQ Chicken Ali Slagle 1170 ratings with an average rating of 5 out of 5 stars 1,170 1 hour" [ref=e603]:
+                        - /url: /recipes/1024374-oven-bbq-chicken
+                        - figure [ref=e604]
+                        - generic [ref=e605]:
+                          - heading "Oven BBQ Chicken" [level=3] [ref=e606]
+                          - paragraph [ref=e607]: Ali Slagle
+                          - generic [ref=e608]:
+                            - generic: 1170 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e609]:
+                              - img [ref=e610]
+                              - img [ref=e612]
+                              - img [ref=e614]
+                              - img [ref=e616]
+                              - img [ref=e618]
+                            - paragraph [ref=e620]: 1,170
+                          - paragraph [ref=e621]: 1 hour
+                    - checkbox "Save to Recipe Box" [ref=e624] [cursor=pointer]
+                - listitem [ref=e625]:
+                  - generic [ref=e626]:
+                    - article [ref=e627] [cursor=pointer]:
+                      - link "Turkey Reuben Sliders Lidey Heuck 102 ratings with an average rating of 5 out of 5 stars 102 40 minutes" [ref=e628]:
+                        - /url: /recipes/777928898-turkey-reuben-sliders
+                        - figure [ref=e629]
+                        - generic [ref=e630]:
+                          - heading "Turkey Reuben Sliders" [level=3] [ref=e631]
+                          - paragraph [ref=e632]: Lidey Heuck
+                          - generic [ref=e633]:
+                            - generic: 102 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e634]:
+                              - img [ref=e635]
+                              - img [ref=e637]
+                              - img [ref=e639]
+                              - img [ref=e641]
+                              - img [ref=e643]
+                            - paragraph [ref=e645]: "102"
+                          - paragraph [ref=e646]: 40 minutes
+                    - checkbox "Save to Recipe Box" [ref=e649] [cursor=pointer]
+                - listitem [ref=e650]:
+                  - generic [ref=e651]:
+                    - article [ref=e652] [cursor=pointer]:
+                      - link "Angel Hair Pasta Dan Pelosi 4312 ratings with an average rating of 5 out of 5 stars 4,312 30 minutes" [ref=e653]:
+                        - /url: /recipes/1025479-angel-hair-pasta
+                        - figure [ref=e654]
+                        - generic [ref=e655]:
+                          - heading "Angel Hair Pasta" [level=3] [ref=e656]
+                          - paragraph [ref=e657]: Dan Pelosi
+                          - generic [ref=e658]:
+                            - generic: 4312 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e659]:
+                              - img [ref=e660]
+                              - img [ref=e662]
+                              - img [ref=e664]
+                              - img [ref=e666]
+                              - img [ref=e668]
+                            - paragraph [ref=e670]: 4,312
+                          - paragraph [ref=e671]: 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e674] [cursor=pointer]
+                - listitem [ref=e675]:
+                  - generic [ref=e676]:
+                    - article [ref=e677] [cursor=pointer]:
+                      - link "Easy Burritos Ali Slagle 4750 ratings with an average rating of 5 out of 5 stars 4,750 50 minutes" [ref=e678]:
+                        - /url: /recipes/1024725-easy-burritos
+                        - figure [ref=e679]:
+                          - img "Easy burritos with ground beef, beans and cheese are cut open and stacked to reveal their melty insides." [ref=e680]
+                          - img [ref=e681]
+                        - generic [ref=e684]:
+                          - heading "Easy Burritos" [level=3] [ref=e685]
+                          - paragraph [ref=e686]: Ali Slagle
+                          - generic [ref=e687]:
+                            - generic: 4750 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e688]:
+                              - img [ref=e689]
+                              - img [ref=e691]
+                              - img [ref=e693]
+                              - img [ref=e695]
+                              - img [ref=e697]
+                            - paragraph [ref=e699]: 4,750
+                          - paragraph [ref=e700]: 50 minutes
+                    - checkbox "Save to Recipe Box" [ref=e703] [cursor=pointer]
+                - listitem [ref=e704]:
+                  - generic [ref=e705]:
+                    - article [ref=e706] [cursor=pointer]:
+                      - link "Chickpeas al Limone With Burrata Hetty Lui McKinnon 2008 ratings with an average rating of 5 out of 5 stars 2,008 25 minutes" [ref=e707]:
+                        - /url: /recipes/768413295-chickpeas-al-limone-with-burrata
+                        - figure [ref=e708]
+                        - generic [ref=e709]:
+                          - heading "Chickpeas al Limone With Burrata" [level=3] [ref=e710]
+                          - paragraph [ref=e711]: Hetty Lui McKinnon
+                          - generic [ref=e712]:
+                            - generic: 2008 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e713]:
+                              - img [ref=e714]
+                              - img [ref=e716]
+                              - img [ref=e718]
+                              - img [ref=e720]
+                              - img [ref=e722]
+                            - paragraph [ref=e724]: 2,008
+                          - paragraph [ref=e725]: 25 minutes
+                    - checkbox "Save to Recipe Box" [ref=e728] [cursor=pointer]
+                - listitem [ref=e729]:
+                  - generic [ref=e730]:
+                    - article [ref=e731] [cursor=pointer]:
+                      - link "Chicken Piccata Meatballs Kay Chun 1147 ratings with an average rating of 5 out of 5 stars 1,147 45 minutes" [ref=e732]:
+                        - /url: /recipes/759853156-chicken-piccata-meatballs
+                        - figure [ref=e733]
+                        - generic [ref=e734]:
+                          - heading "Chicken Piccata Meatballs" [level=3] [ref=e735]
+                          - paragraph [ref=e736]: Kay Chun
+                          - generic [ref=e737]:
+                            - generic: 1147 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e738]:
+                              - img [ref=e739]
+                              - img [ref=e741]
+                              - img [ref=e743]
+                              - img [ref=e745]
+                              - img [ref=e747]
+                            - paragraph [ref=e749]: 1,147
+                          - paragraph [ref=e750]: 45 minutes
+                    - checkbox "Save to Recipe Box" [ref=e753] [cursor=pointer]
+                - listitem [ref=e754]:
+                  - generic [ref=e755]:
+                    - article [ref=e756] [cursor=pointer]:
+                      - link "Spicy Broccoli Rabe Pasta Alexa Weibel 187 ratings with an average rating of 5 out of 5 stars 187 40 minutes" [ref=e757]:
+                        - /url: /recipes/774980183-spicy-creamy-broccoli-rabe-pasta
+                        - figure [ref=e758]
+                        - generic [ref=e759]:
+                          - heading "Spicy Broccoli Rabe Pasta" [level=3] [ref=e760]
+                          - paragraph [ref=e761]: Alexa Weibel
+                          - generic [ref=e762]:
+                            - generic: 187 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e763]:
+                              - img [ref=e764]
+                              - img [ref=e766]
+                              - img [ref=e768]
+                              - img [ref=e770]
+                              - img [ref=e772]
+                            - paragraph [ref=e774]: "187"
+                          - paragraph [ref=e775]: 40 minutes
+                    - checkbox "Save to Recipe Box" [ref=e778] [cursor=pointer]
+                - listitem [ref=e779]:
+                  - generic [ref=e780]:
+                    - article [ref=e781] [cursor=pointer]:
+                      - link "One-Pan Dumplings With Greens Ali Slagle 918 ratings with an average rating of 5 out of 5 stars 918 20 minutes" [ref=e782]:
+                        - /url: /recipes/776879603-one-pan-dumplings-with-greens
+                        - figure [ref=e783]
+                        - generic [ref=e784]:
+                          - heading "One-Pan Dumplings With Greens" [level=3] [ref=e785]
+                          - paragraph [ref=e786]: Ali Slagle
+                          - generic [ref=e787]:
+                            - generic: 918 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e788]:
+                              - img [ref=e789]
+                              - img [ref=e791]
+                              - img [ref=e793]
+                              - img [ref=e795]
+                              - img [ref=e797]
+                            - paragraph [ref=e799]: "918"
+                          - paragraph [ref=e800]: 20 minutes
+                    - checkbox "Save to Recipe Box" [ref=e803] [cursor=pointer]
+                - listitem [ref=e804]:
+                  - generic [ref=e805]:
+                    - article [ref=e806] [cursor=pointer]:
+                      - link "Charred Bok Choy and Cannellini Bean Salad Hetty Lui McKinnon 1444 ratings with an average rating of 5 out of 5 stars 1,444 25 minutes" [ref=e807]:
+                        - /url: /recipes/1025398-charred-bok-choy-and-cannellini-bean-salad
+                        - figure [ref=e808]:
+                          - img "A white platter holds charred bok choy and cannellini bean salad with gold serving utensils." [ref=e809]
+                        - generic [ref=e810]:
+                          - heading "Charred Bok Choy and Cannellini Bean Salad" [level=3] [ref=e811]
+                          - paragraph [ref=e812]: Hetty Lui McKinnon
+                          - generic [ref=e813]:
+                            - generic: 1444 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e814]:
+                              - img [ref=e815]
+                              - img [ref=e817]
+                              - img [ref=e819]
+                              - img [ref=e821]
+                              - img [ref=e823]
+                            - paragraph [ref=e825]: 1,444
+                          - paragraph [ref=e826]: 25 minutes
+                    - checkbox "Save to Recipe Box" [ref=e829] [cursor=pointer]
+                - listitem [ref=e830]:
+                  - generic [ref=e831]:
+                    - article [ref=e832] [cursor=pointer]:
+                      - link "Crispy Baked Tomato-Oregano Chicken Yasmin Fahr 2609 ratings with an average rating of 5 out of 5 stars 2,609 40 minutes" [ref=e833]:
+                        - /url: /recipes/759520285-baked-chicken
+                        - figure [ref=e834]
+                        - generic [ref=e835]:
+                          - heading "Crispy Baked Tomato-Oregano Chicken" [level=3] [ref=e836]
+                          - paragraph [ref=e837]: Yasmin Fahr
+                          - generic [ref=e838]:
+                            - generic: 2609 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e839]:
+                              - img [ref=e840]
+                              - img [ref=e842]
+                              - img [ref=e844]
+                              - img [ref=e846]
+                              - img [ref=e848]
+                            - paragraph [ref=e850]: 2,609
+                          - paragraph [ref=e851]: 40 minutes
+                    - checkbox "Save to Recipe Box" [ref=e854] [cursor=pointer]
+                - listitem [ref=e855]:
+                  - generic [ref=e856]:
+                    - article [ref=e857] [cursor=pointer]:
+                      - link "Spicy Turkey Burgers Andy Baraghani 800 ratings with an average rating of 5 out of 5 stars 800 30 minutes" [ref=e858]:
+                        - /url: /recipes/1025886-spicy-turkey-burgers
+                        - figure [ref=e859]
+                        - generic [ref=e860]:
+                          - heading "Spicy Turkey Burgers" [level=3] [ref=e861]
+                          - paragraph [ref=e862]: Andy Baraghani
+                          - generic [ref=e863]:
+                            - generic: 800 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e864]:
+                              - img [ref=e865]
+                              - img [ref=e867]
+                              - img [ref=e869]
+                              - img [ref=e871]
+                              - img [ref=e873]
+                            - paragraph [ref=e875]: "800"
+                          - paragraph [ref=e876]: 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e879] [cursor=pointer]
+                - listitem [ref=e880]:
+                  - generic [ref=e881]:
+                    - article [ref=e882] [cursor=pointer]:
+                      - link "Quick Tomato, White Bean and Kale Soup Martha Rose Shulman 4596 ratings with an average rating of 5 out of 5 stars 4,596 55 minutes" [ref=e883]:
+                        - /url: /recipes/1014524-quick-tomato-white-bean-and-kale-soup
+                        - figure [ref=e884]
+                        - generic [ref=e885]:
+                          - heading "Quick Tomato, White Bean and Kale Soup" [level=3] [ref=e886]
+                          - paragraph [ref=e887]: Martha Rose Shulman
+                          - generic [ref=e888]:
+                            - generic: 4596 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e889]:
+                              - img [ref=e890]
+                              - img [ref=e892]
+                              - img [ref=e894]
+                              - img [ref=e896]
+                              - img [ref=e898]
+                            - paragraph [ref=e900]: 4,596
+                          - paragraph [ref=e901]: 55 minutes
+                    - checkbox "Save to Recipe Box" [ref=e904] [cursor=pointer]
+              - button "Next" [ref=e905] [cursor=pointer]:
+                - img [ref=e906]
+          - generic [ref=e908]:
+            - heading "Trending On Cooking" [level=3] [ref=e909]
+            - region "carousel" [ref=e910]:
+              - generic:
+                - button "Previous" [disabled]:
+                  - img
+              - list [ref=e912]:
+                - listitem [ref=e913]:
+                  - generic [ref=e914]:
+                    - article [ref=e915] [cursor=pointer]:
+                      - link "Original Plum Torte Marian Burros 21205 ratings with an average rating of 5 out of 5 stars 21,205" [ref=e916]:
+                        - /url: /recipes/3783-original-plum-torte
+                        - figure [ref=e917]:
+                          - img "The original plum torte is cut into wedges on a ceramic plate on a dark blue tablecloth." [ref=e918]
+                        - generic [ref=e919]:
+                          - heading "Original Plum Torte" [level=3] [ref=e920]
+                          - paragraph [ref=e921]: Marian Burros
+                          - generic [ref=e922]:
+                            - generic: 21205 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e923]:
+                              - img [ref=e924]
+                              - img [ref=e926]
+                              - img [ref=e928]
+                              - img [ref=e930]
+                              - img [ref=e932]
+                            - paragraph [ref=e934]: 21,205
+                    - checkbox "Save to Recipe Box" [ref=e937] [cursor=pointer]:
+                      - img [ref=e939]
+                - listitem [ref=e941]:
+                  - generic [ref=e942]:
+                    - article [ref=e943] [cursor=pointer]:
+                      - link "Pan-Seared Ranch Chicken Ali Slagle 2905 ratings with an average rating of 4 out of 5 stars 2,905 About 35 minutes" [ref=e944]:
+                        - /url: /recipes/1020660-pan-seared-ranch-chicken
+                        - figure [ref=e945]
+                        - generic [ref=e946]:
+                          - heading "Pan-Seared Ranch Chicken" [level=3] [ref=e947]
+                          - paragraph [ref=e948]: Ali Slagle
+                          - generic [ref=e949]:
+                            - generic: 2905 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e950]:
+                              - img [ref=e951]
+                              - img [ref=e953]
+                              - img [ref=e955]
+                              - img [ref=e957]
+                              - img [ref=e959]
+                            - paragraph [ref=e961]: 2,905
+                          - paragraph [ref=e962]: About 35 minutes
+                    - checkbox "Save to Recipe Box" [ref=e965] [cursor=pointer]:
+                      - img [ref=e967]
+                - listitem [ref=e969]:
+                  - generic [ref=e970]:
+                    - article [ref=e971] [cursor=pointer]:
+                      - link "Cold Noodle Salad With Spicy Peanut Sauce Hetty Lui McKinnon 9338 ratings with an average rating of 4 out of 5 stars 9,338" [ref=e972]:
+                        - /url: /recipes/1022329-cold-noodle-salad-with-spicy-peanut-sauce
+                        - figure [ref=e973]:
+                          - img "Cold soba noodle salad with spicy peanut sauce is on an oval platter with lime wedges and a small bowl of chopped peanuts nearby." [ref=e974]
+                          - img [ref=e975]
+                        - generic [ref=e978]:
+                          - heading "Cold Noodle Salad With Spicy Peanut Sauce" [level=3] [ref=e979]
+                          - paragraph [ref=e980]: Hetty Lui McKinnon
+                          - generic [ref=e981]:
+                            - generic: 9338 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e982]:
+                              - img [ref=e983]
+                              - img [ref=e985]
+                              - img [ref=e987]
+                              - img [ref=e989]
+                              - img [ref=e991]
+                            - paragraph [ref=e993]: 9,338
+                    - checkbox "Save to Recipe Box" [ref=e996] [cursor=pointer]:
+                      - img [ref=e998]
+                - listitem [ref=e1000]:
+                  - generic [ref=e1001]:
+                    - article [ref=e1002] [cursor=pointer]:
+                      - link "Chive Pesto Potato Salad Kay Chun 1398 ratings with an average rating of 4 out of 5 stars 1,398 45 minutes" [ref=e1003]:
+                        - /url: /recipes/1024150-chive-pesto-potato-salad
+                        - figure [ref=e1004]:
+                          - img "An overhead image of halved potatoes coated in an herby pesto and tossed with green beans." [ref=e1005]
+                        - generic [ref=e1006]:
+                          - heading "Chive Pesto Potato Salad" [level=3] [ref=e1007]
+                          - paragraph [ref=e1008]: Kay Chun
+                          - generic [ref=e1009]:
+                            - generic: 1398 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e1010]:
+                              - img [ref=e1011]
+                              - img [ref=e1013]
+                              - img [ref=e1015]
+                              - img [ref=e1017]
+                              - img [ref=e1019]
+                            - paragraph [ref=e1021]: 1,398
+                          - paragraph [ref=e1022]: 45 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1025] [cursor=pointer]:
+                      - img [ref=e1027]
+                - listitem [ref=e1029]:
+                  - generic [ref=e1030]:
+                    - article [ref=e1031] [cursor=pointer]:
+                      - link "Grilled Steak With Sauce Rof Yewande Komolafe 513 ratings with an average rating of 4 out of 5 stars 513 45 minutes" [ref=e1032]:
+                        - /url: /recipes/1024373-grilled-steak-with-sauce-rof
+                        - figure [ref=e1033]
+                        - generic [ref=e1034]:
+                          - heading "Grilled Steak With Sauce Rof" [level=3] [ref=e1035]
+                          - paragraph [ref=e1036]: Yewande Komolafe
+                          - generic [ref=e1037]:
+                            - generic: 513 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e1038]:
+                              - img [ref=e1039]
+                              - img [ref=e1041]
+                              - img [ref=e1043]
+                              - img [ref=e1045]
+                              - img [ref=e1047]
+                            - paragraph [ref=e1049]: "513"
+                          - paragraph [ref=e1050]: 45 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1053] [cursor=pointer]
+                - listitem [ref=e1054]:
+                  - generic [ref=e1055]:
+                    - article [ref=e1056] [cursor=pointer]:
+                      - link "Coconut-Dill Salmon With Green Beans and Corn Yewande Komolafe 1680 ratings with an average rating of 5 out of 5 stars 1,680 40 minutes" [ref=e1057]:
+                        - /url: /recipes/1024460-coconut-dill-salmon-with-green-beans-and-corn
+                        - figure [ref=e1058]
+                        - generic [ref=e1059]:
+                          - heading "Coconut-Dill Salmon With Green Beans and Corn" [level=3] [ref=e1060]
+                          - paragraph [ref=e1061]: Yewande Komolafe
+                          - generic [ref=e1062]:
+                            - generic: 1680 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1063]:
+                              - img [ref=e1064]
+                              - img [ref=e1066]
+                              - img [ref=e1068]
+                              - img [ref=e1070]
+                              - img [ref=e1072]
+                            - paragraph [ref=e1074]: 1,680
+                          - paragraph [ref=e1075]: 40 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1078] [cursor=pointer]
+                - listitem [ref=e1079]:
+                  - generic [ref=e1080]:
+                    - article [ref=e1081] [cursor=pointer]:
+                      - link "Ice Cream With Olive Oil and Dates Ali Slagle 854 ratings with an average rating of 5 out of 5 stars 854" [ref=e1082]:
+                        - /url: /recipes/1025654-ice-cream-with-olive-oil-and-dates
+                        - figure [ref=e1083]
+                        - generic [ref=e1084]:
+                          - heading "Ice Cream With Olive Oil and Dates" [level=3] [ref=e1085]
+                          - paragraph [ref=e1086]: Ali Slagle
+                          - generic [ref=e1087]:
+                            - generic: 854 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1088]:
+                              - img [ref=e1089]
+                              - img [ref=e1091]
+                              - img [ref=e1093]
+                              - img [ref=e1095]
+                              - img [ref=e1097]
+                            - paragraph [ref=e1099]: "854"
+                    - checkbox "Save to Recipe Box" [ref=e1102] [cursor=pointer]
+                - listitem [ref=e1103]:
+                  - generic [ref=e1104]:
+                    - article [ref=e1105] [cursor=pointer]:
+                      - link "House Dressing Samin Nosrat 2957 ratings with an average rating of 5 out of 5 stars 2,957 10 minutes" [ref=e1106]:
+                        - /url: /recipes/1027003-house-dressing
+                        - figure [ref=e1107]:
+                          - img [ref=e1108]
+                        - generic [ref=e1111]:
+                          - heading "House Dressing" [level=3] [ref=e1112]
+                          - paragraph [ref=e1113]: Samin Nosrat
+                          - generic [ref=e1114]:
+                            - generic: 2957 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1115]:
+                              - img [ref=e1116]
+                              - img [ref=e1118]
+                              - img [ref=e1120]
+                              - img [ref=e1122]
+                              - img [ref=e1124]
+                            - paragraph [ref=e1126]: 2,957
+                          - paragraph [ref=e1127]: 10 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1130] [cursor=pointer]
+                - listitem [ref=e1131]:
+                  - generic [ref=e1132]:
+                    - article [ref=e1133] [cursor=pointer]:
+                      - link "Suya Spiced Grilled Chicken Thighs With Nectarines Yewande Komolafe 149 ratings with an average rating of 5 out of 5 stars 149 50 minutes" [ref=e1134]:
+                        - /url: /recipes/1027038-suya-spiced-grilled-chicken-thighs-with-nectarines
+                        - figure [ref=e1135]
+                        - generic [ref=e1136]:
+                          - heading "Suya Spiced Grilled Chicken Thighs With Nectarines" [level=3] [ref=e1137]
+                          - paragraph [ref=e1138]: Yewande Komolafe
+                          - generic [ref=e1139]:
+                            - generic: 149 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1140]:
+                              - img [ref=e1141]
+                              - img [ref=e1143]
+                              - img [ref=e1145]
+                              - img [ref=e1147]
+                              - img [ref=e1149]
+                            - paragraph [ref=e1151]: "149"
+                          - paragraph [ref=e1152]: 50 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1155] [cursor=pointer]
+                - listitem [ref=e1156]:
+                  - generic [ref=e1157]:
+                    - article [ref=e1158] [cursor=pointer]:
+                      - link "Kale Caesar Pasta Salad Dan Pelosi 1359 ratings with an average rating of 5 out of 5 stars 1,359" [ref=e1159]:
+                        - /url: /recipes/1027092-kale-caesar-pasta-salad
+                        - figure [ref=e1160]
+                        - generic [ref=e1161]:
+                          - heading "Kale Caesar Pasta Salad" [level=3] [ref=e1162]
+                          - paragraph [ref=e1163]: Dan Pelosi
+                          - generic [ref=e1164]:
+                            - generic: 1359 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1165]:
+                              - img [ref=e1166]
+                              - img [ref=e1168]
+                              - img [ref=e1170]
+                              - img [ref=e1172]
+                              - img [ref=e1174]
+                            - paragraph [ref=e1176]: 1,359
+                    - checkbox "Save to Recipe Box" [ref=e1179] [cursor=pointer]
+                - listitem [ref=e1180]:
+                  - generic [ref=e1181]:
+                    - article [ref=e1182] [cursor=pointer]:
+                      - link "Toasted Coconut Rice Salad Kayla Hoang 870 ratings with an average rating of 5 out of 5 stars 870 45 minutes" [ref=e1183]:
+                        - /url: /recipes/769183554-toasted-coconut-rice-salad
+                        - figure [ref=e1184]
+                        - generic [ref=e1185]:
+                          - heading "Toasted Coconut Rice Salad" [level=3] [ref=e1186]
+                          - paragraph [ref=e1187]: Kayla Hoang
+                          - generic [ref=e1188]:
+                            - generic: 870 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1189]:
+                              - img [ref=e1190]
+                              - img [ref=e1192]
+                              - img [ref=e1194]
+                              - img [ref=e1196]
+                              - img [ref=e1198]
+                            - paragraph [ref=e1200]: "870"
+                          - paragraph [ref=e1201]: 45 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1204] [cursor=pointer]
+                - listitem [ref=e1205]:
+                  - generic [ref=e1206]:
+                    - article [ref=e1207] [cursor=pointer]:
+                      - link "Tahini and Chocolate Chunk Cake Samantha Seneviratne 155 ratings with an average rating of 5 out of 5 stars 155 1 hour 30 minutes" [ref=e1208]:
+                        - /url: /recipes/775762235-tahini-and-chocolate-chunk-cake
+                        - figure [ref=e1209]
+                        - generic [ref=e1210]:
+                          - heading "Tahini and Chocolate Chunk Cake" [level=3] [ref=e1211]
+                          - paragraph [ref=e1212]: Samantha Seneviratne
+                          - generic [ref=e1213]:
+                            - generic: 155 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1214]:
+                              - img [ref=e1215]
+                              - img [ref=e1217]
+                              - img [ref=e1219]
+                              - img [ref=e1221]
+                              - img [ref=e1223]
+                            - paragraph [ref=e1225]: "155"
+                          - paragraph [ref=e1226]: 1 hour 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1229] [cursor=pointer]
+                - listitem [ref=e1230]:
+                  - generic [ref=e1231]:
+                    - article [ref=e1232] [cursor=pointer]:
+                      - link "Asparagus and Sausage Pasta Ali Slagle 494 ratings with an average rating of 5 out of 5 stars 494 40 minutes" [ref=e1233]:
+                        - /url: /recipes/777913309-asparagus-and-sausage-pasta
+                        - figure [ref=e1234]
+                        - generic [ref=e1235]:
+                          - heading "Asparagus and Sausage Pasta" [level=3] [ref=e1236]
+                          - paragraph [ref=e1237]: Ali Slagle
+                          - generic [ref=e1238]:
+                            - generic: 494 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1239]:
+                              - img [ref=e1240]
+                              - img [ref=e1242]
+                              - img [ref=e1244]
+                              - img [ref=e1246]
+                              - img [ref=e1248]
+                            - paragraph [ref=e1250]: "494"
+                          - paragraph [ref=e1251]: 40 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1254] [cursor=pointer]
+                - listitem [ref=e1255]:
+                  - generic [ref=e1256]:
+                    - article [ref=e1257] [cursor=pointer]:
+                      - link "Beef, Asparagus and Tofu Stir-Fry Kay Chun 102 ratings with an average rating of 5 out of 5 stars 102 30 minutes" [ref=e1258]:
+                        - /url: /recipes/778503009-beef-asparagus-and-tofu-stir-fry
+                        - figure [ref=e1259]
+                        - generic [ref=e1260]:
+                          - heading "Beef, Asparagus and Tofu Stir-Fry" [level=3] [ref=e1261]
+                          - paragraph [ref=e1262]: Kay Chun
+                          - generic [ref=e1263]:
+                            - generic: 102 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1264]:
+                              - img [ref=e1265]
+                              - img [ref=e1267]
+                              - img [ref=e1269]
+                              - img [ref=e1271]
+                              - img [ref=e1273]
+                            - paragraph [ref=e1275]: "102"
+                          - paragraph [ref=e1276]: 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1279] [cursor=pointer]
+                - listitem [ref=e1280]:
+                  - generic [ref=e1281]:
+                    - article [ref=e1282] [cursor=pointer]:
+                      - link "Blueberry Lemon Layer Cake Adrianna Adarme 12 ratings with an average rating of 4 out of 5 stars 12 1 hour 30 minutes" [ref=e1283]:
+                        - /url: /recipes/779237981-blueberry-lemon-layer-cake
+                        - figure [ref=e1284]
+                        - generic [ref=e1285]:
+                          - heading "Blueberry Lemon Layer Cake" [level=3] [ref=e1286]
+                          - paragraph [ref=e1287]: Adrianna Adarme
+                          - generic [ref=e1288]:
+                            - generic: 12 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e1289]:
+                              - img [ref=e1290]
+                              - img [ref=e1292]
+                              - img [ref=e1294]
+                              - img [ref=e1296]
+                              - img [ref=e1298]
+                            - paragraph [ref=e1300]: "12"
+                          - paragraph [ref=e1301]: 1 hour 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1304] [cursor=pointer]
+                - listitem [ref=e1305]:
+                  - generic [ref=e1306]:
+                    - article [ref=e1307] [cursor=pointer]:
+                      - link "Chile Tofu Hetty Lui McKinnon 68 ratings with an average rating of 5 out of 5 stars 68 35 minutes" [ref=e1308]:
+                        - /url: /recipes/779397405-chile-tofu
+                        - figure [ref=e1309]
+                        - generic [ref=e1310]:
+                          - heading "Chile Tofu" [level=3] [ref=e1311]
+                          - paragraph [ref=e1312]: Hetty Lui McKinnon
+                          - generic [ref=e1313]:
+                            - generic: 68 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1314]:
+                              - img [ref=e1315]
+                              - img [ref=e1317]
+                              - img [ref=e1319]
+                              - img [ref=e1321]
+                              - img [ref=e1323]
+                            - paragraph [ref=e1325]: "68"
+                          - paragraph [ref=e1326]: 35 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1329] [cursor=pointer]
+              - button "Next" [ref=e1330] [cursor=pointer]:
+                - img [ref=e1331]
+    - contentinfo [ref=e1333]:
+      - generic [ref=e1335]:
+        - generic [ref=e1337]:
+          - heading "Get Our Newsletter" [level=3] [ref=e1338]
+          - paragraph [ref=e1339]: Get recipes, tips and NYT special offers delivered straight to your inbox.
+          - paragraph [ref=e1340]:
+            - text: Opt out or
+            - link "contact us" [ref=e1341] [cursor=pointer]:
+              - /url: https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us
+            - text: anytime. See our
+            - link "Privacy Policy" [ref=e1342] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/privacy-policy
+            - text: .
+        - generic [ref=e1343]:
+          - heading "Follow Us" [level=3] [ref=e1344]
+          - generic [ref=e1345]:
+            - link "Visit NYT Cooking on Instagram" [ref=e1346] [cursor=pointer]:
+              - /url: https://www.instagram.com/nytcooking/
+              - img [ref=e1347]
+            - link "Visit NYT Cooking on Facebook" [ref=e1351] [cursor=pointer]:
+              - /url: https://www.facebook.com/nytcooking
+              - img [ref=e1352]
+            - link "Visit NYT Cooking on YouTube" [ref=e1354] [cursor=pointer]:
+              - /url: https://www.youtube.com/nytcooking
+              - img [ref=e1355]
+            - link "Visit NYT Cooking on TikTok" [ref=e1357] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nytcooking
+              - img [ref=e1358]
+            - link "Visit NYT Cooking on Pinterest" [ref=e1361] [cursor=pointer]:
+              - /url: https://www.pinterest.com/nytcooking/
+              - img [ref=e1362]
+        - generic [ref=e1365]:
+          - link "Download the iOS NYT Cooking app" [ref=e1366] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/nyt-cooking/id911422904
+            - img [ref=e1367]
+          - link "Download the Android NYT Cooking app" [ref=e1372] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.nytimes.cooking
+            - img [ref=e1373]
+      - generic [ref=e1382]:
+        - generic [ref=e1384]:
+          - heading "About Us" [level=3] [ref=e1385]
+          - paragraph [ref=e1386]:
+            - text: New York Times Cooking offers subscribers recipes, advice and inspiration for better everyday cooking. From easy weeknight dinners to holiday meals, our recipes have been tested and perfected to meet the needs of home cooks of all levels.
+            - link "Subscribe now" [ref=e1387] [cursor=pointer]:
+              - /url: https://www.nytimes.com/subscriptions/Multiproduct/lp8R3WU.html?campaignId=79RLU
+            - text: for full access.
+        - generic [ref=e1388]:
+          - generic [ref=e1389]:
+            - generic [ref=e1390]:
+              - heading "Learn More" [level=3] [ref=e1391]
+              - list [ref=e1392]:
+                - listitem [ref=e1393]:
+                  - link "About Us" [ref=e1394] [cursor=pointer]:
+                    - /url: /about-us
+                - listitem [ref=e1395]:
+                  - link "FAQ" [ref=e1396] [cursor=pointer]:
+                    - /url: https://help.nytimes.com/hc/en-us/sections/360011047512
+                - listitem [ref=e1397]:
+                  - link "NYTimes.com/food" [ref=e1398] [cursor=pointer]:
+                    - /url: https://www.nytimes.com/section/food
+            - generic [ref=e1399]:
+              - heading "Shop" [level=3] [ref=e1400]
+              - list [ref=e1401]:
+                - listitem [ref=e1402]:
+                  - link "Gift Subscription" [ref=e1403] [cursor=pointer]:
+                    - /url: https://www.nytimes.com/subscriptions/Multiproduct/cooking_gift.html?campaignId=7HYRF
+                - listitem [ref=e1404]:
+                  - link "Merchandise" [ref=e1405] [cursor=pointer]:
+                    - /url: https://store.nytimes.com/collections/cooking-collection?utm_source=nyt_cooking&utm_medium=referral&utm_campaign=cooking_collection&utm_content=footer
+                - listitem [ref=e1406]:
+                  - link "Send Us Feedback" [ref=e1407] [cursor=pointer]:
+                    - /url: mailto:cookingcare@nytimes.com
+          - generic [ref=e1409]:
+            - heading "Recipes" [level=3] [ref=e1410]
+            - list [ref=e1411]:
+              - listitem [ref=e1412]:
+                - link "From Our Newsletters" [ref=e1413] [cursor=pointer]:
+                  - /url: /topics/what-to-cook-this-week
+              - listitem [ref=e1414]:
+                - link "Weeknight" [ref=e1415] [cursor=pointer]:
+                  - /url: /topics/easy-weeknight
+              - listitem [ref=e1416]:
+                - link "Pasta" [ref=e1417] [cursor=pointer]:
+                  - /url: /topics/our-best-pasta-recipes
+              - listitem [ref=e1418]:
+                - link "Dinner" [ref=e1419] [cursor=pointer]:
+                  - /url: /topics/dinner-recipes
+              - listitem [ref=e1420]:
+                - link "Healthy" [ref=e1421] [cursor=pointer]:
+                  - /url: /topics/healthy-recipes
+              - listitem [ref=e1422]:
+                - link "Vegetarian" [ref=e1423] [cursor=pointer]:
+                  - /url: /topics/vegetarian
+              - listitem [ref=e1424]:
+                - link "Vegan" [ref=e1425] [cursor=pointer]:
+                  - /url: /topics/vegan-recipes
+              - listitem [ref=e1426]:
+                - link "Thanksgiving" [ref=e1427] [cursor=pointer]:
+                  - /url: /thanksgiving
+              - listitem [ref=e1428]:
+                - link "Christmas" [ref=e1429] [cursor=pointer]:
+                  - /url: /christmas
+        - list [ref=e1432]:
+          - listitem [ref=e1433]:
+            - link "© 2026 The New York Times Company" [ref=e1434] [cursor=pointer]:
+              - /url: http://www.nytco.com
+              - text: ©
+              - generic [ref=e1436]: 2026 The New York Times Company
+          - listitem [ref=e1437]:
+            - link "Terms of Service" [ref=e1438] [cursor=pointer]:
+              - /url: https://help.nytimes.com/115014893428-Terms-of-Service/
+          - listitem [ref=e1439]:
+            - link "Privacy Policy" [ref=e1440] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/privacy-policy
+          - listitem [ref=e1441]:
+            - link "Cookie Policy" [ref=e1442] [cursor=pointer]:
+              - /url: https://nytimes.com/cookie-policy
+          - listitem [ref=e1443]:
+            - link "Your Privacy Choices" [ref=e1444] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/your-privacy-choices
+              - img [ref=e1445]
+              - text: Your Privacy Choices
+  - alert [ref=e1448]

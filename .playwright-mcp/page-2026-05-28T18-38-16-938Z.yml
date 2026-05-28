@@ -1,0 +1,1282 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - link "Home" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img [ref=e9]
+        - generic [ref=e11]:
+          - search [ref=e13]:
+            - generic [ref=e14]:
+              - generic [ref=e15]:
+                - img [ref=e16]
+                - searchbox "What would you like to cook?" [ref=e18]
+              - button "Clear Search" [ref=e19] [cursor=pointer]:
+                - img [ref=e21]
+          - navigation "Account"
+      - navigation "Main" [ref=e25]:
+        - button "What to Cook" [ref=e27] [cursor=pointer]
+        - button "Recipes" [ref=e29] [cursor=pointer]
+        - button "Ingredients" [ref=e31] [cursor=pointer]
+        - button "Occasions" [ref=e33] [cursor=pointer]
+        - button "Articles" [ref=e35] [cursor=pointer]
+        - button "About" [ref=e37] [cursor=pointer]
+    - main [ref=e39]:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e44]:
+              - heading "Beef, Asparagus and Tofu Stir-Fry" [level=1] [ref=e45]
+              - heading "By Kay Chun" [level=2] [ref=e47]:
+                - text: By
+                - link "Kay Chun" [ref=e48] [cursor=pointer]:
+                  - /url: /author/kay-chun
+              - paragraph [ref=e49]: Updated May 19, 2026
+            - region "Recipe media" [ref=e51]:
+              - list [ref=e52]:
+                - listitem "1 of 1" [ref=e53]:
+                  - 'figure "David Malosh for The New York Times. Food Stylist: Hadas Smirnoff." [ref=e54]':
+                    - button "Enter fullscreen" [ref=e57] [cursor=pointer]:
+                      - img [ref=e58]
+                    - generic [ref=e60]: "David Malosh for The New York Times. Food Stylist: Hadas Smirnoff."
+              - generic: Media 1 of 1
+            - generic [ref=e62]:
+              - generic [ref=e63]:
+                - term [ref=e64]: Ready In
+                - definition [ref=e65]: 30 min
+              - term [ref=e66]: Rating
+              - definition [ref=e67]:
+                - generic [ref=e68]: "5"
+                - generic [ref=e69]:
+                  - img [ref=e70]
+                  - img [ref=e72]
+                  - img [ref=e74]
+                  - img [ref=e76]
+                  - img [ref=e78]
+                - generic [ref=e80]: (102)
+              - term [ref=e81]: Comments
+              - definition [ref=e82]:
+                - link "Read 50 comments" [ref=e83] [cursor=pointer]:
+                  - /url: "#notes_section"
+                  - text: Read 50 comments
+                  - img [ref=e84]
+            - paragraph [ref=e91]: This quick stir-fry combines ground beef with crumbled tofu for a meal that feels lighter but still tastes rich, thanks to deeply savory oyster sauce spiked with garlic and ginger. High-heat cooking helps develop flavor by caramelizing tofu in the beef drippings and grassy asparagus adds crisp fresh bites. Turn leftovers into a fast meal by tossing with cooked noodles (like soba or udon) and chopped cucumbers for crunch.
+            - list [ref=e92]:
+              - listitem [ref=e93]:
+                - button "Save" [ref=e95] [cursor=pointer]:
+                  - img [ref=e96]
+                  - generic [ref=e98]: Save
+              - listitem [ref=e99]:
+                - button "Gift Recipe" [ref=e101] [cursor=pointer]:
+                  - img [ref=e102]
+                  - generic [ref=e104]: Give
+              - listitem [ref=e105]:
+                - button "Share Recipe" [ref=e107] [cursor=pointer]:
+                  - img [ref=e108]
+              - listitem [ref=e110]:
+                - button "Print Recipe" [ref=e113] [cursor=pointer]:
+                  - img [ref=e114]
+          - generic [ref=e116]:
+            - paragraph [ref=e117]: Advertisement
+            - link "SKIP ADVERTISEMENT" [ref=e119] [cursor=pointer]:
+              - /url: "#after-recipeDetail-mid-1"
+          - generic [ref=e120]:
+            - generic [ref=e122]:
+              - heading "Ingredients" [level=2] [ref=e123]
+              - generic [ref=e124]:
+                - generic [ref=e125]: "Yield:"
+                - generic [ref=e126]: 4 servings
+              - list [ref=e127]:
+                - listitem [ref=e128]:
+                  - paragraph [ref=e129]: 2 tablespoons oyster sauce
+                - listitem [ref=e130]:
+                  - paragraph [ref=e131]: 2 tablespoons low-sodium chicken broth
+                - listitem [ref=e132]:
+                  - paragraph [ref=e133]: 1 tablespoon low-sodium soy sauce
+                - listitem [ref=e134]:
+                  - paragraph [ref=e135]: 1 teaspoon distilled white vinegar
+                - listitem [ref=e136]:
+                  - paragraph [ref=e137]: 1 teaspoon turbinado or granulated sugar
+                - listitem [ref=e138]:
+                  - paragraph [ref=e139]: ¼ teaspoon toasted sesame oil
+                - listitem [ref=e140]:
+                  - paragraph [ref=e141]: 1 teaspoon cornstarch
+                - listitem [ref=e142]:
+                  - paragraph [ref=e143]: 2 tablespoons safflower, sunflower or other neutral oil
+                - listitem [ref=e144]:
+                  - paragraph [ref=e145]: 8 ounces ground beef (80 percent lean)
+                - listitem [ref=e146]:
+                  - paragraph [ref=e147]: 4 scallions, thinly sliced (½ cup), plus more for garnish
+                - listitem [ref=e148]:
+                  - paragraph [ref=e149]: Salt and pepper
+                - listitem [ref=e150]:
+                  - paragraph [ref=e151]: 8 ounces firm tofu, crumbled and patted dry with paper towels (1½ cups)
+                - listitem [ref=e152]:
+                  - paragraph [ref=e153]: 12 ounces asparagus, trimmed and sliced into ½-inch pieces
+                - listitem [ref=e154]:
+                  - paragraph [ref=e155]: 3 garlic cloves, minced
+                - listitem [ref=e156]:
+                  - paragraph [ref=e157]: 1 tablespoon minced peeled ginger
+                - listitem [ref=e158]:
+                  - paragraph [ref=e159]: Warm rice and hot sauce (optional), for serving
+              - generic [ref=e160]:
+                - button "Add ingredients to Grocery List" [ref=e162] [cursor=pointer]:
+                  - generic [ref=e163]: Add ingredients to Grocery List
+                - link "Ingredient Substitution Guide" [ref=e164] [cursor=pointer]:
+                  - /url: /article/ingredient-substitutions
+            - generic [ref=e167]:
+              - heading "Preparation" [level=2] [ref=e168]
+              - list [ref=e169]:
+                - listitem [ref=e170]:
+                  - generic [ref=e171]: Step 1
+                  - paragraph [ref=e173]: In a small bowl, combine oyster sauce, broth, soy sauce, vinegar, sugar and sesame oil. Add cornstarch and whisk until smooth.
+                - listitem [ref=e174]:
+                  - generic [ref=e175]: Step 2
+                  - paragraph [ref=e177]: In a 12-inch nonstick skillet, heat 1 tablespoon of the neutral oil over medium-high. Add beef and ¼ cup of the scallions, season with salt and pepper and cook, stirring and breaking up the meat, until browned, about 3 minutes. Using a slotted spoon, transfer beef mixture to a plate, leaving any oil behind.
+                - listitem [ref=e178]:
+                  - generic [ref=e179]: Step 3
+                  - paragraph [ref=e181]: Add the remaining 1 tablespoon neutral oil and tofu to the skillet, season with salt and pepper and cook, stirring occasionally, until tofu is dry and golden, about 5 minutes. Add asparagus, garlic and ginger and cook, stirring occasionally, until asparagus is crisp-tender, about 2 minutes. Add beef (and any accumulated juices) and oyster sauce mixture and stir until sauce is absorbed, about 1 minute. Stir in the remaining ¼ cup scallions.
+                - listitem [ref=e182]:
+                  - generic [ref=e183]: Step 4
+                  - paragraph [ref=e185]: Transfer to a serving dish and garnish with scallions. Serve warm with rice and hot sauce on the side, if using.
+                - listitem [ref=e186]:
+                  - heading [level=3]
+                  - list
+        - generic [ref=e187]:
+          - complementary [ref=e188]:
+            - generic [ref=e189]:
+              - heading "Similar Recipes" [level=3] [ref=e190]
+              - region "carousel" [ref=e191]:
+                - generic:
+                  - button "Previous" [disabled]:
+                    - img
+                - list [ref=e193]:
+                  - listitem [ref=e194]:
+                    - article [ref=e195] [cursor=pointer]:
+                      - link "Black Pepper Stir-Fried Tofu and Asparagus Kay Chun" [ref=e196]:
+                        - /url: /recipes/1023194-black-pepper-stir-fried-tofu-and-asparagus
+                        - figure [ref=e197]
+                        - generic [ref=e198]:
+                          - paragraph [ref=e199]: Black Pepper Stir-Fried Tofu and Asparagus
+                          - paragraph [ref=e200]: Kay Chun
+                  - listitem [ref=e201]:
+                    - article [ref=e202] [cursor=pointer]:
+                      - link "Miso-Chile Asparagus With Tofu Melissa Clark" [ref=e203]:
+                        - /url: /recipes/1025327-miso-chile-asparagus-with-tofu
+                        - figure [ref=e204]
+                        - generic [ref=e205]:
+                          - paragraph [ref=e206]: Miso-Chile Asparagus With Tofu
+                          - paragraph [ref=e207]: Melissa Clark
+                  - listitem [ref=e208]:
+                    - article [ref=e209] [cursor=pointer]:
+                      - link "Crispy Tofu With Cashews and Blistered Snap Peas Yewande Komolafe" [ref=e210]:
+                        - /url: /recipes/1021200-crispy-tofu-with-cashews-and-blistered-snap-peas
+                        - figure [ref=e211]:
+                          - img "Two white plates hold white rice topped with crispy tofu and cashews, with small piles of blistered snap peas on the side." [ref=e212]
+                        - generic [ref=e213]:
+                          - paragraph [ref=e214]: Crispy Tofu With Cashews and Blistered Snap Peas
+                          - paragraph [ref=e215]: Yewande Komolafe
+                  - listitem [ref=e216]:
+                    - article [ref=e217] [cursor=pointer]:
+                      - link "Stir-Fried Tofu and Peppers Martha Rose Shulman" [ref=e218]:
+                        - /url: /recipes/1012782-stir-fried-tofu-and-peppers
+                        - figure [ref=e219]
+                        - generic [ref=e220]:
+                          - paragraph [ref=e221]: Stir-Fried Tofu and Peppers
+                          - paragraph [ref=e222]: Martha Rose Shulman
+                  - listitem [ref=e223]:
+                    - article [ref=e224] [cursor=pointer]:
+                      - link "Turmeric-Black Pepper Chicken With Asparagus Ali Slagle" [ref=e225]:
+                        - /url: /recipes/1020970-turmeric-black-pepper-chicken-with-asparagus
+                        - figure [ref=e226]
+                        - generic [ref=e227]:
+                          - paragraph [ref=e228]: Turmeric-Black Pepper Chicken With Asparagus
+                          - paragraph [ref=e229]: Ali Slagle
+                  - listitem [ref=e230]:
+                    - article [ref=e231] [cursor=pointer]:
+                      - link "Tofu Marsala With Asparagus Kay Chun" [ref=e232]:
+                        - /url: /recipes/1024032-tofu-marsala-with-asparagus
+                        - figure [ref=e233]
+                        - generic [ref=e234]:
+                          - paragraph [ref=e235]: Tofu Marsala With Asparagus
+                          - paragraph [ref=e236]: Kay Chun
+                  - listitem [ref=e237]:
+                    - article [ref=e238] [cursor=pointer]:
+                      - link "Pan-Seared Asparagus With Cashews Melissa Clark" [ref=e239]:
+                        - /url: /recipes/1025328-pan-seared-asparagus-with-cashews
+                        - figure [ref=e240]:
+                          - img "A shallow white bowl holds white rice topped with pan-seared asparagus with cashews, a runny-yolked egg and a lime wedge." [ref=e241]
+                        - generic [ref=e242]:
+                          - paragraph [ref=e243]: Pan-Seared Asparagus With Cashews
+                          - paragraph [ref=e244]: Melissa Clark
+                  - listitem [ref=e245]:
+                    - article [ref=e246] [cursor=pointer]:
+                      - link "Asparagus and Sausage Pasta Ali Slagle" [ref=e247]:
+                        - /url: /recipes/777913309-asparagus-and-sausage-pasta
+                        - figure [ref=e248]
+                        - generic [ref=e249]:
+                          - paragraph [ref=e250]: Asparagus and Sausage Pasta
+                          - paragraph [ref=e251]: Ali Slagle
+                  - listitem [ref=e252]:
+                    - article [ref=e253] [cursor=pointer]:
+                      - link "Chile Tofu Hetty Lui McKinnon" [ref=e254]:
+                        - /url: /recipes/779397405-chile-tofu
+                        - figure [ref=e255]
+                        - generic [ref=e256]:
+                          - paragraph [ref=e257]: Chile Tofu
+                          - paragraph [ref=e258]: Hetty Lui McKinnon
+                  - listitem [ref=e259]:
+                    - article [ref=e260] [cursor=pointer]:
+                      - link "Lemon-Pepper Tofu and Snap Peas Ali Slagle" [ref=e261]:
+                        - /url: /recipes/1025963-lemon-pepper-tofu-and-snap-peas
+                        - figure [ref=e262]
+                        - generic [ref=e263]:
+                          - paragraph [ref=e264]: Lemon-Pepper Tofu and Snap Peas
+                          - paragraph [ref=e265]: Ali Slagle
+                  - listitem [ref=e266]:
+                    - article [ref=e267] [cursor=pointer]:
+                      - link "Tofu and Asparagus With Frizzled Leeks Ali Slagle" [ref=e268]:
+                        - /url: /recipes/1024228-tofu-and-asparagus-with-frizzled-leeks
+                        - figure [ref=e269]
+                        - generic [ref=e270]:
+                          - paragraph [ref=e271]: Tofu and Asparagus With Frizzled Leeks
+                          - paragraph [ref=e272]: Ali Slagle
+                  - listitem [ref=e273]:
+                    - article [ref=e274] [cursor=pointer]:
+                      - link "Asparagus and Tofu With Black Bean Sauce Hetty Lui McKinnon" [ref=e275]:
+                        - /url: /recipes/1026925-asparagus-and-tofu-with-black-bean-sauce
+                        - figure [ref=e276]
+                        - generic [ref=e277]:
+                          - paragraph [ref=e278]: Asparagus and Tofu With Black Bean Sauce
+                          - paragraph [ref=e279]: Hetty Lui McKinnon
+                  - listitem [ref=e280]:
+                    - article [ref=e281] [cursor=pointer]:
+                      - link "Butter-Soy Chicken and Asparagus Stir-Fry Kevin Pang" [ref=e282]:
+                        - /url: /recipes/1026426-butter-soy-chicken-and-asparagus-stir-fry
+                        - figure [ref=e283]
+                        - generic [ref=e284]:
+                          - paragraph [ref=e285]: Butter-Soy Chicken and Asparagus Stir-Fry
+                          - paragraph [ref=e286]: Kevin Pang
+                  - listitem [ref=e287]:
+                    - article [ref=e288] [cursor=pointer]:
+                      - link "Hot and Sour Seared Tofu With Snap Peas Melissa Clark" [ref=e289]:
+                        - /url: /recipes/1014774-hot-and-sour-seared-tofu-with-snap-peas
+                        - figure [ref=e290]
+                        - generic [ref=e291]:
+                          - paragraph [ref=e292]: Hot and Sour Seared Tofu With Snap Peas
+                          - paragraph [ref=e293]: Melissa Clark
+                  - listitem [ref=e294]:
+                    - article [ref=e295] [cursor=pointer]:
+                      - link "Spicy Skillet Ground Turkey and Snap Peas Melissa Clark" [ref=e296]:
+                        - /url: /recipes/1025253-spicy-skillet-ground-turkey-and-snap-peas
+                        - figure [ref=e297]:
+                          - img "A skillet holds spicy ground turkey and snap peas scattered with chopped herbs." [ref=e298]
+                        - generic [ref=e299]:
+                          - paragraph [ref=e300]: Spicy Skillet Ground Turkey and Snap Peas
+                          - paragraph [ref=e301]: Melissa Clark
+                  - listitem [ref=e302]:
+                    - article [ref=e303] [cursor=pointer]:
+                      - link "Black Pepper Beef and Cabbage Stir-Fry Sue Li" [ref=e304]:
+                        - /url: /recipes/1020506-black-pepper-beef-and-cabbage-stir-fry
+                        - figure [ref=e305]
+                        - generic [ref=e306]:
+                          - paragraph [ref=e307]: Black Pepper Beef and Cabbage Stir-Fry
+                          - paragraph [ref=e308]: Sue Li
+                  - listitem [ref=e309]:
+                    - article [ref=e310] [cursor=pointer]:
+                      - link "Miso-Parmesan Asparagus Andy Baraghani" [ref=e311]:
+                        - /url: /recipes/1026846-miso-parmesan-asparagus
+                        - figure [ref=e312]
+                        - generic [ref=e313]:
+                          - paragraph [ref=e314]: Miso-Parmesan Asparagus
+                          - paragraph [ref=e315]: Andy Baraghani
+                  - listitem [ref=e316]:
+                    - article [ref=e317] [cursor=pointer]:
+                      - link "Tofu ‘Chorizo’ Mark Bittman" [ref=e318]:
+                        - /url: /recipes/1016639-tofu-chorizo
+                        - figure [ref=e319]
+                        - generic [ref=e320]:
+                          - paragraph [ref=e321]: Tofu ‘Chorizo’
+                          - paragraph [ref=e322]: Mark Bittman
+                  - listitem [ref=e323]:
+                    - article [ref=e324] [cursor=pointer]:
+                      - link "Asparagus Gomaae With Chilled Tofu Hetty Lui McKinnon" [ref=e325]:
+                        - /url: /recipes/1026712-asparagus-gomaae-with-chilled-tofu
+                        - figure [ref=e326]
+                        - generic [ref=e327]:
+                          - paragraph [ref=e328]: Asparagus Gomaae With Chilled Tofu
+                          - paragraph [ref=e329]: Hetty Lui McKinnon
+                  - listitem [ref=e330]:
+                    - article [ref=e331] [cursor=pointer]:
+                      - link "Herb-Marinated Seared Tofu Ali Slagle" [ref=e332]:
+                        - /url: /recipes/1023447-herb-marinated-seared-tofu
+                        - figure [ref=e333]
+                        - generic [ref=e334]:
+                          - paragraph [ref=e335]: Herb-Marinated Seared Tofu
+                          - paragraph [ref=e336]: Ali Slagle
+                - button "Next" [ref=e338] [cursor=pointer]:
+                  - img [ref=e339]
+          - generic [ref=e341]:
+            - heading "Ratings" [level=2] [ref=e342]
+            - generic [ref=e343]:
+              - img [ref=e344]
+              - generic [ref=e346]:
+                - generic [ref=e347]: 5 out of 5
+                - generic [ref=e348]: 102 user ratings
+            - generic [ref=e349]:
+              - generic [ref=e351]: Your rating
+              - generic [ref=e353]:
+                - radiogroup "User rating" [ref=e354]:
+                  - radio "1 star"
+                  - generic "1 star" [ref=e355] [cursor=pointer]:
+                    - generic: 1 star
+                    - img [ref=e356]
+                  - radio "2 stars"
+                  - generic "2 stars" [ref=e358] [cursor=pointer]:
+                    - generic: 2 stars
+                    - img [ref=e359]
+                  - radio "3 stars"
+                  - generic "3 stars" [ref=e361] [cursor=pointer]:
+                    - generic: 3 stars
+                    - img [ref=e362]
+                  - radio "4 stars"
+                  - generic "4 stars" [ref=e364] [cursor=pointer]:
+                    - generic: 4 stars
+                    - img [ref=e365]
+                  - radio "5 stars"
+                  - generic "5 stars" [ref=e367] [cursor=pointer]:
+                    - generic: 5 stars
+                    - img [ref=e368]
+                - button "Submit rating" [disabled]:
+                  - generic: Submit
+            - generic [ref=e370]:
+              - generic [ref=e371]: Have you cooked this?
+              - checkbox "Mark as Cooked" [ref=e374] [cursor=pointer]:
+                - img [ref=e375]
+                - generic [ref=e378]: Mark as Cooked
+          - generic [ref=e379]:
+            - heading "Comments" [level=2] [ref=e380]
+            - generic [ref=e381]:
+              - generic [ref=e383]: Add Comment
+              - textbox "Add Comment" [ref=e384]:
+                - /placeholder: Share your notes with other cooks or make a private note for yourself…
+              - generic [ref=e386]:
+                - radiogroup [ref=e387]:
+                  - radio "Public" [checked]
+                  - generic [ref=e388] [cursor=pointer]: Public
+                  - radio "Private"
+                  - generic [ref=e389] [cursor=pointer]: Private
+                - button "Submit" [ref=e391] [cursor=pointer]:
+                  - generic [ref=e392]: Submit
+            - tablist [ref=e394]:
+              - tab "All Comments (50)" [ref=e395] [cursor=pointer]:
+                - generic [ref=e396]:
+                  - text: All Comments
+                  - generic [ref=e397]: (50)
+              - tab "Most Helpful (13)" [selected] [ref=e398] [cursor=pointer]:
+                - generic [ref=e399]:
+                  - text: Most Helpful
+                  - generic [ref=e400]: (13)
+              - tab "Private" [ref=e401] [cursor=pointer]:
+                - generic [ref=e402]: Private
+            - tabpanel "Most Helpful (13)" [ref=e403]:
+              - generic [ref=e404]:
+                - generic [ref=e406]:
+                  - generic [ref=e407]: Sue M
+                  - time [ref=e408]: 12 days ago
+                - generic [ref=e409]:
+                  - paragraph [ref=e410]: I made this dish according to the recipe and it was very tasty. I will definitely make this again. My only substitution was avocado oil for safflower oil because that's what I had. I love that it stretches ground beef, especially with current prices. It is a perfect recipe to use the abundance of asparagus in the spring.
+                  - button "Is this helpful? 49" [ref=e412] [cursor=pointer]:
+                    - generic [ref=e413]:
+                      - text: Is this helpful?
+                      - generic [ref=e414]:
+                        - img [ref=e415]
+                        - text: "49"
+              - generic [ref=e422]:
+                - generic [ref=e424]:
+                  - generic [ref=e425]: Claire
+                  - time [ref=e426]: 3 days ago
+                - generic [ref=e427]:
+                  - paragraph [ref=e428]: I used broccolini in Australian winter and it worked great!
+                  - button "Is this helpful? 25" [ref=e430] [cursor=pointer]:
+                    - generic [ref=e431]:
+                      - text: Is this helpful?
+                      - generic [ref=e432]:
+                        - img [ref=e433]
+                        - text: "25"
+              - generic [ref=e440]:
+                - generic [ref=e442]:
+                  - generic [ref=e443]: sheri
+                  - time [ref=e444]: 10 days ago
+                - generic [ref=e445]:
+                  - paragraph [ref=e446]: Excellent recipe, but I had to double to feed 4.
+                  - button "Is this helpful? 23" [ref=e448] [cursor=pointer]:
+                    - generic [ref=e449]:
+                      - text: Is this helpful?
+                      - generic [ref=e450]:
+                        - img [ref=e451]
+                        - text: "23"
+            - button "Show more comments" [ref=e459] [cursor=pointer]:
+              - generic [ref=e460]: Show more comments
+        - separator [ref=e461]
+        - generic [ref=e463]:
+          - heading "Recipe Tags" [level=3] [ref=e464]
+          - list [ref=e465]:
+            - listitem [ref=e466]:
+              - link "Oyster Sauce" [ref=e467] [cursor=pointer]:
+                - /url: /tag/oyster%20sauce
+              - text: ","
+            - listitem [ref=e468]:
+              - link "Ground Beef" [ref=e469] [cursor=pointer]:
+                - /url: /tag/ground%20beef
+              - text: ","
+            - listitem [ref=e470]:
+              - link "Firm Tofu" [ref=e471] [cursor=pointer]:
+                - /url: /tag/firm%20tofu
+              - text: ","
+            - listitem [ref=e472]:
+              - link "Asparagus" [ref=e473] [cursor=pointer]:
+                - /url: /tag/asparagus
+              - text: ","
+            - listitem [ref=e474]:
+              - link "Stir-Fry" [ref=e475] [cursor=pointer]:
+                - /url: /tag/stir-fry
+              - text: ","
+            - listitem [ref=e476]:
+              - link "Dinner" [ref=e477] [cursor=pointer]:
+                - /url: /tag/dinner
+              - text: ","
+            - listitem [ref=e478]:
+              - link "Lunch" [ref=e479] [cursor=pointer]:
+                - /url: /tag/lunch
+              - text: ","
+            - listitem [ref=e480]:
+              - link "Main Course" [ref=e481] [cursor=pointer]:
+                - /url: /tag/main%20course
+              - text: ","
+            - listitem [ref=e482]:
+              - link "Dairy-Free" [ref=e483] [cursor=pointer]:
+                - /url: /tag/dairy-free
+              - text: ","
+            - listitem [ref=e484]:
+              - link "Healthy" [ref=e485] [cursor=pointer]:
+                - /url: /tag/healthy
+              - text: ","
+            - listitem [ref=e486]:
+              - link "Stovetop" [ref=e487] [cursor=pointer]:
+                - /url: /tag/stovetop
+              - text: ","
+            - listitem [ref=e488]:
+              - link "Easy" [ref=e489] [cursor=pointer]:
+                - /url: /tag/easy
+              - text: ","
+            - listitem [ref=e490]:
+              - link "Quick" [ref=e491] [cursor=pointer]:
+                - /url: /tag/quick
+              - text: ","
+            - listitem [ref=e492]:
+              - link "Weeknight" [ref=e493] [cursor=pointer]:
+                - /url: /tag/weeknight
+              - text: ","
+            - listitem [ref=e494]:
+              - link "Great Leftovers" [ref=e495] [cursor=pointer]:
+                - /url: /tag/great%20leftovers
+              - text: ","
+            - listitem [ref=e496]:
+              - link "Budget" [ref=e497] [cursor=pointer]:
+                - /url: /tag/budget
+              - text: ","
+            - listitem [ref=e498]:
+              - link "Spring" [ref=e499] [cursor=pointer]:
+                - /url: /tag/spring
+        - generic [ref=e500]:
+          - paragraph [ref=e501]: Advertisement
+          - link "SKIP ADVERTISEMENT" [ref=e503] [cursor=pointer]:
+            - /url: "#after-recipeDetail-mid-2"
+        - separator [ref=e504]
+        - complementary "Related Recipes" [ref=e505]:
+          - generic [ref=e506]:
+            - heading "More From From Our Cooking Newsletter" [level=3] [ref=e507]:
+              - text: More From
+              - link "From Our Cooking Newsletter" [ref=e508] [cursor=pointer]:
+                - /url: /68861692-nyt-cooking/1640510-sam-siftons-suggestions
+            - region "carousel" [ref=e509]:
+              - generic:
+                - button "Previous" [disabled]:
+                  - img
+              - list [ref=e511]:
+                - listitem [ref=e512]:
+                  - generic [ref=e513]:
+                    - article [ref=e514] [cursor=pointer]:
+                      - link "Garlicky Shrimp With Zucchini and Beans Kay Chun 76 ratings with an average rating of 5 out of 5 stars 76 30 minutes" [ref=e515]:
+                        - /url: /recipes/778170186-garlicky-shrimp-with-summer-squash-and-beans
+                        - figure [ref=e516]
+                        - generic [ref=e517]:
+                          - heading "Garlicky Shrimp With Zucchini and Beans" [level=3] [ref=e518]
+                          - paragraph [ref=e519]: Kay Chun
+                          - generic [ref=e520]:
+                            - generic: 76 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e521]:
+                              - img [ref=e522]
+                              - img [ref=e524]
+                              - img [ref=e526]
+                              - img [ref=e528]
+                              - img [ref=e530]
+                            - paragraph [ref=e532]: "76"
+                          - paragraph [ref=e533]: 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e536] [cursor=pointer]:
+                      - img [ref=e538]
+                - listitem [ref=e540]:
+                  - generic [ref=e541]:
+                    - article [ref=e542] [cursor=pointer]:
+                      - link "Suya Spiced Grilled Chicken Thighs With Nectarines Yewande Komolafe 149 ratings with an average rating of 5 out of 5 stars 149 50 minutes" [ref=e543]:
+                        - /url: /recipes/1027038-suya-spiced-grilled-chicken-thighs-with-nectarines
+                        - figure [ref=e544]
+                        - generic [ref=e545]:
+                          - heading "Suya Spiced Grilled Chicken Thighs With Nectarines" [level=3] [ref=e546]
+                          - paragraph [ref=e547]: Yewande Komolafe
+                          - generic [ref=e548]:
+                            - generic: 149 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e549]:
+                              - img [ref=e550]
+                              - img [ref=e552]
+                              - img [ref=e554]
+                              - img [ref=e556]
+                              - img [ref=e558]
+                            - paragraph [ref=e560]: "149"
+                          - paragraph [ref=e561]: 50 minutes
+                    - checkbox "Save to Recipe Box" [ref=e564] [cursor=pointer]:
+                      - img [ref=e566]
+                - listitem [ref=e568]:
+                  - generic [ref=e569]:
+                    - article [ref=e570] [cursor=pointer]:
+                      - link "Anchovy Carbonara Cybelle Tondu 63 ratings with an average rating of 4 out of 5 stars 63 30 minutes" [ref=e571]:
+                        - /url: /recipes/777924542-anchovy-carbonara
+                        - figure [ref=e572]
+                        - generic [ref=e573]:
+                          - heading "Anchovy Carbonara" [level=3] [ref=e574]
+                          - paragraph [ref=e575]: Cybelle Tondu
+                          - generic [ref=e576]:
+                            - generic: 63 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e577]:
+                              - img [ref=e578]
+                              - img [ref=e580]
+                              - img [ref=e582]
+                              - img [ref=e584]
+                              - img [ref=e586]
+                            - paragraph [ref=e588]: "63"
+                          - paragraph [ref=e589]: 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e592] [cursor=pointer]:
+                      - img [ref=e594]
+                - listitem [ref=e596]:
+                  - generic [ref=e597]:
+                    - article [ref=e598] [cursor=pointer]:
+                      - link "Spicy Tomato and Pepper Curry Zaynab Issa 50 minutes" [ref=e599]:
+                        - /url: /recipes/779136732-spicy-tomato-and-pepper-curry
+                        - figure [ref=e600]
+                        - generic [ref=e601]:
+                          - heading "Spicy Tomato and Pepper Curry" [level=3] [ref=e602]
+                          - paragraph [ref=e603]: Zaynab Issa
+                          - paragraph [ref=e604]: 50 minutes
+                    - checkbox "Save to Recipe Box" [ref=e607] [cursor=pointer]:
+                      - img [ref=e609]
+                - listitem [ref=e611]:
+                  - generic [ref=e612]:
+                    - article [ref=e613] [cursor=pointer]:
+                      - link "Ice Cream With Olive Oil and Dates Ali Slagle 854 ratings with an average rating of 5 out of 5 stars 854" [ref=e614]:
+                        - /url: /recipes/1025654-ice-cream-with-olive-oil-and-dates
+                        - figure [ref=e615]
+                        - generic [ref=e616]:
+                          - heading "Ice Cream With Olive Oil and Dates" [level=3] [ref=e617]
+                          - paragraph [ref=e618]: Ali Slagle
+                          - generic [ref=e619]:
+                            - generic: 854 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e620]:
+                              - img [ref=e621]
+                              - img [ref=e623]
+                              - img [ref=e625]
+                              - img [ref=e627]
+                              - img [ref=e629]
+                            - paragraph [ref=e631]: "854"
+                    - checkbox "Save to Recipe Box" [ref=e634] [cursor=pointer]
+                - listitem [ref=e635]:
+                  - generic [ref=e636]:
+                    - article [ref=e637] [cursor=pointer]:
+                      - link "Charred Corn and Pickled Jalapeño Potato Salad Sue Li 20 ratings with an average rating of 5 out of 5 stars 20 35 minutes" [ref=e638]:
+                        - /url: /recipes/779380407-charred-corn-and-pickled-jalapeno-potato-salad
+                        - figure [ref=e639]
+                        - generic [ref=e640]:
+                          - heading "Charred Corn and Pickled Jalapeño Potato Salad" [level=3] [ref=e641]
+                          - paragraph [ref=e642]: Sue Li
+                          - generic [ref=e643]:
+                            - generic: 20 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e644]:
+                              - img [ref=e645]
+                              - img [ref=e647]
+                              - img [ref=e649]
+                              - img [ref=e651]
+                              - img [ref=e653]
+                            - paragraph [ref=e655]: "20"
+                          - paragraph [ref=e656]: 35 minutes
+                    - checkbox "Save to Recipe Box" [ref=e659] [cursor=pointer]
+                - listitem [ref=e660]:
+                  - generic [ref=e661]:
+                    - article [ref=e662] [cursor=pointer]:
+                      - link "Spicy Shrimp Salad With Mint Mark Bittman 1427 ratings with an average rating of 5 out of 5 stars 1,427 20 minutes" [ref=e663]:
+                        - /url: /recipes/6553-spicy-shrimp-salad-with-mint
+                        - figure [ref=e664]:
+                          - img [ref=e665]
+                        - generic [ref=e668]:
+                          - heading "Spicy Shrimp Salad With Mint" [level=3] [ref=e669]
+                          - paragraph [ref=e670]: Mark Bittman
+                          - generic [ref=e671]:
+                            - generic: 1427 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e672]:
+                              - img [ref=e673]
+                              - img [ref=e675]
+                              - img [ref=e677]
+                              - img [ref=e679]
+                              - img [ref=e681]
+                            - paragraph [ref=e683]: 1,427
+                          - paragraph [ref=e684]: 20 minutes
+                    - checkbox "Save to Recipe Box" [ref=e687] [cursor=pointer]
+                - listitem [ref=e688]:
+                  - generic [ref=e689]:
+                    - article [ref=e690] [cursor=pointer]:
+                      - link "Spicy Sardine Pasta With Leeks and Lemon Ashley Lonsdale 34 ratings with an average rating of 4 out of 5 stars 34 45 minutes" [ref=e691]:
+                        - /url: /recipes/778782710-spicy-sardine-pasta-with-leeks-and-lemon
+                        - figure [ref=e692]
+                        - generic [ref=e693]:
+                          - heading "Spicy Sardine Pasta With Leeks and Lemon" [level=3] [ref=e694]
+                          - paragraph [ref=e695]: Ashley Lonsdale
+                          - generic [ref=e696]:
+                            - generic: 34 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e697]:
+                              - img [ref=e698]
+                              - img [ref=e700]
+                              - img [ref=e702]
+                              - img [ref=e704]
+                              - img [ref=e706]
+                            - paragraph [ref=e708]: "34"
+                          - paragraph [ref=e709]: 45 minutes
+                    - checkbox "Save to Recipe Box" [ref=e712] [cursor=pointer]
+                - listitem [ref=e713]:
+                  - generic [ref=e714]:
+                    - article [ref=e715] [cursor=pointer]:
+                      - link "Chile Chicken and Bean Guisado Kristina Felix 145 ratings with an average rating of 5 out of 5 stars 145 35 minutes" [ref=e716]:
+                        - /url: /recipes/779127920-chile-chicken-and-bean-guisado
+                        - figure [ref=e717]
+                        - generic [ref=e718]:
+                          - heading "Chile Chicken and Bean Guisado" [level=3] [ref=e719]
+                          - paragraph [ref=e720]: Kristina Felix
+                          - generic [ref=e721]:
+                            - generic: 145 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e722]:
+                              - img [ref=e723]
+                              - img [ref=e725]
+                              - img [ref=e727]
+                              - img [ref=e729]
+                              - img [ref=e731]
+                            - paragraph [ref=e733]: "145"
+                          - paragraph [ref=e734]: 35 minutes
+                    - checkbox "Save to Recipe Box" [ref=e737] [cursor=pointer]
+                - listitem [ref=e738]:
+                  - generic [ref=e739]:
+                    - article [ref=e740] [cursor=pointer]:
+                      - link "Roasted Rhubarb Melissa Clark 112 ratings with an average rating of 4 out of 5 stars 112 25 minutes" [ref=e741]:
+                        - /url: /recipes/779298494-roasted-rhubarb
+                        - figure [ref=e742]
+                        - generic [ref=e743]:
+                          - heading "Roasted Rhubarb" [level=3] [ref=e744]
+                          - paragraph [ref=e745]: Melissa Clark
+                          - generic [ref=e746]:
+                            - generic: 112 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e747]:
+                              - img [ref=e748]
+                              - img [ref=e750]
+                              - img [ref=e752]
+                              - img [ref=e754]
+                              - img [ref=e756]
+                            - paragraph [ref=e758]: "112"
+                          - paragraph [ref=e759]: 25 minutes
+                    - checkbox "Save to Recipe Box" [ref=e762] [cursor=pointer]
+                - listitem [ref=e763]:
+                  - generic [ref=e764]:
+                    - article [ref=e765] [cursor=pointer]:
+                      - link "Grilled Honey-Mustard Chicken Thighs Lidey Heuck 414 ratings with an average rating of 5 out of 5 stars 414 About 4 hours" [ref=e766]:
+                        - /url: /recipes/1026993-grilled-honey-mustard-chicken-thighs
+                        - figure [ref=e767]
+                        - generic [ref=e768]:
+                          - heading "Grilled Honey-Mustard Chicken Thighs" [level=3] [ref=e769]
+                          - paragraph [ref=e770]: Lidey Heuck
+                          - generic [ref=e771]:
+                            - generic: 414 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e772]:
+                              - img [ref=e773]
+                              - img [ref=e775]
+                              - img [ref=e777]
+                              - img [ref=e779]
+                              - img [ref=e781]
+                            - paragraph [ref=e783]: "414"
+                          - paragraph [ref=e784]: About 4 hours
+                    - checkbox "Save to Recipe Box" [ref=e787] [cursor=pointer]
+                - listitem [ref=e788]:
+                  - generic [ref=e789]:
+                    - article [ref=e790] [cursor=pointer]:
+                      - link "Cumin Tofu Stir-Fry Margaux Laskey, Hetty Lui McKinnon 2200 ratings with an average rating of 4 out of 5 stars 2,200 25 minutes, plus 20 to 30 minutes’ marinating time" [ref=e791]:
+                        - /url: /recipes/1022438-cumin-tofu-stir-fry
+                        - figure [ref=e792]
+                        - generic [ref=e793]:
+                          - heading "Cumin Tofu Stir-Fry" [level=3] [ref=e794]
+                          - paragraph [ref=e795]: Margaux Laskey, Hetty Lui McKinnon
+                          - generic [ref=e796]:
+                            - generic: 2200 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e797]:
+                              - img [ref=e798]
+                              - img [ref=e800]
+                              - img [ref=e802]
+                              - img [ref=e804]
+                              - img [ref=e806]
+                            - paragraph [ref=e808]: 2,200
+                          - paragraph [ref=e809]: 25 minutes, plus 20 to 30 minutes’ marinating time
+                    - checkbox "Save to Recipe Box" [ref=e812] [cursor=pointer]
+                - listitem [ref=e813]:
+                  - generic [ref=e814]:
+                    - article [ref=e815] [cursor=pointer]:
+                      - link "Toasted Coconut Rice Salad Kayla Hoang 870 ratings with an average rating of 5 out of 5 stars 870 45 minutes" [ref=e816]:
+                        - /url: /recipes/769183554-toasted-coconut-rice-salad
+                        - figure [ref=e817]
+                        - generic [ref=e818]:
+                          - heading "Toasted Coconut Rice Salad" [level=3] [ref=e819]
+                          - paragraph [ref=e820]: Kayla Hoang
+                          - generic [ref=e821]:
+                            - generic: 870 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e822]:
+                              - img [ref=e823]
+                              - img [ref=e825]
+                              - img [ref=e827]
+                              - img [ref=e829]
+                              - img [ref=e831]
+                            - paragraph [ref=e833]: "870"
+                          - paragraph [ref=e834]: 45 minutes
+                    - checkbox "Save to Recipe Box" [ref=e837] [cursor=pointer]
+                - listitem [ref=e838]:
+                  - generic [ref=e839]:
+                    - article [ref=e840] [cursor=pointer]:
+                      - link "Harissa Shrimp With Greens and Feta Yewande Komolafe 987 ratings with an average rating of 5 out of 5 stars 987 40 minutes" [ref=e841]:
+                        - /url: /recipes/758928829-harissa-shrimp-with-greens-and-feta
+                        - figure [ref=e842]
+                        - generic [ref=e843]:
+                          - heading "Harissa Shrimp With Greens and Feta" [level=3] [ref=e844]
+                          - paragraph [ref=e845]: Yewande Komolafe
+                          - generic [ref=e846]:
+                            - generic: 987 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e847]:
+                              - img [ref=e848]
+                              - img [ref=e850]
+                              - img [ref=e852]
+                              - img [ref=e854]
+                              - img [ref=e856]
+                            - paragraph [ref=e858]: "987"
+                          - paragraph [ref=e859]: 40 minutes
+                    - checkbox "Save to Recipe Box" [ref=e862] [cursor=pointer]
+                - listitem [ref=e863]:
+                  - generic [ref=e864]:
+                    - article [ref=e865] [cursor=pointer]:
+                      - link "The Only Ice Cream Recipe You’ll Ever Need Melissa Clark 5214 ratings with an average rating of 5 out of 5 stars 5,214 20 minutes plus several hours’ cooling, chilling and freezing" [ref=e866]:
+                        - /url: /recipes/1016605-the-only-ice-cream-recipe-youll-ever-need
+                        - figure [ref=e867]:
+                          - img "A metal pan holds vanilla ice cream with scoop marks." [ref=e868]
+                          - img [ref=e869]
+                        - generic [ref=e872]:
+                          - heading "The Only Ice Cream Recipe You’ll Ever Need" [level=3] [ref=e873]
+                          - paragraph [ref=e874]: Melissa Clark
+                          - generic [ref=e875]:
+                            - generic: 5214 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e876]:
+                              - img [ref=e877]
+                              - img [ref=e879]
+                              - img [ref=e881]
+                              - img [ref=e883]
+                              - img [ref=e885]
+                            - paragraph [ref=e887]: 5,214
+                          - paragraph [ref=e888]: 20 minutes plus several hours’ cooling, chilling and freezing
+                    - checkbox "Save to Recipe Box" [ref=e891] [cursor=pointer]
+                - listitem [ref=e892]:
+                  - generic [ref=e893]:
+                    - article [ref=e894] [cursor=pointer]:
+                      - link "Slow Cooker BBQ Pulled Pork Margaux Laskey 4105 ratings with an average rating of 4 out of 5 stars 4,105 8 to 10 hours, plus refrigeration" [ref=e895]:
+                        - /url: /recipes/1020497-slow-cooker-bbq-pulled-pork
+                        - figure [ref=e896]:
+                          - img "A side image of three pulled-pork sandwiches on a cutting board. An open bottle of hot sauce sits in the background." [ref=e897]
+                        - generic [ref=e898]:
+                          - heading "Slow Cooker BBQ Pulled Pork" [level=3] [ref=e899]
+                          - paragraph [ref=e900]: Margaux Laskey
+                          - generic [ref=e901]:
+                            - generic: 4105 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e902]:
+                              - img [ref=e903]
+                              - img [ref=e905]
+                              - img [ref=e907]
+                              - img [ref=e909]
+                              - img [ref=e911]
+                            - paragraph [ref=e913]: 4,105
+                          - paragraph [ref=e914]: 8 to 10 hours, plus refrigeration
+                    - checkbox "Save to Recipe Box" [ref=e917] [cursor=pointer]
+              - button "Next" [ref=e918] [cursor=pointer]:
+                - img [ref=e919]
+          - generic [ref=e921]:
+            - heading "Trending On Cooking" [level=3] [ref=e922]
+            - region "carousel" [ref=e923]:
+              - generic:
+                - button "Previous" [disabled]:
+                  - img
+              - list [ref=e925]:
+                - listitem [ref=e926]:
+                  - generic [ref=e927]:
+                    - article [ref=e928] [cursor=pointer]:
+                      - link "Slow Cooker BBQ Pulled Pork Margaux Laskey 4105 ratings with an average rating of 4 out of 5 stars 4,105 8 to 10 hours, plus refrigeration" [ref=e929]:
+                        - /url: /recipes/1020497-slow-cooker-bbq-pulled-pork
+                        - figure [ref=e930]:
+                          - img "A side image of three pulled-pork sandwiches on a cutting board. An open bottle of hot sauce sits in the background." [ref=e931]
+                        - generic [ref=e932]:
+                          - heading "Slow Cooker BBQ Pulled Pork" [level=3] [ref=e933]
+                          - paragraph [ref=e934]: Margaux Laskey
+                          - generic [ref=e935]:
+                            - generic: 4105 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e936]:
+                              - img [ref=e937]
+                              - img [ref=e939]
+                              - img [ref=e941]
+                              - img [ref=e943]
+                              - img [ref=e945]
+                            - paragraph [ref=e947]: 4,105
+                          - paragraph [ref=e948]: 8 to 10 hours, plus refrigeration
+                    - checkbox "Save to Recipe Box" [ref=e951] [cursor=pointer]:
+                      - img [ref=e953]
+                - listitem [ref=e955]:
+                  - generic [ref=e956]:
+                    - article [ref=e957] [cursor=pointer]:
+                      - link "Pan-Seared Ranch Chicken Ali Slagle 2905 ratings with an average rating of 4 out of 5 stars 2,905 About 35 minutes" [ref=e958]:
+                        - /url: /recipes/1020660-pan-seared-ranch-chicken
+                        - figure [ref=e959]
+                        - generic [ref=e960]:
+                          - heading "Pan-Seared Ranch Chicken" [level=3] [ref=e961]
+                          - paragraph [ref=e962]: Ali Slagle
+                          - generic [ref=e963]:
+                            - generic: 2905 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e964]:
+                              - img [ref=e965]
+                              - img [ref=e967]
+                              - img [ref=e969]
+                              - img [ref=e971]
+                              - img [ref=e973]
+                            - paragraph [ref=e975]: 2,905
+                          - paragraph [ref=e976]: About 35 minutes
+                    - checkbox "Save to Recipe Box" [ref=e979] [cursor=pointer]:
+                      - img [ref=e981]
+                - listitem [ref=e983]:
+                  - generic [ref=e984]:
+                    - article [ref=e985] [cursor=pointer]:
+                      - link "Mango Slaw Millie Peartree 2949 ratings with an average rating of 4 out of 5 stars 2,949 5 minutes, plus chilling" [ref=e986]:
+                        - /url: /recipes/1021305-mango-slaw
+                        - figure [ref=e987]
+                        - generic [ref=e988]:
+                          - heading "Mango Slaw" [level=3] [ref=e989]
+                          - paragraph [ref=e990]: Millie Peartree
+                          - generic [ref=e991]:
+                            - generic: 2949 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e992]:
+                              - img [ref=e993]
+                              - img [ref=e995]
+                              - img [ref=e997]
+                              - img [ref=e999]
+                              - img [ref=e1001]
+                            - paragraph [ref=e1003]: 2,949
+                          - paragraph [ref=e1004]: 5 minutes, plus chilling
+                    - checkbox "Save to Recipe Box" [ref=e1007] [cursor=pointer]:
+                      - img [ref=e1009]
+                - listitem [ref=e1011]:
+                  - generic [ref=e1012]:
+                    - article [ref=e1013] [cursor=pointer]:
+                      - link "Basque Cheesecake Tanya Sichynsky, Marti Buckley 2848 ratings with an average rating of 5 out of 5 stars 2,848" [ref=e1014]:
+                        - /url: /recipes/1024483-basque-cheesecake
+                        - figure [ref=e1015]:
+                          - img [ref=e1016]
+                        - generic [ref=e1019]:
+                          - heading "Basque Cheesecake" [level=3] [ref=e1020]
+                          - paragraph [ref=e1021]: Tanya Sichynsky, Marti Buckley
+                          - generic [ref=e1022]:
+                            - generic: 2848 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1023]:
+                              - img [ref=e1024]
+                              - img [ref=e1026]
+                              - img [ref=e1028]
+                              - img [ref=e1030]
+                              - img [ref=e1032]
+                            - paragraph [ref=e1034]: 2,848
+                    - checkbox "Save to Recipe Box" [ref=e1037] [cursor=pointer]:
+                      - img [ref=e1039]
+                - listitem [ref=e1041]:
+                  - generic [ref=e1042]:
+                    - article [ref=e1043] [cursor=pointer]:
+                      - link "Ice Cream With Olive Oil and Dates Ali Slagle 854 ratings with an average rating of 5 out of 5 stars 854" [ref=e1044]:
+                        - /url: /recipes/1025654-ice-cream-with-olive-oil-and-dates
+                        - figure [ref=e1045]
+                        - generic [ref=e1046]:
+                          - heading "Ice Cream With Olive Oil and Dates" [level=3] [ref=e1047]
+                          - paragraph [ref=e1048]: Ali Slagle
+                          - generic [ref=e1049]:
+                            - generic: 854 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1050]:
+                              - img [ref=e1051]
+                              - img [ref=e1053]
+                              - img [ref=e1055]
+                              - img [ref=e1057]
+                              - img [ref=e1059]
+                            - paragraph [ref=e1061]: "854"
+                    - checkbox "Save to Recipe Box" [ref=e1064] [cursor=pointer]
+                - listitem [ref=e1065]:
+                  - generic [ref=e1066]:
+                    - article [ref=e1067] [cursor=pointer]:
+                      - link "Smashed Beef Kebab With Cucumber Yogurt Zaynab Issa 9460 ratings with an average rating of 5 out of 5 stars 9,460" [ref=e1068]:
+                        - /url: /recipes/1026425-smashed-beef-kebab-with-cucumber-yogurt
+                        - figure [ref=e1069]
+                        - generic [ref=e1070]:
+                          - heading "Smashed Beef Kebab With Cucumber Yogurt" [level=3] [ref=e1071]
+                          - paragraph [ref=e1072]: Zaynab Issa
+                          - generic [ref=e1073]:
+                            - generic: 9460 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1074]:
+                              - img [ref=e1075]
+                              - img [ref=e1077]
+                              - img [ref=e1079]
+                              - img [ref=e1081]
+                              - img [ref=e1083]
+                            - paragraph [ref=e1085]: 9,460
+                    - checkbox "Save to Recipe Box" [ref=e1088] [cursor=pointer]
+                - listitem [ref=e1089]:
+                  - generic [ref=e1090]:
+                    - article [ref=e1091] [cursor=pointer]:
+                      - link "Cheesy Gnocchi With Corn and Pesto Carolina Gelen 2832 ratings with an average rating of 5 out of 5 stars 2,832 25 minutes" [ref=e1092]:
+                        - /url: /recipes/759796803-cheesy-gnocchi-with-corn-and-pesto
+                        - figure [ref=e1093]
+                        - generic [ref=e1094]:
+                          - heading "Cheesy Gnocchi With Corn and Pesto" [level=3] [ref=e1095]
+                          - paragraph [ref=e1096]: Carolina Gelen
+                          - generic [ref=e1097]:
+                            - generic: 2832 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1098]:
+                              - img [ref=e1099]
+                              - img [ref=e1101]
+                              - img [ref=e1103]
+                              - img [ref=e1105]
+                              - img [ref=e1107]
+                            - paragraph [ref=e1109]: 2,832
+                          - paragraph [ref=e1110]: 25 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1113] [cursor=pointer]
+                - listitem [ref=e1114]:
+                  - generic [ref=e1115]:
+                    - article [ref=e1116] [cursor=pointer]:
+                      - link "Creamy Cottage Cheese Basil Pasta Ali Slagle 1211 ratings with an average rating of 5 out of 5 stars 1,211 35 minutes" [ref=e1117]:
+                        - /url: /recipes/774974792-creamy-cottage-cheese-basil-pasta
+                        - figure [ref=e1118]
+                        - generic [ref=e1119]:
+                          - heading "Creamy Cottage Cheese Basil Pasta" [level=3] [ref=e1120]
+                          - paragraph [ref=e1121]: Ali Slagle
+                          - generic [ref=e1122]:
+                            - generic: 1211 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1123]:
+                              - img [ref=e1124]
+                              - img [ref=e1126]
+                              - img [ref=e1128]
+                              - img [ref=e1130]
+                              - img [ref=e1132]
+                            - paragraph [ref=e1134]: 1,211
+                          - paragraph [ref=e1135]: 35 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1138] [cursor=pointer]
+                - listitem [ref=e1139]:
+                  - generic [ref=e1140]:
+                    - article [ref=e1141] [cursor=pointer]:
+                      - link "Tahini and Chocolate Chunk Cake Samantha Seneviratne 155 ratings with an average rating of 5 out of 5 stars 155 1 hour 30 minutes" [ref=e1142]:
+                        - /url: /recipes/775762235-tahini-and-chocolate-chunk-cake
+                        - figure [ref=e1143]
+                        - generic [ref=e1144]:
+                          - heading "Tahini and Chocolate Chunk Cake" [level=3] [ref=e1145]
+                          - paragraph [ref=e1146]: Samantha Seneviratne
+                          - generic [ref=e1147]:
+                            - generic: 155 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1148]:
+                              - img [ref=e1149]
+                              - img [ref=e1151]
+                              - img [ref=e1153]
+                              - img [ref=e1155]
+                              - img [ref=e1157]
+                            - paragraph [ref=e1159]: "155"
+                          - paragraph [ref=e1160]: 1 hour 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1163] [cursor=pointer]
+                - listitem [ref=e1164]:
+                  - generic [ref=e1165]:
+                    - article [ref=e1166] [cursor=pointer]:
+                      - link "Miso Brown Butter Fried Rice Nargisse Benkabbou 63 ratings with an average rating of 5 out of 5 stars 63 15 minutes" [ref=e1167]:
+                        - /url: /recipes/776722585-miso-brown-butter-fried-rice
+                        - figure [ref=e1168]
+                        - generic [ref=e1169]:
+                          - heading "Miso Brown Butter Fried Rice" [level=3] [ref=e1170]
+                          - paragraph [ref=e1171]: Nargisse Benkabbou
+                          - generic [ref=e1172]:
+                            - generic: 63 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1173]:
+                              - img [ref=e1174]
+                              - img [ref=e1176]
+                              - img [ref=e1178]
+                              - img [ref=e1180]
+                              - img [ref=e1182]
+                            - paragraph [ref=e1184]: "63"
+                          - paragraph [ref=e1185]: 15 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1188] [cursor=pointer]
+                - listitem [ref=e1189]:
+                  - generic [ref=e1190]:
+                    - article [ref=e1191] [cursor=pointer]:
+                      - link "Garlicky Shrimp With Zucchini and Beans Kay Chun 76 ratings with an average rating of 5 out of 5 stars 76 30 minutes" [ref=e1192]:
+                        - /url: /recipes/778170186-garlicky-shrimp-with-summer-squash-and-beans
+                        - figure [ref=e1193]
+                        - generic [ref=e1194]:
+                          - heading "Garlicky Shrimp With Zucchini and Beans" [level=3] [ref=e1195]
+                          - paragraph [ref=e1196]: Kay Chun
+                          - generic [ref=e1197]:
+                            - generic: 76 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1198]:
+                              - img [ref=e1199]
+                              - img [ref=e1201]
+                              - img [ref=e1203]
+                              - img [ref=e1205]
+                              - img [ref=e1207]
+                            - paragraph [ref=e1209]: "76"
+                          - paragraph [ref=e1210]: 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1213] [cursor=pointer]
+                - listitem [ref=e1214]:
+                  - generic [ref=e1215]:
+                    - article [ref=e1216] [cursor=pointer]:
+                      - link "Honey Mustard Chicken Pasta Dan Pelosi 80 ratings with an average rating of 4 out of 5 stars 80 30 minutes" [ref=e1217]:
+                        - /url: /recipes/778602430-honey-mustard-chicken-pasta
+                        - figure [ref=e1218]
+                        - generic [ref=e1219]:
+                          - heading "Honey Mustard Chicken Pasta" [level=3] [ref=e1220]
+                          - paragraph [ref=e1221]: Dan Pelosi
+                          - generic [ref=e1222]:
+                            - generic: 80 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e1223]:
+                              - img [ref=e1224]
+                              - img [ref=e1226]
+                              - img [ref=e1228]
+                              - img [ref=e1230]
+                              - img [ref=e1232]
+                            - paragraph [ref=e1234]: "80"
+                          - paragraph [ref=e1235]: 30 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1238] [cursor=pointer]
+                - listitem [ref=e1239]:
+                  - generic [ref=e1240]:
+                    - article [ref=e1241] [cursor=pointer]:
+                      - link "Spicy Sardine Pasta With Leeks and Lemon Ashley Lonsdale 34 ratings with an average rating of 4 out of 5 stars 34 45 minutes" [ref=e1242]:
+                        - /url: /recipes/778782710-spicy-sardine-pasta-with-leeks-and-lemon
+                        - figure [ref=e1243]
+                        - generic [ref=e1244]:
+                          - heading "Spicy Sardine Pasta With Leeks and Lemon" [level=3] [ref=e1245]
+                          - paragraph [ref=e1246]: Ashley Lonsdale
+                          - generic [ref=e1247]:
+                            - generic: 34 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e1248]:
+                              - img [ref=e1249]
+                              - img [ref=e1251]
+                              - img [ref=e1253]
+                              - img [ref=e1255]
+                              - img [ref=e1257]
+                            - paragraph [ref=e1259]: "34"
+                          - paragraph [ref=e1260]: 45 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1263] [cursor=pointer]
+                - listitem [ref=e1264]:
+                  - generic [ref=e1265]:
+                    - article [ref=e1266] [cursor=pointer]:
+                      - link "Chile Chicken and Bean Guisado Kristina Felix 145 ratings with an average rating of 5 out of 5 stars 145 35 minutes" [ref=e1267]:
+                        - /url: /recipes/779127920-chile-chicken-and-bean-guisado
+                        - figure [ref=e1268]
+                        - generic [ref=e1269]:
+                          - heading "Chile Chicken and Bean Guisado" [level=3] [ref=e1270]
+                          - paragraph [ref=e1271]: Kristina Felix
+                          - generic [ref=e1272]:
+                            - generic: 145 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1273]:
+                              - img [ref=e1274]
+                              - img [ref=e1276]
+                              - img [ref=e1278]
+                              - img [ref=e1280]
+                              - img [ref=e1282]
+                            - paragraph [ref=e1284]: "145"
+                          - paragraph [ref=e1285]: 35 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1288] [cursor=pointer]
+                - listitem [ref=e1289]:
+                  - generic [ref=e1290]:
+                    - article [ref=e1291] [cursor=pointer]:
+                      - link "Roasted Rhubarb Melissa Clark 112 ratings with an average rating of 4 out of 5 stars 112 25 minutes" [ref=e1292]:
+                        - /url: /recipes/779298494-roasted-rhubarb
+                        - figure [ref=e1293]
+                        - generic [ref=e1294]:
+                          - heading "Roasted Rhubarb" [level=3] [ref=e1295]
+                          - paragraph [ref=e1296]: Melissa Clark
+                          - generic [ref=e1297]:
+                            - generic: 112 ratings with an average rating of 4 out of 5 stars
+                            - generic [ref=e1298]:
+                              - img [ref=e1299]
+                              - img [ref=e1301]
+                              - img [ref=e1303]
+                              - img [ref=e1305]
+                              - img [ref=e1307]
+                            - paragraph [ref=e1309]: "112"
+                          - paragraph [ref=e1310]: 25 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1313] [cursor=pointer]
+                - listitem [ref=e1314]:
+                  - generic [ref=e1315]:
+                    - article [ref=e1316] [cursor=pointer]:
+                      - link "Za’atar Chickpea and Tuna Salad Ifrah F. Ahmed 42 ratings with an average rating of 5 out of 5 stars 42 15 minutes" [ref=e1317]:
+                        - /url: /recipes/779455867-chickpea-tuna-salad-with-olives
+                        - figure [ref=e1318]
+                        - generic [ref=e1319]:
+                          - heading "Za’atar Chickpea and Tuna Salad" [level=3] [ref=e1320]
+                          - paragraph [ref=e1321]: Ifrah F. Ahmed
+                          - generic [ref=e1322]:
+                            - generic: 42 ratings with an average rating of 5 out of 5 stars
+                            - generic [ref=e1323]:
+                              - img [ref=e1324]
+                              - img [ref=e1326]
+                              - img [ref=e1328]
+                              - img [ref=e1330]
+                              - img [ref=e1332]
+                            - paragraph [ref=e1334]: "42"
+                          - paragraph [ref=e1335]: 15 minutes
+                    - checkbox "Save to Recipe Box" [ref=e1338] [cursor=pointer]
+              - button "Next" [ref=e1339] [cursor=pointer]:
+                - img [ref=e1340]
+    - contentinfo [ref=e1342]:
+      - generic [ref=e1344]:
+        - generic [ref=e1346]:
+          - heading "Get Our Newsletter" [level=3] [ref=e1347]
+          - paragraph [ref=e1348]: Get recipes, tips and NYT special offers delivered straight to your inbox.
+          - paragraph [ref=e1349]:
+            - text: Opt out or
+            - link "contact us" [ref=e1350] [cursor=pointer]:
+              - /url: https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us
+            - text: anytime. See our
+            - link "Privacy Policy" [ref=e1351] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/privacy-policy
+            - text: .
+        - generic [ref=e1352]:
+          - heading "Follow Us" [level=3] [ref=e1353]
+          - generic [ref=e1354]:
+            - link "Visit NYT Cooking on Instagram" [ref=e1355] [cursor=pointer]:
+              - /url: https://www.instagram.com/nytcooking/
+              - img [ref=e1356]
+            - link "Visit NYT Cooking on Facebook" [ref=e1360] [cursor=pointer]:
+              - /url: https://www.facebook.com/nytcooking
+              - img [ref=e1361]
+            - link "Visit NYT Cooking on YouTube" [ref=e1363] [cursor=pointer]:
+              - /url: https://www.youtube.com/nytcooking
+              - img [ref=e1364]
+            - link "Visit NYT Cooking on TikTok" [ref=e1366] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nytcooking
+              - img [ref=e1367]
+            - link "Visit NYT Cooking on Pinterest" [ref=e1370] [cursor=pointer]:
+              - /url: https://www.pinterest.com/nytcooking/
+              - img [ref=e1371]
+        - generic [ref=e1374]:
+          - link "Download the iOS NYT Cooking app" [ref=e1375] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/nyt-cooking/id911422904
+            - img [ref=e1376]
+          - link "Download the Android NYT Cooking app" [ref=e1381] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.nytimes.cooking
+            - img [ref=e1382]
+      - generic [ref=e1391]:
+        - generic [ref=e1393]:
+          - heading "About Us" [level=3] [ref=e1394]
+          - paragraph [ref=e1395]:
+            - text: New York Times Cooking offers subscribers recipes, advice and inspiration for better everyday cooking. From easy weeknight dinners to holiday meals, our recipes have been tested and perfected to meet the needs of home cooks of all levels.
+            - link "Subscribe now" [ref=e1396] [cursor=pointer]:
+              - /url: https://www.nytimes.com/subscriptions/Multiproduct/lp8R3WU.html?campaignId=79RLU
+            - text: for full access.
+        - generic [ref=e1397]:
+          - generic [ref=e1398]:
+            - generic [ref=e1399]:
+              - heading "Learn More" [level=3] [ref=e1400]
+              - list [ref=e1401]:
+                - listitem [ref=e1402]:
+                  - link "About Us" [ref=e1403] [cursor=pointer]:
+                    - /url: /about-us
+                - listitem [ref=e1404]:
+                  - link "FAQ" [ref=e1405] [cursor=pointer]:
+                    - /url: https://help.nytimes.com/hc/en-us/sections/360011047512
+                - listitem [ref=e1406]:
+                  - link "NYTimes.com/food" [ref=e1407] [cursor=pointer]:
+                    - /url: https://www.nytimes.com/section/food
+            - generic [ref=e1408]:
+              - heading "Shop" [level=3] [ref=e1409]
+              - list [ref=e1410]:
+                - listitem [ref=e1411]:
+                  - link "Gift Subscription" [ref=e1412] [cursor=pointer]:
+                    - /url: https://www.nytimes.com/subscriptions/Multiproduct/cooking_gift.html?campaignId=7HYRF
+                - listitem [ref=e1413]:
+                  - link "Merchandise" [ref=e1414] [cursor=pointer]:
+                    - /url: https://store.nytimes.com/collections/cooking-collection?utm_source=nyt_cooking&utm_medium=referral&utm_campaign=cooking_collection&utm_content=footer
+                - listitem [ref=e1415]:
+                  - link "Send Us Feedback" [ref=e1416] [cursor=pointer]:
+                    - /url: mailto:cookingcare@nytimes.com
+          - generic [ref=e1418]:
+            - heading "Recipes" [level=3] [ref=e1419]
+            - list [ref=e1420]:
+              - listitem [ref=e1421]:
+                - link "From Our Newsletters" [ref=e1422] [cursor=pointer]:
+                  - /url: /topics/what-to-cook-this-week
+              - listitem [ref=e1423]:
+                - link "Weeknight" [ref=e1424] [cursor=pointer]:
+                  - /url: /topics/easy-weeknight
+              - listitem [ref=e1425]:
+                - link "Pasta" [ref=e1426] [cursor=pointer]:
+                  - /url: /topics/our-best-pasta-recipes
+              - listitem [ref=e1427]:
+                - link "Dinner" [ref=e1428] [cursor=pointer]:
+                  - /url: /topics/dinner-recipes
+              - listitem [ref=e1429]:
+                - link "Healthy" [ref=e1430] [cursor=pointer]:
+                  - /url: /topics/healthy-recipes
+              - listitem [ref=e1431]:
+                - link "Vegetarian" [ref=e1432] [cursor=pointer]:
+                  - /url: /topics/vegetarian
+              - listitem [ref=e1433]:
+                - link "Vegan" [ref=e1434] [cursor=pointer]:
+                  - /url: /topics/vegan-recipes
+              - listitem [ref=e1435]:
+                - link "Thanksgiving" [ref=e1436] [cursor=pointer]:
+                  - /url: /thanksgiving
+              - listitem [ref=e1437]:
+                - link "Christmas" [ref=e1438] [cursor=pointer]:
+                  - /url: /christmas
+        - list [ref=e1441]:
+          - listitem [ref=e1442]:
+            - link "© 2026 The New York Times Company" [ref=e1443] [cursor=pointer]:
+              - /url: http://www.nytco.com
+              - text: ©
+              - generic [ref=e1445]: 2026 The New York Times Company
+          - listitem [ref=e1446]:
+            - link "Terms of Service" [ref=e1447] [cursor=pointer]:
+              - /url: https://help.nytimes.com/115014893428-Terms-of-Service/
+          - listitem [ref=e1448]:
+            - link "Privacy Policy" [ref=e1449] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/privacy-policy
+          - listitem [ref=e1450]:
+            - link "Cookie Policy" [ref=e1451] [cursor=pointer]:
+              - /url: https://nytimes.com/cookie-policy
+          - listitem [ref=e1452]:
+            - link "Your Privacy Choices" [ref=e1453] [cursor=pointer]:
+              - /url: https://www.nytimes.com/privacy/your-privacy-choices
+              - img [ref=e1454]
+              - text: Your Privacy Choices
+  - alert [ref=e1457]
