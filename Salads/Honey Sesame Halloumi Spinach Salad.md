@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/776352265-honey-sesame-halloumi-spinach-salad
+image: "[[attachments/Honey Sesame Halloumi Spinach Salad.jpg]]"
 ---
 
 ![[attachments/Honey Sesame Halloumi Spinach Salad.jpg]]

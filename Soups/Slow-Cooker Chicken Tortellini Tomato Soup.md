@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020481-slow-cooker-chicken-tortellini-tomato-soup
+image: "[[attachments/Slow-Cooker Chicken Tortellini Tomato Soup.jpg]]"
 ---
 
 ![[attachments/Slow-Cooker Chicken Tortellini Tomato Soup.jpg]]

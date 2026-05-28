@@ -6,6 +6,7 @@ servings: 8 tacos
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025276-crispy-cheddar-chicken-tacos
+image: "[[attachments/Crispy Cheddar Chicken Tacos.jpg]]"
 ---
 
 ![[attachments/Crispy Cheddar Chicken Tacos.jpg]]

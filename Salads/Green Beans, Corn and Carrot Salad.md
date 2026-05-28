@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014799-green-beans-corn-and-carrot-salad
+image: "[[attachments/Green Beans, Corn and Carrot Salad.jpg]]"
 ---
 
 ![[attachments/Green Beans, Corn and Carrot Salad.jpg]]

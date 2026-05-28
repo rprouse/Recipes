@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020128-one-pot-french-onion-soup-with-porcini-mushrooms
+image: "[[attachments/One-Pot French Onion Soup With Porcini Mushrooms.jpg]]"
 ---
 
 ![[attachments/One-Pot French Onion Soup With Porcini Mushrooms.jpg]]

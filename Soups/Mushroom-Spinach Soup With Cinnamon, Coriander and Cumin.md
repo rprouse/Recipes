@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017980-mushroom-spinach-soup-with-cinnamon-coriander-and-cumin
+image: "[[attachments/Mushroom-Spinach Soup With Cinnamon, Coriander and Cumin.jpg]]"
 ---
 
 ![[attachments/Mushroom-Spinach Soup With Cinnamon, Coriander and Cumin.jpg]]

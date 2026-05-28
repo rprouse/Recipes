@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/10549-cold-soba-noodles-with-dipping-sauce
+image: "[[attachments/Cold Soba Noodles With Dipping Sauce.jpg]]"
 ---
 
 ![[attachments/Cold Soba Noodles With Dipping Sauce.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12662-cherry-tomato-caesar-salad
+image: "[[attachments/Cherry Tomato Caesar Salad.jpg]]"
 ---
 
 ![[attachments/Cherry Tomato Caesar Salad.jpg]]

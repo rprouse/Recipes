@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027025-one-pot-chicken-arroz-rojo
+image: "[[attachments/One-Pot Chicken Arroz Rojo.jpg]]"
 ---
 
 ![[attachments/One-Pot Chicken Arroz Rojo.jpg]]

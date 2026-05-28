@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026323-salpicon-de-pescado-spicy-citrus-marinated-fish
+image: "[[attachments/Salpicón de Pescado (Spicy Citrus-Marinated Fish).jpg]]"
 ---
 
 ![[attachments/Salpicón de Pescado (Spicy Citrus-Marinated Fish).jpg]]

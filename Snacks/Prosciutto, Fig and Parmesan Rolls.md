@@ -6,6 +6,7 @@ servings: 20 rolls
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015620-prosciutto-fig-and-parmesan-rolls
+image: "[[attachments/Prosciutto, Fig and Parmesan Rolls.jpg]]"
 ---
 
 ![[attachments/Prosciutto, Fig and Parmesan Rolls.jpg]]

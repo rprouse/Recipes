@@ -6,6 +6,7 @@ servings: 8 to 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020597-sous-vide-turkey-breast-with-maple-and-rosemary
+image: "[[attachments/Sous-Vide Turkey Breast With Maple and Rosemary.jpg]]"
 ---
 
 ![[attachments/Sous-Vide Turkey Breast With Maple and Rosemary.jpg]]

@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020012-new-mexican-hot-dish
+image: "[[attachments/New Mexican Hot Dish.jpg]]"
 ---
 
 ![[attachments/New Mexican Hot Dish.jpg]]

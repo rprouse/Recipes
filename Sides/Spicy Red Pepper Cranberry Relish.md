@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015348-spicy-red-pepper-cranberry-relish
+image: "[[attachments/Spicy Red Pepper Cranberry Relish.jpg]]"
 ---
 
 ![[attachments/Spicy Red Pepper Cranberry Relish.jpg]]

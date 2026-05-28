@@ -6,6 +6,7 @@ servings: 60 gyoza
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020467-pan-seared-gyoza
+image: "[[attachments/Pan-Seared Gyoza.jpg]]"
 ---
 
 ![[attachments/Pan-Seared Gyoza.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025955-salmon-with-avocado-and-cilantro-salad
+image: "[[attachments/Salmon With Avocado and Cilantro Salad.jpg]]"
 ---
 
 ![[attachments/Salmon With Avocado and Cilantro Salad.jpg]]

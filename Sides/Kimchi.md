@@ -6,6 +6,7 @@ servings: gallon
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023416-kimchi
+image: "[[attachments/Kimchi.jpg]]"
 ---
 
 ![[attachments/Kimchi.jpg]]

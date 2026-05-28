@@ -6,6 +6,7 @@ servings: 3 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015987-classic-marinara-sauce
+image: "[[attachments/Classic Marinara Sauce.jpg]]"
 ---
 
 ![[attachments/Classic Marinara Sauce.jpg]]

@@ -6,6 +6,7 @@ servings: 12 bars
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026978-homemade-protein-bars
+image: "[[attachments/Homemade Protein Bars - Genevieve Ko.jpg]]"
 ---
 
 ![[attachments/Homemade Protein Bars - Genevieve Ko.jpg]]

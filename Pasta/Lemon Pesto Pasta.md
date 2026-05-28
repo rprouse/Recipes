@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024253-lemon-pesto-pasta
+image: "[[attachments/Lemon Pesto Pasta.jpg]]"
 ---
 
 ![[attachments/Lemon Pesto Pasta.jpg]]

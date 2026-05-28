@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice
+image: "[[attachments/One-Pot Miso-Turmeric Salmon and Coconut Rice.jpg]]"
 ---
 
 ![[attachments/One-Pot Miso-Turmeric Salmon and Coconut Rice.jpg]]

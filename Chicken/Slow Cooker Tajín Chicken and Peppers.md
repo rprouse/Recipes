@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026792-slow-cooker-tajin-chicken-and-peppers
+image: "[[attachments/Slow Cooker Tajín Chicken and Peppers.jpg]]"
 ---
 
 ![[attachments/Slow Cooker Tajín Chicken and Peppers.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022336-ginger-mint-grilled-shrimp
+image: "[[attachments/Ginger-Mint Grilled Shrimp.jpg]]"
 ---
 
 ![[attachments/Ginger-Mint Grilled Shrimp.jpg]]

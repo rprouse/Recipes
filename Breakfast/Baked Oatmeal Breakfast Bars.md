@@ -6,6 +6,7 @@ servings: 16 bars
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026482-baked-oatmeal-breakfast-bars
+image: "[[attachments/Baked Oatmeal Breakfast Bars.jpg]]"
 ---
 
 ![[attachments/Baked Oatmeal Breakfast Bars.jpg]]

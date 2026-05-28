@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/7416-kale-soup-with-potatoes-and-sausage
+image: "[[attachments/Kale Soup With Potatoes and Sausage.jpg]]"
 ---
 
 ![[attachments/Kale Soup With Potatoes and Sausage.jpg]]

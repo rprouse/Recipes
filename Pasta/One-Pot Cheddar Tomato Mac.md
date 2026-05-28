@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/770764080-one-pot-cheddar-tomato-mac
+image: "[[attachments/One-Pot Cheddar Tomato Mac.jpg]]"
 ---
 
 ![[attachments/One-Pot Cheddar Tomato Mac.jpg]]

@@ -6,6 +6,7 @@ servings: 2 as a main dish
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016427-tuna-and-bean-salad
+image: "[[attachments/Tuna and Bean Salad.jpg]]"
 ---
 
 ![[attachments/Tuna and Bean Salad.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022261-cottage-cheese-pasta-with-tomatoes-scallions-and-currants
+image: "[[attachments/Cottage Cheese Pasta With Tomatoes, Scallions and Currants.jpg]]"
 ---
 
 ![[attachments/Cottage Cheese Pasta With Tomatoes, Scallions and Currants.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde
+image: "[[attachments/Chicken Enchiladas With Salsa Verde.jpg]]"
 ---
 
 ![[attachments/Chicken Enchiladas With Salsa Verde.jpg]]

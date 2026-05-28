@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025143-sticky-chicken-and-brussels-sprouts-stir-fry
+image: "[[attachments/Sticky Chicken and Brussels Sprouts Stir-Fry.jpg]]"
 ---
 
 ![[attachments/Sticky Chicken and Brussels Sprouts Stir-Fry.jpg]]

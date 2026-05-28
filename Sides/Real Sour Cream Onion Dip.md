@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/348-real-sour-cream-onion-dip
+image: "[[attachments/Real Sour Cream Onion Dip.jpg]]"
 ---
 
 ![[attachments/Real Sour Cream Onion Dip.jpg]]

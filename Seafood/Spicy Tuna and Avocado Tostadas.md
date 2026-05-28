@@ -6,6 +6,7 @@ servings: 6 tostadas
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025611-spicy-tuna-and-avocado-tostadas
+image: "[[attachments/Spicy Tuna and Avocado Tostadas.jpg]]"
 ---
 
 ![[attachments/Spicy Tuna and Avocado Tostadas.jpg]]

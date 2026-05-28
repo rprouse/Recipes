@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014416-marinated-olives
+image: "[[attachments/Marinated Olives.jpg]]"
 ---
 
 ![[attachments/Marinated Olives.jpg]]

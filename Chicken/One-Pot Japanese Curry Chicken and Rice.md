@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021201-one-pot-japanese-curry-chicken-and-rice
+image: "[[attachments/One-Pot Japanese Curry Chicken and Rice.jpg]]"
 ---
 
 ![[attachments/One-Pot Japanese Curry Chicken and Rice.jpg]]

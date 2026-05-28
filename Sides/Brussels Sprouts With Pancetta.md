@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/236-brussels-sprouts-with-pancetta
+image: "[[attachments/Brussels Sprouts With Pancetta.jpg]]"
 ---
 
 ![[attachments/Brussels Sprouts With Pancetta.jpg]]

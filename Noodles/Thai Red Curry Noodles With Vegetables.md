@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019142-thai-red-curry-noodles-with-vegetables
+image: "[[attachments/Thai Red Curry Noodles With Vegetables.jpg]]"
 ---
 
 ![[attachments/Thai Red Curry Noodles With Vegetables.jpg]]

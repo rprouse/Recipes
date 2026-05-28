@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020987-mac-and-queso-fundido
+image: "[[attachments/Mac and Queso Fundido.jpg]]"
 ---
 
 ![[attachments/Mac and Queso Fundido.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022384-steak-marinade
+image: "[[attachments/Steak Marinade.jpg]]"
 ---
 
 ![[attachments/Steak Marinade.jpg]]

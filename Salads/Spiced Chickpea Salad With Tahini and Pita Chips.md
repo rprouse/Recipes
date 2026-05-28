@@ -6,6 +6,7 @@ servings: 4 main-course servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips
+image: "[[attachments/Spiced Chickpea Salad With Tahini and Pita Chips.jpg]]"
 ---
 
 ![[attachments/Spiced Chickpea Salad With Tahini and Pita Chips.jpg]]

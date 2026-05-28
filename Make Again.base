@@ -16,12 +16,15 @@ views:
     name: Make Again
     order:
       - file.name
+      - servings
       - time
       - tags
-      - servings
     sort:
       - property: file.name
         direction: ASC
+    image: note.image
+    imageAspectRatio: 1
+    imageFit: cover
   - type: table
     name: All
     order:

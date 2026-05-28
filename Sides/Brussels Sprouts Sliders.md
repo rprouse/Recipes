@@ -6,6 +6,7 @@ servings: 8 to 10 appetizer portions
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016967-brussels-sprouts-sliders
+image: "[[attachments/Brussels Sprouts Sliders.jpg]]"
 ---
 
 ![[attachments/Brussels Sprouts Sliders.jpg]]

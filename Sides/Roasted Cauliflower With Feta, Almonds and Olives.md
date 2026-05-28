@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019657-roasted-cauliflower-with-feta-almonds-and-olives
+image: "[[attachments/Roasted Cauliflower With Feta, Almonds and Olives.jpg]]"
 ---
 
 ![[attachments/Roasted Cauliflower With Feta, Almonds and Olives.jpg]]

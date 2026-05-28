@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021485-one-pan-orzo-with-spinach-and-feta
+image: "[[attachments/One-Pan Orzo With Spinach and Feta.jpg]]"
 ---
 
 ![[attachments/One-Pan Orzo With Spinach and Feta.jpg]]

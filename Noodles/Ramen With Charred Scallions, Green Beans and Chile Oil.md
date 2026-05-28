@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil
+image: "[[attachments/Ramen With Charred Scallions, Green Beans and Chile Oil.jpg]]"
 ---
 
 ![[attachments/Ramen With Charred Scallions, Green Beans and Chile Oil.jpg]]

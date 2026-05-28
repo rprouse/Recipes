@@ -6,6 +6,7 @@ servings: 1 quesadilla
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023226-crispy-edged-quesadilla
+image: "[[attachments/Crispy-Edged Quesadilla.jpg]]"
 ---
 
 ![[attachments/Crispy-Edged Quesadilla.jpg]]

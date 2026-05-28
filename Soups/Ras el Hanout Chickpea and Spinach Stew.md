@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027119-ras-el-hanout-chickpea-and-spinach-stew
+image: "[[attachments/Ras el Hanout Chickpea and Spinach Stew.jpg]]"
 ---
 
 ![[attachments/Ras el Hanout Chickpea and Spinach Stew.jpg]]

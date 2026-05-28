@@ -6,6 +6,7 @@ servings: 3 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021402-skillet-meatballs-with-peaches-basil-and-lime
+image: "[[attachments/Skillet Meatballs With Peaches, Basil and Lime.jpg]]"
 ---
 
 ![[attachments/Skillet Meatballs With Peaches, Basil and Lime.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020045-coconut-miso-salmon-curry
+image: "[[attachments/Coconut-Miso Salmon Curry.jpg]]"
 ---
 
 ![[attachments/Coconut-Miso Salmon Curry.jpg]]

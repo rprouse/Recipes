@@ -6,6 +6,7 @@ servings: 5 to 6 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015197-make-ahead-gravy
+image: "[[attachments/Make-Ahead Gravy.jpg]]"
 ---
 
 ![[attachments/Make-Ahead Gravy.jpg]]

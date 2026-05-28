@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020049-lemony-chicken-soup-with-fennel-and-dill
+image: "[[attachments/Lemony Chicken Soup With Fennel and Dill.jpg]]"
 ---
 
 ![[attachments/Lemony Chicken Soup With Fennel and Dill.jpg]]

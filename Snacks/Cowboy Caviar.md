@@ -6,6 +6,7 @@ servings: 8 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020433-cowboy-caviar
+image: "[[attachments/Cowboy Caviar.jpg]]"
 ---
 
 ![[attachments/Cowboy Caviar.jpg]]

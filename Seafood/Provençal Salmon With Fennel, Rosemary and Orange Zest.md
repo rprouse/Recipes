@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/7368-provencal-salmon-with-fennel-rosemary-and-orange-zest
+image: "[[attachments/Provençal Salmon With Fennel, Rosemary and Orange Zest.jpg]]"
 ---
 
 ![[attachments/Provençal Salmon With Fennel, Rosemary and Orange Zest.jpg]]

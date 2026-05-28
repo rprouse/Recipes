@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12663-tomato-fresh-fig-and-blue-cheese-salad
+image: "[[attachments/Tomato, Fresh Fig and Blue Cheese Salad.jpg]]"
 ---
 
 ![[attachments/Tomato, Fresh Fig and Blue Cheese Salad.jpg]]

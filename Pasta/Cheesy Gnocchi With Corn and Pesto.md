@@ -6,6 +6,7 @@ servings: 4 servings
 time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/759796803-cheesy-gnocchi-with-corn-and-pesto
+image: "[[attachments/Cheesy Gnocchi With Corn and Pesto.jpg]]"
 ---
 
 ![[attachments/Cheesy Gnocchi With Corn and Pesto.jpg]]

@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9025-elaines-fettuccine-alfredo
+image: "[[attachments/Fettuccine Alfredo.jpg]]"
 ---
 
 ![[attachments/Fettuccine Alfredo.jpg]]

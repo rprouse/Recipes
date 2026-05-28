@@ -6,6 +6,7 @@ servings: 4 servings
 time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/762489991-spinach-corn-dip
+image: "[[attachments/Spinach Corn Dip.jpg]]"
 ---
 
 ![[attachments/Spinach Corn Dip.jpg]]

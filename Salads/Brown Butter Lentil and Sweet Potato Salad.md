@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021511-brown-butter-lentil-and-sweet-potato-salad
+image: "[[attachments/Brown Butter Lentil and Sweet Potato Salad.jpg]]"
 ---
 
 ![[attachments/Brown Butter Lentil and Sweet Potato Salad.jpg]]

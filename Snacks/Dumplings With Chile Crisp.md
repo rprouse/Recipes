@@ -6,6 +6,7 @@ servings: 35 dumplings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021846-dumplings-with-chile-crisp
+image: "[[attachments/Dumplings With Chile Crisp.jpg]]"
 ---
 
 ![[attachments/Dumplings With Chile Crisp.jpg]]

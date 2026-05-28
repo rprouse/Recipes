@@ -6,6 +6,7 @@ servings: 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019029-wild-rice-and-mushroom-casserole
+image: "[[attachments/Wild Rice and Mushroom Casserole.jpg]]"
 ---
 
 ![[attachments/Wild Rice and Mushroom Casserole.jpg]]

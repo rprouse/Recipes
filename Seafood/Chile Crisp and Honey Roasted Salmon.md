@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026693-chile-crisp-and-honey-roasted-salmon
+image: "[[attachments/Chile Crisp and Honey Roasted Salmon.jpg]]"
 ---
 
 ![[attachments/Chile Crisp and Honey Roasted Salmon.jpg]]

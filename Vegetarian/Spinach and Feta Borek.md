@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020581-spinach-and-feta-borek
+image: "[[attachments/Spinach and Feta Borek.jpg]]"
 ---
 
 ![[attachments/Spinach and Feta Borek.jpg]]

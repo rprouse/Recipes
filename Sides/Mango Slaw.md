@@ -6,6 +6,7 @@ servings: 3 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021305-mango-slaw
+image: "[[attachments/Mango Slaw.jpg]]"
 ---
 
 ![[attachments/Mango Slaw.jpg]]

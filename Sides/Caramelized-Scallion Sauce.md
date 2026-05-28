@@ -6,6 +6,7 @@ servings: 1 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce
+image: "[[attachments/Caramelized-Scallion Sauce.jpg]]"
 ---
 
 ![[attachments/Caramelized-Scallion Sauce.jpg]]

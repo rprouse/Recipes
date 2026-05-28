@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021278-spicy-cucumbers-with-yogurt-lemon-and-herbs
+image: "[[attachments/Spicy Cucumbers With Yogurt, Lemon and Herbs.jpg]]"
 ---
 
 ![[attachments/Spicy Cucumbers With Yogurt, Lemon and Herbs.jpg]]

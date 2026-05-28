@@ -6,6 +6,7 @@ servings: 4 servings
 time: 2 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/761249285-one-pan-chicken-with-golden-potatoes
+image: "[[attachments/One-Pan Chicken With Golden Potatoes.jpg]]"
 ---
 
 ![[attachments/One-Pan Chicken With Golden Potatoes.jpg]]

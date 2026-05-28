@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019991-grilled-broccoli-with-soy-sauce-maple-syrup-and-balsamic-vinegar
+image: "[[attachments/Grilled Broccoli With Soy Sauce, Maple Syrup and Balsamic Vinegar.jpg]]"
 ---
 
 ![[attachments/Grilled Broccoli With Soy Sauce, Maple Syrup and Balsamic Vinegar.jpg]]

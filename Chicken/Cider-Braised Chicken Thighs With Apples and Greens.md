@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020636-cider-braised-chicken-thighs-with-apples-and-greens
+image: "[[attachments/Cider-Braised Chicken Thighs With Apples and Greens.jpg]]"
 ---
 
 ![[attachments/Cider-Braised Chicken Thighs With Apples and Greens.jpg]]

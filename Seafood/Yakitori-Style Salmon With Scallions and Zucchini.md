@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021266-yakitori-style-salmon-with-scallions-and-zucchini
+image: "[[attachments/Yakitori-Style Salmon With Scallions and Zucchini.jpg]]"
 ---
 
 ![[attachments/Yakitori-Style Salmon With Scallions and Zucchini.jpg]]

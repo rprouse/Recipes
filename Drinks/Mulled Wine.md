@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019799-mulled-wine
+image: "[[attachments/Mulled Wine.jpg]]"
 ---
 
 ![[attachments/Mulled Wine.jpg]]

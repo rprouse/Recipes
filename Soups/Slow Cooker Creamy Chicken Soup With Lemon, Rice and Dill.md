@@ -6,6 +6,7 @@ servings: 4 to 5 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019699-slow-cooker-creamy-chicken-soup-with-lemon-rice-and-dill
+image: "[[attachments/Slow Cooker Creamy Chicken Soup With Lemon, Rice and Dill.jpg]]"
 ---
 
 ![[attachments/Slow Cooker Creamy Chicken Soup With Lemon, Rice and Dill.jpg]]

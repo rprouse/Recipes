@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016855-quinoa-and-rice-bowl-with-kale-kimchi-and-egg
+image: "[[attachments/Quinoa and Rice Bowl With Kale, Kimchi and Egg.jpg]]"
 ---
 
 ![[attachments/Quinoa and Rice Bowl With Kale, Kimchi and Egg.jpg]]

@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019695-slow-cooker-curried-sweet-potato-soup-with-coconut-and-kale
+image: "[[attachments/Slow-Cooker Curried Sweet Potato Soup With Coconut and Kale.jpg]]"
 ---
 
 ![[attachments/Slow-Cooker Curried Sweet Potato Soup With Coconut and Kale.jpg]]

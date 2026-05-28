@@ -6,6 +6,7 @@ servings: 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018592-best-black-bean-soup
+image: "[[attachments/Best Black Bean Soup.jpg]]"
 ---
 
 ![[attachments/Best Black Bean Soup.jpg]]

@@ -6,6 +6,7 @@ servings: 1 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019286-green-goddess-dressing
+image: "[[attachments/Green Goddess Dressing.jpg]]"
 ---
 
 ![[attachments/Green Goddess Dressing.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings for dinner
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019641-tuna-poke
+image: "[[attachments/Tuna Poke.jpg]]"
 ---
 
 ![[attachments/Tuna Poke.jpg]]

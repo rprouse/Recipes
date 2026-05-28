@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020074-corned-beef-and-cabbage
+image: "[[attachments/Corned Beef and Cabbage.jpg]]"
 ---
 
 ![[attachments/Corned Beef and Cabbage.jpg]]

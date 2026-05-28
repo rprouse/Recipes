@@ -6,6 +6,7 @@ servings: 10 waffles
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017409-waffles
+image: "[[attachments/Waffles.jpg]]"
 ---
 
 ![[attachments/Waffles.jpg]]

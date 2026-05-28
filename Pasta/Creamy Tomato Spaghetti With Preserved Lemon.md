@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026820-creamy-tomato-spaghetti-with-preserved-lemon
+image: "[[attachments/Creamy Tomato Spaghetti With Preserved Lemon.jpg]]"
 ---
 
 ![[attachments/Creamy Tomato Spaghetti With Preserved Lemon.jpg]]

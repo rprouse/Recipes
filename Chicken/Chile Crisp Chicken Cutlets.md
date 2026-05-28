@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025207-chile-crisp-chicken-cutlets
+image: "[[attachments/Chile Crisp Chicken Cutlets.jpg]]"
 ---
 
 ![[attachments/Chile Crisp Chicken Cutlets.jpg]]

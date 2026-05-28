@@ -6,6 +6,7 @@ servings: 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026387-hot-honey-baked-sweet-potatoes
+image: "[[attachments/Hot Honey Baked Sweet Potatoes.jpg]]"
 ---
 
 ![[attachments/Hot Honey Baked Sweet Potatoes.jpg]]

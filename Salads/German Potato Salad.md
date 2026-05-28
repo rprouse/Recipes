@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9470-german-potato-salad
+image: "[[attachments/German Potato Salad.jpg]]"
 ---
 
 ![[attachments/German Potato Salad.jpg]]

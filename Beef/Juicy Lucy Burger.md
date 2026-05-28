@@ -6,6 +6,7 @@ servings: 4 burgers
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020256-juicy-lucy-burger
+image: "[[attachments/Juicy Lucy Burger.jpg]]"
 ---
 
 ![[attachments/Juicy Lucy Burger.jpg]]

@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018913-mashed-potato-salad-with-scallions-and-herbs
+image: "[[attachments/Mashed Potato Salad With Scallions and Herbs.jpg]]"
 ---
 
 ![[attachments/Mashed Potato Salad With Scallions and Herbs.jpg]]

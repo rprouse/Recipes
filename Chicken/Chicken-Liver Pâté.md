@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015975-chicken-liver-pate
+image: "[[attachments/Chicken-Liver Pâté.jpg]]"
 ---
 
 ![[attachments/Chicken-Liver Pâté.jpg]]

@@ -6,6 +6,7 @@ servings: 10 to 14 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023623-mayo-roasted-thanksgiving-turkey-with-gravy
+image: "[[attachments/Mayo-Roasted Thanksgiving Turkey With Gravy.jpg]]"
 ---
 
 ![[attachments/Mayo-Roasted Thanksgiving Turkey With Gravy.jpg]]

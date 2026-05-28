@@ -6,6 +6,7 @@ servings: 25 crackers
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027668-chile-crisp-cheese-crackers
+image: "[[attachments/Chile Crisp Cheese Crackers.jpg]]"
 ---
 
 ![[attachments/Chile Crisp Cheese Crackers.jpg]]

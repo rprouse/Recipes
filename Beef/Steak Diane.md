@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023898-steak-diane
+image: "[[attachments/Steak Diane.jpg]]"
 ---
 
 ![[attachments/Steak Diane.jpg]]

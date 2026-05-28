@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025462-spiced-chicken-and-rice-with-cardamom-and-cinnamon
+image: "[[attachments/Spiced Chicken and Rice With Cardamom and Cinnamon.jpg]]"
 ---
 
 ![[attachments/Spiced Chicken and Rice With Cardamom and Cinnamon.jpg]]

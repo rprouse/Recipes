@@ -6,6 +6,7 @@ servings: 8 to 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020617-lemony-cauliflower-with-garlic-and-herbs
+image: "[[attachments/Lemony Cauliflower With Garlic and Herbs.jpg]]"
 ---
 
 ![[attachments/Lemony Cauliflower With Garlic and Herbs.jpg]]

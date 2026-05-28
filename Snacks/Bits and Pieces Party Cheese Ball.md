@@ -6,6 +6,7 @@ servings: 1 12-ounce cheese ball
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018455-bits-and-pieces-party-cheese-ball
+image: "[[attachments/Bits and Pieces Party Cheese Ball.jpg]]"
 ---
 
 ![[attachments/Bits and Pieces Party Cheese Ball.jpg]]

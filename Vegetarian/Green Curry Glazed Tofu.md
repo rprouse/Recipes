@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023248-green-curry-glazed-tofu
+image: "[[attachments/Green Curry Glazed Tofu.jpg]]"
 ---
 
 ![[attachments/Green Curry Glazed Tofu.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12177-fried-rice
+image: "[[attachments/Fried Rice.jpg]]"
 ---
 
 ![[attachments/Fried Rice.jpg]]

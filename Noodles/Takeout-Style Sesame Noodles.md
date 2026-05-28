@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9558-takeout-style-sesame-noodles
+image: "[[attachments/Takeout-Style Sesame Noodles.jpg]]"
 ---
 
 ![[attachments/Takeout-Style Sesame Noodles.jpg]]

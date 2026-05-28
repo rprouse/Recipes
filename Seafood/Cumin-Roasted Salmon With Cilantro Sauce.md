@@ -6,6 +6,7 @@ servings: 3 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018901-cumin-roasted-salmon-with-cilantro-sauce
+image: "[[attachments/Cumin-Roasted Salmon With Cilantro Sauce.jpg]]"
 ---
 
 ![[attachments/Cumin-Roasted Salmon With Cilantro Sauce.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013094-pasta-with-sardines-bread-crumbs-and-capers
+image: "[[attachments/Pasta With Sardines, Bread Crumbs and Capers.jpg]]"
 ---
 
 ![[attachments/Pasta With Sardines, Bread Crumbs and Capers.jpg]]

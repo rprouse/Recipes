@@ -6,6 +6,7 @@ servings: 16 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019802-crispy-feta-with-lemon
+image: "[[attachments/Crispy Feta With Lemon.jpg]]"
 ---
 
 ![[attachments/Crispy Feta With Lemon.jpg]]

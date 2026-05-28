@@ -6,6 +6,7 @@ servings: 3 baguettes
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024403-classic-baguettes
+image: "[[attachments/Classic Baguettes.jpg]]"
 ---
 
 ![[attachments/Classic Baguettes.jpg]]

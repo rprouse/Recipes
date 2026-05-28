@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020734-skillet-roast-chicken-with-caramelized-shallots
+image: "[[attachments/Skillet Roast Chicken With Caramelized Shallots.jpg]]"
 ---
 
 ![[attachments/Skillet Roast Chicken With Caramelized Shallots.jpg]]

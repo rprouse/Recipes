@@ -6,6 +6,7 @@ servings: 3 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018321-chicken-congee
+image: "[[attachments/Chicken Congee.jpg]]"
 ---
 
 ![[attachments/Chicken Congee.jpg]]

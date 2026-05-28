@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023334-tuna-salad-with-hot-and-sweet-peppers
+image: "[[attachments/Tuna Salad With Hot and Sweet Peppers.jpg]]"
 ---
 
 ![[attachments/Tuna Salad With Hot and Sweet Peppers.jpg]]

@@ -6,6 +6,7 @@ servings: 1 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016583-perfect-instant-ramen
+image: "[[attachments/Ramen.jpg]]"
 ---
 
 ![[attachments/Ramen.jpg]]

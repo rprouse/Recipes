@@ -6,6 +6,7 @@ servings: 2 to 3 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023044-pad-kee-mao-drunken-noodles
+image: "[[attachments/Pad Kee Mao (Drunken Noodles).jpg]]"
 ---
 
 ![[attachments/Pad Kee Mao (Drunken Noodles).jpg]]

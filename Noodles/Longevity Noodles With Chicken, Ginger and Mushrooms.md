@@ -6,6 +6,7 @@ servings: 2 to 3 main-dish servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013451-longevity-noodles-with-chicken-ginger-and-mushrooms
+image: "[[attachments/Longevity Noodles With Chicken, Ginger and Mushrooms.jpg]]"
 ---
 
 ![[attachments/Longevity Noodles With Chicken, Ginger and Mushrooms.jpg]]

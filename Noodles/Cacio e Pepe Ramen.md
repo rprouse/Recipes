@@ -6,6 +6,7 @@ servings: 1 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025883-cacio-e-pepe-ramen
+image: "[[attachments/Cacio e Pepe Ramen.jpg]]"
 ---
 
 ![[attachments/Cacio e Pepe Ramen.jpg]]

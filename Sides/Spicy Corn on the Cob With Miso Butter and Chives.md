@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020340-spicy-corn-on-the-cob-with-miso-butter-and-chives
+image: "[[attachments/Spicy Corn on the Cob With Miso Butter and Chives.jpg]]"
 ---
 
 ![[attachments/Spicy Corn on the Cob With Miso Butter and Chives.jpg]]

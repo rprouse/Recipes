@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016459-pasta-with-tuna-and-olives
+image: "[[attachments/Pasta With Tuna and Olives.jpg]]"
 ---
 
 ![[attachments/Pasta With Tuna and Olives.jpg]]

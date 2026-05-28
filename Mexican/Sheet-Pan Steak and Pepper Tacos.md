@@ -6,6 +6,7 @@ servings: 8 servings
 time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/771520721-sheet-pan-steak-and-pepper-tacos
+image: "[[attachments/Sheet-Pan Steak and Pepper Tacos.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Steak and Pepper Tacos.jpg]]

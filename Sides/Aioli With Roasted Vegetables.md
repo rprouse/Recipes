@@ -6,6 +6,7 @@ servings: 8 to 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016907-aioli-with-roasted-vegetables
+image: "[[attachments/Aioli With Roasted Vegetables.jpg]]"
 ---
 
 ![[attachments/Aioli With Roasted Vegetables.jpg]]

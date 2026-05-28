@@ -6,6 +6,7 @@ servings: 2 to 3 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018248-spinach-artichoke-dip
+image: "[[attachments/Spinach Artichoke Dip.jpg]]"
 ---
 
 ![[attachments/Spinach Artichoke Dip.jpg]]

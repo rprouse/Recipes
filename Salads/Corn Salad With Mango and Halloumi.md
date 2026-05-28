@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022435-corn-salad-with-mango-and-halloumi
+image: "[[attachments/Corn Salad With Mango and Halloumi.jpg]]"
 ---
 
 ![[attachments/Corn Salad With Mango and Halloumi.jpg]]

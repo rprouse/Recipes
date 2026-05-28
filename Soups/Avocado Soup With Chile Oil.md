@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022480-avocado-soup-with-chile-oil
+image: "[[attachments/Avocado Soup With Chile Oil.jpg]]"
 ---
 
 ![[attachments/Avocado Soup With Chile Oil.jpg]]

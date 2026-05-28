@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020869-chicken-braised-with-potatoes-and-pine-nuts
+image: "[[attachments/Chicken Braised With Potatoes and Pine Nuts.jpg]]"
 ---
 
 ![[attachments/Chicken Braised With Potatoes and Pine Nuts.jpg]]

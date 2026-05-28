@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019791-kua-kling-southern-thai-style-red-curry
+image: "[[attachments/Kua Kling (Southern Thai-Style Red Curry).jpg]]"
 ---
 
 ![[attachments/Kua Kling (Southern Thai-Style Red Curry).jpg]]

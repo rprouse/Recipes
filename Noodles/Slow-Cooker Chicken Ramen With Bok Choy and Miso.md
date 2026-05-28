@@ -6,6 +6,7 @@ servings: 4 to 5 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019694-slow-cooker-chicken-ramen-with-bok-choy-and-miso
+image: "[[attachments/Slow-Cooker Chicken Ramen With Bok Choy and Miso.jpg]]"
 ---
 
 ![[attachments/Slow-Cooker Chicken Ramen With Bok Choy and Miso.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026415-beef-fried-rice
+image: "[[attachments/Beef Fried Rice.jpg]]"
 ---
 
 ![[attachments/Beef Fried Rice.jpg]]

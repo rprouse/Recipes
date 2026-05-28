@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016016-soba-noodles-with-shiitakes-broccoli-and-tofu
+image: "[[attachments/Soba Noodles With Shiitakes, Broccoli and Tofu.jpg]]"
 ---
 
 ![[attachments/Soba Noodles With Shiitakes, Broccoli and Tofu.jpg]]

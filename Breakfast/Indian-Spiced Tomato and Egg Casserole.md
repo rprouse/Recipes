@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016158-indian-spiced-tomato-and-egg-casserole
+image: "[[attachments/Indian-Spiced Tomato and Egg Casserole.jpg]]"
 ---
 
 ![[attachments/Indian-Spiced Tomato and Egg Casserole.jpg]]

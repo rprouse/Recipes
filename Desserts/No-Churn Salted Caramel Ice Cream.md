@@ -6,6 +6,7 @@ servings: 1 1/2 pints
 time: 3 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024401-no-churn-salted-caramel-ice-cream
+image: "[[attachments/No-Churn Salted Caramel Ice Cream.jpg]]"
 ---
 
 ![[attachments/No-Churn Salted Caramel Ice Cream.jpg]]

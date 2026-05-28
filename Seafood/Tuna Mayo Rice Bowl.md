@@ -6,6 +6,7 @@ servings: 1 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023224-tuna-mayo-rice-bowl
+image: "[[attachments/Tuna Mayo Rice Bowl.jpg]]"
 ---
 
 ![[attachments/Tuna Mayo Rice Bowl.jpg]]

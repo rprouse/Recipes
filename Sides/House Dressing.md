@@ -6,6 +6,7 @@ servings: 1 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027003-house-dressing
+image: "[[attachments/House Dressing.jpg]]"
 ---
 
 ![[attachments/House Dressing.jpg]]

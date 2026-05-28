@@ -6,6 +6,7 @@ servings: 8 to 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017577-best-gazpacho
+image: "[[attachments/Best Gazpacho.jpg]]"
 ---
 
 ![[attachments/Best Gazpacho.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025361-oven-seared-salmon-with-corn-and-tomatoes
+image: "[[attachments/Oven-Seared Salmon With Corn and Tomatoes.jpg]]"
 ---
 
 ![[attachments/Oven-Seared Salmon With Corn and Tomatoes.jpg]]

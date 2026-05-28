@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020514-labneh-dip-with-sizzled-scallions-and-chile
+image: "[[attachments/Labneh Dip With Sizzled Scallions and Chile.jpg]]"
 ---
 
 ![[attachments/Labneh Dip With Sizzled Scallions and Chile.jpg]]

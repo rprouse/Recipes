@@ -6,6 +6,7 @@ servings: 2 to 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021194-smacked-cucumber-quick-kimchi
+image: "[[attachments/Smacked Cucumber ‘Quick Kimchi’.jpg]]"
 ---
 
 ![[attachments/Smacked Cucumber ‘Quick Kimchi’.jpg]]

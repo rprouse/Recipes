@@ -6,6 +6,7 @@ servings: 1 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016831-mustard-shallot-vinaigrette
+image: "[[attachments/Mustard-Shallot Vinaigrette.jpg]]"
 ---
 
 ![[attachments/Mustard-Shallot Vinaigrette.jpg]]

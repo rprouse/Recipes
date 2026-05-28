@@ -6,6 +6,7 @@ servings: 2 to 3 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012888-pasta-with-kale-pesto-and-roasted-butternut-squash
+image: "[[attachments/Pasta With Kale Pesto and Roasted Butternut Squash.jpg]]"
 ---
 
 ![[attachments/Pasta With Kale Pesto and Roasted Butternut Squash.jpg]]

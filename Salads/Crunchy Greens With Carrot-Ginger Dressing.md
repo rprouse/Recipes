@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023298-crunchy-greens-with-carrot-ginger-dressing
+image: "[[attachments/Crunchy Greens With Carrot-Ginger Dressing.jpg]]"
 ---
 
 ![[attachments/Crunchy Greens With Carrot-Ginger Dressing.jpg]]

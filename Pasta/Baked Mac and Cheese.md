@@ -6,6 +6,7 @@ servings: 8 to 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015824-baked-macaroni-and-cheese
+image: "[[attachments/Baked Mac and Cheese.jpg]]"
 ---
 
 ![[attachments/Baked Mac and Cheese.jpg]]

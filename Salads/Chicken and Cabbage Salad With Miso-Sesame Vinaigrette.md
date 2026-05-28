@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021462-chicken-and-cabbage-salad-with-miso-sesame-vinaigrette
+image: "[[attachments/Chicken and Cabbage Salad With Miso-Sesame Vinaigrette.jpg]]"
 ---
 
 ![[attachments/Chicken and Cabbage Salad With Miso-Sesame Vinaigrette.jpg]]

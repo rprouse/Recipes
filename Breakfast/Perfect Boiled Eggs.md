@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020468-perfect-boiled-eggs
+image: "[[attachments/Perfect Boiled Eggs.jpg]]"
 ---
 
 ![[attachments/Perfect Boiled Eggs.jpg]]

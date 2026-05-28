@@ -6,6 +6,7 @@ servings: 1 quarts
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017991-creamy-homemade-yogurt
+image: "[[attachments/Creamy Homemade Yogurt.jpg]]"
 ---
 
 ![[attachments/Creamy Homemade Yogurt.jpg]]

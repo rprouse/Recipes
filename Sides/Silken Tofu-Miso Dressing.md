@@ -6,6 +6,7 @@ servings: 3 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027696-silken-tofu-miso-dressing
+image: "[[attachments/Silken Tofu-Miso Dressing.jpg]]"
 ---
 
 ![[attachments/Silken Tofu-Miso Dressing.jpg]]

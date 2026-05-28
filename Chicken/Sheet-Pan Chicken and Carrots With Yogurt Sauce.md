@@ -6,6 +6,7 @@ servings: 4 servings
 time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/767816733-sheet-pan-chicken-and-carrots-with-yogurt-sauce
+image: "[[attachments/Sheet-Pan Chicken and Carrots With Yogurt Sauce.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Chicken and Carrots With Yogurt Sauce.jpg]]

@@ -6,6 +6,7 @@ servings: 3 large curry bricks
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020451-japanese-curry-brick
+image: "[[attachments/Japanese Curry Brick.jpg]]"
 ---
 
 ![[attachments/Japanese Curry Brick.jpg]]

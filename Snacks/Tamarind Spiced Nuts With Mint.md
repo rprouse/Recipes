@@ -6,6 +6,7 @@ servings: 4 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014739-tamarind-spiced-nuts-with-mint
+image: "[[attachments/Tamarind Spiced Nuts With Mint.jpg]]"
 ---
 
 ![[attachments/Tamarind Spiced Nuts With Mint.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021454-chopped-salad-with-chickpeas-feta-and-avocado
+image: "[[attachments/Chopped Salad With Chickpeas, Feta and Avocado.jpg]]"
 ---
 
 ![[attachments/Chopped Salad With Chickpeas, Feta and Avocado.jpg]]

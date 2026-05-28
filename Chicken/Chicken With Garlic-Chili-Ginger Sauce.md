@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012996-chicken-with-garlic-chili-ginger-sauce
+image: "[[attachments/Chicken With Garlic-Chili-Ginger Sauce.jpg]]"
 ---
 
 ![[attachments/Chicken With Garlic-Chili-Ginger Sauce.jpg]]

@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016754-butter-chicken
+image: "[[attachments/Butter Chicken.jpg]]"
 ---
 
 ![[attachments/Butter Chicken.jpg]]

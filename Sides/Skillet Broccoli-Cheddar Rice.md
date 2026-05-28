@@ -6,6 +6,7 @@ servings: 4 servings
 time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/758042233-skillet-broccoli-cheddar-rice
+image: "[[attachments/Skillet Broccoli-Cheddar Rice.jpg]]"
 ---
 
 ![[attachments/Skillet Broccoli-Cheddar Rice.jpg]]

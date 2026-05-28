@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024187-dry-brined-salmon
+image: "[[attachments/Dry-Brined Salmon.jpg]]"
 ---
 
 ![[attachments/Dry-Brined Salmon.jpg]]

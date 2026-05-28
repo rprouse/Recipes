@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens
+image: "[[attachments/Creamy, Spicy Tomato Beans and Greens.jpg]]"
 ---
 
 ![[attachments/Creamy, Spicy Tomato Beans and Greens.jpg]]

@@ -6,6 +6,7 @@ servings: 36 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes
+image: "[[attachments/Classic Potato Latkes.jpg]]"
 ---
 
 ![[attachments/Classic Potato Latkes.jpg]]

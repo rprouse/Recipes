@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020856-khao-soi-gai-northern-thai-coconut-curry-noodles-with-chicken
+image: "[[attachments/Khao Soi Gai (Northern Thai Coconut-Curry Noodles With Chicken).jpg]]"
 ---
 
 ![[attachments/Khao Soi Gai (Northern Thai Coconut-Curry Noodles With Chicken).jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12677-grilled-sesame-chicken-and-eggplant-salad
+image: "[[attachments/Grilled Sesame Chicken and Eggplant Salad.jpg]]"
 ---
 
 ![[attachments/Grilled Sesame Chicken and Eggplant Salad.jpg]]

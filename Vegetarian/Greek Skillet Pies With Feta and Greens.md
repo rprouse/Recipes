@@ -6,6 +6,7 @@ servings: 12 small pies
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017486-greek-skillet-pies-with-feta-and-greens
+image: "[[attachments/Greek Skillet Pies With Feta and Greens.jpg]]"
 ---
 
 ![[attachments/Greek Skillet Pies With Feta and Greens.jpg]]

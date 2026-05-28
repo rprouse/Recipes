@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020927-pork-noodle-soup-with-ginger-and-toasted-garlic
+image: "[[attachments/Pork Noodle Soup With Ginger and Toasted Garlic.jpg]]"
 ---
 
 ![[attachments/Pork Noodle Soup With Ginger and Toasted Garlic.jpg]]

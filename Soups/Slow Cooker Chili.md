@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019903-slow-cooker-chili
+image: "[[attachments/Slow Cooker Chili.jpg]]"
 ---
 
 ![[attachments/Slow Cooker Chili.jpg]]

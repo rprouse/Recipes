@@ -6,6 +6,7 @@ servings: 4 burgers
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022400-thin-but-juicy-chargrilled-burgers
+image: "[[attachments/Thin but Juicy Chargrilled Burgers.jpg]]"
 ---
 
 ![[attachments/Thin but Juicy Chargrilled Burgers.jpg]]

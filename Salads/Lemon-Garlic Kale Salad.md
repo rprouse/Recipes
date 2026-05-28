@@ -6,6 +6,7 @@ servings: 8 to 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015707-lemon-garlic-kale-salad
+image: "[[attachments/Lemon-Garlic Kale Salad.jpg]]"
 ---
 
 ![[attachments/Lemon-Garlic Kale Salad.jpg]]

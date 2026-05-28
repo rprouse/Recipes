@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12558-minty-fruit-salad
+image: "[[attachments/Minty Fruit Salad.jpg]]"
 ---
 
 ![[attachments/Minty Fruit Salad.jpg]]

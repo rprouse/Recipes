@@ -6,6 +6,7 @@ servings: 10 bars
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024866-energy-bars
+image: "[[attachments/Energy Bars.jpg]]"
 ---
 
 ![[attachments/Energy Bars.jpg]]

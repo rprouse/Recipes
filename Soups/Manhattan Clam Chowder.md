@@ -6,6 +6,7 @@ servings: 8 to 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016719-manhattan-clam-chowder
+image: "[[attachments/Manhattan Clam Chowder.jpg]]"
 ---
 
 ![[attachments/Manhattan Clam Chowder.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020970-turmeric-black-pepper-chicken-with-asparagus
+image: "[[attachments/Turmeric-Black Pepper Chicken With Asparagus.jpg]]"
 ---
 
 ![[attachments/Turmeric-Black Pepper Chicken With Asparagus.jpg]]

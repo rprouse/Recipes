@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020002-kale-salad-with-cranberries-pecans-and-blue-cheese
+image: "[[attachments/Kale Salad With Cranberries, Pecans and Blue Cheese.jpg]]"
 ---
 
 ![[attachments/Kale Salad With Cranberries, Pecans and Blue Cheese.jpg]]

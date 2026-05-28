@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015537-corn-salad-with-tomatoes-feta-and-mint
+image: "[[attachments/Corn Salad With Tomatoes, Feta and Mint.jpg]]"
 ---
 
 ![[attachments/Corn Salad With Tomatoes, Feta and Mint.jpg]]

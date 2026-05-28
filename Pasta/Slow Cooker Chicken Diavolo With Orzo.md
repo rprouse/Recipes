@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 5 hours 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/769626473-slow-cooker-chicken-diavolo-with-orzo
+image: "[[attachments/Slow Cooker Chicken Diavolo With Orzo.jpg]]"
 ---
 
 ![[attachments/Slow Cooker Chicken Diavolo With Orzo.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012582-sugar-snap-pea-salad-with-radishes-mint-and-ricotta-salata
+image: "[[attachments/Sugar Snap Pea Salad With Radishes, Mint and Ricotta Salata.jpg]]"
 ---
 
 ![[attachments/Sugar Snap Pea Salad With Radishes, Mint and Ricotta Salata.jpg]]

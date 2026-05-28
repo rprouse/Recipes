@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012887-turkey-and-spinach-curry
+image: "[[attachments/Turkey and Spinach Curry.jpg]]"
 ---
 
 ![[attachments/Turkey and Spinach Curry.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021945-roasted-chicken-thighs-with-cauliflower-and-herby-yogurt
+image: "[[attachments/Roasted Chicken Thighs With Cauliflower and Herby Yogurt.jpg]]"
 ---
 
 ![[attachments/Roasted Chicken Thighs With Cauliflower and Herby Yogurt.jpg]]

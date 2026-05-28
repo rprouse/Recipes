@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020864-one-pot-braised-chicken-with-coconut-milk-tomato-and-ginger
+image: "[[attachments/One-Pot Braised Chicken With Coconut Milk, Tomato and Ginger.jpg]]"
 ---
 
 ![[attachments/One-Pot Braised Chicken With Coconut Milk, Tomato and Ginger.jpg]]

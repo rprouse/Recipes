@@ -6,6 +6,7 @@ servings: 4 main-course servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012383-coconut-curry-chicken-noodle-soup
+image: "[[attachments/Coconut Curry Chicken Noodle Soup.jpg]]"
 ---
 
 ![[attachments/Coconut Curry Chicken Noodle Soup.jpg]]

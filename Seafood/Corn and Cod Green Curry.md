@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025363-corn-and-cod-green-curry
+image: "[[attachments/Corn and Cod Green Curry.jpg]]"
 ---
 
 ![[attachments/Corn and Cod Green Curry.jpg]]

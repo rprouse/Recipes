@@ -6,6 +6,7 @@ servings: 4 servings
 time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/759797233-broccoli-rice-with-eggs
+image: "[[attachments/Broccoli Rice With Eggs.jpg]]"
 ---
 
 ![[attachments/Broccoli Rice With Eggs.jpg]]

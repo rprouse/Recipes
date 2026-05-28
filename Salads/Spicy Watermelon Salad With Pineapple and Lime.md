@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020374-spicy-watermelon-salad-with-pineapple-and-lime
+image: "[[attachments/Spicy Watermelon Salad With Pineapple and Lime.jpg]]"
 ---
 
 ![[attachments/Spicy Watermelon Salad With Pineapple and Lime.jpg]]

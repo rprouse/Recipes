@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025628-paprika-chicken-and-potatoes
+image: "[[attachments/Paprika Chicken and Potatoes.jpg]]"
 ---
 
 ![[attachments/Paprika Chicken and Potatoes.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021736-sheet-pan-sausages-and-mushrooms-with-arugula-and-croutons
+image: "[[attachments/Sheet-Pan Sausages and Mushrooms With Arugula and Croutons.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Sausages and Mushrooms With Arugula and Croutons.jpg]]

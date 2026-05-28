@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020774-creamy-farro-with-crispy-mushrooms-and-sour-cream
+image: "[[attachments/Creamy Farro With Crispy Mushrooms and Sour Cream.jpg]]"
 ---
 
 ![[attachments/Creamy Farro With Crispy Mushrooms and Sour Cream.jpg]]

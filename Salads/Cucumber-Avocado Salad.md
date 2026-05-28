@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022411-cucumber-avocado-salad
+image: "[[attachments/Cucumber-Avocado Salad.jpg]]"
 ---
 
 ![[attachments/Cucumber-Avocado Salad.jpg]]

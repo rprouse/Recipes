@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019471-sweet-and-spicy-tofu-with-soba-noodles
+image: "[[attachments/Sweet and Spicy Tofu With Soba Noodles.jpg]]"
 ---
 
 ![[attachments/Sweet and Spicy Tofu With Soba Noodles.jpg]]

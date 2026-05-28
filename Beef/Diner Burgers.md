@@ -6,6 +6,7 @@ servings: 4 burgers
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027100-diner-burgers
+image: "[[attachments/Diner Burgers.jpg]]"
 ---
 
 ![[attachments/Diner Burgers.jpg]]

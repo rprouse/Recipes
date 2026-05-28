@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023934-one-pot-roasted-squash-soup
+image: "[[attachments/One-Pot Roasted Squash Soup.jpg]]"
 ---
 
 ![[attachments/One-Pot Roasted Squash Soup.jpg]]

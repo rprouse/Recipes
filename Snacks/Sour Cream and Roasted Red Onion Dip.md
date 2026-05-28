@@ -6,6 +6,7 @@ servings: 8 to 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019745-sour-cream-and-roasted-red-onion-dip
+image: "[[attachments/Sour Cream and Roasted Red Onion Dip.jpg]]"
 ---
 
 ![[attachments/Sour Cream and Roasted Red Onion Dip.jpg]]

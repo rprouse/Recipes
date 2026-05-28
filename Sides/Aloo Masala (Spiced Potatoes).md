@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020910-aloo-masala-spiced-potatoes
+image: "[[attachments/Aloo Masala (Spiced Potatoes).jpg]]"
 ---
 
 ![[attachments/Aloo Masala (Spiced Potatoes).jpg]]

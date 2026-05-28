@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027600-sheet-pan-doner-kebab
+image: "[[attachments/Sheet-Pan Döner Kebab.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Döner Kebab.jpg]]

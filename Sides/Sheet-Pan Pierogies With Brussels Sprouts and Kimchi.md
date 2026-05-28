@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021946-sheet-pan-pierogies-with-brussels-sprouts-and-kimchi
+image: "[[attachments/Sheet-Pan Pierogies With Brussels Sprouts and Kimchi.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Pierogies With Brussels Sprouts and Kimchi.jpg]]

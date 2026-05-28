@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012805-creamy-pasta-with-smoked-bacon-and-peas
+image: "[[attachments/Creamy Pasta With Smoked Bacon and Peas.jpg]]"
 ---
 
 ![[attachments/Creamy Pasta With Smoked Bacon and Peas.jpg]]

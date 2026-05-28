@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020746-easiest-chicken-noodle-soup
+image: "[[attachments/Easiest Chicken Noodle Soup.jpg]]"
 ---
 
 ![[attachments/Easiest Chicken Noodle Soup.jpg]]

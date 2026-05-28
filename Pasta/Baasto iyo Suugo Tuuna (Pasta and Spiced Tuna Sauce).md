@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024650-baasto-iyo-suugo-tuuna-pasta-and-spiced-tuna-sauce
+image: "[[attachments/Baasto iyo Suugo Tuuna (Pasta and Spiced Tuna Sauce).jpg]]"
 ---
 
 ![[attachments/Baasto iyo Suugo Tuuna (Pasta and Spiced Tuna Sauce).jpg]]

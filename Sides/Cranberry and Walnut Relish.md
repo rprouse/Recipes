@@ -6,6 +6,7 @@ servings: 5 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/806-cranberry-and-walnut-relish
+image: "[[attachments/Cranberry and Walnut Relish.jpg]]"
 ---
 
 ![[attachments/Cranberry and Walnut Relish.jpg]]

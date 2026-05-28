@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021277-sheet-pan-baked-feta-with-broccolini-tomatoes-and-lemon
+image: "[[attachments/Sheet-Pan Baked Feta With Broccolini, Tomatoes and Lemon.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Baked Feta With Broccolini, Tomatoes and Lemon.jpg]]

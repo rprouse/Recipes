@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022213-yo-po-mian
+image: "[[attachments/Yo Po Mian.jpg]]"
 ---
 
 ![[attachments/Yo Po Mian.jpg]]

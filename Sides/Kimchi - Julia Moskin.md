@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016209-kimchi
+image: "[[attachments/Kimchi - Julia Moskin.jpg]]"
 ---
 
 ![[attachments/Kimchi - Julia Moskin.jpg]]

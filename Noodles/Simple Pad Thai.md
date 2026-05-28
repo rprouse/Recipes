@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013121-simple-pad-thai
+image: "[[attachments/Simple Pad Thai.jpg]]"
 ---
 
 ![[attachments/Simple Pad Thai.jpg]]

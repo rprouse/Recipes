@@ -6,6 +6,7 @@ servings: cup
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/10606-jerk-seasoning
+image: "[[attachments/Jerk Seasoning.jpg]]"
 ---
 
 ![[attachments/Jerk Seasoning.jpg]]

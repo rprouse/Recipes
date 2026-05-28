@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023528-butternut-squash-pasta-with-brown-butter-bread-crumbs
+image: "[[attachments/Butternut Squash Pasta With Brown-Butter Bread Crumbs.jpg]]"
 ---
 
 ![[attachments/Butternut Squash Pasta With Brown-Butter Bread Crumbs.jpg]]

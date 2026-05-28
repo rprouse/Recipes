@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts
+image: "[[attachments/Tomato Basil Chicken Breasts.jpg]]"
 ---
 
 ![[attachments/Tomato Basil Chicken Breasts.jpg]]

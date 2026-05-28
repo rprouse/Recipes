@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026506-sausage-and-barley-soup-with-greens
+image: "[[attachments/Sausage and Barley Soup With Greens.jpg]]"
 ---
 
 ![[attachments/Sausage and Barley Soup With Greens.jpg]]

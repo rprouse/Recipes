@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021734-tinga-de-pollo-chicken-with-chipotle-and-onions
+image: "[[attachments/Tinga de Pollo (Chicken with Chipotle and Onions).jpg]]"
 ---
 
 ![[attachments/Tinga de Pollo (Chicken with Chipotle and Onions).jpg]]

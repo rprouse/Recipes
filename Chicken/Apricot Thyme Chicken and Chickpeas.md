@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/776107230-apricot-thyme-chicken-and-chickpeas
+image: "[[attachments/Apricot Thyme Chicken and Chickpeas.jpg]]"
 ---
 
 ![[attachments/Apricot Thyme Chicken and Chickpeas.jpg]]

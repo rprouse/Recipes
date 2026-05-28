@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023324-watermelon-and-feta-salad
+image: "[[attachments/Watermelon and Feta Salad.jpg]]"
 ---
 
 ![[attachments/Watermelon and Feta Salad.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings as part of a larger Thai meal
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026919-pork-laab
+image: "[[attachments/Pork Laab.jpg]]"
 ---
 
 ![[attachments/Pork Laab.jpg]]

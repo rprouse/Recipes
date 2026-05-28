@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019920-one-pot-turmeric-coconut-rice-with-greens
+image: "[[attachments/One-Pot Turmeric Coconut Rice With Greens.jpg]]"
 ---
 
 ![[attachments/One-Pot Turmeric Coconut Rice With Greens.jpg]]

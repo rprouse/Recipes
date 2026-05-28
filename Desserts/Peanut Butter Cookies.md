@@ -6,6 +6,7 @@ servings: 48 cookies
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012666-peanut-butter-cookies
+image: "[[attachments/Peanut Butter Cookies.jpg]]"
 ---
 
 ![[attachments/Peanut Butter Cookies.jpg]]

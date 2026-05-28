@@ -6,6 +6,7 @@ servings: 5 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024531-southern-fried-corn
+image: "[[attachments/Southern Fried Corn.jpg]]"
 ---
 
 ![[attachments/Southern Fried Corn.jpg]]

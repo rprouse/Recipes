@@ -6,6 +6,7 @@ servings: 10 hand pies
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020477-chicken-ragu-hand-pies
+image: "[[attachments/Chicken Ragù Hand Pies.jpg]]"
 ---
 
 ![[attachments/Chicken Ragù Hand Pies.jpg]]

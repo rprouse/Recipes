@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023609-chile-crisp-fettuccine-alfredo-with-spinach
+image: "[[attachments/Chile Crisp Fettuccine Alfredo With Spinach.jpg]]"
 ---
 
 ![[attachments/Chile Crisp Fettuccine Alfredo With Spinach.jpg]]

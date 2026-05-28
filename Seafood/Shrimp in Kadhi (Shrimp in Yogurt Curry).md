@@ -6,6 +6,7 @@ servings: 4  servings
 time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/759929412-shrimp-in-kadhi-shrimp-in-yogurt-curry
+image: "[[attachments/Shrimp in Kadhi (Shrimp in Yogurt Curry).jpg]]"
 ---
 
 ![[attachments/Shrimp in Kadhi (Shrimp in Yogurt Curry).jpg]]

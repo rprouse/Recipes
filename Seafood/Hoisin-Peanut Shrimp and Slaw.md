@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026229-hoisin-peanut-shrimp-and-slaw
+image: "[[attachments/Hoisin-Peanut Shrimp and Slaw.jpg]]"
 ---
 
 ![[attachments/Hoisin-Peanut Shrimp and Slaw.jpg]]

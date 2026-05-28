@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020253-roasted-dill-salmon
+image: "[[attachments/Roasted Dill Salmon.jpg]]"
 ---
 
 ![[attachments/Roasted Dill Salmon.jpg]]

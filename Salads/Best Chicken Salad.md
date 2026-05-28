@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018211-best-chicken-salad
+image: "[[attachments/Best Chicken Salad.jpg]]"
 ---
 
 ![[attachments/Best Chicken Salad.jpg]]

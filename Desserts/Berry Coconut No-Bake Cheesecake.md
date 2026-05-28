@@ -6,6 +6,7 @@ servings: 1 9-inch cake
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018905-berry-coconut-no-bake-cheesecake
+image: "[[attachments/Berry Coconut No-Bake Cheesecake.jpg]]"
 ---
 
 ![[attachments/Berry Coconut No-Bake Cheesecake.jpg]]

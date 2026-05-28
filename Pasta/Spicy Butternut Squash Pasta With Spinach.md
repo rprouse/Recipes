@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021535-spicy-butternut-squash-pasta-with-spinach
+image: "[[attachments/Spicy Butternut Squash Pasta With Spinach.jpg]]"
 ---
 
 ![[attachments/Spicy Butternut Squash Pasta With Spinach.jpg]]

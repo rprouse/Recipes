@@ -6,6 +6,7 @@ servings: 5 wraps
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026810-make-ahead-egg-spinach-and-feta-wraps
+image: "[[attachments/Make-Ahead Egg, Spinach and Feta Wraps.jpg]]"
 ---
 
 ![[attachments/Make-Ahead Egg, Spinach and Feta Wraps.jpg]]

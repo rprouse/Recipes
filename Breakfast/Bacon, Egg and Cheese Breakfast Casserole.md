@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019120-bacon-egg-and-cheese-breakfast-casserole
+image: "[[attachments/Bacon, Egg and Cheese Breakfast Casserole.jpg]]"
 ---
 
 ![[attachments/Bacon, Egg and Cheese Breakfast Casserole.jpg]]

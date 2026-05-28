@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018299-weeknight-fancy-chicken-and-rice
+image: "[[attachments/Weeknight Fancy Chicken and Rice.jpg]]"
 ---
 
 ![[attachments/Weeknight Fancy Chicken and Rice.jpg]]

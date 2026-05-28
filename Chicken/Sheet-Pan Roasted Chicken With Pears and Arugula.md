@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022667-sheet-pan-roasted-chicken-with-pears-and-arugula
+image: "[[attachments/Sheet-Pan Roasted Chicken With Pears and Arugula.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Roasted Chicken With Pears and Arugula.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023474-sheet-pan-paneer-tikka
+image: "[[attachments/Sheet-Pan Paneer Tikka.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Paneer Tikka.jpg]]

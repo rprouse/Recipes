@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/774974792-creamy-cottage-cheese-basil-pasta
+image: "[[attachments/Creamy Cottage Cheese Basil Pasta.jpg]]"
 ---
 ![[attachments/Creamy Cottage Cheese Basil Pasta.jpg]]
 

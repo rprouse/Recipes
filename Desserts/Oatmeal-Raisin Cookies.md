@@ -6,6 +6,7 @@ servings: 36 cookies
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018658-classic-oatmeal-raisin-cookies
+image: "[[attachments/Oatmeal-Raisin Cookies.jpg]]"
 ---
 
 ![[attachments/Oatmeal-Raisin Cookies.jpg]]

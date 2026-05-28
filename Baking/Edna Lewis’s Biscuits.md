@@ -6,6 +6,7 @@ servings: 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017786-edna-lewiss-biscuits
+image: "[[attachments/Edna Lewis’s Biscuits.jpg]]"
 ---
 
 ![[attachments/Edna Lewis’s Biscuits.jpg]]

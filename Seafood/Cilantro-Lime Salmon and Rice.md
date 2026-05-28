@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025172-cilantro-lime-salmon-and-rice
+image: "[[attachments/Cilantro-Lime Salmon and Rice.jpg]]"
 ---
 
 ![[attachments/Cilantro-Lime Salmon and Rice.jpg]]

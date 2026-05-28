@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017467-yvonne-maffeis-roast-chicken-with-couscous-dates-and-buttered-almonds
+image: "[[attachments/Yvonne Maffei’s Roast Chicken With Couscous, Dates and Buttered Almonds.jpg]]"
 ---
 
 ![[attachments/Yvonne Maffei’s Roast Chicken With Couscous, Dates and Buttered Almonds.jpg]]

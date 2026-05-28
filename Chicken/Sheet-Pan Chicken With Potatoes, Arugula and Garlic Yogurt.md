@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt
+image: "[[attachments/Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt.jpg]]

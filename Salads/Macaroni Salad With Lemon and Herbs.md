@@ -6,6 +6,7 @@ servings: 10 to 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021095-macaroni-salad-with-lemon-and-herbs
+image: "[[attachments/Macaroni Salad With Lemon and Herbs.jpg]]"
 ---
 
 ![[attachments/Macaroni Salad With Lemon and Herbs.jpg]]

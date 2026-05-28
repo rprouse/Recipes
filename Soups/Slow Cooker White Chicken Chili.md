@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili
+image: "[[attachments/Slow Cooker White Chicken Chili.jpg]]"
 ---
 
 ![[attachments/Slow Cooker White Chicken Chili.jpg]]

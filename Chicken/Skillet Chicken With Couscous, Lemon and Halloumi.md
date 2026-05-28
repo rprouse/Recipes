@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020773-skillet-chicken-with-couscous-lemon-and-halloumi
+image: "[[attachments/Skillet Chicken With Couscous, Lemon and Halloumi.jpg]]"
 ---
 
 ![[attachments/Skillet Chicken With Couscous, Lemon and Halloumi.jpg]]

@@ -6,6 +6,7 @@ servings: 12 egg bites
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027633-spinach-egg-bites
+image: "[[attachments/Spinach Egg Bites.jpg]]"
 ---
 
 ![[attachments/Spinach Egg Bites.jpg]]

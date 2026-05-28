@@ -6,6 +6,7 @@ servings: 3 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017765-shredded-tofu-and-shiitake-stir-fry
+image: "[[attachments/Shredded Tofu and Shiitake Stir-Fry.jpg]]"
 ---
 
 ![[attachments/Shredded Tofu and Shiitake Stir-Fry.jpg]]

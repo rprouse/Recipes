@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019627-sheet-pan-chicken-with-apple-fennel-and-onion
+image: "[[attachments/Sheet-Pan Chicken With Apple, Fennel and Onion.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Chicken With Apple, Fennel and Onion.jpg]]

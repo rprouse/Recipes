@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025950-roasted-brussels-sprouts-caesar-with-tahini
+image: "[[attachments/Roasted Brussels Sprouts Caesar With Tahini.jpg]]"
 ---
 
 ![[attachments/Roasted Brussels Sprouts Caesar With Tahini.jpg]]

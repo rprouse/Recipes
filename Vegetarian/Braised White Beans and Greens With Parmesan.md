@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan
+image: "[[attachments/Braised White Beans and Greens With Parmesan.jpg]]"
 ---
 
 ![[attachments/Braised White Beans and Greens With Parmesan.jpg]]

@@ -6,6 +6,7 @@ servings: 6 appetizer spread servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012585-tabbouleh
+image: "[[attachments/Tabbouleh.jpg]]"
 ---
 
 ![[attachments/Tabbouleh.jpg]]

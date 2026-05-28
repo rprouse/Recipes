@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/10076-kidney-bean-red-onion-and-tomato-salad
+image: "[[attachments/Kidney Bean, Red Onion And Tomato Salad.jpg]]"
 ---
 
 ![[attachments/Kidney Bean, Red Onion And Tomato Salad.jpg]]

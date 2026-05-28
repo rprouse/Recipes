@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/757537928-smashed-chicken-meatballs-with-suya-and-charred-corn
+image: "[[attachments/Smashed Chicken Meatballs with Suya and Charred Corn.jpg]]"
 ---
 
 ![[attachments/Smashed Chicken Meatballs with Suya and Charred Corn.jpg]]

@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020005-speedy-fish-chowder
+image: "[[attachments/Speedy Fish Chowder.jpg]]"
 ---
 
 ![[attachments/Speedy Fish Chowder.jpg]]

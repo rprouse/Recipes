@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021777-chicken-and-mushroom-juk-with-scallion-sauce
+image: "[[attachments/Chicken and Mushroom Juk With Scallion Sauce.jpg]]"
 ---
 
 ![[attachments/Chicken and Mushroom Juk With Scallion Sauce.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/772141725-tomato-braised-bacon-pasta
+image: "[[attachments/Tomato-Braised Bacon Pasta.jpg]]"
 ---
 
 ![[attachments/Tomato-Braised Bacon Pasta.jpg]]

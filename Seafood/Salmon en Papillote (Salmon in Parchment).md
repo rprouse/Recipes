@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019057-salmon-en-papillote-salmon-in-parchment
+image: "[[attachments/Salmon en Papillote (Salmon in Parchment).jpg]]"
 ---
 
 ![[attachments/Salmon en Papillote (Salmon in Parchment).jpg]]

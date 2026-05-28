@@ -6,6 +6,7 @@ servings: 20 to 25 dosa
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020908-dosa
+image: "[[attachments/Dosa.jpg]]"
 ---
 
 ![[attachments/Dosa.jpg]]

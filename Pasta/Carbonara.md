@@ -6,6 +6,7 @@ servings: 4 servings
 time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12965-spaghetti-carbonara
+image: "[[attachments/Carbonara.jpg]]"
 ---
 
 ![[attachments/Carbonara.jpg]]

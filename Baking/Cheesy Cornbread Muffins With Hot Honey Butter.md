@@ -6,6 +6,7 @@ servings: 12 muffins
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020775-cheesy-cornbread-muffins-with-hot-honey-butter
+image: "[[attachments/Cheesy Cornbread Muffins With Hot Honey Butter.jpg]]"
 ---
 
 ![[attachments/Cheesy Cornbread Muffins With Hot Honey Butter.jpg]]

@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020541-skillet-spanakopita
+image: "[[attachments/Skillet Spanakopita.jpg]]"
 ---
 
 ![[attachments/Skillet Spanakopita.jpg]]

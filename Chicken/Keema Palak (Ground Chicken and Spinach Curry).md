@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026917-keema-palak-ground-chicken-and-spinach-curry
+image: "[[attachments/Keema Palak (Ground Chicken and Spinach Curry).jpg]]"
 ---
 
 ![[attachments/Keema Palak (Ground Chicken and Spinach Curry).jpg]]

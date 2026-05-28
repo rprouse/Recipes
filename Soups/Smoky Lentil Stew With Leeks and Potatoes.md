@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021588-smoky-lentil-stew-with-leeks-and-potatoes
+image: "[[attachments/Smoky Lentil Stew With Leeks and Potatoes.jpg]]"
 ---
 
 ![[attachments/Smoky Lentil Stew With Leeks and Potatoes.jpg]]

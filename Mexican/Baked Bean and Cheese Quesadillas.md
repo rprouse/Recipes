@@ -6,6 +6,7 @@ servings: 1 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013515-baked-bean-and-cheese-quesadillas
+image: "[[attachments/Baked Bean and Cheese Quesadillas.jpg]]"
 ---
 
 ![[attachments/Baked Bean and Cheese Quesadillas.jpg]]

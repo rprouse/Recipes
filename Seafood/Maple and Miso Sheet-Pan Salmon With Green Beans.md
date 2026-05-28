@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans
+image: "[[attachments/Maple and Miso Sheet-Pan Salmon With Green Beans.jpg]]"
 ---
 
 ![[attachments/Maple and Miso Sheet-Pan Salmon With Green Beans.jpg]]

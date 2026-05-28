@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013024-greek-goddess-dip
+image: "[[attachments/Greek Goddess Dip.jpg]]"
 ---
 
 ![[attachments/Greek Goddess Dip.jpg]]

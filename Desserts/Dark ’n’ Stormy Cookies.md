@@ -6,6 +6,7 @@ servings: 24 cookies
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027496-dark-n-stormy-cookies
+image: "[[attachments/Dark ’n’ Stormy Cookies.jpg]]"
 ---
 
 ![[attachments/Dark ’n’ Stormy Cookies.jpg]]

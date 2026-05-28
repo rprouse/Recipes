@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019913-baked-potato-soup
+image: "[[attachments/Baked Potato Soup.jpg]]"
 ---
 
 ![[attachments/Baked Potato Soup.jpg]]

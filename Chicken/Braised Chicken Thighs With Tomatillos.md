@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019687-braised-chicken-thighs-with-tomatillos
+image: "[[attachments/Braised Chicken Thighs With Tomatillos.jpg]]"
 ---
 
 ![[attachments/Braised Chicken Thighs With Tomatillos.jpg]]

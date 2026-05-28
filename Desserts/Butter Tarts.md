@@ -6,6 +6,7 @@ servings: 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019129-butter-tarts
+image: "[[attachments/Butter Tarts.jpg]]"
 ---
 
 ![[attachments/Butter Tarts.jpg]]

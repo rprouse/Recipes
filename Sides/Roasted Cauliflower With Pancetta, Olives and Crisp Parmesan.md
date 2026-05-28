@@ -6,6 +6,7 @@ servings: 2 main-dish servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021536-roasted-cauliflower-with-pancetta-olives-and-crisp-parmesan
+image: "[[attachments/Roasted Cauliflower With Pancetta, Olives and Crisp Parmesan.jpg]]"
 ---
 
 ![[attachments/Roasted Cauliflower With Pancetta, Olives and Crisp Parmesan.jpg]]

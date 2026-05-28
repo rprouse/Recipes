@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/770863996-japanese-ground-beef-curry
+image: "[[attachments/Japanese Ground Beef Curry.jpg]]"
 ---
 
 ![[attachments/Japanese Ground Beef Curry.jpg]]

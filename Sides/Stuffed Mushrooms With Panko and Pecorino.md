@@ -6,6 +6,7 @@ servings: 24 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019841-stuffed-mushrooms-with-panko-and-pecorino
+image: "[[attachments/Stuffed Mushrooms With Panko and Pecorino.jpg]]"
 ---
 
 ![[attachments/Stuffed Mushrooms With Panko and Pecorino.jpg]]

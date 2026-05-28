@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019952-baked-buffalo-wings
+image: "[[attachments/Baked Buffalo Wings.jpg]]"
 ---
 
 ![[attachments/Baked Buffalo Wings.jpg]]

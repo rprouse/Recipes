@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/2653-basil-pesto
+image: "[[attachments/Pesto.jpg]]"
 ---
 
 ![[attachments/Pesto.jpg]]

@@ -6,6 +6,7 @@ servings: 12 egg bites
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026338-cottage-cheese-egg-bites
+image: "[[attachments/Cottage Cheese Egg Bites.jpg]]"
 ---
 
 ![[attachments/Cottage Cheese Egg Bites.jpg]]

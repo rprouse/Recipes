@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017230-slow-cooker-pork-tacos-with-hoisin-and-ginger
+image: "[[attachments/Slow Cooker Pork Tacos With Hoisin and Ginger.jpg]]"
 ---
 
 ![[attachments/Slow Cooker Pork Tacos With Hoisin and Ginger.jpg]]

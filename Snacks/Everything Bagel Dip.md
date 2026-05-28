@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019686-everything-bagel-dip
+image: "[[attachments/Everything Bagel Dip.jpg]]"
 ---
 
 ![[attachments/Everything Bagel Dip.jpg]]

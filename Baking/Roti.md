@@ -6,6 +6,7 @@ servings: 12 roti
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020906-roti
+image: "[[attachments/Roti.jpg]]"
 ---
 
 ![[attachments/Roti.jpg]]

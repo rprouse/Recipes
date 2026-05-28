@@ -6,6 +6,7 @@ servings: 20 pieces
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013862-coconut-granola-bars
+image: "[[attachments/Coconut Granola Bars.jpg]]"
 ---
 
 ![[attachments/Coconut Granola Bars.jpg]]

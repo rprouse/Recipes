@@ -6,6 +6,7 @@ servings: 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017403-spicy-kimchi-potato-salad
+image: "[[attachments/Spicy Kimchi Potato Salad.jpg]]"
 ---
 
 ![[attachments/Spicy Kimchi Potato Salad.jpg]]

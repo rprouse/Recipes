@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022068-skillet-chicken-with-mushrooms-and-caramelized-onions
+image: "[[attachments/Skillet Chicken With Mushrooms and Caramelized Onions.jpg]]"
 ---
 
 ![[attachments/Skillet Chicken With Mushrooms and Caramelized Onions.jpg]]

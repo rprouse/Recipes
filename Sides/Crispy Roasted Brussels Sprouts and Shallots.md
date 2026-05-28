@@ -6,6 +6,7 @@ servings: 8 to 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020618-crispy-roasted-brussels-sprouts-and-shallots
+image: "[[attachments/Crispy Roasted Brussels Sprouts and Shallots.jpg]]"
 ---
 
 ![[attachments/Crispy Roasted Brussels Sprouts and Shallots.jpg]]

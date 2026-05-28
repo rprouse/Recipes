@@ -6,6 +6,7 @@ servings: 12 to 16 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026388-miso-marinated-pork-roast
+image: "[[attachments/Miso-Marinated Pork Roast.jpg]]"
 ---
 
 ![[attachments/Miso-Marinated Pork Roast.jpg]]

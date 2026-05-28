@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12682-rainbow-trout-baked-in-foil-with-tomatoes-garlic-and-thyme
+image: "[[attachments/Rainbow Trout Baked in Foil With Tomatoes, Garlic and Thyme.jpg]]"
 ---
 
 ![[attachments/Rainbow Trout Baked in Foil With Tomatoes, Garlic and Thyme.jpg]]

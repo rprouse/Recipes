@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020754-spicy-white-bean-stew-with-broccoli-rabe
+image: "[[attachments/Spicy White Bean Stew With Broccoli Rabe.jpg]]"
 ---
 
 ![[attachments/Spicy White Bean Stew With Broccoli Rabe.jpg]]

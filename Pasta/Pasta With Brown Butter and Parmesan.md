@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019980-pasta-with-brown-butter-and-parmesan
+image: "[[attachments/Pasta With Brown Butter and Parmesan.jpg]]"
 ---
 
 ![[attachments/Pasta With Brown Butter and Parmesan.jpg]]

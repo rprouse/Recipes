@@ -6,6 +6,7 @@ servings: 2 servings, plus leftovers
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019271-roasted-mushroom-and-broccoli-grain-bowls
+image: "[[attachments/Roasted-Mushroom-and-Broccoli Grain Bowls.jpg]]"
 ---
 
 ![[attachments/Roasted-Mushroom-and-Broccoli Grain Bowls.jpg]]

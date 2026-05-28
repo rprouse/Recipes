@@ -6,6 +6,7 @@ servings: 8 to 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018961-firehouse-chili-gumbo
+image: "[[attachments/Firehouse Chili Gumbo.jpg]]"
 ---
 
 ![[attachments/Firehouse Chili Gumbo.jpg]]

@@ -6,6 +6,7 @@ servings: 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026385-aglio-e-olio-baked-potatoes
+image: "[[attachments/Aglio e Olio Baked Potatoes.jpg]]"
 ---
 
 ![[attachments/Aglio e Olio Baked Potatoes.jpg]]

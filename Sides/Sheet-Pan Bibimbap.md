@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022131-sheet-pan-bibimbap
+image: "[[attachments/Sheet-Pan Bibimbap.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Bibimbap.jpg]]

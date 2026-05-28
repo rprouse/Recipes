@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/6393-easy-chicken-curry
+image: "[[attachments/Easy Chicken Curry.jpg]]"
 ---
 
 ![[attachments/Easy Chicken Curry.jpg]]

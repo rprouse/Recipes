@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019553-pasta-aglio-olio-with-butternut-squash
+image: "[[attachments/Pasta Aglio Olio With Butternut Squash.jpg]]"
 ---
 
 ![[attachments/Pasta Aglio Olio With Butternut Squash.jpg]]

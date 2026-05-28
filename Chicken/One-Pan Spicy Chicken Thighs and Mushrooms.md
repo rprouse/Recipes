@@ -6,6 +6,7 @@ servings: 4 servings
 time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/763568708-one-pan-spicy-chicken-thighs-and-mushrooms
+image: "[[attachments/One-Pan Spicy Chicken Thighs and Mushrooms.jpg]]"
 ---
 
 ![[attachments/One-Pan Spicy Chicken Thighs and Mushrooms.jpg]]

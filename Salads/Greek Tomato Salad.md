@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016692-greek-tomato-salad
+image: "[[attachments/Greek Tomato Salad.jpg]]"
 ---
 
 ![[attachments/Greek Tomato Salad.jpg]]

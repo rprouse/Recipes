@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027725-spicy-marmalade-chicken-and-sweet-potatoes
+image: "[[attachments/Spicy Marmalade Chicken and Sweet Potatoes.jpg]]"
 ---
 
 ![[attachments/Spicy Marmalade Chicken and Sweet Potatoes.jpg]]

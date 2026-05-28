@@ -6,6 +6,7 @@ servings: 4 servings
 time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026952-grilled-steak-with-tomato-tartare
+image: "[[attachments/Grilled Steak With Tomato Tartare.jpg]]"
 ---
 
 ![[attachments/Grilled Steak With Tomato Tartare.jpg]]

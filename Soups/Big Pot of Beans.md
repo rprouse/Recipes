@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020947-big-pot-of-beans
+image: "[[attachments/Big Pot of Beans.jpg]]"
 ---
 
 ![[attachments/Big Pot of Beans.jpg]]

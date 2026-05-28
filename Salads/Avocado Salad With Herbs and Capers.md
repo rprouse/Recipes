@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019410-avocado-salad-with-herbs-and-capers
+image: "[[attachments/Avocado Salad With Herbs and Capers.jpg]]"
 ---
 
 ![[attachments/Avocado Salad With Herbs and Capers.jpg]]

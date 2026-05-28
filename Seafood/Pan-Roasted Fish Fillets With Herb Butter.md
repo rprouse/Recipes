@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017360-pan-roasted-fish-fillets-with-herb-butter
+image: "[[attachments/Pan-Roasted Fish Fillets With Herb Butter.jpg]]"
 ---
 
 ![[attachments/Pan-Roasted Fish Fillets With Herb Butter.jpg]]

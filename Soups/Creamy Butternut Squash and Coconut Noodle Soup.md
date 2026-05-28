@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026109-creamy-butternut-squash-and-coconut-noodle-soup
+image: "[[attachments/Creamy Butternut Squash and Coconut Noodle Soup.jpg]]"
 ---
 
 ![[attachments/Creamy Butternut Squash and Coconut Noodle Soup.jpg]]

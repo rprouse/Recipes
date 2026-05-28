@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027188-slow-cooker-chipotle-chicken-sloppy-joes
+image: "[[attachments/Slow Cooker Chipotle Chicken Sloppy Joes.jpg]]"
 ---
 
 ![[attachments/Slow Cooker Chipotle Chicken Sloppy Joes.jpg]]

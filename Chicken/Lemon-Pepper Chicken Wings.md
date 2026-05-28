@@ -6,6 +6,7 @@ servings: 4 appetizer servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022848-lemon-pepper-chicken-wings
+image: "[[attachments/Lemon-Pepper Chicken Wings.jpg]]"
 ---
 
 ![[attachments/Lemon-Pepper Chicken Wings.jpg]]

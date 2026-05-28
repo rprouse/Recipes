@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018931-sausage-with-peppers-and-onions
+image: "[[attachments/Sausage and Peppers.jpg]]"
 ---
 
 ![[attachments/Sausage and Peppers.jpg]]

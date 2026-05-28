@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023863-miso-honey-chicken-and-asparagus
+image: "[[attachments/Miso-Honey Chicken and Asparagus.jpg]]"
 ---
 
 ![[attachments/Miso-Honey Chicken and Asparagus.jpg]]

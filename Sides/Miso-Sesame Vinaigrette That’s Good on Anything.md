@@ -6,6 +6,7 @@ servings: 1 cup
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021463-miso-sesame-vinaigrette-thats-good-on-anything
+image: "[[attachments/Miso-Sesame Vinaigrette That’s Good on Anything.jpg]]"
 ---
 
 ![[attachments/Miso-Sesame Vinaigrette That’s Good on Anything.jpg]]

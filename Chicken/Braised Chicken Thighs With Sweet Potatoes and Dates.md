@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024884-braised-chicken-thighs-with-sweet-potatoes-and-dates
+image: "[[attachments/Braised Chicken Thighs With Sweet Potatoes and Dates.jpg]]"
 ---
 
 ![[attachments/Braised Chicken Thighs With Sweet Potatoes and Dates.jpg]]

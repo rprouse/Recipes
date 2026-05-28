@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027680-sheet-pan-charred-meat-pitas
+image: "[[attachments/Sheet-Pan Charred Meat Pitas.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Charred Meat Pitas.jpg]]

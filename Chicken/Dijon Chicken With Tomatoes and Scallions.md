@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027150-dijon-chicken-with-tomatoes-and-scallions
+image: "[[attachments/Dijon Chicken With Tomatoes and Scallions.jpg]]"
 ---
 
 ![[attachments/Dijon Chicken With Tomatoes and Scallions.jpg]]

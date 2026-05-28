@@ -6,6 +6,7 @@ servings: 4 servings
 time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/778503009-beef-asparagus-and-tofu-stir-fry
+image: "[[attachments/Beef, Asparagus and Tofu Stir-Fry.jpg]]"
 ---
 ![[attachments/Beef, Asparagus and Tofu Stir-Fry.jpg]]
 

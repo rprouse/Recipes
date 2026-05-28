@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026270-roasted-broccoli-and-whipped-tofu-with-chile-crisp-crunch
+image: "[[attachments/Roasted Broccoli and Whipped Tofu With Chile Crisp Crunch.jpg]]"
 ---
 
 ![[attachments/Roasted Broccoli and Whipped Tofu With Chile Crisp Crunch.jpg]]

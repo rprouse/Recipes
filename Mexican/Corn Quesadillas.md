@@ -6,6 +6,7 @@ servings: 8 quesadillas
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027272-corn-quesadillas
+image: "[[attachments/Corn Quesadillas.jpg]]"
 ---
 
 ![[attachments/Corn Quesadillas.jpg]]

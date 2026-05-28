@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015196-rios-spicy-chicken-wings
+image: "[[attachments/Rio’s Spicy Chicken Wings.jpg]]"
 ---
 
 ![[attachments/Rio’s Spicy Chicken Wings.jpg]]

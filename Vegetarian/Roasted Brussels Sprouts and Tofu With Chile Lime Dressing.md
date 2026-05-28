@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026312-roasted-brussels-sprouts-and-tofu-with-chile-lime-dressing
+image: "[[attachments/Roasted Brussels Sprouts and Tofu With Chile Lime Dressing.jpg]]"
 ---
 
 ![[attachments/Roasted Brussels Sprouts and Tofu With Chile Lime Dressing.jpg]]

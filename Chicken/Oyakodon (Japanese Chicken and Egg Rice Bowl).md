@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019431-oyakodon-japanese-chicken-and-egg-rice-bowl
+image: "[[attachments/Oyakodon (Japanese Chicken and Egg Rice Bowl).jpg]]"
 ---
 
 ![[attachments/Oyakodon (Japanese Chicken and Egg Rice Bowl).jpg]]

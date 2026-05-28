@@ -6,6 +6,7 @@ servings: About 1 1/4 cups
 time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012694-carrot-ginger-dressing
+image: "[[attachments/Carrot-Ginger Dressing.jpg]]"
 ---
 
 ![[attachments/Carrot-Ginger Dressing.jpg]]

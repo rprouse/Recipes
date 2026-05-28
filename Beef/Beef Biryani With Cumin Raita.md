@@ -6,6 +6,7 @@ servings: 4  servings
 time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/762489730-beef-biryani-with-cumin-raita
+image: "[[attachments/Beef Biryani With Cumin Raita.jpg]]"
 ---
 
 ![[attachments/Beef Biryani With Cumin Raita.jpg]]

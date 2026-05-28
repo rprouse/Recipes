@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/759928717-one-pot-creamy-pasta-with-carrots-and-peas
+image: "[[attachments/One-Pot Creamy Pasta With Carrots and Peas.jpg]]"
 ---
 
 ![[attachments/One-Pot Creamy Pasta With Carrots and Peas.jpg]]

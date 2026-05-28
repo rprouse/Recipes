@@ -6,6 +6,7 @@ servings: 4 8-inch bread rounds
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014206-berber-skillet-bread
+image: "[[attachments/Berber Skillet Bread.jpg]]"
 ---
 
 ![[attachments/Berber Skillet Bread.jpg]]

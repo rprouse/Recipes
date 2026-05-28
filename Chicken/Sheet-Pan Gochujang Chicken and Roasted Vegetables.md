@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020829-sheet-pan-gochujang-chicken-and-roasted-vegetables
+image: "[[attachments/Sheet-Pan Gochujang Chicken and Roasted Vegetables.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Gochujang Chicken and Roasted Vegetables.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach
+image: "[[attachments/Lemony Chicken-Feta Meatball Soup With Spinach.jpg]]"
 ---
 
 ![[attachments/Lemony Chicken-Feta Meatball Soup With Spinach.jpg]]

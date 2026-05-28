@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027678-stewed-greens-and-chickpeas-with-toasted-garlic-and-lemon
+image: "[[attachments/Stewed Greens and Chickpeas With Toasted Garlic and Lemon.jpg]]"
 ---
 
 ![[attachments/Stewed Greens and Chickpeas With Toasted Garlic and Lemon.jpg]]

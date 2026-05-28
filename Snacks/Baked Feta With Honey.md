@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/10427-baked-feta-with-honey
+image: "[[attachments/Baked Feta With Honey.jpg]]"
 ---
 
 ![[attachments/Baked Feta With Honey.jpg]]

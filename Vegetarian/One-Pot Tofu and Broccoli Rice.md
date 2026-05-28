@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025167-one-pot-tofu-and-broccoli-rice
+image: "[[attachments/One-Pot Tofu and Broccoli Rice.jpg]]"
 ---
 
 ![[attachments/One-Pot Tofu and Broccoli Rice.jpg]]

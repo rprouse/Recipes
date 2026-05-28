@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012692-real-ranch-dressing
+image: "[[attachments/Real Ranch Dressing.jpg]]"
 ---
 
 ![[attachments/Real Ranch Dressing.jpg]]

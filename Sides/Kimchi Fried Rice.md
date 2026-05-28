@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018097-kimchi-fried-rice
+image: "[[attachments/Kimchi Fried Rice.jpg]]"
 ---
 
 ![[attachments/Kimchi Fried Rice.jpg]]

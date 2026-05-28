@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025608-grilled-tahini-honey-chicken-thighs
+image: "[[attachments/Grilled Tahini-Honey Chicken Thighs.jpg]]"
 ---
 
 ![[attachments/Grilled Tahini-Honey Chicken Thighs.jpg]]

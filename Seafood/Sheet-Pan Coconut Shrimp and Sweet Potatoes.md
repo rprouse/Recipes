@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025038-sheet-pan-coconut-shrimp-and-sweet-potatoes
+image: "[[attachments/Sheet-Pan Coconut Shrimp and Sweet Potatoes.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Coconut Shrimp and Sweet Potatoes.jpg]]

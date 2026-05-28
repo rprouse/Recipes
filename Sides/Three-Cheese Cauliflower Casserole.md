@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019856-three-cheese-cauliflower-casserole
+image: "[[attachments/Three-Cheese Cauliflower Casserole.jpg]]"
 ---
 
 ![[attachments/Three-Cheese Cauliflower Casserole.jpg]]

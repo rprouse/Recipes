@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019516-overnight-oats
+image: "[[attachments/Overnight Oats.jpg]]"
 ---
 
 ![[attachments/Overnight Oats.jpg]]

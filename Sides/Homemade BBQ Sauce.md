@@ -6,6 +6,7 @@ servings: 1 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013116-homemade-bbq-sauce
+image: "[[attachments/Homemade BBQ Sauce.jpg]]"
 ---
 
 ![[attachments/Homemade BBQ Sauce.jpg]]

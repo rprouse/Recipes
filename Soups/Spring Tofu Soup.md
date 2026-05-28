@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup
+image: "[[attachments/Spring Tofu Soup.jpg]]"
 ---
 
 ![[attachments/Spring Tofu Soup.jpg]]

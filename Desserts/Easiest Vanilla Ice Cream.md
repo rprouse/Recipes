@@ -6,6 +6,7 @@ servings: 1 quart
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017613-easiest-vanilla-ice-cream
+image: "[[attachments/Easiest Vanilla Ice Cream.jpg]]"
 ---
 
 ![[attachments/Easiest Vanilla Ice Cream.jpg]]

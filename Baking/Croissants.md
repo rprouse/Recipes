@@ -6,6 +6,7 @@ servings: 8 croissants
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022053-croissants
+image: "[[attachments/Croissants.jpg]]"
 ---
 
 ![[attachments/Croissants.jpg]]

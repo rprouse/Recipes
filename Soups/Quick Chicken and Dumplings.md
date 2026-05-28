@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020756-quick-chicken-and-dumplings
+image: "[[attachments/Quick Chicken and Dumplings.jpg]]"
 ---
 
 ![[attachments/Quick Chicken and Dumplings.jpg]]

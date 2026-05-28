@@ -6,6 +6,7 @@ servings: 16 brownies
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027498-vietnamese-coffee-swirl-brownies
+image: "[[attachments/Vietnamese Coffee Swirl Brownies.jpg]]"
 ---
 
 ![[attachments/Vietnamese Coffee Swirl Brownies.jpg]]

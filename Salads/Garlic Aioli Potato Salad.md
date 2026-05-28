@@ -6,6 +6,7 @@ servings: 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017402-garlic-aioli-potato-salad
+image: "[[attachments/Garlic Aioli Potato Salad.jpg]]"
 ---
 
 ![[attachments/Garlic Aioli Potato Salad.jpg]]

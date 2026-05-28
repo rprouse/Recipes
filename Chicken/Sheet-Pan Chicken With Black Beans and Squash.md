@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/771531010-sheet-pan-chicken-with-black-beans-and-squash
+image: "[[attachments/Sheet-Pan Chicken With Black Beans and Squash.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Chicken With Black Beans and Squash.jpg]]

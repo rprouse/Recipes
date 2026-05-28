@@ -6,6 +6,7 @@ servings: 8 to 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020129-baked-ziti-with-sausage-meatballs-and-spinach
+image: "[[attachments/Baked Ziti With Sausage Meatballs and Spinach.jpg]]"
 ---
 
 ![[attachments/Baked Ziti With Sausage Meatballs and Spinach.jpg]]

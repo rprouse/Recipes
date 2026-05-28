@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022540-breakfast-burritos
+image: "[[attachments/Breakfast Burritos.jpg]]"
 ---
 
 ![[attachments/Breakfast Burritos.jpg]]

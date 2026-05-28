@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017715-salt-and-pepper-roast-chicken
+image: "[[attachments/Salt-and-Pepper Roast Chicken.jpg]]"
 ---
 
 ![[attachments/Salt-and-Pepper Roast Chicken.jpg]]

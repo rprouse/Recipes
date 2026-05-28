@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027155-san-choy-bao-pork-lettuce-wraps
+image: "[[attachments/San Choy Bao (Pork Lettuce Wraps).jpg]]"
 ---
 
 ![[attachments/San Choy Bao (Pork Lettuce Wraps).jpg]]

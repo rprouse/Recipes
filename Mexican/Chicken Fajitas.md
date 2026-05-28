@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020092-chicken-fajitas
+image: "[[attachments/Chicken Fajitas.jpg]]"
 ---
 
 ![[attachments/Chicken Fajitas.jpg]]

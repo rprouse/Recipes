@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022451-tomato-salad-with-chickpeas-and-feta
+image: "[[attachments/Tomato Salad With Chickpeas and Feta.jpg]]"
 ---
 
 ![[attachments/Tomato Salad With Chickpeas and Feta.jpg]]

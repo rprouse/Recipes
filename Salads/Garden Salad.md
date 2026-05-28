@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025526-garden-salad
+image: "[[attachments/Garden Salad.jpg]]"
 ---
 
 ![[attachments/Garden Salad.jpg]]

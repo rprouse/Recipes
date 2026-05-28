@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/6165-braised-greens
+image: "[[attachments/Braised Greens.jpg]]"
 ---
 
 ![[attachments/Braised Greens.jpg]]

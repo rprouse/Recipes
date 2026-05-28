@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024669-sausage-smash-burgers
+image: "[[attachments/Sausage Smash Burgers.jpg]]"
 ---
 
 ![[attachments/Sausage Smash Burgers.jpg]]

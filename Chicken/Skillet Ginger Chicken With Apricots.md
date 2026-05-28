@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025054-skillet-ginger-chicken-with-apricots
+image: "[[attachments/Skillet Ginger Chicken With Apricots.jpg]]"
 ---
 
 ![[attachments/Skillet Ginger Chicken With Apricots.jpg]]

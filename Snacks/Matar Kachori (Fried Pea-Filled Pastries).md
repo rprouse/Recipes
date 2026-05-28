@@ -6,6 +6,7 @@ servings: 20 kachori
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020911-matar-kachori-fried-pea-filled-pastries
+image: "[[attachments/Matar Kachori (Fried Pea-Filled Pastries).jpg]]"
 ---
 
 ![[attachments/Matar Kachori (Fried Pea-Filled Pastries).jpg]]

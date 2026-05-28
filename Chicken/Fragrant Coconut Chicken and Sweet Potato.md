@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato
+image: "[[attachments/Fragrant Coconut Chicken and Sweet Potato.jpg]]"
 ---
 
 ![[attachments/Fragrant Coconut Chicken and Sweet Potato.jpg]]

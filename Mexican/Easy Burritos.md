@@ -6,6 +6,7 @@ servings: 6 burritos
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024725-easy-burritos
+image: "[[attachments/Easy Burritos.jpg]]"
 ---
 
 ![[attachments/Easy Burritos.jpg]]

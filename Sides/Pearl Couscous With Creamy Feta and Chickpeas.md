@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019916-pearl-couscous-with-creamy-feta-and-chickpeas
+image: "[[attachments/Pearl Couscous With Creamy Feta and Chickpeas.jpg]]"
 ---
 
 ![[attachments/Pearl Couscous With Creamy Feta and Chickpeas.jpg]]

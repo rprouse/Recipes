@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024500-potato-soup
+image: "[[attachments/Potato Soup.jpg]]"
 ---
 
 ![[attachments/Potato Soup.jpg]]

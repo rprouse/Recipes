@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020001-fried-egg-quesadilla
+image: "[[attachments/Fried Egg Quesadilla.jpg]]"
 ---
 
 ![[attachments/Fried Egg Quesadilla.jpg]]

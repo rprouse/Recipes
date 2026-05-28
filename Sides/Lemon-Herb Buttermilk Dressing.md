@@ -6,6 +6,7 @@ servings: 1 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019272-lemon-herb-buttermilk-dressing
+image: "[[attachments/Lemon-Herb Buttermilk Dressing.jpg]]"
 ---
 
 ![[attachments/Lemon-Herb Buttermilk Dressing.jpg]]

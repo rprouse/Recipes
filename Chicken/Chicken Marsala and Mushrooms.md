@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/7344-chicken-marsala-and-mushrooms
+image: "[[attachments/Chicken Marsala and Mushrooms.jpg]]"
 ---
 
 ![[attachments/Chicken Marsala and Mushrooms.jpg]]

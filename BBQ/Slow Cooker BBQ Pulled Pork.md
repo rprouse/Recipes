@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020497-slow-cooker-bbq-pulled-pork
+image: "[[attachments/Slow Cooker BBQ Pulled Pork.jpg]]"
 ---
 
 ![[attachments/Slow Cooker BBQ Pulled Pork.jpg]]

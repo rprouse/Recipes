@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta
+image: "[[attachments/Miso Mushroom and Leek Pasta.jpg]]"
 ---
 
 ![[attachments/Miso Mushroom and Leek Pasta.jpg]]

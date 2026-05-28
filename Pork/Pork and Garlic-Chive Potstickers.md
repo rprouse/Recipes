@@ -6,6 +6,7 @@ servings: 56 dumplings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027695-pork-and-garlic-chive-potstickers
+image: "[[attachments/Pork and Garlic-Chive Potstickers.jpg]]"
 ---
 
 ![[attachments/Pork and Garlic-Chive Potstickers.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020747-sheet-pan-sausages-and-brussels-sprouts-with-honey-mustard
+image: "[[attachments/Sheet-Pan Sausages and Brussels Sprouts With Honey Mustard.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Sausages and Brussels Sprouts With Honey Mustard.jpg]]

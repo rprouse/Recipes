@@ -6,6 +6,7 @@ servings: 4  servings
 time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/759520190-white-skillet-lasagna
+image: "[[attachments/White Skillet Lasagna.jpg]]"
 ---
 
 ![[attachments/White Skillet Lasagna.jpg]]

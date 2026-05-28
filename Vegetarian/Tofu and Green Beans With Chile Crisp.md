@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020993-tofu-and-green-beans-with-chile-crisp
+image: "[[attachments/Tofu and Green Beans With Chile Crisp.jpg]]"
 ---
 
 ![[attachments/Tofu and Green Beans With Chile Crisp.jpg]]

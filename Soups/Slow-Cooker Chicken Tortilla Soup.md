@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023406-slow-cooker-chicken-tortilla-soup
+image: "[[attachments/Slow-Cooker Chicken Tortilla Soup.jpg]]"
 ---
 
 ![[attachments/Slow-Cooker Chicken Tortilla Soup.jpg]]

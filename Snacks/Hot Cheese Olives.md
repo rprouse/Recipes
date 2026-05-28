@@ -6,6 +6,7 @@ servings: 50 hors d'oeuvres
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/8665-hot-cheese-olives
+image: "[[attachments/Hot Cheese Olives.jpg]]"
 ---
 
 ![[attachments/Hot Cheese Olives.jpg]]

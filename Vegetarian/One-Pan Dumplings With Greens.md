@@ -6,6 +6,7 @@ servings: 4 servings
 time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/776879603-one-pan-dumplings-with-greens
+image: "[[attachments/One-Pan Dumplings With Greens.jpg]]"
 ---
 
 ![[attachments/One-Pan Dumplings With Greens.jpg]]

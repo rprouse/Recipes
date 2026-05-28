@@ -6,6 +6,7 @@ servings: cup ground spice blend
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021925-five-spice
+image: "[[attachments/Five Spice.jpg]]"
 ---
 
 ![[attachments/Five Spice.jpg]]

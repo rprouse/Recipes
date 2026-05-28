@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015968-roasted-cauliflower-gratin-with-tomatoes-and-goat-cheese
+image: "[[attachments/Roasted Cauliflower Gratin With Tomatoes and Goat Cheese.jpg]]"
 ---
 
 ![[attachments/Roasted Cauliflower Gratin With Tomatoes and Goat Cheese.jpg]]

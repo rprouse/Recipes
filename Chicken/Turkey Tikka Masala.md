@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018425-turkey-tikka-masala
+image: "[[attachments/Turkey Tikka Masala.jpg]]"
 ---
 
 ![[attachments/Turkey Tikka Masala.jpg]]

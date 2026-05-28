@@ -5,6 +5,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023767-el-cholos-sonora-style-enchiladas
+image: "[[attachments/El Cholo’s Sonora-Style Enchiladas.jpg]]"
 ---
 
 ![[attachments/El Cholo’s Sonora-Style Enchiladas.jpg]]

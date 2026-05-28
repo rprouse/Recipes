@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018849-classic-caprese-salad
+image: "[[attachments/Classic Caprese Salad.jpg]]"
 ---
 
 ![[attachments/Classic Caprese Salad.jpg]]

@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021273-white-bean-caprese-salad
+image: "[[attachments/White Bean Caprese Salad.jpg]]"
 ---
 
 ![[attachments/White Bean Caprese Salad.jpg]]

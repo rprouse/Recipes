@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020778-baked-spanakopita-pasta-with-greens-and-feta
+image: "[[attachments/Baked Spanakopita Pasta With Greens and Feta.jpg]]"
 ---
 
 ![[attachments/Baked Spanakopita Pasta With Greens and Feta.jpg]]

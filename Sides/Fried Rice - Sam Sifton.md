@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020016-whatever-youve-got-fried-rice
+image: "[[attachments/Fried Rice - Sam Sifton.jpg]]"
 ---
 
 ![[attachments/Fried Rice - Sam Sifton.jpg]]

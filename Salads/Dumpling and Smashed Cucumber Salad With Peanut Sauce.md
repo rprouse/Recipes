@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025695-dumpling-and-smashed-cucumber-salad-with-peanut-sauce
+image: "[[attachments/Dumpling and Smashed Cucumber Salad With Peanut Sauce.jpg]]"
 ---
 
 ![[attachments/Dumpling and Smashed Cucumber Salad With Peanut Sauce.jpg]]

@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020466-tagliatelle-with-prosciutto-and-butter
+image: "[[attachments/Tagliatelle With Prosciutto and Butter.jpg]]"
 ---
 
 ![[attachments/Tagliatelle With Prosciutto and Butter.jpg]]

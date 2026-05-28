@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020395-one-pot-zucchini-basil-pasta
+image: "[[attachments/One-Pot Zucchini-Basil Pasta.jpg]]"
 ---
 
 ![[attachments/One-Pot Zucchini-Basil Pasta.jpg]]

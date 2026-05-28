@@ -6,6 +6,7 @@ servings: 4 servings
 time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019877-sheet-pan-fish-with-chard-and-spicy-red-pepper-relish
+image: "[[attachments/Sheet-Pan Fish With Chard and Spicy Red-Pepper Relish.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Fish With Chard and Spicy Red-Pepper Relish.jpg]]

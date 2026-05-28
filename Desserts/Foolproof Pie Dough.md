@@ -6,6 +6,7 @@ servings: 2 pie crusts
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12852-foolproof-pie-dough
+image: "[[attachments/Foolproof Pie Dough.jpg]]"
 ---
 
 ![[attachments/Foolproof Pie Dough.jpg]]

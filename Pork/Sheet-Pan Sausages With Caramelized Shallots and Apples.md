@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021698-sheet-pan-sausages-with-caramelized-shallots-and-apples
+image: "[[attachments/Sheet-Pan Sausages With Caramelized Shallots and Apples.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Sausages With Caramelized Shallots and Apples.jpg]]

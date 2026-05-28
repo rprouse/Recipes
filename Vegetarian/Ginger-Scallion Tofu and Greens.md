@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025700-ginger-scallion-tofu-and-greens
+image: "[[attachments/Ginger-Scallion Tofu and Greens.jpg]]"
 ---
 
 ![[attachments/Ginger-Scallion Tofu and Greens.jpg]]

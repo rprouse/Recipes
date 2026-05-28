@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020486-vinegar-chicken-with-crushed-olive-dressing
+image: "[[attachments/Vinegar Chicken With Crushed Olive Dressing.jpg]]"
 ---
 
 ![[attachments/Vinegar Chicken With Crushed Olive Dressing.jpg]]

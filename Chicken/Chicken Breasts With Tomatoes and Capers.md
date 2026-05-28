@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/4406-chicken-breasts-with-tomatoes-and-capers
+image: "[[attachments/Chicken Breasts With Tomatoes and Capers.jpg]]"
 ---
 
 ![[attachments/Chicken Breasts With Tomatoes and Capers.jpg]]

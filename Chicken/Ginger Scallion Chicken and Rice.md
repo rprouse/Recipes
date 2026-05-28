@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025064-ginger-scallion-chicken-and-rice
+image: "[[attachments/Ginger Scallion Chicken and Rice.jpg]]"
 ---
 
 ![[attachments/Ginger Scallion Chicken and Rice.jpg]]

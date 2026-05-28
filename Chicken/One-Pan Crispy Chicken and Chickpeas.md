@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023862-one-pan-crispy-chicken-and-chickpeas
+image: "[[attachments/One-Pan Crispy Chicken and Chickpeas.jpg]]"
 ---
 
 ![[attachments/One-Pan Crispy Chicken and Chickpeas.jpg]]

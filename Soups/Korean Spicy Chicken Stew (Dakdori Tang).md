@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019612-korean-spicy-chicken-stew-dakdori-tang
+image: "[[attachments/Korean Spicy Chicken Stew (Dakdori Tang).jpg]]"
 ---
 
 ![[attachments/Korean Spicy Chicken Stew (Dakdori Tang).jpg]]

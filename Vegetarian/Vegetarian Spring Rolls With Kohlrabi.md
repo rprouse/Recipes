@@ -6,6 +6,7 @@ servings: 7 spring rolls
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12351-vegetarian-spring-rolls-with-kohlrabi
+image: "[[attachments/Vegetarian Spring Rolls With Kohlrabi.jpg]]"
 ---
 
 ![[attachments/Vegetarian Spring Rolls With Kohlrabi.jpg]]

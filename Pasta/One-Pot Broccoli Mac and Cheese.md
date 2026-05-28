@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022725-one-pot-broccoli-mac-and-cheese
+image: "[[attachments/One-Pot Broccoli Mac and Cheese.jpg]]"
 ---
 
 ![[attachments/One-Pot Broccoli Mac and Cheese.jpg]]

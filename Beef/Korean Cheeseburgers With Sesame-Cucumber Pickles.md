@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022116-korean-cheeseburgers-with-sesame-cucumber-pickles
+image: "[[attachments/Korean Cheeseburgers With Sesame-Cucumber Pickles.jpg]]"
 ---
 
 ![[attachments/Korean Cheeseburgers With Sesame-Cucumber Pickles.jpg]]

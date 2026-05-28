@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020366-maangchis-cheese-buldak-fire-chicken
+image: "[[attachments/Maangchi’s Cheese Buldak (Fire Chicken).jpg]]"
 ---
 
 ![[attachments/Maangchi’s Cheese Buldak (Fire Chicken).jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023269-cheesy-stovetop-mac-with-sausage-and-kale
+image: "[[attachments/Cheesy Stovetop Mac With Sausage and Kale.jpg]]"
 ---
 
 ![[attachments/Cheesy Stovetop Mac With Sausage and Kale.jpg]]

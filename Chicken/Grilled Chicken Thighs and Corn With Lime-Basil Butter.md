@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025669-grilled-chicken-thighs-and-corn-with-lime-basil-butter
+image: "[[attachments/Grilled Chicken Thighs and Corn With Lime-Basil Butter.jpg]]"
 ---
 
 ![[attachments/Grilled Chicken Thighs and Corn With Lime-Basil Butter.jpg]]

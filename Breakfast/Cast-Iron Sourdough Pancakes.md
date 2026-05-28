@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018663-cast-iron-sourdough-pancakes
+image: "[[attachments/Cast-Iron Sourdough Pancakes.jpg]]"
 ---
 
 ![[attachments/Cast-Iron Sourdough Pancakes.jpg]]

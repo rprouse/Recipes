@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020728-homemade-hamburger-helper
+image: "[[attachments/Homemade Hamburger Helper.jpg]]"
 ---
 
 ![[attachments/Homemade Hamburger Helper.jpg]]

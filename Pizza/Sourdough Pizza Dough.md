@@ -6,6 +6,7 @@ servings: 3 pizzas
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018030-sourdough-pizza-dough
+image: "[[attachments/Sourdough Pizza Dough.jpg]]"
 ---
 
 ![[attachments/Sourdough Pizza Dough.jpg]]

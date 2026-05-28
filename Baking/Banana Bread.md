@@ -6,6 +6,7 @@ servings: 1 loaf
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013989-banana-bread
+image: "[[attachments/Banana Bread.jpg]]"
 ---
 
 ![[attachments/Banana Bread.jpg]]

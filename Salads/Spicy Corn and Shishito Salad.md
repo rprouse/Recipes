@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020414-spicy-corn-and-shishito-salad
+image: "[[attachments/Spicy Corn and Shishito Salad.jpg]]"
 ---
 
 ![[attachments/Spicy Corn and Shishito Salad.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019625-curried-roast-chicken-with-grapefruit-honey-and-thyme
+image: "[[attachments/Curried Roast Chicken With Grapefruit, Honey and Thyme.jpg]]"
 ---
 
 ![[attachments/Curried Roast Chicken With Grapefruit, Honey and Thyme.jpg]]

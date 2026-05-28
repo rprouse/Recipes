@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019267-spinach-risotto-with-taleggio
+image: "[[attachments/Spinach Risotto With Taleggio.jpg]]"
 ---
 
 ![[attachments/Spinach Risotto With Taleggio.jpg]]

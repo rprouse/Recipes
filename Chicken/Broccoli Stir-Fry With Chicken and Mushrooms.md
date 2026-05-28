@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013417-broccoli-stir-fry-with-chicken-and-mushrooms
+image: "[[attachments/Broccoli Stir-Fry With Chicken and Mushrooms.jpg]]"
 ---
 
 ![[attachments/Broccoli Stir-Fry With Chicken and Mushrooms.jpg]]

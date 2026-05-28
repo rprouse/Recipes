@@ -6,6 +6,7 @@ servings: 4 servings
 time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/758211202-salmon-and-green-beans-in-red-pepper-sauce
+image: "[[attachments/Salmon and Green Beans in Red Pepper Sauce.jpg]]"
 ---
 
 ![[attachments/Salmon and Green Beans in Red Pepper Sauce.jpg]]

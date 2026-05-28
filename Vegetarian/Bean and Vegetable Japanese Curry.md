@@ -6,6 +6,7 @@ servings: 2 to 4 servings
 time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/771598372-bean-and-vegetable-japanese-curry
+image: "[[attachments/Bean and Vegetable Japanese Curry.jpg]]"
 ---
 
 ![[attachments/Bean and Vegetable Japanese Curry.jpg]]

@@ -6,6 +6,7 @@ servings:
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020008-party-board
+image: "[[attachments/Party Board.jpg]]"
 ---
 
 ![[attachments/Party Board.jpg]]

@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/761852004-shrimp-and-bacon-burritas
+image: "[[attachments/Shrimp and Bacon Burritas.jpg]]"
 ---
 
 ![[attachments/Shrimp and Bacon Burritas.jpg]]

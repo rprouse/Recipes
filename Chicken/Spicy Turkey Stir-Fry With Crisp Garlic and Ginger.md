@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020222-spicy-turkey-stir-fry-with-crisp-garlic-and-ginger
+image: "[[attachments/Spicy Turkey Stir-Fry With Crisp Garlic and Ginger.jpg]]"
 ---
 
 ![[attachments/Spicy Turkey Stir-Fry With Crisp Garlic and Ginger.jpg]]

@@ -6,6 +6,7 @@ servings: 6 to 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015129-stuffed-jalapenos
+image: "[[attachments/Stuffed Jalapeños.jpg]]"
 ---
 
 ![[attachments/Stuffed Jalapeños.jpg]]

@@ -6,6 +6,7 @@ servings: 3 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013824-stir-fries-with-fresh-vegetables
+image: "[[attachments/Stir-Fries With Fresh Vegetables.jpg]]"
 ---
 
 ![[attachments/Stir-Fries With Fresh Vegetables.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026287-one-pot-roman-chicken-cacciatore-with-potatoes
+image: "[[attachments/One-Pot Roman Chicken Cacciatore With Potatoes.jpg]]"
 ---
 
 ![[attachments/One-Pot Roman Chicken Cacciatore With Potatoes.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027227-mustardy-sheet-pan-salmon-with-greens
+image: "[[attachments/Mustardy Sheet-Pan Salmon With Greens.jpg]]"
 ---
 
 ![[attachments/Mustardy Sheet-Pan Salmon With Greens.jpg]]

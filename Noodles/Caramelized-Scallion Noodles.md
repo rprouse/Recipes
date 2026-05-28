@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019309-caramelized-scallion-noodles
+image: "[[attachments/Caramelized-Scallion Noodles.jpg]]"
 ---
 
 ![[attachments/Caramelized-Scallion Noodles.jpg]]

@@ -6,6 +6,7 @@ servings: 12 to 15 biscuits
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015210-buttermilk-biscuits
+image: "[[attachments/Buttermilk Biscuits.jpg]]"
 ---
 
 ![[attachments/Buttermilk Biscuits.jpg]]

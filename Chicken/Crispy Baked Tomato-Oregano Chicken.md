@@ -6,6 +6,7 @@ servings: 4 servings
 time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/759520285-crispy-baked-tomato-oregano-chicken
+image: "[[attachments/Crispy Baked Tomato-Oregano Chicken.jpg]]"
 ---
 
 ![[attachments/Crispy Baked Tomato-Oregano Chicken.jpg]]

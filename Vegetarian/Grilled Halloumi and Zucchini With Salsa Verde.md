@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024518-grilled-halloumi-and-zucchini-with-salsa-verde
+image: "[[attachments/Grilled Halloumi and Zucchini With Salsa Verde.jpg]]"
 ---
 
 ![[attachments/Grilled Halloumi and Zucchini With Salsa Verde.jpg]]

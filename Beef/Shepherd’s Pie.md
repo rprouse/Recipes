@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019096-shepherds-pie
+image: "[[attachments/Shepherd’s Pie.jpg]]"
 ---
 
 ![[attachments/Shepherd’s Pie.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026450-curry-shrimp-and-sweet-potato
+image: "[[attachments/Curry Shrimp and Sweet Potato.jpg]]"
 ---
 
 ![[attachments/Curry Shrimp and Sweet Potato.jpg]]

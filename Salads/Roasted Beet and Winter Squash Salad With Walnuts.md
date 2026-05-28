@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12900-roasted-beet-and-winter-squash-salad-with-walnuts
+image: "[[attachments/Roasted Beet and Winter Squash Salad With Walnuts.jpg]]"
 ---
 
 ![[attachments/Roasted Beet and Winter Squash Salad With Walnuts.jpg]]

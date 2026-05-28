@@ -6,6 +6,7 @@ servings: 4 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake
+image: "[[attachments/Chicken and Chickpea Tray Bake.jpg]]"
 ---
 
 ![[attachments/Chicken and Chickpea Tray Bake.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021476-sheet-pan-scallion-chicken-with-bok-choy
+image: "[[attachments/Sheet-Pan Scallion Chicken With Bok Choy.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Scallion Chicken With Bok Choy.jpg]]

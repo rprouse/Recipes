@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025253-spicy-skillet-ground-turkey-and-snap-peas
+image: "[[attachments/Spicy Skillet Ground Turkey and Snap Peas.jpg]]"
 ---
 
 ![[attachments/Spicy Skillet Ground Turkey and Snap Peas.jpg]]

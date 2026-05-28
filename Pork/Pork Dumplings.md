@@ -6,6 +6,7 @@ servings: 24 dumplings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018486-pork-dumplings
+image: "[[attachments/Pork Dumplings.jpg]]"
 ---
 
 ![[attachments/Pork Dumplings.jpg]]

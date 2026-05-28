@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020141-tomato-rice-with-crispy-cheddar
+image: "[[attachments/Tomato Rice With Crispy Cheddar.jpg]]"
 ---
 
 ![[attachments/Tomato Rice With Crispy Cheddar.jpg]]

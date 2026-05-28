@@ -6,6 +6,7 @@ servings: 4 servings
 time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/758928829-harissa-shrimp-with-greens-and-feta
+image: "[[attachments/Harissa Shrimp With Greens and Feta.jpg]]"
 ---
 
 ![[attachments/Harissa Shrimp With Greens and Feta.jpg]]

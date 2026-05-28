@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016673-cant-miss-rice
+image: "[[attachments/Can’t-Miss Rice.jpg]]"
 ---
 
 ![[attachments/Can’t-Miss Rice.jpg]]

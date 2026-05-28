@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019908-fried-eggs-with-garlicky-green-rice
+image: "[[attachments/Fried Eggs With Garlicky Green Rice.jpg]]"
 ---
 
 ![[attachments/Fried Eggs With Garlicky Green Rice.jpg]]

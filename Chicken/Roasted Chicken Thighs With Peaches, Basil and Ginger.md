@@ -6,6 +6,7 @@ servings: 3 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012681-roasted-chicken-thighs-with-peaches-basil-and-ginger
+image: "[[attachments/Roasted Chicken Thighs With Peaches, Basil and Ginger.jpg]]"
 ---
 
 ![[attachments/Roasted Chicken Thighs With Peaches, Basil and Ginger.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/11675-creamed-corn
+image: "[[attachments/Creamed Corn.jpg]]"
 ---
 
 ![[attachments/Creamed Corn.jpg]]

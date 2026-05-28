@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020764-creamy-cauliflower-soup-with-rosemary-olive-oil
+image: "[[attachments/Creamy Cauliflower Soup With Rosemary Olive Oil.jpg]]"
 ---
 
 ![[attachments/Creamy Cauliflower Soup With Rosemary Olive Oil.jpg]]

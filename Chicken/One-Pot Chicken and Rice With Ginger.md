@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023346-one-pot-chicken-and-rice-with-ginger
+image: "[[attachments/One-Pot Chicken and Rice With Ginger.jpg]]"
 ---
 
 ![[attachments/One-Pot Chicken and Rice With Ginger.jpg]]

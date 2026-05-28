@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027095-fresh-corn-and-black-bean-salad-with-corn-chips
+image: "[[attachments/Fresh Corn and Black Bean Salad With Corn Chips.jpg]]"
 ---
 
 ![[attachments/Fresh Corn and Black Bean Salad With Corn Chips.jpg]]

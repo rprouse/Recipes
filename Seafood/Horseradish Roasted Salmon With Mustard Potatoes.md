@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024479-horseradish-roasted-salmon-with-mustard-potatoes
+image: "[[attachments/Horseradish Roasted Salmon With Mustard Potatoes.jpg]]"
 ---
 
 ![[attachments/Horseradish Roasted Salmon With Mustard Potatoes.jpg]]

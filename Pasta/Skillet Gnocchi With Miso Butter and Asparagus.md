@@ -6,6 +6,7 @@ servings: 3 to 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026745-skillet-gnocchi-with-miso-butter-and-asparagus
+image: "[[attachments/Skillet Gnocchi With Miso Butter and Asparagus.jpg]]"
 ---
 
 ![[attachments/Skillet Gnocchi With Miso Butter and Asparagus.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025525-parmesan-crusted-chicken
+image: "[[attachments/Parmesan-Crusted Chicken.jpg]]"
 ---
 
 ![[attachments/Parmesan-Crusted Chicken.jpg]]

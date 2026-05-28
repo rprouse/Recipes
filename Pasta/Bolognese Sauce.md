@@ -6,6 +6,7 @@ servings: 2 heaping cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015181-marcella-hazans-bolognese-sauce
+image: "[[attachments/Bolognese Sauce.jpg]]"
 ---
 
 ![[attachments/Bolognese Sauce.jpg]]

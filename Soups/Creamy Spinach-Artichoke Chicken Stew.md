@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021794-creamy-spinach-artichoke-chicken-stew
+image: "[[attachments/Creamy Spinach-Artichoke Chicken Stew.jpg]]"
 ---
 
 ![[attachments/Creamy Spinach-Artichoke Chicken Stew.jpg]]

@@ -6,6 +6,7 @@ servings: 2 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020427-the-stores-green-dip
+image: "[[attachments/The Store’s Green Dip.jpg]]"
 ---
 
 ![[attachments/The Store’s Green Dip.jpg]]

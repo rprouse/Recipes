@@ -6,6 +6,7 @@ servings: 1 loaf
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022147-updated-no-knead-bread
+image: "[[attachments/Updated No-Knead Bread.jpg]]"
 ---
 
 ![[attachments/Updated No-Knead Bread.jpg]]

@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020330-shrimp-scampi-with-orzo
+image: "[[attachments/Shrimp Scampi With Orzo.jpg]]"
 ---
 
 ![[attachments/Shrimp Scampi With Orzo.jpg]]

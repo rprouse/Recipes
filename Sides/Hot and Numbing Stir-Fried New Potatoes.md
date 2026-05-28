@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021613-hot-and-numbing-stir-fried-new-potatoes
+image: "[[attachments/Hot and Numbing Stir-Fried New Potatoes.jpg]]"
 ---
 
 ![[attachments/Hot and Numbing Stir-Fried New Potatoes.jpg]]

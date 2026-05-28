@@ -6,6 +6,7 @@ servings: 36 muffins
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017585-corn-and-jalapeno-muffins
+image: "[[attachments/Corn and Jalapeño Muffins.jpg]]"
 ---
 
 ![[attachments/Corn and Jalapeño Muffins.jpg]]

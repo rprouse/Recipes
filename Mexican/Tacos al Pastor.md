@@ -6,6 +6,7 @@ servings: 12 tacos
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020227-tacos-al-pastor
+image: "[[attachments/Tacos al Pastor.jpg]]"
 ---
 
 ![[attachments/Tacos al Pastor.jpg]]

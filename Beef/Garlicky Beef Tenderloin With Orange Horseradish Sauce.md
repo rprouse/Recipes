@@ -6,6 +6,7 @@ servings: 8 to 10 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12214-garlicky-beef-tenderloin-with-orange-horseradish-sauce
+image: "[[attachments/Garlicky Beef Tenderloin With Orange Horseradish Sauce.jpg]]"
 ---
 
 ![[attachments/Garlicky Beef Tenderloin With Orange Horseradish Sauce.jpg]]

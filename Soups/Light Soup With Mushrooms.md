@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026877-light-soup-with-mushrooms
+image: "[[attachments/Light Soup With Mushrooms.jpg]]"
 ---
 
 ![[attachments/Light Soup With Mushrooms.jpg]]

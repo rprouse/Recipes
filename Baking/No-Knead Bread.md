@@ -6,6 +6,7 @@ servings: 1 1 1/2-pound loaf
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/11376-no-knead-bread
+image: "[[attachments/No-Knead Bread.jpg]]"
 ---
 
 ![[attachments/No-Knead Bread.jpg]]

@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016955-marinated-venison-steaks
+image: "[[attachments/Marinated Venison Steaks.jpg]]"
 ---
 
 ![[attachments/Marinated Venison Steaks.jpg]]

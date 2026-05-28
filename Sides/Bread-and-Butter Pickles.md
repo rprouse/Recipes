@@ -6,6 +6,7 @@ servings: 1 quart
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12579-bread-and-butter-pickles
+image: "[[attachments/Bread-and-Butter Pickles.jpg]]"
 ---
 
 ![[attachments/Bread-and-Butter Pickles.jpg]]

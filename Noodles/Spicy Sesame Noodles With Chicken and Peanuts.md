@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts
+image: "[[attachments/Spicy Sesame Noodles With Chicken and Peanuts.jpg]]"
 ---
 
 ![[attachments/Spicy Sesame Noodles With Chicken and Peanuts.jpg]]

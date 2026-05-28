@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017429-asparagus-and-chicken-salad-with-ginger-dressing
+image: "[[attachments/Asparagus and Chicken Salad With Ginger Dressing.jpg]]"
 ---
 
 ![[attachments/Asparagus and Chicken Salad With Ginger Dressing.jpg]]

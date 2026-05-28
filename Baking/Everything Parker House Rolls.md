@@ -6,6 +6,7 @@ servings: 12 rolls
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019842-everything-parker-house-rolls
+image: "[[attachments/Everything Parker House Rolls.jpg]]"
 ---
 
 ![[attachments/Everything Parker House Rolls.jpg]]

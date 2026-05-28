@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025011-sheet-pan-turmeric-chicken-and-crispy-rice
+image: "[[attachments/Sheet-Pan Turmeric Chicken and Crispy Rice.jpg]]"
 ---
 
 ![[attachments/Sheet-Pan Turmeric Chicken and Crispy Rice.jpg]]

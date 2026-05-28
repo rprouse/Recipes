@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012384-indonesian-chicken-soup-with-noodles-turmeric-and-ginger-soto-ayam
+image: "[[attachments/Indonesian Chicken Soup With Noodles, Turmeric and Ginger (Soto Ayam).jpg]]"
 ---
 
 ![[attachments/Indonesian Chicken Soup With Noodles, Turmeric and Ginger (Soto Ayam).jpg]]

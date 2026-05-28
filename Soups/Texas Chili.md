@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016036-texas-chili
+image: "[[attachments/Texas Chili.jpg]]"
 ---
 
 ![[attachments/Texas Chili.jpg]]

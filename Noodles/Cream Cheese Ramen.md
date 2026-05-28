@@ -6,6 +6,7 @@ servings: 1 serving
 time: 9 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/777655304-cream-cheese-ramen
+image: "[[attachments/Cream Cheese Ramen.jpg]]"
 ---
 
 ![[attachments/Cream Cheese Ramen.jpg]]

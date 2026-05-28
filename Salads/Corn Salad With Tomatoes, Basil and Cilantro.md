@@ -6,6 +6,7 @@ servings: 4 to 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023332-corn-salad-with-tomatoes-basil-and-cilantro
+image: "[[attachments/Corn Salad With Tomatoes, Basil and Cilantro.jpg]]"
 ---
 
 ![[attachments/Corn Salad With Tomatoes, Basil and Cilantro.jpg]]

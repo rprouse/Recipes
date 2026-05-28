@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12609-turkish-shepherds-salad
+image: "[[attachments/Turkish Shepherd’s Salad.jpg]]"
 ---
 
 ![[attachments/Turkish Shepherd’s Salad.jpg]]

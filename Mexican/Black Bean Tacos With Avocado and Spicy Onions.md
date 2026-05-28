@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020744-black-bean-tacos-with-avocado-and-spicy-onions
+image: "[[attachments/Black Bean Tacos With Avocado and Spicy Onions.jpg]]"
 ---
 
 ![[attachments/Black Bean Tacos With Avocado and Spicy Onions.jpg]]

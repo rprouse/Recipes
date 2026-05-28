@@ -6,6 +6,7 @@ servings: 1 cups
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022366-chile-crisp
+image: "[[attachments/Chile Crisp.jpg]]"
 ---
 
 ![[attachments/Chile Crisp.jpg]]

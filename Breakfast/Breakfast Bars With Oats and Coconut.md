@@ -6,6 +6,7 @@ servings: 18 bars
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021959-breakfast-bars-with-oats-and-coconut
+image: "[[attachments/Breakfast Bars With Oats and Coconut.jpg]]"
 ---
 
 ![[attachments/Breakfast Bars With Oats and Coconut.jpg]]

@@ -6,6 +6,7 @@ servings: 2 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023292-radicchio-caesar-salad
+image: "[[attachments/Radicchio Caesar Salad.jpg]]"
 ---
 
 ![[attachments/Radicchio Caesar Salad.jpg]]

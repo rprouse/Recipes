@@ -6,6 +6,7 @@ servings: 1 quarts
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022860-citrus-and-herb-tonic
+image: "[[attachments/Citrus and Herb Tonic.jpg]]"
 ---
 
 ![[attachments/Citrus and Herb Tonic.jpg]]

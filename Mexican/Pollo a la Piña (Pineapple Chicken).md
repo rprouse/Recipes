@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026321-pollo-a-la-pina-pineapple-chicken
+image: "[[attachments/Pollo a la Piña (Pineapple Chicken).jpg]]"
 ---
 
 ![[attachments/Pollo a la Piña (Pineapple Chicken).jpg]]

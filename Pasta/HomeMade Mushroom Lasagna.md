@@ -6,6 +6,7 @@ servings: 6 to 8 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013946-home-made-mushroom-lasagna
+image: "[[attachments/HomeMade Mushroom Lasagna.jpg]]"
 ---
 
 ![[attachments/HomeMade Mushroom Lasagna.jpg]]

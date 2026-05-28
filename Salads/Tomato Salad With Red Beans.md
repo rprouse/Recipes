@@ -6,6 +6,7 @@ servings: 6 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017554-tomato-salad-with-red-beans
+image: "[[attachments/Tomato Salad With Red Beans.jpg]]"
 ---
 
 ![[attachments/Tomato Salad With Red Beans.jpg]]

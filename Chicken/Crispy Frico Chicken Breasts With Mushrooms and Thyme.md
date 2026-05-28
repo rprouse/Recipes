@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020897-crispy-frico-chicken-breasts-with-mushrooms-and-thyme
+image: "[[attachments/Crispy Frico Chicken Breasts With Mushrooms and Thyme.jpg]]"
 ---
 
 ![[attachments/Crispy Frico Chicken Breasts With Mushrooms and Thyme.jpg]]

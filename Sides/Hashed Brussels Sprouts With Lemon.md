@@ -6,6 +6,7 @@ servings: 8 to 12 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/453-hashed-brussels-sprouts-with-lemon
+image: "[[attachments/Hashed Brussels Sprouts With Lemon.jpg]]"
 ---
 
 ![[attachments/Hashed Brussels Sprouts With Lemon.jpg]]

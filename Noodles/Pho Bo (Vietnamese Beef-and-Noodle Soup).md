@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9261-pho-bo-vietnamese-beef-and-noodle-soup
+image: "[[attachments/Pho Bo (Vietnamese Beef-and-Noodle Soup).jpg]]"
 ---
 
 ![[attachments/Pho Bo (Vietnamese Beef-and-Noodle Soup).jpg]]

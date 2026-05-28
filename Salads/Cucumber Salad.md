@@ -6,6 +6,7 @@ servings: 4 servings
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025369-cucumber-salad
+image: "[[attachments/Cucumber Salad.jpg]]"
 ---
 
 ![[attachments/Cucumber Salad.jpg]]
