@@ -1,5 +1,5 @@
 ---
-tags: [chili, homemade, condiment]
+tags: [sides, chili, homemade, condiment]
 title: Very Good Chili Crisp Recipe
 link: https://www.youtube.com/watch?v=-wgZ7s3YxWI
 channel: Brian Lagerstrom

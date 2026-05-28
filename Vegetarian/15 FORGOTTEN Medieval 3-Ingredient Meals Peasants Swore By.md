@@ -1,5 +1,5 @@
 ---
-tags: [medieval, simple, nutritious]
+tags: [vegetarian, medieval, simple, nutritious]
 title: 15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By
 link: https://www.youtube.com/watch?v=Db9hXstAric
 channel: Medieval Way - 
