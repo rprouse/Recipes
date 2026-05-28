@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, quick, sheet-pan, weeknight]
+tags: [pasta, easy, quick, sheet-pan, weeknight, make-again]
 title: Crispy Gnocchi With Sausage and Broccoli
 author: Ali Slagle
 servings: 4 servings

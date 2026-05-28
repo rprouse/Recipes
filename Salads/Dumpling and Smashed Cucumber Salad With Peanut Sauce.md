@@ -1,5 +1,5 @@
 ---
-tags: [salads, easy, quick, summer, weeknight, vegetarian]
+tags: [salads, easy, quick, summer, weeknight, vegetarian, make-again]
 title: Dumpling and Smashed Cucumber Salad With Peanut Sauce
 author: Hetty Lui McKinnon
 servings: 4 servings

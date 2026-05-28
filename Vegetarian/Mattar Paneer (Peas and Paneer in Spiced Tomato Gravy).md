@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, great-leftovers, quick, weeknight]
+tags: [vegetarian, great-leftovers, quick, weeknight, make-again]
 title: Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)
 author: Zainab Shah
 servings: 2 to 4 servings

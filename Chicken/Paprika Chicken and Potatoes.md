@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, quick, sheet-pan, weeknight]
+tags: [chicken, easy, quick, sheet-pan, weeknight, make-again]
 title: Paprika Chicken and Potatoes
 author: Yasmin Fahr
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, sheet-pan, quick, weeknight]
+tags: [chicken, easy, sheet-pan, quick, weeknight, make-again]
 title: Sheet-Pan Chicken With Black Beans and Squash
 author: Ali Slagle
 servings: 2 to 4 servings

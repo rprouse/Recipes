@@ -1,5 +1,5 @@
 ---
-tags: [beef, easy, one-pot, quick, great-leftovers, weeknight, budget]
+tags: [beef, easy, one-pot, quick, great-leftovers, weeknight, budget, make-again]
 title: Japanese Ground Beef Curry
 author: Amelia Rampe
 servings: 4 to 6 servings

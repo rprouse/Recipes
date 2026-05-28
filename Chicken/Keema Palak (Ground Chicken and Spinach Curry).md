@@ -1,5 +1,5 @@
 ---
-tags: [chicken, budget, easy, one-pot, quick, weeknight]
+tags: [chicken, budget, easy, one-pot, quick, weeknight, make-again]
 title: Keema Palak (Ground Chicken and Spinach Curry)
 author: Zainab Shah
 servings: 2 to 4 servings

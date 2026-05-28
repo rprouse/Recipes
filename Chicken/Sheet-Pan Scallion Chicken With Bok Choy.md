@@ -1,5 +1,5 @@
 ---
-tags: [chicken, one-pot, weeknight]
+tags: [chicken, one-pot, weeknight, make-again]
 title: Sheet-Pan Scallion Chicken With Bok Choy
 author: Kay Chun
 servings: 4 servings

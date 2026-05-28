@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, one-pot, spring, summer]
+tags: [seafood, easy, one-pot, spring, summer, make-again]
 title: Sesame Salmon Bowls
 author: Kay Chun
 servings: 4 servings

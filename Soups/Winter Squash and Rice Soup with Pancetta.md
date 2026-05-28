@@ -1,5 +1,5 @@
 ---
-tags: [soups, great-leftovers, weeknight]
+tags: [soups, great-leftovers, weeknight, make-again]
 title: Winter Squash and Rice Soup with Pancetta
 author: Christian Reynoso
 servings: 4 to 6 servings

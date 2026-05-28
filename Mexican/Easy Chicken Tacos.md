@@ -1,5 +1,5 @@
 ---
-tags: [mexican, budget, easy, quick, weeknight]
+tags: [mexican, budget, easy, quick, weeknight, make-again]
 title: Easy Chicken Tacos
 author: Kristina Felix
 servings: 8 tacos

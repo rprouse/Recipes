@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, one-pot, summer, weeknight, vegetarian]
+tags: [pasta, easy, one-pot, summer, weeknight, vegetarian, make-again]
 title: One-Pan Orzo With Spinach and Feta
 author: Melissa Clark
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, one-pot, quick, weeknight]
+tags: [seafood, easy, one-pot, quick, weeknight, make-again]
 title: Curry Shrimp and Sweet Potato
 author: Ashley Lonsdale
 servings: 4 servings

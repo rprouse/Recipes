@@ -1,5 +1,5 @@
 ---
-tags: [soups, budget, easy, fall, great-leftovers, make-ahead, one-pot, quick, weeknight]
+tags: [soups, budget, easy, fall, great-leftovers, make-ahead, one-pot, quick, weeknight, make-again]
 title: Quick Turkey Chili
 author: Genevieve Ko
 servings: 6 to 8 servings

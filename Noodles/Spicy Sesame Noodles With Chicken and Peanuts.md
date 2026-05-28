@@ -1,5 +1,5 @@
 ---
-tags: [noodles, quick, weeknight]
+tags: [noodles, quick, weeknight, make-again]
 title: Spicy Sesame Noodles With Chicken and Peanuts
 author: Ali Slagle
 servings: 4 servings

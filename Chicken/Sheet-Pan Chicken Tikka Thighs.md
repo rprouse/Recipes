@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, make-ahead, quick, sheet-pan, weeknight]
+tags: [chicken, easy, make-ahead, quick, sheet-pan, weeknight, make-again]
 title: Sheet-Pan Chicken Tikka Thighs
 author: Zainab Shah
 servings: 4 servings

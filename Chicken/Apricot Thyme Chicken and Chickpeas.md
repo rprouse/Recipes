@@ -1,5 +1,5 @@
 ---
-tags: [chicken, sheet-pan, easy, great-leftovers]
+tags: [chicken, sheet-pan, easy, great-leftovers, make-again]
 title: Apricot Thyme Chicken and Chickpeas
 author: Nargisse Benkabbou
 servings: 4 to 6 servings

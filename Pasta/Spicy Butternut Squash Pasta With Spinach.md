@@ -1,5 +1,5 @@
 ---
-tags: [pasta, fall, weeknight, winter, vegetarian]
+tags: [pasta, fall, weeknight, winter, vegetarian, make-again]
 title: Spicy Butternut Squash Pasta With Spinach
 author: Yasmin Fahr
 servings: 4 servings

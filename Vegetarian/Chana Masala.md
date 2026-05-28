@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, easy, one-pot, quick, vegan]
+tags: [vegetarian, easy, one-pot, quick, vegan, make-again]
 title: Chana Masala
 author: Zainab Shah
 servings: 4 servings

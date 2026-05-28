@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, fall, quick, weeknight, winter]
+tags: [pasta, easy, fall, quick, weeknight, winter, make-again]
 title: Crisp Gnocchi With Brussels Sprouts and Brown Butter
 author: Ali Slagle
 servings: 4 servings

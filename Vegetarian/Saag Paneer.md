@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, one-pot]
+tags: [vegetarian, one-pot, make-again]
 title: Saag Paneer
 author: Kay Chun
 servings: 4 servings
