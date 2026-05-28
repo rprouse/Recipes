@@ -11,10 +11,24 @@
             "id": "a070dbf633d87ba1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -183,8 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64125dcb463092aa",
+  "active": "a070dbf633d87ba1",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.112372.b9c498144180",
     "Chicken/Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill.md",
     "Sides/Spicy Stir-Fried Cabbage.md",
     "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
@@ -220,7 +236,6 @@
     "Chicken/Spicy Roasted Chicken Thighs.md",
     "Chicken/Crispy Frico Chicken Breasts With Mushrooms and Thyme.md",
     "Chicken/Baked Chicken With Crispy Parmesan and Tomatoes.md",
-    "Chicken/Chicken Breasts With Tomatoes and Capers.md",
     "BBQ/attachments",
     "Sous Vide/attachments",
     "Pizza/attachments",
@@ -229,7 +244,6 @@
     "Drinks/attachments",
     "Drinks",
     "Soups/attachments",
-    "Soups",
-    "Pork/attachments"
+    "Soups"
   ]
 }
