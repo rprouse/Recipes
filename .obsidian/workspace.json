@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 251.5
   },
   "right": {
     "id": "1fdd5cdc487ee9cc",
@@ -187,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dea9beaffc34c525",
+  "active": "2247007034cf037c",
   "lastOpenFiles": [
     "Noodles/15 Minute Chili Garlic Noodles.md",
     "All Recipes.base",

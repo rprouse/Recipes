@@ -10,7 +10,7 @@
       "Bash(ls -la .claude/)",
       "Bash(ls .claude/skills/)",
       "Bash(grep -oE \"[0-9]+$\")",
-      "mcp__plugin_playwright_playwright__browser_network_requests",
+      "mcp__plugin_playwright_playwright__browser_network_requests"
     ]
   }
 }
