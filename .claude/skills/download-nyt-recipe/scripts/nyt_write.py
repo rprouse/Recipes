@@ -147,7 +147,9 @@ def main():
             if not download(d["image"], os.path.join(folder_dir, "attachments", fname + ".jpg")):
                 noimg.append(d["name"])
                 d["image"] = None
-        with open(os.path.join(folder_dir, fname + ".md"), "w", encoding="utf-8") as f:
+        # newline="\n": the vault is pinned to LF (core.autocrlf false); without this,
+        # Python text mode on Windows would translate \n -> \r\n and break that.
+        with open(os.path.join(folder_dir, fname + ".md"), "w", encoding="utf-8", newline="\n") as f:
             f.write(build_note(d, folder, fname))
         written += 1
 

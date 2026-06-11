@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Recipe List",
+      "path": "Recipe List.md"
+    },
+    {
       "basename": "All Recipes",
       "path": "All Recipes.base"
+    },
+    {
+      "basename": "Saag Shrimp",
+      "path": "Seafood/Saag Shrimp.md"
+    },
+    {
+      "basename": "Chile-Crisp Shrimp and Green Beans",
+      "path": "Seafood/Chile-Crisp Shrimp and Green Beans.md"
+    },
+    {
+      "basename": "Charred Corn and Pickled Jalapeño Potato Salad",
+      "path": "Salads/Charred Corn and Pickled Jalapeño Potato Salad.md"
+    },
+    {
+      "basename": "Linguine With Zucchini, Corn and Shrimp",
+      "path": "Pasta/Linguine With Zucchini, Corn and Shrimp.md"
+    },
+    {
+      "basename": "Recipe",
+      "path": "Templates/Recipe.md"
+    },
+    {
+      "basename": "Japanese Ground Beef Curry",
+      "path": "Beef/Japanese Ground Beef Curry.md"
+    },
+    {
+      "basename": "Curry Shrimp and Sweet Potato",
+      "path": "Seafood/Curry Shrimp and Sweet Potato.md"
+    },
+    {
+      "basename": "Make Again",
+      "path": "Make Again.base"
+    },
+    {
+      "basename": "Easy Chicken Tacos",
+      "path": "Mexican/Easy Chicken Tacos.md"
+    },
+    {
+      "basename": "Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)",
+      "path": "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md"
     },
     {
       "basename": "15 Minute Chili Garlic Noodles",
@@ -19,10 +63,6 @@
     {
       "basename": "Readme",
       "path": "Readme.md"
-    },
-    {
-      "basename": "Make Again",
-      "path": "Make Again.base"
     },
     {
       "basename": "CLAUDE",
@@ -71,10 +111,6 @@
     {
       "basename": "The only White Sauce Pasta Recipe you'll ever need!",
       "path": "Pasta/The only White Sauce Pasta Recipe you'll ever need!.md"
-    },
-    {
-      "basename": "Recipe",
-      "path": "Templates/Recipe.md"
     },
     {
       "basename": "5 Restaurant Quality Pasta Sauces in 15 Minutes",
@@ -163,34 +199,6 @@
     {
       "basename": "Asian Cabbage Stir-Fry",
       "path": "Beef/Asian Cabbage Stir-Fry.pdf"
-    },
-    {
-      "basename": "Lemon Chicken & Spaghetti Squash",
-      "path": "Chicken/Lemon Chicken & Spaghetti Squash.pdf"
-    },
-    {
-      "basename": "Japanese Rice Bowl",
-      "path": "Chicken/Japanese Rice Bowl.md"
-    },
-    {
-      "basename": "Chicken Wings",
-      "path": "Chicken/Chicken Wings.md"
-    },
-    {
-      "basename": "Steak - Filet, NY Strip, & Flank",
-      "path": "Beef/Steak - Filet, NY Strip, & Flank.md"
-    },
-    {
-      "basename": "Pastrami",
-      "path": "BBQ/Pastrami.md"
-    },
-    {
-      "basename": "Dutch Oven Bread",
-      "path": "Baking/Dutch Oven Bread.md"
-    },
-    {
-      "basename": "1 Dough 3 Loaves",
-      "path": "Baking/1 Dough 3 Loaves.md"
     }
   ],
   "omittedPaths": [],

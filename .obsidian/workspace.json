@@ -4,18 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "355eb7b2e214c436",
+        "id": "08d80cb464016c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "dea9beaffc34c525",
+            "id": "18be481e683c85b1",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Recipe List"
+            }
+          },
+          {
+            "id": "03a201c6460f3fb9",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "bases",
               "state": {
                 "file": "All Recipes.base",
                 "viewName": "All Recipes"
               },
+              "pinned": true,
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
@@ -79,8 +107,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -187,15 +215,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2247007034cf037c",
+  "active": "18be481e683c85b1",
   "lastOpenFiles": [
-    "Noodles/15 Minute Chili Garlic Noodles.md",
     "All Recipes.base",
+    "Recipe List.md",
+    "Seafood/Saag Shrimp.md",
+    "Seafood/Chile-Crisp Shrimp and Green Beans.md",
+    "Salads/Charred Corn and Pickled Jalapeño Potato Salad.md",
+    "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
+    "Templates/Recipe.md",
+    "Beef/Japanese Ground Beef Curry.md",
+    "Seafood/Curry Shrimp and Sweet Potato.md",
+    "Make Again.base",
+    "Mexican/Easy Chicken Tacos.md",
+    "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md",
+    "Noodles/15 Minute Chili Garlic Noodles.md",
     "Sides/5-Minute Hummus.md",
     "Pizza/10 Pizza Rules That Separate Amateurs from Pros.md",
     "Readme.md",
-    "Make Again.base",
-    "Untitled.md",
     "Make Again.base.tmp.112372.5abb0fc26570",
     "CLAUDE.md",
     "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md.tmp.112372.0a7a70a32dd7",
@@ -217,19 +254,9 @@
     "Seafood/attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg",
     "Seafood/Salmon With Sesame and Herbs.md",
     "Seafood/attachments/Salmon With Sesame and Herbs.jpg",
-    "Seafood/Salmon en Papillote (Salmon in Parchment).md",
     "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg",
-    "Seafood/Provençal Salmon With Fennel, Rosemary and Orange Zest.md",
     "Seafood/attachments/Provençal Salmon With Fennel, Rosemary and Orange Zest.jpg",
-    "Soups/Mushroom Soup.md",
     "Soups/attachments/Mushroom Soup.jpg",
-    "Chicken/Stir-Fries With Fresh Vegetables.md",
-    "Pasta/Cheesy Baked Pasta With Sausage and Ricotta.md",
-    "Pasta/Shrimp Scampi With Orzo.md",
-    "Chicken/Maangchi’s Cheese Buldak (Fire Chicken).md",
-    "Breakfast/Shakshuka With Feta.md",
-    "Sides/Grilled Broccoli With Soy Sauce, Maple Syrup and Balsamic Vinegar.md",
-    "Salads/Kale Salad With Cranberries, Pecans and Blue Cheese.md",
     "BBQ/attachments",
     "Sous Vide/attachments",
     "Pizza/attachments",

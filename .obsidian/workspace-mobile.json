@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b2ca5d7204185e91",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae2174a71b50b2a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b90ed671b34446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe List.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recipe List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4435a5751abea56",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54483d111f470d7a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5c98620fdaf26cc4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ab870e4d4e0115bb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "8d55531a4ca2b098",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cff8d910274b42f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a2a087d9b7953c9a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Recipe List.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4f1cefe91c546b07",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ea79926a3df7e470",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b6b90ed671b34446",
+  "lastOpenFiles": [
+    "Mexican/Easy Chicken Tacos.md",
+    "Recipe List.md",
+    "Seafood/Curry Shrimp and Sweet Potato.md",
+    "Beef/Japanese Ground Beef Curry.md",
+    "Beef/Beef Fried Rice.md",
+    "Pasta/Skillet Gnocchi With Miso Butter and Asparagus.md",
+    "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md",
+    "Chicken/Sheet-Pan Chicken Tikka Thighs.md",
+    "Breakfast/Eleven Madison Park Granola.md",
+    "All Recipes.base",
+    "Chicken/Arroz Chaufa (Fried Rice With Chicken and Bell Pepper).md",
+    "Make Again.base",
+    "Soups/Winter Squash and Rice Soup with Pancetta.md",
+    "Chicken/Oven-Roasted Chicken Shawarma.md",
+    "Pasta/One-Pan Orzo With Spinach and Feta.md",
+    "Chicken/Paprika Chicken and Potatoes.md",
+    "Readme.md",
+    "Noodles/Tomato Juice Macaroni and Cheese.md",
+    "Baking/Everyday Sourdough.md",
+    "Baking/Easy Pizza Dough.md",
+    "Chicken/Chicken Wings.md",
+    "Baking/Roberta's Pizza Dough.md"
+  ]
+}

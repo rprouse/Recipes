@@ -1,9 +1,19 @@
 ---
-tags: [pasta, easy, one-pot, quick, spring, summer, weeknight, vegetarian, make-again]
+tags:
+  - pasta
+  - easy
+  - one-pot
+  - quick
+  - spring
+  - summer
+  - weeknight
+  - vegetarian
+  - make-again
+  - cooked
 title: Skillet Gnocchi With Miso Butter and Asparagus
 author: Ali Slagle
 servings: 3 to 4 servings
-time: 
+time:
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026745-skillet-gnocchi-with-miso-butter-and-asparagus
 image: "[[attachments/Skillet Gnocchi With Miso Butter and Asparagus.jpg]]"

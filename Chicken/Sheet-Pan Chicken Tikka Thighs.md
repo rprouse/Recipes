@@ -1,9 +1,17 @@
 ---
-tags: [chicken, easy, make-ahead, quick, sheet-pan, weeknight, make-again]
+tags:
+  - chicken
+  - easy
+  - make-ahead
+  - quick
+  - sheet-pan
+  - weeknight
+  - make-again
+  - cooked
 title: Sheet-Pan Chicken Tikka Thighs
 author: Zainab Shah
 servings: 4 servings
-time: 
+time:
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025554-sheet-pan-chicken-tikka-thighs
 image: "[[attachments/Sheet-Pan Chicken Tikka Thighs.jpg]]"

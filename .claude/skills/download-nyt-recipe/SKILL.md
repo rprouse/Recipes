@@ -55,6 +55,10 @@ Extract the `<script type="application/ld+json">` whose `@type` is `Recipe`
 `suitableForDiet`, `recipeIngredient[]`, `recipeInstructions[]`, `image[]`.
 
 **Edge cases that bite at scale** (the bundled `nyt_fetch.py` handles all of these):
+- The `<script>` tag carries extra attributes — it's actually `<script
+  type="application/ld+json" data-next-head="">`, not a bare `<script
+  type="application/ld+json">`. Match it loosely
+  (`<script[^>]*type="application/ld\+json"[^>]*>`) or the regex finds nothing.
 - `recipeInstructions` mixes plain `HowToStep` (`.text`) with `HowToSection`
   wrappers whose `.itemListElement` holds the step — flatten recursively.
 - `keywords` and `suitableForDiet` may be a **string OR a list** — coerce before
@@ -62,6 +66,12 @@ Extract the `<script type="application/ld+json">` whose `@type` is `Recipe`
 - `recipeYield` may be a string or a list.
 - Older recipes have **no `totalTime`** — leave `time:` blank, that's fine.
 - `totalTime` is ISO-8601: `PT0H30M` → "30 minutes", `PT1H35M` → "1 hour 35 minutes".
+- The JSON-LD `image` is sometimes **`null`** — fall back to the `og:image` meta tag
+  (see step 5). `nyt_fetch.fallback_image()` does this.
+- The note text is UTF-8 (fractions ½ ¼, curly apostrophes). On Windows the console
+  renders these as `�` when you `print`, but the bytes are fine — **write the note
+  from Python with `encoding="utf-8"`** rather than echoing through the shell, and
+  don't trust a `print`/`repr` preview to judge corruption.
 
 ### 3. Get the cook's tip (NOT in the JSON-LD)
 
@@ -86,6 +96,13 @@ A User-Agent is required or the CDN refuses:
 cd "<vault>/<Folder>" && mkdir -p attachments && \
 curl -sSL -A "Mozilla/5.0" -o "attachments/<Recipe Name>.jpg" "<image url>"
 ```
+
+If the JSON-LD `image` is `null` (it happens — e.g. `1024405-saag-shrimp`), recover
+the lead photo from the **`og:image` meta tag**, then upgrade the crop: the og URL is
+the `...-facebookJumbo-v2.jpg` (1200×630) crop of the same asset; the same directory
+also holds `...-videoSixteenByNineJumbo1600-v2.jpg` (1600×900). Confirm the bigger
+crop exists by grepping the HTML for it under the same asset path rather than guessing
+the filename. `nyt_fetch.fallback_image()` implements exactly this.
 
 Verify it's a real image (`file` reports JPEG/PNG, non-trivial size). Skip the embed
 if there's no image.
@@ -242,6 +259,9 @@ sticks across runs (an occasional transient redirect to `/auth/login` clears on 
 
 ## Notes on robustness
 
+- **Run the scripts with `python`, not `python3`.** On this Windows machine `python3`
+  resolves to the Microsoft Store stub (`…\WindowsApps\python3`) and aborts with "Python
+  was not found"; `python` is the real interpreter (3.14). All commands here use `python`.
 - No JSON-LD `Recipe` in the HTML usually means a transient/incomplete fetch — retry.
 - A full `browser_snapshot` on NYT can exceed the tool output limit; prefer targeted
   `browser_evaluate` / `curl` + parse over big snapshots.

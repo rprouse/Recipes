@@ -86,6 +86,20 @@ def pick_image(img):
     return best
 
 
+def fallback_image(html):
+    """Some recipes ship a null JSON-LD `image`; recover the lead photo from the
+    og:image meta tag, upgrading to the largest 16:9 crop of the SAME asset when
+    that crop is present in the HTML (confirmed by scraping, not by guessing)."""
+    m = (re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html)
+         or re.search(r'<meta[^>]+content="([^"]+)"[^>]+property="og:image"', html))
+    if not m:
+        return None
+    og = m.group(1)
+    asset = og.rsplit("/", 1)[0]  # directory holding every crop of this photo
+    big = re.findall(re.escape(asset) + r'/[^"\']*videoSixteenByNineJumbo1600[^"\']*\.jpg', html)
+    return big[0] if big else og
+
+
 def extract_tip(html):
     """Tip is in embedded app data as "tips":[{ScoopRecipeTip...}], NOT in JSON-LD."""
     i = html.find('"tips":')
@@ -159,7 +173,7 @@ def parse_recipe(rid, url, html, fallback_title=""):
         "description": (rec.get("description") or "").strip(),
         "ingredients": [i.strip() for i in rec.get("recipeIngredient", [])],
         "steps": flatten_steps(rec.get("recipeInstructions")),
-        "image": pick_image(rec.get("image")),
+        "image": pick_image(rec.get("image")) or fallback_image(html),
         "tip": extract_tip(html),
     }
 

@@ -1,2 +1,4 @@
 .playwright-mcp
 .recipe-import
+__pycache__/
+*.pyc

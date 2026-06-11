@@ -1,9 +1,15 @@
 ---
-tags: [beef, easy, quick, weeknight]
+tags:
+  - beef
+  - easy
+  - quick
+  - weeknight
+  - cooked
+  - make-again
 title: Beef Fried Rice
 author: Kay Chun
 servings: 4 servings
-time: 
+time:
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026415-beef-fried-rice
 image: "[[attachments/Beef Fried Rice.jpg]]"
