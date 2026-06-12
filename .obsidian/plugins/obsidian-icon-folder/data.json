@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌎",
       "🗒",
       "🧑‍🍳",
       "♻",
-      "🤖",
-      "🍦"
+      "🤖"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -75,5 +75,6 @@
   "CLAUDE.md": "🤖",
   "Make Again.base": "♻",
   "All Recipes.base": "🧑‍🍳",
-  "Recipe List.md": "🗒"
+  "Recipe List.md": "🗒",
+  "Recipe Websites.md": "🌎"
 }

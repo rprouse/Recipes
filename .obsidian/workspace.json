@@ -47,8 +47,33 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
+          },
+          {
+            "id": "ac60a286a200fbab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe Websites.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recipe Websites"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,8 +240,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18be481e683c85b1",
+  "active": "ac60a286a200fbab",
   "lastOpenFiles": [
+    "Pasta/Carbonara.md",
+    "Recipe Websites.md",
     "All Recipes.base",
     "Recipe List.md",
     "Seafood/Saag Shrimp.md",
@@ -252,7 +279,6 @@
     "Soups/attachments/Texas-Style Chili.jpg",
     "Seafood/Spicy Slow-Roasted Salmon With Cucumbers and Feta.md",
     "Seafood/attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg",
-    "Seafood/Salmon With Sesame and Herbs.md",
     "Seafood/attachments/Salmon With Sesame and Herbs.jpg",
     "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg",
     "Seafood/attachments/Provençal Salmon With Fennel, Rosemary and Orange Zest.jpg",

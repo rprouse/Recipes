@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Recipe List",
-      "path": "Recipe List.md"
+      "basename": "Recipe Websites",
+      "path": "Recipe Websites.md"
+    },
+    {
+      "basename": "Carbonara",
+      "path": "Pasta/Carbonara.md"
     },
     {
       "basename": "All Recipes",
       "path": "All Recipes.base"
+    },
+    {
+      "basename": "Recipe List",
+      "path": "Recipe List.md"
     },
     {
       "basename": "Saag Shrimp",
@@ -191,14 +199,6 @@
     {
       "basename": "Gochujang Garlic Noodles",
       "path": "Noodles/Gochujang Garlic Noodles.md"
-    },
-    {
-      "basename": "Fried Killer Spaghetti",
-      "path": "Noodles/Fried Killer Spaghetti.md"
-    },
-    {
-      "basename": "Asian Cabbage Stir-Fry",
-      "path": "Beef/Asian Cabbage Stir-Fry.pdf"
     }
   ],
   "omittedPaths": [],
