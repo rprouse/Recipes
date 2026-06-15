@@ -4,7 +4,7 @@
 - [x] Sausages and Salad
 - [x] [[Skillet Gnocchi With Miso Butter and Asparagus]]
 - [x] [[Easy Chicken Tacos]]
-- [ ] [[Japanese Ground Beef Curry]]
+- [x] [[Japanese Ground Beef Curry]]
 - [x] [[Curry Shrimp and Sweet Potato]]
 - [ ] [[Buffalo Chicken Wings]]
 - [ ] [[Sous Vide Texas-Style Barbecue Brisket]]
