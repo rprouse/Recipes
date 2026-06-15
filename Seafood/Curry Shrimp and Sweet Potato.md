@@ -1,9 +1,16 @@
 ---
-tags: [seafood, easy, one-pot, quick, weeknight, make-again]
+tags:
+  - seafood
+  - easy
+  - one-pot
+  - quick
+  - weeknight
+  - make-again
+  - cooked
 title: Curry Shrimp and Sweet Potato
 author: Ashley Lonsdale
 servings: 4 servings
-time: 
+time:
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026450-curry-shrimp-and-sweet-potato
 image: "[[attachments/Curry Shrimp and Sweet Potato.jpg]]"

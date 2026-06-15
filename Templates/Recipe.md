@@ -1,5 +1,6 @@
 ---
 tags:
+title:
 servings:
 time:
 date: "{{date:YYYY-MM-DD dddd}}"

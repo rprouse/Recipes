@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Recipe Websites",
-      "path": "Recipe Websites.md"
+      "basename": "Recipe List",
+      "path": "Recipe List.md"
     },
     {
-      "basename": "Carbonara",
-      "path": "Pasta/Carbonara.md"
+      "basename": "Sous Vide Texas-Style Barbecue Brisket",
+      "path": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md"
     },
     {
       "basename": "All Recipes",
       "path": "All Recipes.base"
     },
     {
-      "basename": "Recipe List",
-      "path": "Recipe List.md"
+      "basename": "Recipe",
+      "path": "Templates/Recipe.md"
+    },
+    {
+      "basename": "Buffalo Chicken Wings",
+      "path": "Chicken/Buffalo Chicken Wings.md"
+    },
+    {
+      "basename": "Chicken Wings",
+      "path": "Chicken/Chicken Wings.md"
+    },
+    {
+      "basename": "Smoked Chicken Wings",
+      "path": "BBQ/Smoked Chicken Wings.md"
+    },
+    {
+      "basename": "Recipe Websites",
+      "path": "Recipe Websites.md"
+    },
+    {
+      "basename": "Carbonara",
+      "path": "Pasta/Carbonara.md"
     },
     {
       "basename": "Saag Shrimp",
@@ -31,10 +51,6 @@
     {
       "basename": "Linguine With Zucchini, Corn and Shrimp",
       "path": "Pasta/Linguine With Zucchini, Corn and Shrimp.md"
-    },
-    {
-      "basename": "Recipe",
-      "path": "Templates/Recipe.md"
     },
     {
       "basename": "Japanese Ground Beef Curry",
@@ -183,22 +199,6 @@
     {
       "basename": "Stir-Fried Garlic Egg Ramen",
       "path": "Noodles/Stir-Fried Garlic Egg Ramen.md"
-    },
-    {
-      "basename": "Peanut Butter and Chili Udon Noodles",
-      "path": "Noodles/Peanut Butter and Chili Udon Noodles.md"
-    },
-    {
-      "basename": "Homemade Ramen Cup Noodles",
-      "path": "Noodles/Homemade Ramen Cup Noodles.md"
-    },
-    {
-      "basename": "Homemade Cup Noodles",
-      "path": "Noodles/Homemade Cup Noodles.md"
-    },
-    {
-      "basename": "Gochujang Garlic Noodles",
-      "path": "Noodles/Gochujang Garlic Noodles.md"
     }
   ],
   "omittedPaths": [],

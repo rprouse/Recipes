@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipe List.md",
+                "file": "Beef/Japanese Ground Beef Curry.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Recipe List"
+              "title": "Japanese Ground Beef Curry"
             }
           }
         ]
@@ -162,9 +162,9 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
-    "Mexican/Easy Chicken Tacos.md",
     "Recipe List.md",
     "Seafood/Curry Shrimp and Sweet Potato.md",
+    "Mexican/Easy Chicken Tacos.md",
     "Beef/Japanese Ground Beef Curry.md",
     "Beef/Beef Fried Rice.md",
     "Pasta/Skillet Gnocchi With Miso Butter and Asparagus.md",

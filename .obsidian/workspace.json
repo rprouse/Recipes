@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "ac60a286a200fbab",
+            "id": "c499e1fcabd0ba59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipe Websites.md",
+                "file": "Chicken/Buffalo Chicken Wings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,11 +69,58 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Recipe Websites"
+              "title": "Buffalo Chicken Wings"
+            }
+          },
+          {
+            "id": "c29dda06c85a6f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Recipe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recipe"
+            }
+          },
+          {
+            "id": "b747f648bd418359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sous Vide Texas-Style Barbecue Brisket"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,17 +287,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac60a286a200fbab",
+  "active": "18be481e683c85b1",
   "lastOpenFiles": [
-    "Pasta/Carbonara.md",
-    "Recipe Websites.md",
+    "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
     "All Recipes.base",
+    "Templates/Recipe.md",
+    "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md.tmp.34576.c94f52043f9f",
+    "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg",
     "Recipe List.md",
+    "Chicken/Buffalo Chicken Wings.md",
+    "Chicken/Chicken Wings.md",
+    "BBQ/Smoked Chicken Wings.md",
+    "Recipe Websites.md",
+    "Pasta/Carbonara.md",
     "Seafood/Saag Shrimp.md",
     "Seafood/Chile-Crisp Shrimp and Green Beans.md",
     "Salads/Charred Corn and Pickled Jalapeño Potato Salad.md",
     "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
-    "Templates/Recipe.md",
     "Beef/Japanese Ground Beef Curry.md",
     "Seafood/Curry Shrimp and Sweet Potato.md",
     "Make Again.base",
@@ -269,24 +322,17 @@
     "Chicken/Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill.md",
     "Sides/Spicy Stir-Fried Cabbage.md",
     "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
-    "Salads/Pan-Roasted Corn and Tomato Salad.md",
     "Salads/attachments/Pan-Roasted Corn and Tomato Salad.jpg",
-    "Soups/Kale Soup With Potatoes and Sausage.md",
     "Soups/attachments/Kale Soup With Potatoes and Sausage.jpg",
-    "Pasta/Baked Alfredo Pasta With Broccoli Rabe and Lemon.md",
     "Pasta/attachments/Baked Alfredo Pasta With Broccoli Rabe and Lemon.jpg",
-    "Soups/Texas-Style Chili.md",
     "Soups/attachments/Texas-Style Chili.jpg",
-    "Seafood/Spicy Slow-Roasted Salmon With Cucumbers and Feta.md",
     "Seafood/attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg",
     "Seafood/attachments/Salmon With Sesame and Herbs.jpg",
     "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg",
     "Seafood/attachments/Provençal Salmon With Fennel, Rosemary and Orange Zest.jpg",
-    "Soups/attachments/Mushroom Soup.jpg",
     "BBQ/attachments",
     "Sous Vide/attachments",
     "Pizza/attachments",
-    "Desserts/attachments",
-    "Desserts"
+    "Desserts/attachments"
   ]
 }
