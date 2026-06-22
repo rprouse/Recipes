@@ -6,9 +6,10 @@
 - [x] [[Easy Chicken Tacos]]
 - [x] [[Japanese Ground Beef Curry]]
 - [x] [[Curry Shrimp and Sweet Potato]]
-- [ ] [[Buffalo Chicken Wings]]
-- [ ] [[Sous Vide Texas-Style Barbecue Brisket]]
+- [x] [[Buffalo Chicken Wings]]
+- [x] [[Sous Vide Texas-Style Barbecue Brisket]]
+- [ ] [[Creamy Lemon Asparagus Gnocchi]]
+- [ ] [[Saag Shrimp]]
 ## On Deck
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
-- [ ] [[Saag Shrimp]]
 - [ ] [[Chile-Crisp Shrimp and Green Beans]]

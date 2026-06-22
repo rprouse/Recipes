@@ -49,7 +49,7 @@ Conventions that matter:
 
 ## Folder taxonomy
 
-Recipes are filed into mixed-axis top-level folders — by **protein** (Beef, Chicken, Pork, Seafood), **dish type** (Pasta, Noodles, Pizza, Soups, Salads, Baking, Breakfast, Desserts, Snacks, Sides, Drinks), **cuisine** (Mexican), **method** (BBQ, Sous Vide), or **diet** (Vegetarian). `Incoming/` is the unsorted inbox.
+Recipes are filed into mixed-axis top-level folders — by **protein** (Beef, Chicken, Pork, Seafood), **dish type** (Pasta, Noodles, Pizza, Soups, Salads, Sandwiches, Baking, Breakfast, Desserts, Snacks, Sides, Drinks), **cuisine** (Mexican), **method** (BBQ, Sous Vide), or **diet** (Vegetarian). `Incoming/` is the unsorted inbox.
 
 When classifying, dish type wins over protein (e.g. "Shrimp Piccata Spaghetti" → Pasta, not Seafood); soups/stews → Soups even when meat-forward. The full rubric lives in the `download-nyt-recipe` skill.
 

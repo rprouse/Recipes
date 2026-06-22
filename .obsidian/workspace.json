@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "c499e1fcabd0ba59",
+            "id": "b55eed21846615e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken/Buffalo Chicken Wings.md",
+                "file": "Pasta/Creamy Lemon Asparagus Gnocchi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,16 +69,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Buffalo Chicken Wings"
+              "title": "Creamy Lemon Asparagus Gnocchi"
             }
           },
           {
-            "id": "c29dda06c85a6f44",
+            "id": "dfbcbed0c491ed4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Recipe.md",
+                "file": "Seafood/Saag Shrimp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,34 +93,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Recipe"
-            }
-          },
-          {
-            "id": "b747f648bd418359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sous Vide Texas-Style Barbecue Brisket"
+              "title": "Saag Shrimp"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:sheet-pan",
+                "query": "tag:#summer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,20 +264,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18be481e683c85b1",
+  "active": "03a201c6460f3fb9",
   "lastOpenFiles": [
-    "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
+    "CLAUDE.md.tmp.80724.612b1b82aeb0",
+    "Recipe List.md",
+    "Pasta/attachments/Roman-Style Spaghetti Alla Carrettiera (Tomato, Tuna, and Mushroom Pasta).jpg",
+    "Seafood/Saag Shrimp.md",
     "All Recipes.base",
+    "Pasta/Creamy Lemon Asparagus Gnocchi.md",
+    "Chicken/Buffalo Chicken Wings.md",
     "Templates/Recipe.md",
+    "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
     "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md.tmp.34576.c94f52043f9f",
     "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg",
-    "Recipe List.md",
-    "Chicken/Buffalo Chicken Wings.md",
     "Chicken/Chicken Wings.md",
     "BBQ/Smoked Chicken Wings.md",
     "Recipe Websites.md",
     "Pasta/Carbonara.md",
-    "Seafood/Saag Shrimp.md",
     "Seafood/Chile-Crisp Shrimp and Green Beans.md",
     "Salads/Charred Corn and Pickled Jalapeño Potato Salad.md",
     "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
@@ -320,7 +300,6 @@
     "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
     "CLAUDE.md.tmp.112372.b9c498144180",
     "Chicken/Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill.md",
-    "Sides/Spicy Stir-Fried Cabbage.md",
     "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
     "Salads/attachments/Pan-Roasted Corn and Tomato Salad.jpg",
     "Soups/attachments/Kale Soup With Potatoes and Sausage.jpg",
@@ -329,7 +308,6 @@
     "Seafood/attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg",
     "Seafood/attachments/Salmon With Sesame and Herbs.jpg",
     "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg",
-    "Seafood/attachments/Provençal Salmon With Fennel, Rosemary and Orange Zest.jpg",
     "BBQ/attachments",
     "Sous Vide/attachments",
     "Pizza/attachments",

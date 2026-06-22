@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beef/Japanese Ground Beef Curry.md",
+                "file": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Japanese Ground Beef Curry"
+              "title": "Sous Vide Texas-Style Barbecue Brisket"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipe List.md",
+            "file": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,9 +163,9 @@
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
     "Recipe List.md",
+    "Beef/Japanese Ground Beef Curry.md",
     "Seafood/Curry Shrimp and Sweet Potato.md",
     "Mexican/Easy Chicken Tacos.md",
-    "Beef/Japanese Ground Beef Curry.md",
     "Beef/Beef Fried Rice.md",
     "Pasta/Skillet Gnocchi With Miso Butter and Asparagus.md",
     "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md",

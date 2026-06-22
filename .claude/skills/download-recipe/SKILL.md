@@ -59,8 +59,8 @@ Map the recipe to a top-level folder using the **folder rubric** documented in t
 `download-nyt-recipe` skill (`.claude/skills/download-nyt-recipe/SKILL.md`, the
 "Folder rubric" section) — it's the single source of truth so the two importers
 file recipes identically. The short version: dish type (Pasta, Noodles, Soups,
-Salads, Pizza, Baking, Desserts, Breakfast…) wins over protein (Beef, Chicken,
-Pork, Seafood); cuisine (Mexican) and method (BBQ, Sous Vide) apply only when
+Salads, Sandwiches, Pizza, Baking, Desserts, Breakfast…) wins over protein (Beef,
+Chicken, Pork, Seafood); cuisine (Mexican) and method (BBQ, Sous Vide) apply only when
 that's the defining trait. Mention any close call so the user can move it.
 
 ### 4. Match the note format to a real neighbor note

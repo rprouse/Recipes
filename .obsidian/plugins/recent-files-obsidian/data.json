@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "All Recipes",
+      "path": "All Recipes.base"
+    },
+    {
       "basename": "Recipe List",
       "path": "Recipe List.md"
     },
     {
-      "basename": "Sous Vide Texas-Style Barbecue Brisket",
-      "path": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md"
+      "basename": "Saag Shrimp",
+      "path": "Seafood/Saag Shrimp.md"
     },
     {
-      "basename": "All Recipes",
-      "path": "All Recipes.base"
+      "basename": "Creamy Lemon Asparagus Gnocchi",
+      "path": "Pasta/Creamy Lemon Asparagus Gnocchi.md"
+    },
+    {
+      "basename": "Buffalo Chicken Wings",
+      "path": "Chicken/Buffalo Chicken Wings.md"
     },
     {
       "basename": "Recipe",
       "path": "Templates/Recipe.md"
     },
     {
-      "basename": "Buffalo Chicken Wings",
-      "path": "Chicken/Buffalo Chicken Wings.md"
+      "basename": "Sous Vide Texas-Style Barbecue Brisket",
+      "path": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md"
     },
     {
       "basename": "Chicken Wings",
@@ -35,10 +43,6 @@
     {
       "basename": "Carbonara",
       "path": "Pasta/Carbonara.md"
-    },
-    {
-      "basename": "Saag Shrimp",
-      "path": "Seafood/Saag Shrimp.md"
     },
     {
       "basename": "Chile-Crisp Shrimp and Green Beans",
@@ -195,10 +199,6 @@
     {
       "basename": "Don't Buy French Fries Anymore",
       "path": "Sides/Don't Buy French Fries Anymore.md"
-    },
-    {
-      "basename": "Stir-Fried Garlic Egg Ramen",
-      "path": "Noodles/Stir-Fried Garlic Egg Ramen.md"
     }
   ],
   "omittedPaths": [],

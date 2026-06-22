@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥪",
       "🌎",
       "🗒",
       "🧑‍🍳",
-      "♻",
-      "🤖"
+      "♻"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -76,5 +76,6 @@
   "Make Again.base": "♻",
   "All Recipes.base": "🧑‍🍳",
   "Recipe List.md": "🗒",
-  "Recipe Websites.md": "🌎"
+  "Recipe Websites.md": "🌎",
+  "Sandwiches": "🥪"
 }

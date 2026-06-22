@@ -153,25 +153,27 @@ Note path, image path, folder chosen (and why if close), any judgment calls.
 
 Existing folders: **Baking, BBQ, Beef, Chicken, Mexican, Noodles, Pasta, Pizza,
 Sides, Sous Vide, Vegetarian**. Folders added during the bulk import: **Breakfast,
-Seafood, Pork, Soups, Salads, Desserts, Snacks, Drinks**. Use `Incoming` only as a
-true last resort. Apply in priority order:
+Seafood, Pork, Soups, Salads, Desserts, Snacks, Drinks**. Added since: **Sandwiches**.
+Use `Incoming` only as a true last resort. Apply in priority order:
 
 1. PASTA dish (spaghetti, fettuccine, gnocchi, macaroni, orzo, lasagna) → Pasta.
    ASIAN NOODLE dish (ramen, soba, udon, lo mein, rice noodles, pho) → Noodles.
 2. SOUP or STEW (brothy, soup, stew, chili, chowder) → Soups.
 3. SALAD → Salads.
-4. PIZZA → Pizza. MEXICAN (tacos, enchiladas, quesadillas, mole) → Mexican.
-5. BREAKFAST (waffles, pancakes, eggs, granola, oatmeal, breakfast bars) → Breakfast.
-6. Bread/cracker/cornbread/biscuit/muffin → Baking. Sweet dessert → Desserts.
+4. SANDWICH (sub, hoagie, banh mi, panini, melt, wrap, burger, BLT) → Sandwiches.
+5. PIZZA → Pizza. MEXICAN (tacos, enchiladas, quesadillas, mole) → Mexican.
+6. BREAKFAST (waffles, pancakes, eggs, granola, oatmeal, breakfast bars) → Breakfast.
+7. Bread/cracker/cornbread/biscuit/muffin → Baking. Sweet dessert → Desserts.
    Snack bar (energy/granola bars not for breakfast) → Snacks. Beverage → Drinks.
-7. Protein-forward main by primary protein: Beef, Chicken (incl. turkey/poultry),
+8. Protein-forward main by primary protein: Beef, Chicken (incl. turkey/poultry),
    Pork (bacon, sausage, ham), Seafood (fish, shrimp, salmon, scallops).
-8. Meatless main with no better home → Vegetarian. Condiment/ferment/dressing/
+9. Meatless main with no better home → Vegetarian. Condiment/ferment/dressing/
    slaw/pickle/sauce/spice-paste → Sides.
-9. BBQ or Sous Vide ONLY if explicitly that method.
+10. BBQ or Sous Vide ONLY if explicitly that method.
 
-When a dish is both a pasta/noodle/soup/salad AND has a protein (e.g. "Shrimp Piccata
-Spaghetti", "Spicy Pork Noodle Soup"), DISH TYPE wins over protein.
+When a dish is both a pasta/noodle/soup/salad/sandwich AND has a protein (e.g. "Shrimp
+Piccata Spaghetti", "Spicy Pork Noodle Soup", "Steak Banh Mi"), DISH TYPE wins over
+protein.
 
 ## Bulk import (whole recipe box)
 
