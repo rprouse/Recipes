@@ -10,7 +10,7 @@
 - [x] [[Sous Vide Texas-Style Barbecue Brisket]]
 - [x] [[Creamy Lemon Asparagus Gnocchi]]
 - [x] [[Saag Shrimp]]
-- [ ] Kebabs
+- [x] Kebabs
 - [ ] [[Easy Chicken Tacos]]
 - [ ] Shepherds Pie
 ## On Deck

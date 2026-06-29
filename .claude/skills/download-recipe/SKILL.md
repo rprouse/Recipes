@@ -44,14 +44,33 @@ defuddle parse "<recipe url>" --md
 If the command fails with **exit code 127** (`defuddle: command not found`), install
 it once, then retry: `npm install -g defuddle`. (The binary is `defuddle`.)
 
-Read the output and pull out: recipe **name**, **author/source**, **yield/servings**,
-**times** (prep/cook/total), the **overview/intro**, **ingredients**, **steps**, any
-**tips/notes**, and the **lead image URL** (usually the first content image).
+**Some sites block Defuddle** (it returns empty or garbled output) or render the
+recipe only in JavaScript. The reliable fallback is the `<script
+type="application/ld+json">` `Recipe` block in the raw HTML — most recipe sites
+ship one for SEO, exactly like NYT. A bundled script parses it:
 
-If Defuddle returns little or garbled content (some sites block it or render the
-recipe only in JavaScript), fall back to fetching the raw HTML and reading its
-`<script type="application/ld+json">` `Recipe` block — most recipe sites ship one,
-just like NYT. As a last resort, use `WebFetch` on the URL.
+```bash
+curl -sSL -A "Mozilla/5.0" "<recipe url>" -o page.html
+python .claude/skills/download-recipe/scripts/parse_jsonld.py page.html out.json
+```
+
+It writes `out.json` with name, author, yield, prep/cook/total (as human text),
+desc, ingredients[], steps[], image, and keywords — HTML entities decoded and
+instruction sections flattened. (Run with `python`, not `python3` — see the note in
+`download-nyt-recipe`. The `é`/fraction characters render as `�` in the Windows
+console but the JSON bytes are correct; trust the file, not the `print`.)
+
+**Known Defuddle-blockers — skip Defuddle and go straight to `parse_jsonld.py`:**
+**Serious Eats** and the rest of the Dotdash Meredith family (**Simply Recipes**,
+**AllRecipes**, **Food & Wine**). If `parse_jsonld.py` exits with "No …Recipe
+JSON-LD found," the fetch was probably truncated — just retry the curl. As a last
+resort, use `WebFetch` on the URL.
+
+Whichever path you use, pull out: recipe **name**, **author/source**,
+**yield/servings**, **times**, **overview/intro**, **ingredients**, **steps**, any
+**tips/notes**, and the **lead image URL**. Decode any stray HTML entities
+(`&#39;` → `'`, `&amp;` → `&`) — Defuddle markdown usually arrives clean, but raw
+JSON-LD does not (the bundled script handles this for you).
 
 ### 3. Pick the destination folder
 
@@ -139,14 +158,21 @@ Conventions that matter:
   characters (`\ / : * ? " < > |`). If a *different* recipe already owns that filename,
   disambiguate by appending the author: `<Name> - <Author>.md`.
 
-### 7. Preserve LF and report back
+### 7. Verify LF and report back
 
-This vault pins LF line endings (`core.autocrlf false`). Confirm the new note has no
-carriage returns before finishing:
+This vault pins LF line endings (`core.autocrlf false`). The Write tool preserves the
+`\n` you give it on this machine (it does **not** inject CRLF), so a note written
+through Write is already LF — but verify, since some editors/scripts can introduce
+CRs. **Use a Python byte-count, not grep:**
 
 ```bash
-grep -c $'\r' "<Folder>/<Recipe Name>.md"   # expect 0
+python -c "import sys; print(open(sys.argv[1],'rb').read().count(b'\r'))" "<Folder>/<Recipe Name>.md"   # expect 0
 ```
+
+Do **not** use `grep -c $'\r'` — on these UTF-8 notes (emoji, fractions, accents) it
+false-positives and returns the line count even when the file is pure LF. If the
+byte-count is nonzero, strip the CRs:
+`python -c "import sys; p=sys.argv[1]; open(p,'wb').write(open(p,'rb').read().replace(b'\r\n',b'\n'))" "<path>"`
 
 Then report the note path, the image path, the folder chosen (and why, if it was a
 close call), and any judgment calls — e.g. how you condensed the `time`, what you put
