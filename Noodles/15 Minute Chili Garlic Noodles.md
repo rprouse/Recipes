@@ -8,7 +8,10 @@ title: These 15 Minute Chili Garlic Noodles Will Change Your LIFE!
 link: https://www.youtube.com/watch?v=qR9W6NH1ukI
 channel: Aaron and Claire - @AaronandClaire
 date: 2022-09-02T07:00:20-07:00
+image: "[[attachments/15 Minute Chili Garlic Noodles.jpg]]"
 ---
+![[attachments/15 Minute Chili Garlic Noodles.jpg]]
+
 A quick and delightful dish that bursts with flavor in under 15 minutes. Perfect for any night!
 ## Ingredients
 - Green onions

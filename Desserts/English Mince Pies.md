@@ -6,7 +6,9 @@ servings: 24 pies
 time: 
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1593-english-mince-pies
+image: "[[attachments/English Mince Pies.jpg]]"
 ---
+![[attachments/English Mince Pies.jpg]]
 
 # English Mince Pies
 

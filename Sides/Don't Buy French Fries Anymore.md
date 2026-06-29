@@ -6,7 +6,10 @@ title: Don't Buy French Fries Anymore!!! NEW Japanese Hack Taking Is Over the Wo
 link: https://www.youtube.com/watch?v=ybdPveqWOQU
 channel: Webspoon World - @WebspoonWorld
 date: 2025-03-09T08:01:10-07:00
+image: "[[attachments/Don't Buy French Fries Anymore.jpg]]"
 ---
+![[attachments/Don't Buy French Fries Anymore.jpg]]
+
 Discover five amazing ways to transform potatoes into delicious alternatives to traditional fries that will change your snacking game!
 ## Marinated Potato Sticks
 ### Ingredients

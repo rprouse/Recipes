@@ -5,10 +5,12 @@ tags:
   - curry
   - shrimp
   - spinach
+  - make-again
+  - cooked
 title: Saag Shrimp
 author: Yewande Komolafe
 servings: 4 servings
-time:
+time: 45 minutes
 date: 2026-06-11 Thursday
 link: https://cooking.nytimes.com/recipes/1024405-saag-shrimp
 image: attachments/Saag Shrimp.jpg

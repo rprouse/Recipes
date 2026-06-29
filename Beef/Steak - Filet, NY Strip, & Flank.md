@@ -4,7 +4,10 @@ title: Steak Filet, NY Strip, & Flank | Basics with Babish
 link: https://www.youtube.com/watch?v=e7XnRzXj6zw
 channel: Babish Culinary Universe - @babishculinaryuniverse
 date: 2023-09-22T08:15:02-07:00
+image: "[[attachments/Steak - Filet, NY Strip, & Flank.jpg]]"
 ---
+![[attachments/Steak - Filet, NY Strip, & Flank.jpg]]
+
 This episode features techniques for cooking three different cuts of steak: filet, NY strip, and flank, along with delicious sauces and dressings.
 ## Pan-Seared Filet with Red Wine Sauce
 ### Ingredients

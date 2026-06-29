@@ -7,7 +7,10 @@ title: Crumpets, you'll never buy another crumpet from the store.
 link: https://www.youtube.com/watch?v=ganHDnSz3yw
 channel: John Kirkwood - @JohnKirkwoodProFoodHomemade
 date: 2023-03-19T11:57:29-07:00
+image: "[[attachments/Crumpets.jpg]]"
 ---
+![[attachments/Crumpets.jpg]]
+
 These homemade crumpets are easy to make and come out deliciously fluffy. Perfect for breakfast or a snack!
 ### Ingredients
 - 1 teaspoon sugar

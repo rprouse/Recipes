@@ -7,7 +7,10 @@ title: Have peanut butter?  Try these Noodles!
 link: https://www.youtube.com/watch?v=1uOLXNgZYqg
 channel: Yeung Man Cooking - @YEUNGMANCOOKING
 date: 2023-10-01T09:00:02-07:00
+image: "[[attachments/Peanut Butter and Chili Udon Noodles.jpg]]"
 ---
+![[attachments/Peanut Butter and Chili Udon Noodles.jpg]]
+
 A simple and delicious recipe that combines rich peanut butter with smoky chili oil for a satisfying noodle dish.
 ### Ingredients
 - 250 grams frozen udon noodles

@@ -4,7 +4,9 @@ title: 5 Restaurant Quality Pasta Sauces in 15 Minutes
 link: https://www.youtube.com/watch?v=U4NZllj854o
 channel: Brian Lagerstrom  - @BrianLagerstrom
 date: 2025-04-17T09:00:43-07:00
+image: "[[attachments/5 Restaurant Quality Pasta Sauces in 15 Minutes.jpg]]"
 ---
+![[attachments/5 Restaurant Quality Pasta Sauces in 15 Minutes.jpg]]
 
 # 5 Restaurant Quality Pasta Sauces in 15 Minutes
 Get ready to elevate your pasta dishes with five delicious and restaurant-quality sauces that can be made in just 15 minutes. 

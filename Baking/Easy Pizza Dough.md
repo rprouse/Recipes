@@ -6,7 +6,10 @@ servings: "4"
 time: 20 minutes
 date: 2025-04-15 Tuesday
 link: https://cooking.nytimes.com/recipes/1017931-easy-pizza-dough
+image: "[[attachments/Easy Pizza Dough.jpg]]"
 ---
+![[attachments/Easy Pizza Dough.jpg]]
+
 This pizza dough is very easy to put together, and it's enough for four 10-inch-diameter pizzas. To make it even easier to roll out, prepare it ahead, and refrigerate it overnight. Refrigerated dough will keep several days. It may also be successfully frozen and thawed. Keeping preweighed individual frozen dough balls on hand makes it easy to have pizza whenever you like. (Thaw dough overnight in the refrigerator or leave at room temperature for several hours.)
 ## 🍕 Easy Pizza Dough
 ### 🛒 Ingredients

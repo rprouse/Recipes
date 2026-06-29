@@ -6,7 +6,10 @@ title: 4 Ingredients! No need to knead the bread! Anyone can make this homemade 
 link: https://www.youtube.com/watch?v=Nov2Mm0-x5w
 channel: Fast Easy Delicious - @FastEasyDelicious1
 date: 2024-07-29T06:00:31-07:00
+image: "[[attachments/No knead bread.jpg]]"
 ---
+![[attachments/No knead bread.jpg]]
+
 This homemade bread is simple to make with just four ingredients, resulting in a crispy exterior and a soft, porous interior.
 ### Ingredients
 - 370ml (1.5 cups) warm water

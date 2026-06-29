@@ -6,7 +6,10 @@ title: FISH TACOS | The Taco Series Pt 3
 link: https://www.youtube.com/watch?v=yNb6UCOabtY
 channel: Brian Lagerstrom  - @BrianLagerstrom
 date: 2020-06-19T07:00:25-07:00
+image: "[[attachments/Fish Tacos.jpg]]"
 ---
+![[attachments/Fish Tacos.jpg]]
+
 Fresh and delicious fish tacos that bring a taste of summer. Perfect for a quick weeknight meal or a weekend treat!
 ## Ingredients
 - 2 pounds fish (e.g., cod, salmon, snapper, mackerel, or shrimp)

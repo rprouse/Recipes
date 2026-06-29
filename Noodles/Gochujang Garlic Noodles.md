@@ -4,7 +4,10 @@ title: 15 Minute Gochujang Garlic Noodles That Will Change Your LIFE!
 link: https://www.youtube.com/watch?v=wkm1zHEj0uU
 channel: Aaron and Claire - @AaronandClaire
 date: 2023-04-07T07:00:40-07:00
+image: "[[attachments/Gochujang Garlic Noodles.jpg]]"
 ---
+![[attachments/Gochujang Garlic Noodles.jpg]]
+
 This quick and flavorful recipe features gochujang and garlic noodles adorned with fresh vegetables that come together in just 15 minutes.
 ## Ingredients
 - 250 g ground beef

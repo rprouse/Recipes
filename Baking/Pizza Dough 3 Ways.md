@@ -6,7 +6,10 @@ title: Pizza Dough | Basics with Babish
 link: https://www.youtube.com/watch?v=n1O3uHPCOLA
 channel: Babish Culinary Universe - @babishculinaryuniverse
 date: 2020-10-08T06:00:10-07:00
+image: "[[attachments/Pizza Dough 3 Ways.jpg]]"
 ---
+![[attachments/Pizza Dough 3 Ways.jpg]]
+
 This recipe showcases three distinct styles of pizza dough: Neapolitan, Deep Dish, and New York style, each with unique ingredients and methods.
 ## Neapolitan Pizza Dough
 

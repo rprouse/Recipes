@@ -6,7 +6,9 @@ title: The only White Sauce Pasta Recipe you'll ever need!
 link: https://www.youtube.com/watch?v=yWLp2cFtJhw
 channel: Yeung Man Cooking -
 date: 2026-03-29T16:00:59.000Z
+image: "[[attachments/The only White Sauce Pasta Recipe you'll ever need!.jpg]]"
 ---
+![[attachments/The only White Sauce Pasta Recipe you'll ever need!.jpg]]
 
 # The only White Sauce Pasta Recipe you'll ever need!
 An extraordinary pasta in creamy white sauce that is simple to make and delicious to eat.

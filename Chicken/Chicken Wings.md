@@ -8,7 +8,10 @@ title: How to Make the Best Wings at Home | Basics with Babish
 link: https://www.youtube.com/watch?v=mXtKxjyfRFU
 channel: Babish Culinary Universe - @babishculinaryuniverse
 date: 2023-06-30T06:00:40-07:00
+image: "[[attachments/Chicken Wings.jpg]]"
 ---
+![[attachments/Chicken Wings.jpg]]
+
 Learn how to make delicious chicken wings at home using various cooking methods and flavorful sauces.
 # Chicken Wings
 

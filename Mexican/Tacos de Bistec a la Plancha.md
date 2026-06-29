@@ -7,7 +7,10 @@ title: Easy Street Tacos Recipe - Taqueria Style Tacos de Bistec a la Plancha (S
 link: https://www.youtube.com/watch?v=JKy9TNh1xB4
 channel: ArnieTex - @ArnieTex
 date: 2023-06-14T10:11:04-07:00
+image: "[[attachments/Tacos de Bistec a la Plancha.jpg]]"
 ---
+![[attachments/Tacos de Bistec a la Plancha.jpg]]
+
 This recipe showcases how to make authentic Taqueria-style street tacos with flavorful bistec, topped with fresh ingredients and served with salsas.
 
 ### Ingredients

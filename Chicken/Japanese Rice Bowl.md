@@ -7,7 +7,10 @@ title: Low Calorie High Protein Japanese Rice Bowl Recipe
 link: https://www.youtube.com/watch?v=seM3nUQjZnI
 channel: CHEF'S LABO | Cook at home like a PRO - @CHEFSLABO
 date: 2024-11-30T01:30:22-08:00
+image: "[[attachments/Japanese Rice Bowl.jpg]]"
 ---
+![[attachments/Japanese Rice Bowl.jpg]]
+
 This nutritious and flavorful Japanese rice bowl is packed with protein and fiber, making it a great low-calorie meal option. It features a savory blend of chicken, cabbage, and rice, topped with an egg.
 
 # Ingredients

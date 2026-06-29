@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
+                "file": "Recipe List.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sous Vide Texas-Style Barbecue Brisket"
+              "title": "Recipe List"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
+            "file": "Recipe List.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +162,31 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
+    "Seafood/Saag Shrimp.md",
     "Recipe List.md",
+    "Pasta/Creamy Lemon Asparagus Gnocchi.md",
+    "Vegetarian/attachments/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.jpg",
+    "Vegetarian/attachments/Rice & Beans are elite, especially in times of need.jpg",
+    "Sous Vide/attachments/Sous Vide Basics with Babish.jpg",
+    "Sides/attachments/Very Good Chili Crisp Recipe.jpg",
+    "Snacks/attachments/Baked Jalapeño Popper Dip.jpg",
+    "Sides/attachments/How to Make Chile Crunch.jpg",
+    "Sides/attachments/Don't Buy French Fries Anymore.jpg",
+    "Sides/attachments/Cucumber Raita (Indian Yogurt Condiment).jpg",
+    "Pizza/attachments/10 Pizza Rules That Separate Amateurs from Pros.jpg",
+    "Pasta/attachments/The only White Sauce Pasta Recipe you'll ever need!.jpg",
+    "Snacks/Baked Jalapeño Popper Dip.md",
+    "Sides/Cucumber Raita (Indian Yogurt Condiment).md",
+    "Sandwiches/Grilled Steak Banh Mi-Style Sandwich.md",
+    "Pasta/Roman-Style Spaghetti Alla Carrettiera (Tomato, Tuna, and Mushroom Pasta).md",
+    "Snacks/Whipped Feta Dip With Brown Butter, Dates, and Pine Nuts.md",
+    "Pasta/Cacio e Pepe (Spaghetti With Black Pepper and Pecorino Romano).md",
+    "Mexican/Beer-Marinated Chicken Tacos.md",
+    "Desserts/5-Minute Chocolate Raspberry Mug Cake for Two.md",
+    "Beef/Cuban Picadillo.md",
+    "Sandwiches/attachments",
+    "Sandwiches",
+    "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
     "Beef/Japanese Ground Beef Curry.md",
     "Seafood/Curry Shrimp and Sweet Potato.md",
     "Mexican/Easy Chicken Tacos.md",
@@ -177,12 +201,6 @@
     "Soups/Winter Squash and Rice Soup with Pancetta.md",
     "Chicken/Oven-Roasted Chicken Shawarma.md",
     "Pasta/One-Pan Orzo With Spinach and Feta.md",
-    "Chicken/Paprika Chicken and Potatoes.md",
-    "Readme.md",
-    "Noodles/Tomato Juice Macaroni and Cheese.md",
-    "Baking/Everyday Sourdough.md",
-    "Baking/Easy Pizza Dough.md",
-    "Chicken/Chicken Wings.md",
-    "Baking/Roberta's Pizza Dough.md"
+    "Chicken/Paprika Chicken and Potatoes.md"
   ]
 }

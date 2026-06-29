@@ -6,7 +6,10 @@ servings: 2 12-inch pizzas
 time: 30 minutes, plus at least 3 hours' rising
 date: 2025-04-15 Tuesday
 link: https://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough
+image: "[[attachments/Roberta's Pizza Dough.jpg]]"
 ---
+![[attachments/Roberta's Pizza Dough.jpg]]
+
 This recipe, adapted from Roberta’s, the pizza and hipster haute-cuisine utopia in Bushwick, Brooklyn, provides a delicate, extraordinarily flavorful dough that will last in the refrigerator for up to a week. It rewards close attention to weight rather than volume in the matter of the ingredients, and asks for a mixture of finely ground Italian pizza flour (designated “00” on the bags and available in some supermarkets, many specialty groceries and always online) and regular all-purpose flour. As ever with breads, rise time will depend on the temperature and humidity of your kitchen and refrigerator.
 ### 🛒 Ingredients
 - 153 grams 00 flour (1 cup plus 1 tablespoon)

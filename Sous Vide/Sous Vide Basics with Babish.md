@@ -4,7 +4,10 @@ title: Sous Vide | Basics with Babish
 link: https://www.youtube.com/watch?v=NCHOyqMUj4o
 channel: Babish Culinary Universe - @babishculinaryuniverse
 date: 2018-08-09T09:08:07-07:00
+image: "[[attachments/Sous Vide Basics with Babish.jpg]]"
 ---
+![[attachments/Sous Vide Basics with Babish.jpg]]
+
 This recipe guide covers three delicious sous vide dishes: perfectly cooked pork belly, edible cookie dough, and a beautifully seared steak.
 
 ## Pork Belly

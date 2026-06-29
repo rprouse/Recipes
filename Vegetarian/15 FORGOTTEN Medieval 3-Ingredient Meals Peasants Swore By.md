@@ -4,7 +4,9 @@ title: 15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By
 link: https://www.youtube.com/watch?v=Db9hXstAric
 channel: Medieval Way - 
 date: 2026-04-10T15:00:33.000Z
+image: "[[attachments/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.jpg]]"
 ---
+![[attachments/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.jpg]]
 
 # 15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By
 Discover the simplicity and nutrition of medieval peasant meals that only require three ingredients each.

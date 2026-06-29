@@ -6,7 +6,10 @@ title: Dutch Oven Bread, An amazing crispy bread recipe.
 link: https://www.youtube.com/watch?v=XBRroV1Anjk
 channel: John Kirkwood - @JohnKirkwoodProFoodHomemade
 date: 2024-05-12T05:27:02-07:00
+image: "[[attachments/Dutch Oven Bread.jpg]]"
 ---
+![[attachments/Dutch Oven Bread.jpg]]
+
 A simple and delicious Dutch oven bread recipe that results in a crispy crust and soft, light crumb.
 ## Ingredients
 - Warm water

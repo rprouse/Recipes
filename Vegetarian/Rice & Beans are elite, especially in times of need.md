@@ -4,7 +4,9 @@ title: Rice & Beans are elite, especially in times of need
 link: https://www.youtube.com/watch?v=VyEJTODAd2M
 channel: Simply Mamá Cooks - 
 date: 2025-08-12T23:48:07.000Z
+image: "[[attachments/Rice & Beans are elite, especially in times of need.jpg]]"
 ---
+![[attachments/Rice & Beans are elite, especially in times of need.jpg]]
 
 # Rice & Beans are elite, especially in times of need
 A comforting dish of rice and beans, perfect for budget-friendly meals or as a hearty side.

@@ -8,7 +8,10 @@ title: HOMEMADE CUP NOODLES » 3 Easy & Healthy Recipes for Homemade Ramen Meal 
 link: https://www.youtube.com/watch?v=DOvP16A_bAA
 channel: Toasty Apron - @toastyapron
 date: 2025-02-08T08:00:13-08:00
+image: "[[attachments/Homemade Ramen Cup Noodles.jpg]]"
 ---
+![[attachments/Homemade Ramen Cup Noodles.jpg]]
+
 Learn how to make three delicious and healthy homemade cup noodle recipes that are perfect for meal prep!
 
 ## Classic Chicken and Veggie Vermicelli Cup

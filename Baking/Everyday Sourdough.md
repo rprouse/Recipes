@@ -6,7 +6,10 @@ servings:
 time:
 date: 2025-11-26 Wednesday
 source: "Artisan Sourdough Made Simple: A Beginner's Guide & Beyond to Delicious Handcrafted Bread with Minimal Kneading"
+image: "[[attachments/Everyday Sourdough.jpg]]"
 ---
+![[attachments/Everyday Sourdough.jpg]]
+
 Every baker needs an all purpose, go to loaf in their repertoire. And if you’re new to sourdough, this is the perfect place to start. Simply make the dough, let it rise, overnight, and bake in the morning. It requires very little effort with big reward. The crust is golden and crunchy, and the velvety crumb is perfect for sandwiches and toast. Try a few thick, cut slices with creamy, avocado and tomato or the most delicious grilled cheese sandwich you will ever sink your teeth into. This is my family’s favourite loaf.
 
 About the dough: because the dough rises while you’re asleep, you won’t be tempted to rush the process or check on it every five seconds to see if it’s ready. Have a look at the bakers schedule, then make adjustments to suit your own schedule. The overnight method can be applied to most of the recipes in this book.

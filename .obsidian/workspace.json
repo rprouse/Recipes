@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "b55eed21846615e8",
+            "id": "e5b71e2804e6b9e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta/Creamy Lemon Asparagus Gnocchi.md",
+                "file": "Mexican/Easy Chicken Tacos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,35 +69,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Creamy Lemon Asparagus Gnocchi"
-            }
-          },
-          {
-            "id": "dfbcbed0c491ed4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seafood/Saag Shrimp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Saag Shrimp"
+              "title": "Easy Chicken Tacos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 326.5
   },
   "right": {
     "id": "1fdd5cdc487ee9cc",
@@ -264,13 +239,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03a201c6460f3fb9",
+  "active": "18be481e683c85b1",
   "lastOpenFiles": [
-    "CLAUDE.md.tmp.80724.612b1b82aeb0",
+    "Mexican/Easy Chicken Tacos.md",
+    "All Recipes.base",
+    "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
+    "Noodles/Vegetable Yakisoba.md",
     "Recipe List.md",
+    "Chicken/Spiced Chicken and Rice With Cardamom and Cinnamon.md",
+    "Chicken/Spicy Marmalade Chicken and Sweet Potatoes.md",
+    "Snacks/Homemade Protein Bars.md",
+    "CLAUDE.md.tmp.80724.612b1b82aeb0",
     "Pasta/attachments/Roman-Style Spaghetti Alla Carrettiera (Tomato, Tuna, and Mushroom Pasta).jpg",
     "Seafood/Saag Shrimp.md",
-    "All Recipes.base",
     "Pasta/Creamy Lemon Asparagus Gnocchi.md",
     "Chicken/Buffalo Chicken Wings.md",
     "Templates/Recipe.md",
@@ -283,23 +264,17 @@
     "Pasta/Carbonara.md",
     "Seafood/Chile-Crisp Shrimp and Green Beans.md",
     "Salads/Charred Corn and Pickled Jalapeño Potato Salad.md",
-    "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
     "Beef/Japanese Ground Beef Curry.md",
     "Seafood/Curry Shrimp and Sweet Potato.md",
     "Make Again.base",
-    "Mexican/Easy Chicken Tacos.md",
     "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md",
     "Noodles/15 Minute Chili Garlic Noodles.md",
     "Sides/5-Minute Hummus.md",
     "Pizza/10 Pizza Rules That Separate Amateurs from Pros.md",
     "Readme.md",
     "Make Again.base.tmp.112372.5abb0fc26570",
-    "CLAUDE.md",
     "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md.tmp.112372.0a7a70a32dd7",
-    "Sides/Very Good Chili Crisp Recipe.md",
-    "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md",
     "CLAUDE.md.tmp.112372.b9c498144180",
-    "Chicken/Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill.md",
     "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
     "Salads/attachments/Pan-Roasted Corn and Tomato Salad.jpg",
     "Soups/attachments/Kale Soup With Potatoes and Sausage.jpg",
@@ -310,7 +285,6 @@
     "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg",
     "BBQ/attachments",
     "Sous Vide/attachments",
-    "Pizza/attachments",
-    "Desserts/attachments"
+    "Pizza/attachments"
   ]
 }

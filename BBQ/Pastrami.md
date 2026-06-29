@@ -9,7 +9,9 @@ title: How to Make Pastrami | Cure & Smoke
 link: https://www.youtube.com/watch?v=G3z1kcZfkEE
 channel: allthingsbbq - @allthingsbbq
 date: 2017-10-24T08:13:18-07:00
+image: "[[attachments/Pastrami.jpg]]"
 ---
+![[attachments/Pastrami.jpg]]
 
 # Pastrami:  Cure & Smoke
 In this recipe, you'll learn how to make pastrami from scratch, including curing a brisket and smoking it to perfection.

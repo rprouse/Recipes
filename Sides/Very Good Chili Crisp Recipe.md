@@ -4,7 +4,9 @@ title: Very Good Chili Crisp Recipe
 link: https://www.youtube.com/watch?v=-wgZ7s3YxWI
 channel: Brian Lagerstrom
 date: 2024-11-26T16:35:41.000Z
+image: "[[attachments/Very Good Chili Crisp Recipe.jpg]]"
 ---
+![[attachments/Very Good Chili Crisp Recipe.jpg]]
 
 # Very Good Chili Crisp Recipe
 This homemade chili crisp is packed with flavor, featuring crispy garlic and shallots infused in a rich, spicy oil. It's perfect as a condiment for a variety of dishes.

@@ -4,7 +4,10 @@ title: French Baguettes | Richard Bertinet | Gozney Dome
 link: https://www.youtube.com/watch?v=8clAqfrk-pk
 channel: Gozney - @gozney
 date: 2023-03-10T08:00:04-08:00
+image: "[[attachments/French Baguettes.jpg]]"
 ---
+![[attachments/French Baguettes.jpg]]
+
 A delightful recipe for making authentic French baguettes with a crunchy exterior and soft inside, perfect for any meal or snack.
 
 ## French Baguettes

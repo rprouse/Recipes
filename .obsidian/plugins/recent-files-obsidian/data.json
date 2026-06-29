@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Recipe List",
+      "path": "Recipe List.md"
+    },
+    {
+      "basename": "Easy Chicken Tacos",
+      "path": "Mexican/Easy Chicken Tacos.md"
+    },
+    {
       "basename": "All Recipes",
       "path": "All Recipes.base"
     },
     {
-      "basename": "Recipe List",
-      "path": "Recipe List.md"
+      "basename": "Linguine With Zucchini, Corn and Shrimp",
+      "path": "Pasta/Linguine With Zucchini, Corn and Shrimp.md"
+    },
+    {
+      "basename": "Vegetable Yakisoba",
+      "path": "Noodles/Vegetable Yakisoba.md"
+    },
+    {
+      "basename": "Spiced Chicken and Rice With Cardamom and Cinnamon",
+      "path": "Chicken/Spiced Chicken and Rice With Cardamom and Cinnamon.md"
+    },
+    {
+      "basename": "Spicy Marmalade Chicken and Sweet Potatoes",
+      "path": "Chicken/Spicy Marmalade Chicken and Sweet Potatoes.md"
+    },
+    {
+      "basename": "Homemade Protein Bars",
+      "path": "Snacks/Homemade Protein Bars.md"
     },
     {
       "basename": "Saag Shrimp",
@@ -53,10 +77,6 @@
       "path": "Salads/Charred Corn and Pickled Jalapeño Potato Salad.md"
     },
     {
-      "basename": "Linguine With Zucchini, Corn and Shrimp",
-      "path": "Pasta/Linguine With Zucchini, Corn and Shrimp.md"
-    },
-    {
       "basename": "Japanese Ground Beef Curry",
       "path": "Beef/Japanese Ground Beef Curry.md"
     },
@@ -67,10 +87,6 @@
     {
       "basename": "Make Again",
       "path": "Make Again.base"
-    },
-    {
-      "basename": "Easy Chicken Tacos",
-      "path": "Mexican/Easy Chicken Tacos.md"
     },
     {
       "basename": "Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)",
@@ -183,22 +199,6 @@
     {
       "basename": "The 5 minute baguette",
       "path": "Baking/The 5 minute baguette.md"
-    },
-    {
-      "basename": "No knead bread",
-      "path": "Baking/No knead bread.md"
-    },
-    {
-      "basename": "Sous Vide Basics with Babish",
-      "path": "Sous Vide/Sous Vide Basics with Babish.md"
-    },
-    {
-      "basename": "How to Make Chile Crunch",
-      "path": "Sides/How to Make Chile Crunch.md"
-    },
-    {
-      "basename": "Don't Buy French Fries Anymore",
-      "path": "Sides/Don't Buy French Fries Anymore.md"
     }
   ],
   "omittedPaths": [],

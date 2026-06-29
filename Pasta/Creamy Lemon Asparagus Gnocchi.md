@@ -1,5 +1,14 @@
 ---
-tags: [pasta, vegetarian, easy, quick, weeknight, one-pan, spring]
+tags:
+  - pasta
+  - vegetarian
+  - easy
+  - quick
+  - weeknight
+  - one-pan
+  - spring
+  - cooked
+  - make-again
 title: Creamy Lemon Asparagus Gnocchi
 author: Kayla Hoang
 servings: 4 servings

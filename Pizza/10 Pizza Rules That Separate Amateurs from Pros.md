@@ -4,7 +4,9 @@ title: 10 Pizza Rules That Separate Amateurs from Pros
 link: https://www.youtube.com/watch?v=RCl1dU5TzXs
 channel: LifebyMikeG
 date: 2025-10-23T14:57:26.000Z
+image: "[[attachments/10 Pizza Rules That Separate Amateurs from Pros.jpg]]"
 ---
+![[attachments/10 Pizza Rules That Separate Amateurs from Pros.jpg]]
 
 # 10 Pizza Rules That Separate Amateurs from Pros
 This recipe focuses on creating a perfect Neapolitan pizza by emphasizing important rules for dough, sauce, and cooking techniques.

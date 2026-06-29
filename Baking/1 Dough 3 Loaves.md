@@ -6,7 +6,9 @@ title: 1 Dough 3 Loaves 2.0 (I Made My Best Bread Recipe Even Easier)
 link: https://www.youtube.com/watch?v=HdoP33KPYtY
 channel: Brian Lagerstrom  - @BrianLagerstrom
 date: 2023-07-13T09:00:10-07:00
+image: "[[attachments/1 Dough 3 Loaves.jpg]]"
 ---
+![[attachments/1 Dough 3 Loaves.jpg]]
 
 This recipe showcases an updated version of a simple bread dough that can be shaped into three different loaves, making it easier for all levels of bakers.
 

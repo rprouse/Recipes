@@ -4,7 +4,9 @@ title: How to Make Chile Crunch
 link: https://www.youtube.com/watch?v=9rIqGzG3x9s
 channel: allthingsbbq - @allthingsbbq
 date: 2023-05-26T13:00:02-07:00
+image: "[[attachments/How to Make Chile Crunch.jpg]]"
 ---
+![[attachments/How to Make Chile Crunch.jpg]]
 
 # How to Make Chile Crunch
 A flavorful and versatile condiment that enhances any dish, made from a blend of fresh and dried ingredients.

@@ -6,7 +6,9 @@ title: Fried Killer Spaghetti the Italian Recipe That Breaks all Pasta Rules
 link: https://www.youtube.com/watch?v=gv3lvKy_WD4
 channel: Claudia Romeo - @claudia-romeo
 date: 2023-07-14T10:49:24-07:00
+image: "[[attachments/Fried Killer Spaghetti.jpg]]"
 ---
+![[attachments/Fried Killer Spaghetti.jpg]]
 
 This recipe for Fried Killer Spaghetti, or Spaghetti all’Assassina, introduces a unique method of cooking pasta that challenges traditional Italian cooking rules. This dish, famously prepared in Bari, Italy, combines burnt pasta with chili and tomato sauce to create a distinctly flavorful experience.
 

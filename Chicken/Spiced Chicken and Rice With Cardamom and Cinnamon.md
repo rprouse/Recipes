@@ -1,12 +1,16 @@
 ---
-tags: [chicken, easy, one-pot, quick]
+tags:
+  - chicken
+  - easy
+  - one-pot
+  - quick
 title: Spiced Chicken and Rice With Cardamom and Cinnamon
 author: Kay Chun
 servings: 4 servings
-time: 
+time:
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025462-spiced-chicken-and-rice-with-cardamom-and-cinnamon
-image: "[[attachments/Spiced Chicken and Rice With Cardamom and Cinnamon.jpg]]"
+image: "[[Spiced Chicken and Rice With Cardamom and Cinnamon.jpg]]"
 ---
 
 ![[attachments/Spiced Chicken and Rice With Cardamom and Cinnamon.jpg]]

@@ -7,7 +7,10 @@ title: The 5 minute baguette
 link: https://www.youtube.com/watch?v=Z-husjZkxHw
 channel: Voila - Voila! - @voilavoila8303
 date: 2023-07-06T04:12:04-07:00
+image: "[[attachments/The 5 minute baguette.jpg]]"
 ---
+![[attachments/The 5 minute baguette.jpg]]
+
 Enjoy homemade fresh baguettes for breakfast with this easy 5-minute work recipe.
 ## Ingredients
 - 950 grams baker's flour

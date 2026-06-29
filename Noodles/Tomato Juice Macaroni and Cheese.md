@@ -3,7 +3,10 @@ tags:
 servings: 
 time: 
 date: "2025-11-26 Wednesday"
+image: "[[attachments/Tomato Juice Macaroni and Cheese.jpg]]"
 ---
+![[attachments/Tomato Juice Macaroni and Cheese.jpg]]
+
 Working on reviving Nanny's recipe
 ## Tomato Juice Macaroni and Cheese
 ### 🛒 Ingredients

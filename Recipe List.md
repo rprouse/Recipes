@@ -8,8 +8,11 @@
 - [x] [[Curry Shrimp and Sweet Potato]]
 - [x] [[Buffalo Chicken Wings]]
 - [x] [[Sous Vide Texas-Style Barbecue Brisket]]
-- [ ] [[Creamy Lemon Asparagus Gnocchi]]
-- [ ] [[Saag Shrimp]]
+- [x] [[Creamy Lemon Asparagus Gnocchi]]
+- [x] [[Saag Shrimp]]
+- [ ] Kebabs
+- [ ] [[Easy Chicken Tacos]]
+- [ ] Shepherds Pie
 ## On Deck
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
 - [ ] [[Chile-Crisp Shrimp and Green Beans]]
