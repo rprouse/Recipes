@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Recipe List",
-      "path": "Recipe List.md"
+      "basename": "All Recipes",
+      "path": "All Recipes.base"
     },
     {
       "basename": "Easy Chicken Tacos",
       "path": "Mexican/Easy Chicken Tacos.md"
     },
     {
-      "basename": "All Recipes",
-      "path": "All Recipes.base"
+      "basename": "Charred Scallion Dip With Lemon and Herbs",
+      "path": "Sides/Charred Scallion Dip With Lemon and Herbs.md"
+    },
+    {
+      "basename": "Cucumber Salad With Roasted Peanuts and Chile",
+      "path": "Salads/Cucumber Salad With Roasted Peanuts and Chile.md"
+    },
+    {
+      "basename": "Recipe List",
+      "path": "Recipe List.md"
     },
     {
       "basename": "Linguine With Zucchini, Corn and Shrimp",
@@ -191,14 +199,6 @@
     {
       "basename": "French Baguettes",
       "path": "Baking/French Baguettes.md"
-    },
-    {
-      "basename": "Tomato Juice Macaroni and Cheese",
-      "path": "Noodles/Tomato Juice Macaroni and Cheese.md"
-    },
-    {
-      "basename": "The 5 minute baguette",
-      "path": "Baking/The 5 minute baguette.md"
     }
   ],
   "omittedPaths": [],

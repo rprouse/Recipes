@@ -47,32 +47,9 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
-          },
-          {
-            "id": "e5b71e2804e6b9e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mexican/Easy Chicken Tacos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Easy Chicken Tacos"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,13 +216,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18be481e683c85b1",
+  "active": "03a201c6460f3fb9",
   "lastOpenFiles": [
     "Mexican/Easy Chicken Tacos.md",
+    "Sides/Charred Scallion Dip With Lemon and Herbs.md",
+    "Salads/Cucumber Salad With Roasted Peanuts and Chile.md",
     "All Recipes.base",
+    "Recipe List.md",
     "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
     "Noodles/Vegetable Yakisoba.md",
-    "Recipe List.md",
     "Chicken/Spiced Chicken and Rice With Cardamom and Cinnamon.md",
     "Chicken/Spicy Marmalade Chicken and Sweet Potatoes.md",
     "Snacks/Homemade Protein Bars.md",
@@ -271,7 +250,6 @@
     "Noodles/15 Minute Chili Garlic Noodles.md",
     "Sides/5-Minute Hummus.md",
     "Pizza/10 Pizza Rules That Separate Amateurs from Pros.md",
-    "Readme.md",
     "Make Again.base.tmp.112372.5abb0fc26570",
     "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md.tmp.112372.0a7a70a32dd7",
     "CLAUDE.md.tmp.112372.b9c498144180",
