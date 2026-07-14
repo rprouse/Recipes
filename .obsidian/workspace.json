@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipe List.md",
+                "file": "Planned Recipe List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,7 +30,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Recipe List"
+              "title": "Planned Recipe List"
             }
           },
           {
@@ -47,9 +47,33 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
+          },
+          {
+            "id": "0e7851ecf44a74fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Sous-Vide Times & Temperatures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sous-Vide Times & Temperatures"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,8 +132,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -194,8 +218,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -209,50 +233,52 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03a201c6460f3fb9",
+  "active": "0e7851ecf44a74fa",
   "lastOpenFiles": [
-    "Mexican/Easy Chicken Tacos.md",
+    "Reference/Meat Doneness Temperatures.md",
+    "Reference/Cooking Reference.md.tmp.27064.2cf30f7f93ed",
+    "Reference/Sous-Vide Times & Temperatures.md",
+    "Reference/Sous-Vide Times & Temperatures.md.tmp.27064.c40996bd31fd",
+    "CLAUDE.md.tmp.27064.b6a2f603c99a",
+    "Reference/Herbs — Fresh vs Dried.md",
+    "Reference/Cooking Oils.md",
+    "Reference/Cooking Reference.md",
+    "Reference/Global Flavor Profiles.md",
+    "Reference/Salt.md",
+    "Reference/Cooking Reference.md.tmp.27064.cade6f1ddd90",
+    "Reference/Potatoes.md",
+    "Reference/Onions & Alliums.md",
+    "Reference/Cooking Reference.md.tmp.27064.3742bb0792c2",
+    "Reference/Meat Doneness Temperatures.md.tmp.27064.f808211e9695",
+    "Reference/Herbs — Fresh vs Dried.md.tmp.27064.698dcdc18260",
     "Sides/Charred Scallion Dip With Lemon and Herbs.md",
-    "Salads/Cucumber Salad With Roasted Peanuts and Chile.md",
+    "Reference/Onions & Alliums.md.tmp.27064.8259d95c45bc",
     "All Recipes.base",
-    "Recipe List.md",
+    "Reference/Potatoes.md.tmp.27064.56ef39a535bd",
+    "Potatoes.md",
+    "Planned Recipe List.md",
+    "Mexican/Easy Chicken Tacos.md",
+    "Salads/Cucumber Salad With Roasted Peanuts and Chile.md",
     "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
     "Noodles/Vegetable Yakisoba.md",
     "Chicken/Spiced Chicken and Rice With Cardamom and Cinnamon.md",
     "Chicken/Spicy Marmalade Chicken and Sweet Potatoes.md",
     "Snacks/Homemade Protein Bars.md",
-    "CLAUDE.md.tmp.80724.612b1b82aeb0",
     "Pasta/attachments/Roman-Style Spaghetti Alla Carrettiera (Tomato, Tuna, and Mushroom Pasta).jpg",
     "Seafood/Saag Shrimp.md",
     "Pasta/Creamy Lemon Asparagus Gnocchi.md",
     "Chicken/Buffalo Chicken Wings.md",
     "Templates/Recipe.md",
     "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
-    "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md.tmp.34576.c94f52043f9f",
     "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg",
     "Chicken/Chicken Wings.md",
-    "BBQ/Smoked Chicken Wings.md",
-    "Recipe Websites.md",
-    "Pasta/Carbonara.md",
-    "Seafood/Chile-Crisp Shrimp and Green Beans.md",
-    "Salads/Charred Corn and Pickled Jalapeño Potato Salad.md",
-    "Beef/Japanese Ground Beef Curry.md",
-    "Seafood/Curry Shrimp and Sweet Potato.md",
-    "Make Again.base",
-    "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md",
-    "Noodles/15 Minute Chili Garlic Noodles.md",
-    "Sides/5-Minute Hummus.md",
-    "Pizza/10 Pizza Rules That Separate Amateurs from Pros.md",
-    "Make Again.base.tmp.112372.5abb0fc26570",
-    "Vegetarian/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.md.tmp.112372.0a7a70a32dd7",
-    "CLAUDE.md.tmp.112372.b9c498144180",
     "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
     "Salads/attachments/Pan-Roasted Corn and Tomato Salad.jpg",
     "Soups/attachments/Kale Soup With Potatoes and Sausage.jpg",
@@ -260,9 +286,6 @@
     "Soups/attachments/Texas-Style Chili.jpg",
     "Seafood/attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg",
     "Seafood/attachments/Salmon With Sesame and Herbs.jpg",
-    "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg",
-    "BBQ/attachments",
-    "Sous Vide/attachments",
-    "Pizza/attachments"
+    "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg"
   ]
 }

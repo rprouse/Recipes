@@ -1,3 +1,12 @@
+## 2026-07
+- [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
+- [x] Steak, Salad and Potatoes
+- [x] [[Chile-Crisp Shrimp and Green Beans]] (with Asparagus)
+- [ ] [[Simple Pad Thai]]
+- [ ] [[Sheet-Pan Scallion Chicken With Bok Choy]]
+- [ ] Trout, salad and potatoes 
+- [ ] [[Saag Paneer]]
+## 2026-06
 - [x] [[Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)]]
 - [x] [[Sheet-Pan Chicken Tikka Thighs]]
 - [x] [[Beef Fried Rice]]
@@ -11,8 +20,7 @@
 - [x] [[Creamy Lemon Asparagus Gnocchi]]
 - [x] [[Saag Shrimp]]
 - [x] Kebabs
-- [ ] [[Easy Chicken Tacos]]
-- [ ] Shepherds Pie
+- [x] [[Easy Chicken Tacos]]
+- [x] Shepherds Pie
 ## On Deck
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
-- [ ] [[Chile-Crisp Shrimp and Green Beans]]

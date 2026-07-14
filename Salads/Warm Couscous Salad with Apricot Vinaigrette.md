@@ -1,5 +1,13 @@
 ---
-tags: [salads, side, moroccan, vegetarian, quick, make-ahead]
+tags:
+  - salads
+  - side
+  - moroccan
+  - vegetarian
+  - quick
+  - make-ahead
+  - cooked
+  - make-again
 title: Warm Couscous Salad with Apricot Vinaigrette
 author: Jennifer Segal (Once Upon a Chef)
 servings: 4 to 6 servings
@@ -18,7 +26,7 @@ Inspired by the Moroccan way of blending savory and sweet, this couscous salad p
 - 1½ cups low-sodium chicken or vegetable broth, best quality such as Swanson
 - 1 tablespoon unsalted butter
 - Salt
-- 1 10-ounce box couscous (1½ cups)
+- 1 10-ounce box couscous (1½ cups) or make with quinio
 - 6 tablespoons apricot preserves, best quality such as Bonne Maman
 - 4½ tablespoons extra-virgin olive oil
 - 3 tablespoons white wine vinegar

@@ -16,6 +16,9 @@ properties:
 views:
   - type: cards
     name: All Recipes
+    filters:
+      and:
+        - '!file.path.startsWith("Reference")'
     order:
       - file.name
       - servings

@@ -1,5 +1,12 @@
 ---
-tags: [chicken, grill, moroccan, weeknight, marinated]
+tags:
+  - chicken
+  - grill
+  - moroccan
+  - weeknight
+  - marinated
+  - cooked
+  - make-again
 title: Grilled Moroccan Chicken
 author: Jennifer Segal (Once Upon a Chef)
 servings: 4 servings
@@ -12,7 +19,7 @@ image: "[[attachments/Grilled Moroccan Chicken.jpg]]"
 
 # Grilled Moroccan Chicken
 
-This grilled chicken gets its bold flavor from a quick North African–style marinade inspired by ras el hanout — a spice blend built on cumin, coriander, ginger, turmeric, cinnamon, and a little cayenne. It's a longtime family favorite that's as easy as it is family-friendly, with hardly any clean-up. Serve it with couscous, especially the warm couscous salad with apricot vinaigrette.
+This grilled chicken gets its bold flavor from a quick North African–style marinade inspired by ras el hanout — a spice blend built on cumin, coriander, ginger, turmeric, cinnamon, and a little cayenne. It's a longtime family favorite that's as easy as it is family-friendly, with hardly any clean-up. Serve it with couscous, especially the [[Warm Couscous Salad with Apricot Vinaigrette]]. 
 
 ### 🛒 Ingredients
 - 1½ to 1¾ lbs boneless skinless chicken breasts (or chicken tenderloins)

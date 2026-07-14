@@ -53,6 +53,10 @@ Recipes are filed into mixed-axis top-level folders — by **protein** (Beef, Ch
 
 When classifying, dish type wins over protein (e.g. "Shrimp Piccata Spaghetti" → Pasta, not Seafood); soups/stews → Soups even when meat-forward. The full rubric lives in the `download-nyt-recipe` skill.
 
+## Reference notes (not recipes)
+
+`Reference/` holds a growing series of **general cooking-knowledge notes** — ingredient guides, techniques, cuisine flavor profiles — linked from a hub note (`Reference/Cooking Reference.md`). These are **not recipes**: do not apply `Templates/Recipe.md` to them. To create or extend one, use the **`create-reference-guide` skill** (`.claude/skills/create-reference-guide/`), which carries the house format and hub-linking steps.
+
 ## NYT Cooking import tooling
 
 Most notes were imported from NYT Cooking. The reusable tooling is the **`download-nyt-recipe` skill** (`.claude/skills/download-nyt-recipe/`) — invoke it for any NYT recipe URL or to bulk-import the user's recipe box. Key facts baked into that skill:

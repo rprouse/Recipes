@@ -4,10 +4,12 @@ tags:
   - easy
   - quick
   - weeknight
+  - cooked
+  - make-again
 title: Chile-Crisp Shrimp and Green Beans
 author: Ali Slagle
 servings: 4 servings
-time:
+time: 20 minutes
 date: 2026-06-11 Thursday
 link: https://cooking.nytimes.com/recipes/1021066-chile-crisp-shrimp-and-green-beans
 image: attachments/Chile-Crisp Shrimp and Green Beans.jpg

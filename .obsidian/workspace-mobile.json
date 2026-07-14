@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mexican/Easy Chicken Tacos.md",
-                "mode": "preview",
+                "file": "Planned Recipe List.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Easy Chicken Tacos"
+              "title": "Planned Recipe List"
             }
           }
         ]
@@ -162,7 +162,20 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
+    "Vegetarian/Saag Paneer.md",
+    "Make Again.base",
+    "Chicken/Sheet-Pan Scallion Chicken With Bok Choy.md",
+    "Noodles/Simple Pad Thai.md",
+    "All Recipes.base",
     "Recipe List.md",
+    "Sandwiches/attachments/Bacon, Lettuce, and Avocado Sandwich With Herb Aioli.jpg",
+    "Sandwiches/Bacon, Lettuce, and Avocado Sandwich With Herb Aioli.md",
+    "Planned Recipe List.md",
+    "Chicken/Grilled Moroccan Chicken.md",
+    "Salads/Warm Couscous Salad with Apricot Vinaigrette.md",
+    "Seafood/Chile-Crisp Shrimp and Green Beans.md",
+    "Noodles/Vegetable Yakisoba.md",
+    "Mexican/Easy Chicken Tacos.md",
     "Seafood/Saag Shrimp.md",
     "Pasta/Creamy Lemon Asparagus Gnocchi.md",
     "Vegetarian/attachments/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.jpg",
@@ -174,7 +187,6 @@
     "Sides/attachments/Don't Buy French Fries Anymore.jpg",
     "Sides/attachments/Cucumber Raita (Indian Yogurt Condiment).jpg",
     "Pizza/attachments/10 Pizza Rules That Separate Amateurs from Pros.jpg",
-    "Pasta/attachments/The only White Sauce Pasta Recipe you'll ever need!.jpg",
     "Snacks/Baked Jalapeño Popper Dip.md",
     "Sides/Cucumber Raita (Indian Yogurt Condiment).md",
     "Sandwiches/Grilled Steak Banh Mi-Style Sandwich.md",
@@ -189,18 +201,6 @@
     "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
     "Beef/Japanese Ground Beef Curry.md",
     "Seafood/Curry Shrimp and Sweet Potato.md",
-    "Mexican/Easy Chicken Tacos.md",
-    "Beef/Beef Fried Rice.md",
-    "Pasta/Skillet Gnocchi With Miso Butter and Asparagus.md",
-    "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md",
-    "Chicken/Sheet-Pan Chicken Tikka Thighs.md",
-    "Breakfast/Eleven Madison Park Granola.md",
-    "All Recipes.base",
-    "Chicken/Arroz Chaufa (Fried Rice With Chicken and Bell Pepper).md",
-    "Make Again.base",
-    "Soups/Winter Squash and Rice Soup with Pancetta.md",
-    "Chicken/Oven-Roasted Chicken Shawarma.md",
-    "Pasta/One-Pan Orzo With Spinach and Feta.md",
-    "Chicken/Paprika Chicken and Potatoes.md"
+    "Beef/Beef Fried Rice.md"
   ]
 }

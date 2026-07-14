@@ -1,24 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "All Recipes",
-      "path": "All Recipes.base"
+      "basename": "Sous-Vide Times & Temperatures",
+      "path": "Reference/Sous-Vide Times & Temperatures.md"
     },
     {
-      "basename": "Easy Chicken Tacos",
-      "path": "Mexican/Easy Chicken Tacos.md"
+      "basename": "Meat Doneness Temperatures",
+      "path": "Reference/Meat Doneness Temperatures.md"
+    },
+    {
+      "basename": "Herbs — Fresh vs Dried",
+      "path": "Reference/Herbs — Fresh vs Dried.md"
+    },
+    {
+      "basename": "Cooking Oils",
+      "path": "Reference/Cooking Oils.md"
+    },
+    {
+      "basename": "Cooking Reference",
+      "path": "Reference/Cooking Reference.md"
+    },
+    {
+      "basename": "Global Flavor Profiles",
+      "path": "Reference/Global Flavor Profiles.md"
+    },
+    {
+      "basename": "Salt",
+      "path": "Reference/Salt.md"
+    },
+    {
+      "basename": "Potatoes",
+      "path": "Reference/Potatoes.md"
+    },
+    {
+      "basename": "Onions & Alliums",
+      "path": "Reference/Onions & Alliums.md"
     },
     {
       "basename": "Charred Scallion Dip With Lemon and Herbs",
       "path": "Sides/Charred Scallion Dip With Lemon and Herbs.md"
     },
     {
-      "basename": "Cucumber Salad With Roasted Peanuts and Chile",
-      "path": "Salads/Cucumber Salad With Roasted Peanuts and Chile.md"
+      "basename": "All Recipes",
+      "path": "All Recipes.base"
     },
     {
-      "basename": "Recipe List",
-      "path": "Recipe List.md"
+      "basename": "Planned Recipe List",
+      "path": "Planned Recipe List.md"
+    },
+    {
+      "basename": "Easy Chicken Tacos",
+      "path": "Mexican/Easy Chicken Tacos.md"
+    },
+    {
+      "basename": "Cucumber Salad With Roasted Peanuts and Chile",
+      "path": "Salads/Cucumber Salad With Roasted Peanuts and Chile.md"
     },
     {
       "basename": "Linguine With Zucchini, Corn and Shrimp",
@@ -163,42 +199,6 @@
     {
       "basename": "The only White Sauce Pasta Recipe you'll ever need!",
       "path": "Pasta/The only White Sauce Pasta Recipe you'll ever need!.md"
-    },
-    {
-      "basename": "5 Restaurant Quality Pasta Sauces in 15 Minutes",
-      "path": "Pasta/5 Restaurant Quality Pasta Sauces in 15 Minutes.md"
-    },
-    {
-      "basename": "Tacos de Bistec a la Plancha",
-      "path": "Mexican/Tacos de Bistec a la Plancha.md"
-    },
-    {
-      "basename": "Fish Tacos",
-      "path": "Mexican/Fish Tacos.md"
-    },
-    {
-      "basename": "Roberta's Pizza Dough",
-      "path": "Baking/Roberta's Pizza Dough.md"
-    },
-    {
-      "basename": "Pizza Dough 3 Ways",
-      "path": "Baking/Pizza Dough 3 Ways.md"
-    },
-    {
-      "basename": "Everyday Sourdough",
-      "path": "Baking/Everyday Sourdough.md"
-    },
-    {
-      "basename": "Crumpets",
-      "path": "Baking/Crumpets.md"
-    },
-    {
-      "basename": "Easy Pizza Dough",
-      "path": "Baking/Easy Pizza Dough.md"
-    },
-    {
-      "basename": "French Baguettes",
-      "path": "Baking/French Baguettes.md"
     }
   ],
   "omittedPaths": [],
