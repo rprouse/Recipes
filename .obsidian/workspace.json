@@ -47,33 +47,8 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
-          },
-          {
-            "id": "0e7851ecf44a74fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/Sous-Vide Times & Temperatures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sous-Vide Times & Temperatures"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,11 +215,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e7851ecf44a74fa",
+  "active": "18be481e683c85b1",
   "lastOpenFiles": [
+    "All Recipes.base",
+    "Planned Recipe List.md",
+    "Incoming/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md",
+    "Reference/Sous-Vide Times & Temperatures.md",
     "Reference/Meat Doneness Temperatures.md",
     "Reference/Cooking Reference.md.tmp.27064.2cf30f7f93ed",
-    "Reference/Sous-Vide Times & Temperatures.md",
     "Reference/Sous-Vide Times & Temperatures.md.tmp.27064.c40996bd31fd",
     "CLAUDE.md.tmp.27064.b6a2f603c99a",
     "Reference/Herbs — Fresh vs Dried.md",
@@ -260,10 +238,8 @@
     "Reference/Herbs — Fresh vs Dried.md.tmp.27064.698dcdc18260",
     "Sides/Charred Scallion Dip With Lemon and Herbs.md",
     "Reference/Onions & Alliums.md.tmp.27064.8259d95c45bc",
-    "All Recipes.base",
     "Reference/Potatoes.md.tmp.27064.56ef39a535bd",
     "Potatoes.md",
-    "Planned Recipe List.md",
     "Mexican/Easy Chicken Tacos.md",
     "Salads/Cucumber Salad With Roasted Peanuts and Chile.md",
     "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
@@ -278,7 +254,6 @@
     "Templates/Recipe.md",
     "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
     "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg",
-    "Chicken/Chicken Wings.md",
     "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
     "Salads/attachments/Pan-Roasted Corn and Tomato Salad.jpg",
     "Soups/attachments/Kale Soup With Potatoes and Sausage.jpg",

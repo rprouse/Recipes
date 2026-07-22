@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Planned Recipe List",
+      "path": "Planned Recipe List.md"
+    },
+    {
+      "basename": "All Recipes",
+      "path": "All Recipes.base"
+    },
+    {
+      "basename": "The Only Naan Recipe You Need    No Oven, Restaurant-Like Results",
+      "path": "Incoming/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md"
+    },
+    {
       "basename": "Sous-Vide Times & Temperatures",
       "path": "Reference/Sous-Vide Times & Temperatures.md"
     },
@@ -39,14 +51,6 @@
     {
       "basename": "Charred Scallion Dip With Lemon and Herbs",
       "path": "Sides/Charred Scallion Dip With Lemon and Herbs.md"
-    },
-    {
-      "basename": "All Recipes",
-      "path": "All Recipes.base"
-    },
-    {
-      "basename": "Planned Recipe List",
-      "path": "Planned Recipe List.md"
     },
     {
       "basename": "Easy Chicken Tacos",
@@ -195,10 +199,6 @@
     {
       "basename": "Rice & Beans are elite, especially in times of need",
       "path": "Vegetarian/Rice & Beans are elite, especially in times of need.md"
-    },
-    {
-      "basename": "The only White Sauce Pasta Recipe you'll ever need!",
-      "path": "Pasta/The only White Sauce Pasta Recipe you'll ever need!.md"
     }
   ],
   "omittedPaths": [],

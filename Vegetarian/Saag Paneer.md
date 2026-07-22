@@ -1,9 +1,13 @@
 ---
-tags: [vegetarian, one-pot, make-again]
+tags:
+  - vegetarian
+  - one-pot
+  - make-again
+  - cooked
 title: Saag Paneer
 author: Kay Chun
 servings: 4 servings
-time: 
+time:
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021954-saag-paneer
 image: "[[attachments/Saag Paneer.jpg]]"

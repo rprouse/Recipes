@@ -58,6 +58,19 @@ def flat(insts):
 def iso_time(t):
     if not t:
         return ''
+    if isinstance(t, list):
+        t = t[0] if t else ''
+    if isinstance(t, dict):
+        # Some sites emit a QuantitativeValue instead of an ISO-8601 string.
+        val, unit = t.get('value'), (t.get('unitText') or t.get('unitCode') or '')
+        if val:
+            u = str(unit).lower()
+            if 'hour' in u or u in ('h', 'hur'):
+                return f"{val} hour" + ("s" if str(val) not in ('1', '1.0') else "")
+            return f"{val} minutes"
+        t = t.get('@value') or t.get('text') or ''
+    if not isinstance(t, str):
+        return ''
     m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?', t)
     if not m:
         return ''

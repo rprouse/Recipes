@@ -2,10 +2,11 @@
 - [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [x] Steak, Salad and Potatoes
 - [x] [[Chile-Crisp Shrimp and Green Beans]] (with Asparagus)
-- [ ] [[Simple Pad Thai]]
-- [ ] [[Sheet-Pan Scallion Chicken With Bok Choy]]
-- [ ] Trout, salad and potatoes 
-- [ ] [[Saag Paneer]]
+- [x] [[Simple Pad Thai]]
+- [x] [[Sheet-Pan Scallion Chicken With Bok Choy]]
+- [x] Trout, salad and potatoes 
+- [x] [[Saag Paneer]]
+- [ ] [[Sheet-Pan Chicken and Carrots With Yogurt Sauce]]
 ## 2026-06
 - [x] [[Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)]]
 - [x] [[Sheet-Pan Chicken Tikka Thighs]]
@@ -22,5 +23,20 @@
 - [x] Kebabs
 - [x] [[Easy Chicken Tacos]]
 - [x] Shepherds Pie
-## On Deck
+## Future
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
+- [ ] [[Creamy Lasagna Soup]]
+- [ ] [[Chicken and White Bean Stew]]
+- [ ] [[Horiatiki (Greek Salad)]]
+- [ ] [[Orange and Leek Loukaniko (Greek Sausage)]]
+- [ ] [[Better Than Chipotle Beef Barbacoa]]
+- [ ] [[Wolfgang Puck’s Chicken Potpie]]
+- [ ] [[Creamy Tuscan Chicken]]
+- [ ] [[Chicken Souvlaki With Tzatziki Sauce and Greek Salad]]
+- [ ] [[Chicken Marsala]]
+- [ ] [[Chicken and Pesto Rice With Peas]]
+- [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
+- [ ] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
+- [ ] [[Beer-Marinated Chicken Tacos]]
+- [ ] [[Cottage Cheese Egg Bites]]
+- [ ] [[Egg Muffins]]

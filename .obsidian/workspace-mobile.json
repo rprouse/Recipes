@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planned Recipe List.md",
-                "mode": "source",
+                "file": "Mexican/Easy Chicken Tacos.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planned Recipe List"
+              "title": "Easy Chicken Tacos"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipe List.md",
+            "file": "Noodles/Simple Pad Thai.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,15 +162,16 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
-    "Vegetarian/Saag Paneer.md",
-    "Make Again.base",
-    "Chicken/Sheet-Pan Scallion Chicken With Bok Choy.md",
-    "Noodles/Simple Pad Thai.md",
+    "Planned Recipe List.md",
+    "Chicken/Sheet-Pan Chicken and Carrots With Yogurt Sauce.md",
     "All Recipes.base",
+    "Vegetarian/Saag Paneer.md",
+    "Noodles/Simple Pad Thai.md",
+    "Chicken/Sheet-Pan Scallion Chicken With Bok Choy.md",
+    "Make Again.base",
     "Recipe List.md",
     "Sandwiches/attachments/Bacon, Lettuce, and Avocado Sandwich With Herb Aioli.jpg",
     "Sandwiches/Bacon, Lettuce, and Avocado Sandwich With Herb Aioli.md",
-    "Planned Recipe List.md",
     "Chicken/Grilled Moroccan Chicken.md",
     "Salads/Warm Couscous Salad with Apricot Vinaigrette.md",
     "Seafood/Chile-Crisp Shrimp and Green Beans.md",
@@ -200,7 +201,6 @@
     "Sandwiches",
     "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
     "Beef/Japanese Ground Beef Curry.md",
-    "Seafood/Curry Shrimp and Sweet Potato.md",
-    "Beef/Beef Fried Rice.md"
+    "Seafood/Curry Shrimp and Sweet Potato.md"
   ]
 }
