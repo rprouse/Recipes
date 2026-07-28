@@ -47,8 +47,33 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
+          },
+          {
+            "id": "f15509f1342cedd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sports/Basic Sports Drink.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Basic Sports Drink"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,10 +240,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18be481e683c85b1",
+  "active": "f15509f1342cedd6",
   "lastOpenFiles": [
+    "Sports/attachments/water_bottle.png",
+    "Sports/attachments/Pasted image 20260728104456.png",
+    "Sports/attachments",
+    "Sides/Quick & Easy Refrigerator Pickles.md",
     "All Recipes.base",
+    "Sports/Basic Sports Drink.md",
     "Planned Recipe List.md",
+    "Sports",
     "Incoming/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md",
     "Reference/Sous-Vide Times & Temperatures.md",
     "Reference/Meat Doneness Temperatures.md",
@@ -237,8 +268,6 @@
     "Reference/Meat Doneness Temperatures.md.tmp.27064.f808211e9695",
     "Reference/Herbs — Fresh vs Dried.md.tmp.27064.698dcdc18260",
     "Sides/Charred Scallion Dip With Lemon and Herbs.md",
-    "Reference/Onions & Alliums.md.tmp.27064.8259d95c45bc",
-    "Reference/Potatoes.md.tmp.27064.56ef39a535bd",
     "Potatoes.md",
     "Mexican/Easy Chicken Tacos.md",
     "Salads/Cucumber Salad With Roasted Peanuts and Chile.md",
@@ -251,8 +280,6 @@
     "Seafood/Saag Shrimp.md",
     "Pasta/Creamy Lemon Asparagus Gnocchi.md",
     "Chicken/Buffalo Chicken Wings.md",
-    "Templates/Recipe.md",
-    "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
     "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg",
     "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
     "Salads/attachments/Pan-Roasted Corn and Tomato Salad.jpg",
@@ -260,7 +287,6 @@
     "Pasta/attachments/Baked Alfredo Pasta With Broccoli Rabe and Lemon.jpg",
     "Soups/attachments/Texas-Style Chili.jpg",
     "Seafood/attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg",
-    "Seafood/attachments/Salmon With Sesame and Herbs.jpg",
-    "Seafood/attachments/Salmon en Papillote (Salmon in Parchment).jpg"
+    "Seafood/attachments/Salmon With Sesame and Herbs.jpg"
   ]
 }

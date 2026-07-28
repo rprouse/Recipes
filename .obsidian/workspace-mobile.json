@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mexican/Easy Chicken Tacos.md",
-                "mode": "preview",
+                "file": "Chicken/Chicken Souvlaki With Tzatziki Sauce and Greek Salad.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Easy Chicken Tacos"
+              "title": "Chicken Souvlaki With Tzatziki Sauce and Greek Salad"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Noodles/Simple Pad Thai.md",
+            "file": "Recipe Websites.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,12 +162,15 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
+    "All Recipes.base",
+    "Recipe Websites.md",
+    "Chicken/Sheet-Pan Scallion Chicken With Bok Choy.md",
+    "Readme.md",
+    "Mexican/Easy Chicken Tacos.md",
     "Planned Recipe List.md",
     "Chicken/Sheet-Pan Chicken and Carrots With Yogurt Sauce.md",
-    "All Recipes.base",
     "Vegetarian/Saag Paneer.md",
     "Noodles/Simple Pad Thai.md",
-    "Chicken/Sheet-Pan Scallion Chicken With Bok Choy.md",
     "Make Again.base",
     "Recipe List.md",
     "Sandwiches/attachments/Bacon, Lettuce, and Avocado Sandwich With Herb Aioli.jpg",
@@ -176,7 +179,6 @@
     "Salads/Warm Couscous Salad with Apricot Vinaigrette.md",
     "Seafood/Chile-Crisp Shrimp and Green Beans.md",
     "Noodles/Vegetable Yakisoba.md",
-    "Mexican/Easy Chicken Tacos.md",
     "Seafood/Saag Shrimp.md",
     "Pasta/Creamy Lemon Asparagus Gnocchi.md",
     "Vegetarian/attachments/15 FORGOTTEN Medieval 3-Ingredient Meals Peasants Swore By.jpg",
@@ -198,9 +200,6 @@
     "Desserts/5-Minute Chocolate Raspberry Mug Cake for Two.md",
     "Beef/Cuban Picadillo.md",
     "Sandwiches/attachments",
-    "Sandwiches",
-    "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md",
-    "Beef/Japanese Ground Beef Curry.md",
-    "Seafood/Curry Shrimp and Sweet Potato.md"
+    "Sandwiches"
   ]
 }
