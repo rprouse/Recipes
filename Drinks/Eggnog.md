@@ -3,7 +3,7 @@ tags: [drinks, winter]
 title: Eggnog
 author: Amanda Hesser
 servings: 8 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1828-eggnog
 image: "[[attachments/Eggnog.jpg]]"

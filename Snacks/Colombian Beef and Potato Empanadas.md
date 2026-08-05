@@ -3,7 +3,7 @@ tags: [snacks]
 title: Colombian Beef and Potato Empanadas
 author: J. Kenji López-Alt
 servings: 24 small empanadas
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021300-colombian-beef-and-potato-empanadas
 image: "[[attachments/Colombian Beef and Potato Empanadas.jpg]]"

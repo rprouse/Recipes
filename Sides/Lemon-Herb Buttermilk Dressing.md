@@ -3,7 +3,7 @@ tags: [sides]
 title: Lemon-Herb Buttermilk Dressing
 author: Francis Lam
 servings: 1 cups
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019272-lemon-herb-buttermilk-dressing
 image: "[[attachments/Lemon-Herb Buttermilk Dressing.jpg]]"

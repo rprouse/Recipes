@@ -3,7 +3,7 @@ tags: [mexican, easy, sheet-pan, weeknight]
 title: Chicken Fajitas
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020092-chicken-fajitas
 image: "[[attachments/Chicken Fajitas.jpg]]"

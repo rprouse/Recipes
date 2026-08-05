@@ -3,7 +3,7 @@ tags: [chicken, one-pot]
 title: Skillet Chicken With Tomatoes, Pancetta and Mozzarella
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017910-skillet-chicken-with-tomatoes-pancetta-and-mozzarella
 image: "[[attachments/Skillet Chicken With Tomatoes, Pancetta and Mozzarella.jpg]]"

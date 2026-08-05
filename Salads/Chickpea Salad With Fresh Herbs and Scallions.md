@@ -3,7 +3,7 @@ tags: [salads, easy, make-ahead, weeknight, vegetarian]
 title: Chickpea Salad With Fresh Herbs and Scallions
 author: Lidey Heuck
 servings: 4 to 6 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020335-chickpea-salad-with-fresh-herbs-and-scallions
 image: "[[attachments/Chickpea Salad With Fresh Herbs and Scallions.jpg]]"

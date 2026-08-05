@@ -3,7 +3,7 @@ tags: [sides, vegan]
 title: Yaki Onigiri (Grilled Japanese Rice Balls) With Pickled Shiitakes
 author: Alexa Weibel
 servings: 6 to 12 onigiri
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020991-yaki-onigiri-grilled-japanese-rice-balls-with-pickled-shiitakes
 image: "[[attachments/Yaki Onigiri (Grilled Japanese Rice Balls) With Pickled Shiitakes.jpg]]"

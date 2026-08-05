@@ -3,7 +3,7 @@ tags: [drinks, fall, winter]
 title: Mulled Wine
 author: Rosie Schaap
 servings: 6 to 8 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019799-mulled-wine
 image: "[[attachments/Mulled Wine.jpg]]"

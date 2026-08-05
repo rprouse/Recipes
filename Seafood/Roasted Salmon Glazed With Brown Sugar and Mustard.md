@@ -3,7 +3,7 @@ tags: [seafood, easy, quick, weeknight]
 title: Roasted Salmon Glazed With Brown Sugar and Mustard
 author: Sam Sifton
 servings: Number of servings vary
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017244-roasted-salmon-glazed-with-brown-sugar-and-mustard
 image: "[[attachments/Roasted Salmon Glazed With Brown Sugar and Mustard.jpg]]"

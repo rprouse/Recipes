@@ -3,7 +3,7 @@ tags: [seafood, easy, quick, sheet-pan, weeknight]
 title: Baked Salmon
 author: Lidey Heuck
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024496-baked-salmon
 image: "[[attachments/Baked Salmon.jpg]]"

@@ -3,7 +3,7 @@ tags: [mexican, weeknight]
 title: Chicken Enchiladas With Salsa Verde
 author: Sam Sifton
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde
 image: "[[attachments/Chicken Enchiladas With Salsa Verde.jpg]]"

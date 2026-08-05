@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight]
 title: Pasta Salad
 author: Melissa Clark
 servings: 8 to 10 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023328-pasta-salad
 image: "[[attachments/Pasta Salad.jpg]]"

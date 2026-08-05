@@ -3,7 +3,7 @@ tags: [beef, budget, slow-cooker, weeknight]
 title: Slow-Cooker Picadillo
 author: Sarah DiGregorio
 servings: 4 to 6 servings
-time: 
+time: 5 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025193-slow-cooker-picadillo
 image: "[[attachments/Slow-Cooker Picadillo.jpg]]"

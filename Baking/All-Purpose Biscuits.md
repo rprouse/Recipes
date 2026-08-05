@@ -3,7 +3,7 @@ tags: [baking, quick]
 title: All-Purpose Biscuits
 author: Sam Sifton
 servings: 6 to 8 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013741-all-purpose-biscuits
 image: "[[attachments/All-Purpose Biscuits.jpg]]"

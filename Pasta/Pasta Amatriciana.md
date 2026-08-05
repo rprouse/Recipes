@@ -3,7 +3,7 @@ tags: [pasta]
 title: Pasta Amatriciana
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023018-pasta-amatriciana
 image: "[[attachments/Pasta Amatriciana.jpg]]"

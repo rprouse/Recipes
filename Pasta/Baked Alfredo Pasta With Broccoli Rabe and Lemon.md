@@ -3,7 +3,7 @@ tags: [pasta, fall, weeknight, winter, vegetarian]
 title: Baked Alfredo Pasta With Broccoli Rabe and Lemon
 author: Ali Slagle
 servings: 4 to 6 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020820-baked-alfredo-pasta-with-broccoli-rabe-and-lemon
 image: "[[attachments/Baked Alfredo Pasta With Broccoli Rabe and Lemon.jpg]]"

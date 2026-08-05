@@ -3,7 +3,7 @@ tags: [salads, easy, quick, summer]
 title: Kidney Bean, Red Onion And Tomato Salad
 author: Lawson, Nigella
 servings: 6 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/10076-kidney-bean-red-onion-and-tomato-salad
 image: "[[attachments/Kidney Bean, Red Onion And Tomato Salad.jpg]]"

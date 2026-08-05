@@ -3,7 +3,7 @@ tags: [salads, budget]
 title: Best Chicken Salad
 author: Julia Moskin
 servings: 4 servings
-time: 
+time: 6 hours 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018211-best-chicken-salad
 image: "[[attachments/Best Chicken Salad.jpg]]"

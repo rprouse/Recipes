@@ -3,7 +3,7 @@ tags: [chicken, great-leftovers, weeknight]
 title: Kua Kling (Southern Thai-Style Red Curry)
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019791-kua-kling-southern-thai-style-red-curry
 image: "[[attachments/Kua Kling (Southern Thai-Style Red Curry).jpg]]"

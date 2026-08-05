@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, weeknight, winter, vegetarian]
 title: Tomato-Parmesan Soup
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019792-tomato-parmesan-soup
 image: "[[attachments/Tomato-Parmesan Soup.jpg]]"

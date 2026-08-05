@@ -3,7 +3,7 @@ tags: [chicken, budget, easy, one-pot, quick, weeknight]
 title: Crispy Chicken With Lime Butter
 author: Eric Kim
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter
 image: "[[attachments/Crispy Chicken With Lime Butter.jpg]]"

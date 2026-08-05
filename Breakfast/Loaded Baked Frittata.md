@@ -3,7 +3,7 @@ tags: [breakfast]
 title: Loaded Baked Frittata
 author: Genevieve Ko
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019519-loaded-baked-frittata
 image: "[[attachments/Loaded Baked Frittata.jpg]]"

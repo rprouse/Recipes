@@ -3,7 +3,7 @@ tags: [soups, great-leftovers]
 title: Fresh and Wild Mushroom Stew
 author: David Tanis
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015198-fresh-and-wild-mushroom-stew
 image: "[[attachments/Fresh and Wild Mushroom Stew.jpg]]"

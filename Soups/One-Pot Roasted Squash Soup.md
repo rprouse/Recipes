@@ -3,7 +3,7 @@ tags: [soups, easy, great-leftovers, one-pot, vegan]
 title: One-Pot Roasted Squash Soup
 author: J. Kenji López-Alt
 servings: 6 to 8 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023934-one-pot-roasted-squash-soup
 image: "[[attachments/One-Pot Roasted Squash Soup.jpg]]"

@@ -3,7 +3,7 @@ tags: [vegetarian, quick, weeknight, vegan]
 title: Coconut Saag
 author: Priya Krishna
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024665-coconut-saag
 image: "[[attachments/Coconut Saag.jpg]]"

@@ -3,7 +3,7 @@ tags: [seafood, easy, one-pot, quick, weeknight]
 title: Baked Salmon and Dill Rice
 author: Naz Deravian
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice
 image: "[[attachments/Baked Salmon and Dill Rice.jpg]]"

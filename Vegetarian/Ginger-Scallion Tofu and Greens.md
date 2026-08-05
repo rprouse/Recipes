@@ -3,7 +3,7 @@ tags: [vegetarian, easy, quick, spring, summer, weeknight, vegan]
 title: Ginger-Scallion Tofu and Greens
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025700-ginger-scallion-tofu-and-greens
 image: "[[attachments/Ginger-Scallion Tofu and Greens.jpg]]"

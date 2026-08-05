@@ -3,7 +3,7 @@ tags: [sides]
 title: Brussels Sprouts Sliders
 author: Tara Parker-Pope
 servings: 8 to 10 appetizer portions
-time: 
+time: 1 hour 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016967-brussels-sprouts-sliders
 image: "[[attachments/Brussels Sprouts Sliders.jpg]]"

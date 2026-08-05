@@ -3,7 +3,7 @@ tags: [pasta, easy, one-pot, quick, weeknight]
 title: Spinach One-Pot Pasta
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025629-spinach-one-pot-pasta
 image: "[[attachments/Spinach One-Pot Pasta.jpg]]"

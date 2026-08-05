@@ -3,7 +3,7 @@ tags: [pasta, quick, weeknight, vegetarian]
 title: Creamy Weeknight Macaroni and Cheese
 author: Alison Roman
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019252-creamy-weeknight-macaroni-and-cheese
 image: "[[attachments/Creamy Weeknight Macaroni and Cheese.jpg]]"

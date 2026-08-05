@@ -3,7 +3,7 @@ tags: [snacks, easy, vegan]
 title: Homemade Protein Bars
 author: Genevieve Ko
 servings: 12 bars
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026978-homemade-protein-bars
 image: "[[attachments/Homemade Protein Bars - Genevieve Ko.jpg]]"

@@ -3,7 +3,7 @@ tags: [pork]
 title: Tourtière
 author: Sam Sifton
 servings: 6 to 8 servings
-time: 
+time: 6 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018470-tourtiere
 image: "[[attachments/Tourtière.jpg]]"

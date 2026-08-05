@@ -3,7 +3,7 @@ tags: [chicken, easy, sheet-pan, weeknight]
 title: Chicken and Chickpea Tray Bake
 author: Yotam Ottolenghi
 servings: 4 to 8 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake
 image: "[[attachments/Chicken and Chickpea Tray Bake.jpg]]"

@@ -7,7 +7,7 @@ tags:
 title: Spiced Chicken and Rice With Cardamom and Cinnamon
 author: Kay Chun
 servings: 4 servings
-time:
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025462-spiced-chicken-and-rice-with-cardamom-and-cinnamon
 image: "[[Spiced Chicken and Rice With Cardamom and Cinnamon.jpg]]"

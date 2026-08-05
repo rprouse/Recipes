@@ -3,7 +3,7 @@ tags: [sides, vegan]
 title: Spicy Red Pepper Cranberry Relish
 author: David Tanis
 servings: 2 cups
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015348-spicy-red-pepper-cranberry-relish
 image: "[[attachments/Spicy Red Pepper Cranberry Relish.jpg]]"

@@ -8,7 +8,7 @@ tags:
 title: Sheet-Pan Scallion Chicken With Bok Choy
 author: Kay Chun
 servings: 4 servings
-time:
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021476-sheet-pan-scallion-chicken-with-bok-choy
 image: "[[attachments/Sheet-Pan Scallion Chicken With Bok Choy.jpg]]"

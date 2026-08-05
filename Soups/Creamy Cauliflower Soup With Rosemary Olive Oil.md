@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, vegan]
 title: Creamy Cauliflower Soup With Rosemary Olive Oil
 author: Lidey Heuck
 servings: 6 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020764-creamy-cauliflower-soup-with-rosemary-olive-oil
 image: "[[attachments/Creamy Cauliflower Soup With Rosemary Olive Oil.jpg]]"

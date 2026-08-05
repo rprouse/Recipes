@@ -3,7 +3,7 @@ tags: [sides]
 title: Creamy Chicken Liver Pâté
 author: Mark Bittman
 servings: 8 to 10 servings
-time: 
+time: 3 hours 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012954-creamy-chicken-liver-pate
 image: "[[attachments/Creamy Chicken Liver Pâté.jpg]]"

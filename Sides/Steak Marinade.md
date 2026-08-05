@@ -3,7 +3,7 @@ tags: [sides]
 title: Steak Marinade
 author: Lara Lee
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022384-steak-marinade
 image: "[[attachments/Steak Marinade.jpg]]"

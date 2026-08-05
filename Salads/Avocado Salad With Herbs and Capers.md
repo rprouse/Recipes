@@ -3,7 +3,7 @@ tags: [salads, weeknight]
 title: Avocado Salad With Herbs and Capers
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019410-avocado-salad-with-herbs-and-capers
 image: "[[attachments/Avocado Salad With Herbs and Capers.jpg]]"

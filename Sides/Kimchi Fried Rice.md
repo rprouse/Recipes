@@ -3,7 +3,7 @@ tags: [sides]
 title: Kimchi Fried Rice
 author: Francis Lam
 servings: 2 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018097-kimchi-fried-rice
 image: "[[attachments/Kimchi Fried Rice.jpg]]"

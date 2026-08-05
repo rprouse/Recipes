@@ -3,7 +3,7 @@ tags: [sides, budget, easy, quick, summer, vegetarian]
 title: French Green Beans and Shallots
 author: Jacques Pépin
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/11356-french-green-beans-and-shallots
 image: "[[attachments/French Green Beans and Shallots.jpg]]"

@@ -3,7 +3,7 @@ tags: [mexican, easy, quick, weeknight]
 title: Irish Tacos
 author: Sam Sifton
 servings: 6 to 8 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018643-irish-tacos
 image: "[[attachments/Irish Tacos.jpg]]"

@@ -9,7 +9,7 @@ tags:
 title: Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)
 author: Zainab Shah
 servings: 2 to 4 servings
-time:
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023017-mattar-paneer-peas-and-paneer-in-spiced-tomato-gravy
 image: "[[attachments/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).jpg]]"

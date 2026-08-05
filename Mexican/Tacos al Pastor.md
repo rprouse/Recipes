@@ -3,7 +3,7 @@ tags: [mexican]
 title: Tacos al Pastor
 author: Julia Moskin
 servings: 12 tacos
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020227-tacos-al-pastor
 image: "[[attachments/Tacos al Pastor.jpg]]"

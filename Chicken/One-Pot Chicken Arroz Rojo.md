@@ -3,7 +3,7 @@ tags: [chicken, great-leftovers, one-pot]
 title: One-Pot Chicken Arroz Rojo
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027025-one-pot-chicken-arroz-rojo
 image: "[[attachments/One-Pot Chicken Arroz Rojo.jpg]]"

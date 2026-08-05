@@ -3,7 +3,7 @@ tags: [snacks, easy, quick, weeknight, vegetarian]
 title: Baked Feta With Honey
 author: Sara Dickerman
 servings: 4 to 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/10427-baked-feta-with-honey
 image: "[[attachments/Baked Feta With Honey.jpg]]"

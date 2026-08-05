@@ -3,7 +3,7 @@ tags: [mexican, budget, freezer-friendly, great-leftovers, weeknight, vegetarian
 title: Bean and Cheese Burritos
 author: Kay Chun
 servings: 6 burritos
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022532-bean-and-cheese-burritos
 image: "[[attachments/Bean and Cheese Burritos.jpg]]"

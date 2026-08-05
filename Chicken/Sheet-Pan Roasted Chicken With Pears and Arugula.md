@@ -3,7 +3,7 @@ tags: [chicken, easy, fall, quick, sheet-pan, weeknight, winter]
 title: Sheet-Pan Roasted Chicken With Pears and Arugula
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022667-sheet-pan-roasted-chicken-with-pears-and-arugula
 image: "[[attachments/Sheet-Pan Roasted Chicken With Pears and Arugula.jpg]]"

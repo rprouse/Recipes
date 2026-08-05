@@ -3,7 +3,7 @@ tags: [chicken, budget, easy, sheet-pan, summer, weeknight]
 title: Sheet-Pan Chicken Thighs With Spicy Corn
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 1 hour 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024458-sheet-pan-chicken-thighs-with-spicy-corn
 image: "[[attachments/Sheet-Pan Chicken Thighs With Spicy Corn.jpg]]"

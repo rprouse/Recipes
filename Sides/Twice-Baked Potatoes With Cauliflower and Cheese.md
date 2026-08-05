@@ -3,7 +3,7 @@ tags: [sides]
 title: Twice-Baked Potatoes With Cauliflower and Cheese
 author: Sam Sifton
 servings: 4 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016870-twice-baked-potatoes-with-cauliflower-and-cheese
 image: "[[attachments/Twice-Baked Potatoes With Cauliflower and Cheese.jpg]]"

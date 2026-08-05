@@ -3,7 +3,7 @@ tags: [sides]
 title: Bacon-Onion Jam
 author: Sam Sifton
 servings: 6 to 8 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015978-bacon-onion-jam
 image: "[[attachments/Bacon-Onion Jam.jpg]]"

@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight, vegetarian]
 title: Chile Crisp Fettuccine Alfredo With Spinach
 author: Genevieve Ko
 servings: 6 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023609-chile-crisp-fettuccine-alfredo-with-spinach
 image: "[[attachments/Chile Crisp Fettuccine Alfredo With Spinach.jpg]]"

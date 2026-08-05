@@ -3,7 +3,7 @@ tags: [sides, fall, quick]
 title: Brussels Sprouts With Pancetta
 author: Amanda Hesser
 servings: 6 to 8 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/236-brussels-sprouts-with-pancetta
 image: "[[attachments/Brussels Sprouts With Pancetta.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, budget, easy, quick, weeknight]
 title: Pepperoncini Tuna Salad
 author: Eric Kim
 servings: 2 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024283-pepperoncini-tuna-salad
 image: "[[attachments/Pepperoncini Tuna Salad.jpg]]"

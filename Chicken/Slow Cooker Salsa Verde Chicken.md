@@ -3,7 +3,7 @@ tags: [chicken, easy, slow-cooker, weeknight]
 title: Slow Cooker Salsa Verde Chicken
 author: Sarah DiGregorio
 servings: 4 servings
-time: 
+time: 5 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020669-slow-cooker-salsa-verde-chicken
 image: "[[attachments/Slow Cooker Salsa Verde Chicken.jpg]]"

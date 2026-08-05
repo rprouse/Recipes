@@ -3,7 +3,7 @@ tags: [vegetarian, easy, sheet-pan, weeknight]
 title: Roasted Honey Nut Squash and Chickpeas With Hot Honey
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023687-roasted-honey-nut-squash-and-chickpeas-with-hot-honey
 image: "[[attachments/Roasted Honey Nut Squash and Chickpeas With Hot Honey.jpg]]"

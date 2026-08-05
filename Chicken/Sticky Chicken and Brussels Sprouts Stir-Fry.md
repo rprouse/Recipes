@@ -3,7 +3,7 @@ tags: [chicken, easy, fall, one-pot, quick, weeknight, winter]
 title: Sticky Chicken and Brussels Sprouts Stir-Fry
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025143-sticky-chicken-and-brussels-sprouts-stir-fry
 image: "[[attachments/Sticky Chicken and Brussels Sprouts Stir-Fry.jpg]]"

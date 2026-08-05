@@ -3,7 +3,7 @@ tags: [baking]
 title: Simple Crusty Bread
 author: Nick Fox
 servings: 4 loaves
-time: 
+time: 3 hours 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018203-simple-crusty-bread
 image: "[[attachments/Simple Crusty Bread.jpg]]"

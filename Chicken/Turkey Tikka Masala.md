@@ -3,7 +3,7 @@ tags: [chicken, great-leftovers]
 title: Turkey Tikka Masala
 author: Samin Nosrat
 servings: 6 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018425-turkey-tikka-masala
 image: "[[attachments/Turkey Tikka Masala.jpg]]"

@@ -3,7 +3,7 @@ tags: [beef]
 title: Lamb Biryani
 author: Tejal Rao
 servings: 8 servings
-time: 
+time: 4 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020915-lamb-biryani
 image: "[[attachments/Lamb Biryani.jpg]]"

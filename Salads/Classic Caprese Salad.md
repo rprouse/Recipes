@@ -3,7 +3,7 @@ tags: [salads, easy, summer, weeknight, vegetarian]
 title: Classic Caprese Salad
 author: Melissa Clark
 servings: 6 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018849-classic-caprese-salad
 image: "[[attachments/Classic Caprese Salad.jpg]]"

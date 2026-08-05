@@ -3,7 +3,7 @@ tags: [vegetarian, fall, great-leftovers]
 title: Winter Squash and Wild Mushroom Curry
 author: David Tanis
 servings: 4 to 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018985-winter-squash-and-wild-mushroom-curry
 image: "[[attachments/Winter Squash and Wild Mushroom Curry.jpg]]"

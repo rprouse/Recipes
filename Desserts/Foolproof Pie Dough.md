@@ -3,7 +3,7 @@ tags: [desserts, make-ahead]
 title: Foolproof Pie Dough
 author: The New York Times
 servings: 2 pie crusts
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12852-foolproof-pie-dough
 image: "[[attachments/Foolproof Pie Dough.jpg]]"

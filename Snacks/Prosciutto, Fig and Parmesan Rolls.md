@@ -3,7 +3,7 @@ tags: [snacks, quick]
 title: Prosciutto, Fig and Parmesan Rolls
 author: Mark Bittman
 servings: 20 rolls
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015620-prosciutto-fig-and-parmesan-rolls
 image: "[[attachments/Prosciutto, Fig and Parmesan Rolls.jpg]]"

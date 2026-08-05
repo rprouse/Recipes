@@ -3,7 +3,7 @@ tags: [sides, easy, sheet-pan, weeknight, vegetarian]
 title: Sheet-Pan Pierogies With Brussels Sprouts and Kimchi
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021946-sheet-pan-pierogies-with-brussels-sprouts-and-kimchi
 image: "[[attachments/Sheet-Pan Pierogies With Brussels Sprouts and Kimchi.jpg]]"

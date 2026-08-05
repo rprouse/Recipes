@@ -3,7 +3,7 @@ tags: [desserts, winter]
 title: English Mince Pies
 author: Moira Hodgson
 servings: 24 pies
-time: 
+time: 55 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1593-english-mince-pies
 image: "[[attachments/English Mince Pies.jpg]]"

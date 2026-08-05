@@ -3,7 +3,7 @@ tags: [salads, easy, quick, weeknight]
 title: Spicy Shrimp and Chickpea Salad
 author: Yasmin Fahr
 servings: 3 to 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad
 image: "[[attachments/Spicy Shrimp and Chickpea Salad.jpg]]"

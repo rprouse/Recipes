@@ -3,7 +3,7 @@ tags: [sides, fall, weeknight, winter, vegetarian]
 title: Buffalo Cauliflower
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019912-buffalo-cauliflower
 image: "[[attachments/Buffalo Cauliflower.jpg]]"

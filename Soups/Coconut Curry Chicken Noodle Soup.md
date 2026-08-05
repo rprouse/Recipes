@@ -3,7 +3,7 @@ tags: [soups]
 title: Coconut Curry Chicken Noodle Soup
 author: Julia Moskin
 servings: 4 main-course servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012383-coconut-curry-chicken-noodle-soup
 image: "[[attachments/Coconut Curry Chicken Noodle Soup.jpg]]"

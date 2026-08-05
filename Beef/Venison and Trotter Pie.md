@@ -3,7 +3,7 @@ tags: [beef, fall, winter]
 title: Venison and Trotter Pie
 author: Tejal Rao
 servings: 1 9-inch deep dish pie
-time: 
+time: 9 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019128-venison-and-trotter-pie
 image: "[[attachments/Venison and Trotter Pie.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, easy, weeknight]
 title: Peruvian Roasted Chicken With Spicy Cilantro Sauce
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018974-peruvian-roasted-chicken-with-spicy-cilantro-sauce
 image: "[[attachments/Peruvian Roasted Chicken With Spicy Cilantro Sauce.jpg]]"

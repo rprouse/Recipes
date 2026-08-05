@@ -3,7 +3,7 @@ tags: [pasta]
 title: Bolognese Sauce
 author: The New York Times
 servings: 2 heaping cups
-time: 
+time: 4 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015181-marcella-hazans-bolognese-sauce
 image: "[[attachments/Bolognese Sauce.jpg]]"

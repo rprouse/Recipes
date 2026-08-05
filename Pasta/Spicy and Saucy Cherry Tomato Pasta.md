@@ -3,7 +3,7 @@ tags: [pasta, weeknight, vegetarian]
 title: Spicy and Saucy Cherry Tomato Pasta
 author: Alexa Weibel
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020690-spicy-and-saucy-cherry-tomato-pasta
 image: "[[attachments/Spicy and Saucy Cherry Tomato Pasta.jpg]]"

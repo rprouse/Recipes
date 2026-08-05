@@ -3,7 +3,7 @@ tags: [sides, easy, fall, quick, sheet-pan, weeknight, winter]
 title: Sheet-Pan Brussels Sprouts and Bacon
 author: Christian Reynoso
 servings: 4 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026215-sheet-pan-brussels-sprouts-and-bacon
 image: "[[attachments/Sheet-Pan Brussels Sprouts and Bacon.jpg]]"

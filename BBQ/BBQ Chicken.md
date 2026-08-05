@@ -3,7 +3,7 @@ tags: [bbq]
 title: BBQ Chicken
 author: Sam Sifton
 servings: 6 to 8 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017545-bbq-chicken
 image: "[[attachments/BBQ Chicken.jpg]]"

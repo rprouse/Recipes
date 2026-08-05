@@ -3,7 +3,7 @@ tags: [chicken, quick, weeknight]
 title: Spicy Turkey Stir-Fry With Crisp Garlic and Ginger
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020222-spicy-turkey-stir-fry-with-crisp-garlic-and-ginger
 image: "[[attachments/Spicy Turkey Stir-Fry With Crisp Garlic and Ginger.jpg]]"

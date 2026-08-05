@@ -3,7 +3,7 @@ tags: [pasta, budget, easy, quick, summer, weeknight, vegetarian]
 title: Angel Hair Pasta
 author: Dan Pelosi
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025479-angel-hair-pasta
 image: "[[attachments/Angel Hair Pasta.jpg]]"

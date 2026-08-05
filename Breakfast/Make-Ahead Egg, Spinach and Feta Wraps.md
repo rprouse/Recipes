@@ -3,7 +3,7 @@ tags: [breakfast, easy, freezer-friendly, make-ahead, quick, vegetarian]
 title: Make-Ahead Egg, Spinach and Feta Wraps
 author: Naz Deravian
 servings: 5 wraps
-time: 
+time: 55 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026810-make-ahead-egg-spinach-and-feta-wraps
 image: "[[attachments/Make-Ahead Egg, Spinach and Feta Wraps.jpg]]"

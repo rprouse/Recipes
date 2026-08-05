@@ -3,7 +3,7 @@ tags: [noodles]
 title: Pho Bo (Vietnamese Beef-and-Noodle Soup)
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9261-pho-bo-vietnamese-beef-and-noodle-soup
 image: "[[attachments/Pho Bo (Vietnamese Beef-and-Noodle Soup).jpg]]"

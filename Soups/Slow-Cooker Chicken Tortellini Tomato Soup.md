@@ -3,7 +3,7 @@ tags: [soups, easy, slow-cooker, weeknight]
 title: Slow-Cooker Chicken Tortellini Tomato Soup
 author: Sarah DiGregorio
 servings: 4 to 6 servings
-time: 
+time: 6 hours 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020481-slow-cooker-chicken-tortellini-tomato-soup
 image: "[[attachments/Slow-Cooker Chicken Tortellini Tomato Soup.jpg]]"

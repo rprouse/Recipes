@@ -3,7 +3,7 @@ tags: [sides, quick, sheet-pan, weeknight, vegetarian]
 title: Sheet-Pan Bibimbap
 author: Eric Kim
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022131-sheet-pan-bibimbap
 image: "[[attachments/Sheet-Pan Bibimbap.jpg]]"

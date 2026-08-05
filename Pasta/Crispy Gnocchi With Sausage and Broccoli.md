@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, sheet-pan, weeknight, make-again]
 title: Crispy Gnocchi With Sausage and Broccoli
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025733-crispy-gnocchi-with-sausage-and-broccoli
 image: "[[attachments/Crispy Gnocchi With Sausage and Broccoli.jpg]]"

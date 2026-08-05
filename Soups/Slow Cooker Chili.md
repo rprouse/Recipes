@@ -3,7 +3,7 @@ tags: [soups, freezer-friendly, great-leftovers, slow-cooker, weeknight, winter]
 title: Slow Cooker Chili
 author: Sarah DiGregorio
 servings: 6 to 8 servings
-time: 
+time: 4 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019903-slow-cooker-chili
 image: "[[attachments/Slow Cooker Chili.jpg]]"

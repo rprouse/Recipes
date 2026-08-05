@@ -3,7 +3,7 @@ tags: [bbq, freezer-friendly, great-leftovers, slow-cooker]
 title: Slow Cooker BBQ Pulled Pork
 author: Margaux Laskey
 servings: 6 to 8 servings
-time: 
+time: 10 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020497-slow-cooker-bbq-pulled-pork
 image: "[[attachments/Slow Cooker BBQ Pulled Pork.jpg]]"

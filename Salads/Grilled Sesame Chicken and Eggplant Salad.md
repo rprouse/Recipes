@@ -3,7 +3,7 @@ tags: [salads, summer]
 title: Grilled Sesame Chicken and Eggplant Salad
 author: David Tanis
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12677-grilled-sesame-chicken-and-eggplant-salad
 image: "[[attachments/Grilled Sesame Chicken and Eggplant Salad.jpg]]"

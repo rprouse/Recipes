@@ -3,7 +3,7 @@ tags: [pork, great-leftovers, slow-cooker]
 title: Slow-Cooker Goan Pork Vindaloo
 author: Sarah DiGregorio
 servings: 4 to 6 servings
-time: 
+time: 5 hours 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022802-slow-cooker-goan-pork-vindaloo
 image: "[[attachments/Slow-Cooker Goan Pork Vindaloo.jpg]]"

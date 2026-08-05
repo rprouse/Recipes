@@ -3,7 +3,7 @@ tags: [salads, vegan]
 title: Gajjara Kosambari (Carrot Salad)
 author: Tejal Rao
 servings: 2 cups
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020909-gajjara-kosambari-carrot-salad
 image: "[[attachments/Gajjara Kosambari (Carrot Salad).jpg]]"

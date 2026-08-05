@@ -3,7 +3,7 @@ tags: [soups, easy, great-leftovers, one-pot, winter]
 title: Kale Soup With Potatoes and Sausage
 author: Molly O’Neill
 servings: 4 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/7416-kale-soup-with-potatoes-and-sausage
 image: "[[attachments/Kale Soup With Potatoes and Sausage.jpg]]"

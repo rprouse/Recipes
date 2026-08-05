@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, sheet-pan, weeknight]
 title: Miso-Maple Sheet-Pan Chicken With Brussels Sprouts
 author: Carolina Gelen
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025873-miso-maple-sheet-pan-chicken-with-brussels-sprouts
 image: "[[attachments/Miso-Maple Sheet-Pan Chicken With Brussels Sprouts.jpg]]"

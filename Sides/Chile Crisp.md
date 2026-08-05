@@ -3,7 +3,7 @@ tags: [sides]
 title: Chile Crisp
 author: Genevieve Ko
 servings: 1 cups
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022366-chile-crisp
 image: "[[attachments/Chile Crisp.jpg]]"

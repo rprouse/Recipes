@@ -3,7 +3,7 @@ tags: [pasta, easy, one-pot, quick, weeknight, vegetarian]
 title: One-Pot Pasta With Ricotta and Lemon
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020290-one-pot-pasta-with-ricotta-and-lemon
 image: "[[attachments/One-Pot Pasta With Ricotta and Lemon.jpg]]"

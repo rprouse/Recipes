@@ -3,7 +3,7 @@ tags: [noodles, budget, easy, quick]
 title: Ramen
 author: Jeff Gordinier
 servings: 1 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016583-perfect-instant-ramen
 image: "[[attachments/Ramen.jpg]]"

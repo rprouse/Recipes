@@ -3,7 +3,7 @@ tags: [sides, easy, vegan]
 title: Guacamole
 author: Florence Fabricant
 servings: 2 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1008-guacamole
 image: "[[attachments/Guacamole.jpg]]"

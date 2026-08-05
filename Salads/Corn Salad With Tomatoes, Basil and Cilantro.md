@@ -3,7 +3,7 @@ tags: [salads, easy, quick, summer, weeknight, vegan]
 title: Corn Salad With Tomatoes, Basil and Cilantro
 author: Genevieve Ko
 servings: 4 to 6 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023332-corn-salad-with-tomatoes-basil-and-cilantro
 image: "[[attachments/Corn Salad With Tomatoes, Basil and Cilantro.jpg]]"

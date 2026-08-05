@@ -3,7 +3,7 @@ tags: [salads, easy, one-pot, quick, summer]
 title: Pan-Roasted Corn and Tomato Salad
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012731-pan-roasted-corn-and-tomato-salad
 image: "[[attachments/Pan-Roasted Corn and Tomato Salad.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, weeknight, vegetarian]
 title: Kale Salad With Cranberries, Pecans and Blue Cheese
 author: Sam Sifton
 servings: 
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020002-kale-salad-with-cranberries-pecans-and-blue-cheese
 image: "[[attachments/Kale Salad With Cranberries, Pecans and Blue Cheese.jpg]]"

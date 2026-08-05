@@ -3,7 +3,7 @@ tags: [soups, easy, summer, weeknight]
 title: Best Gazpacho
 author: Julia Moskin
 servings: 8 to 12 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017577-best-gazpacho
 image: "[[attachments/Best Gazpacho.jpg]]"

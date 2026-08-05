@@ -3,7 +3,7 @@ tags: [mexican, easy, make-ahead, quick, summer, weeknight, vegetarian]
 title: Corn Quesadillas
 author: Kayla Hoang
 servings: 8 quesadillas
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027272-corn-quesadillas
 image: "[[attachments/Corn Quesadillas.jpg]]"

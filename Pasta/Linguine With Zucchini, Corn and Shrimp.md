@@ -8,7 +8,7 @@ tags:
 title: Linguine With Zucchini, Corn and Shrimp
 author: Dan Pelosi
 servings: 4 to 6 servings
-time:
+time: 30 minutes
 date: 2026-06-11 Thursday
 link: https://cooking.nytimes.com/recipes/1025379-linguine-with-zucchini-corn-and-shrimp
 image: attachments/Linguine With Zucchini, Corn and Shrimp.jpg

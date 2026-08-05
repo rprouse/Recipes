@@ -3,7 +3,7 @@ tags: [desserts, fall, make-ahead, winter]
 title: Oatmeal-Raisin Cookies
 author: Melissa Clark
 servings: 36 cookies
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018658-classic-oatmeal-raisin-cookies
 image: "[[attachments/Oatmeal-Raisin Cookies.jpg]]"

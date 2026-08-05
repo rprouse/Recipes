@@ -3,7 +3,7 @@ tags: [noodles, summer, weeknight, vegetarian]
 title: Cold Noodle Salad With Spicy Peanut Sauce
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022329-cold-noodle-salad-with-spicy-peanut-sauce
 image: "[[attachments/Cold Noodle Salad With Spicy Peanut Sauce.jpg]]"

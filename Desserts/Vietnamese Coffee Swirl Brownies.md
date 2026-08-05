@@ -3,7 +3,7 @@ tags: [desserts, freezer-friendly, make-ahead, vegetarian]
 title: Vietnamese Coffee Swirl Brownies
 author: Melissa Clark
 servings: 16 brownies
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027498-vietnamese-coffee-swirl-brownies
 image: "[[attachments/Vietnamese Coffee Swirl Brownies.jpg]]"

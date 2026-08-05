@@ -3,7 +3,7 @@ tags: [seafood, easy, party, quick, summer, weeknight]
 title: Coconut-Dill Salmon With Green Beans and Corn
 author: Yewande Komolafe
 servings: 6 to 8 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024460-coconut-dill-salmon-with-green-beans-and-corn
 image: "[[attachments/Coconut-Dill Salmon With Green Beans and Corn.jpg]]"

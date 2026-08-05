@@ -3,7 +3,7 @@ tags: [mexican, freezer-friendly, great-leftovers, make-ahead, vegetarian]
 title: Crispy Potato Tacos
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024397-crispy-potato-tacos
 image: "[[attachments/Crispy Potato Tacos.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, easy, summer, weeknight]
 title: Spicy Watermelon Salad With Pineapple and Lime
 author: Alexa Weibel
 servings: 6 to 8 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020374-spicy-watermelon-salad-with-pineapple-and-lime
 image: "[[attachments/Spicy Watermelon Salad With Pineapple and Lime.jpg]]"

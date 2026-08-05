@@ -3,7 +3,7 @@ tags: [soups, great-leftovers]
 title: Firehouse Chili Gumbo
 author: Sam Sifton
 servings: 8 to 10 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018961-firehouse-chili-gumbo
 image: "[[attachments/Firehouse Chili Gumbo.jpg]]"

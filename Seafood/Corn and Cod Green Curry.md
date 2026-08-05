@@ -3,7 +3,7 @@ tags: [seafood, easy, one-pot, quick, weeknight]
 title: Corn and Cod Green Curry
 author: Ali Slagle
 servings: 4 to 6 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025363-corn-and-cod-green-curry
 image: "[[attachments/Corn and Cod Green Curry.jpg]]"

@@ -3,7 +3,7 @@ tags: [vegetarian, easy, quick, weeknight]
 title: Cumin and Cashew Yogurt Rice
 author: Priya Krishna
 servings: 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024605-cumin-and-cashew-yogurt-rice
 image: "[[attachments/Cumin and Cashew Yogurt Rice.jpg]]"

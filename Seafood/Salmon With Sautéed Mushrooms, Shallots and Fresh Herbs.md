@@ -3,7 +3,7 @@ tags: [seafood]
 title: Salmon With Sautéed Mushrooms, Shallots and Fresh Herbs
 author: Martha Rose Shulman
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016487-salmon-with-sauteed-mushrooms-shallots-and-fresh-herbs
 image: "[[attachments/Salmon With Sautéed Mushrooms, Shallots and Fresh Herbs.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, vegetarian]
 title: Tomato Salad With Chickpeas and Feta
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022451-tomato-salad-with-chickpeas-and-feta
 image: "[[attachments/Tomato Salad With Chickpeas and Feta.jpg]]"

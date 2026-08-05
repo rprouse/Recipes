@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: Tajín Grilled Chicken
 author: Rick A. Martínez
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023145-tajin-grilled-chicken
 image: "[[attachments/Tajín Grilled Chicken.jpg]]"

@@ -3,7 +3,7 @@ tags: [pasta]
 title: Mapo Ragù
 author: Sam Sifton
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018404-mapo-ragu
 image: "[[attachments/Mapo Ragù.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, easy, one-pot, quick, summer, weeknight]
 title: Dijon Chicken With Tomatoes and Scallions
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027150-dijon-chicken-with-tomatoes-and-scallions
 image: "[[attachments/Dijon Chicken With Tomatoes and Scallions.jpg]]"

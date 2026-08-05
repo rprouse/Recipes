@@ -3,7 +3,7 @@ tags: [pork]
 title: Schnitzel
 author: J. Kenji López-Alt
 servings: 4 servings
-time: 
+time: 8 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021973-schnitzel
 image: "[[attachments/Schnitzel.jpg]]"

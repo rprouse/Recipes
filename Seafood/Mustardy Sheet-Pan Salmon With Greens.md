@@ -3,7 +3,7 @@ tags: [seafood, easy, quick, sheet-pan, weeknight]
 title: Mustardy Sheet-Pan Salmon With Greens
 author: Sohla El-Waylly
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027227-mustardy-sheet-pan-salmon-with-greens
 image: "[[attachments/Mustardy Sheet-Pan Salmon With Greens.jpg]]"

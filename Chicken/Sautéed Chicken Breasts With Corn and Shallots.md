@@ -3,7 +3,7 @@ tags: [chicken, quick, summer]
 title: Sautéed Chicken Breasts With Corn and Shallots
 author: Pierre Franey
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/2321-sauteed-chicken-breasts-with-corn-and-shallots
 image: "[[attachments/Sautéed Chicken Breasts With Corn and Shallots.jpg]]"

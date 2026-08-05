@@ -3,7 +3,7 @@ tags: [breakfast, easy, make-ahead, quick, weeknight]
 title: Egg Muffins
 author: Lidey Heuck
 servings: 12 egg muffins
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026058-egg-muffins
 image: "[[attachments/Egg Muffins.jpg]]"

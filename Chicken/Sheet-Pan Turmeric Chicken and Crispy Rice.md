@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, sheet-pan, weeknight]
 title: Sheet-Pan Turmeric Chicken and Crispy Rice
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 1 hour 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025011-sheet-pan-turmeric-chicken-and-crispy-rice
 image: "[[attachments/Sheet-Pan Turmeric Chicken and Crispy Rice.jpg]]"

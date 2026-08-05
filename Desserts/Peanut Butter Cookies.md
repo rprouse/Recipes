@@ -3,7 +3,7 @@ tags: [desserts]
 title: Peanut Butter Cookies
 author: Kim Severson
 servings: 48 cookies
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012666-peanut-butter-cookies
 image: "[[attachments/Peanut Butter Cookies.jpg]]"

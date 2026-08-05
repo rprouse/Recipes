@@ -3,7 +3,7 @@ tags: [baking, easy]
 title: Brown Butter Skillet Cornbread
 author: Melissa Clark
 servings: 12 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread
 image: "[[attachments/Brown Butter Skillet Cornbread.jpg]]"

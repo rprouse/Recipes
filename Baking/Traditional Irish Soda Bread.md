@@ -3,7 +3,7 @@ tags: [baking]
 title: Traditional Irish Soda Bread
 author: Melissa Clark
 servings: 1 loaf
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015683-traditional-irish-soda-bread
 image: "[[attachments/Traditional Irish Soda Bread.jpg]]"

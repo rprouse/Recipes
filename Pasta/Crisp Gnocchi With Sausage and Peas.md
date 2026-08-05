@@ -3,7 +3,7 @@ tags: [pasta, easy, one-pot, quick, spring, weeknight, make-again]
 title: Crisp Gnocchi With Sausage and Peas
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024164-crisp-gnocchi-with-sausage-and-peas
 image: "[[attachments/Crisp Gnocchi With Sausage and Peas.jpg]]"

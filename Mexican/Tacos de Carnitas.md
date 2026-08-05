@@ -3,7 +3,7 @@ tags: [mexican]
 title: Tacos de Carnitas
 author: Kim Severson
 servings: 6 to 8 servings
-time: 
+time: 2 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012463-tacos-de-carnitas
 image: "[[attachments/Tacos de Carnitas.jpg]]"

@@ -3,7 +3,7 @@ tags: [baking]
 title: Sourdough English Muffins
 author: Laurie Ellen Pellicano
 servings: 8 to 10 4-inch muffins
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021551-sourdough-english-muffins
 image: "[[attachments/Sourdough English Muffins.jpg]]"

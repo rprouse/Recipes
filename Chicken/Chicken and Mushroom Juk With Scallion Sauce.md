@@ -3,7 +3,7 @@ tags: [chicken]
 title: Chicken and Mushroom Juk With Scallion Sauce
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 4 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021777-chicken-and-mushroom-juk-with-scallion-sauce
 image: "[[attachments/Chicken and Mushroom Juk With Scallion Sauce.jpg]]"

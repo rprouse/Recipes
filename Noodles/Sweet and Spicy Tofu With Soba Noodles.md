@@ -3,7 +3,7 @@ tags: [noodles, weeknight, vegetarian]
 title: Sweet and Spicy Tofu With Soba Noodles
 author: Sarah Copeland
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019471-sweet-and-spicy-tofu-with-soba-noodles
 image: "[[attachments/Sweet and Spicy Tofu With Soba Noodles.jpg]]"

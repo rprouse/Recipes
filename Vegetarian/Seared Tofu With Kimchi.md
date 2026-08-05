@@ -3,7 +3,7 @@ tags: [vegetarian, easy, one-pot, quick, weeknight, vegan]
 title: Seared Tofu With Kimchi
 author: Sue Li
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025987-seared-tofu-with-kimchi
 image: "[[attachments/Seared Tofu With Kimchi.jpg]]"

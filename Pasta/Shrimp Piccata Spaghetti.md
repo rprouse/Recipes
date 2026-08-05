@@ -3,7 +3,7 @@ tags: [pasta, weeknight]
 title: Shrimp Piccata Spaghetti
 author: Kay Chun
 servings: 4 to 6 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023071-shrimp-piccata-spaghetti
 image: "[[attachments/Shrimp Piccata Spaghetti.jpg]]"

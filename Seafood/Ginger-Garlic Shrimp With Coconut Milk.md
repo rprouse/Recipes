@@ -3,7 +3,7 @@ tags: [seafood, weeknight]
 title: Ginger-Garlic Shrimp With Coconut Milk
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023206-ginger-garlic-shrimp-with-coconut-milk
 image: "[[attachments/Ginger-Garlic Shrimp With Coconut Milk.jpg]]"

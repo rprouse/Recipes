@@ -3,7 +3,7 @@ tags: [pasta, freezer-friendly, vegetarian]
 title: Creamy Baked Macaroni and Cheese
 author: Eric Kim
 servings: 6 to 8 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022733-creamy-baked-macaroni-and-cheese
 image: "[[attachments/Creamy Baked Macaroni and Cheese.jpg]]"

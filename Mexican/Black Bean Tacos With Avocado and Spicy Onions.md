@@ -3,7 +3,7 @@ tags: [mexican, weeknight, vegan]
 title: Black Bean Tacos With Avocado and Spicy Onions
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020744-black-bean-tacos-with-avocado-and-spicy-onions
 image: "[[attachments/Black Bean Tacos With Avocado and Spicy Onions.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides]
 title: Salsa Fresca
 author: Martha Rose Shulman
 servings: 2 cups
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018098-salsa-fresca
 image: "[[attachments/Salsa Fresca.jpg]]"

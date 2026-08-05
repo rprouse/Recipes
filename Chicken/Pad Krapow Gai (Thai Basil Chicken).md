@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: Pad Krapow Gai (Thai Basil Chicken)
 author: Alexa Weibel
 servings: 2 to 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023437-pad-krapow-gai-thai-basil-chicken
 image: "[[attachments/Pad Krapow Gai (Thai Basil Chicken).jpg]]"

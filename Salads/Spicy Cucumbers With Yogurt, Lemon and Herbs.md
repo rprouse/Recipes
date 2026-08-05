@@ -3,7 +3,7 @@ tags: [salads, easy, summer, vegetarian]
 title: Spicy Cucumbers With Yogurt, Lemon and Herbs
 author: Yewande Komolafe
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021278-spicy-cucumbers-with-yogurt-lemon-and-herbs
 image: "[[attachments/Spicy Cucumbers With Yogurt, Lemon and Herbs.jpg]]"

@@ -3,7 +3,7 @@ tags: [baking]
 title: Homemade Pita Bread
 author: David Tanis
 servings: 8 6-inch breads
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread
 image: "[[attachments/Homemade Pita Bread.jpg]]"

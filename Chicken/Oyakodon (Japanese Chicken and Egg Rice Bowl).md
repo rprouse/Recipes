@@ -3,7 +3,7 @@ tags: [chicken, quick, weeknight]
 title: Oyakodon (Japanese Chicken and Egg Rice Bowl)
 author: Hannah Kirshner
 servings: 2 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019431-oyakodon-japanese-chicken-and-egg-rice-bowl
 image: "[[attachments/Oyakodon (Japanese Chicken and Egg Rice Bowl).jpg]]"

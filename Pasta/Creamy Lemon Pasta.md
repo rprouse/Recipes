@@ -3,7 +3,7 @@ tags: [pasta, easy, fall, quick]
 title: Creamy Lemon Pasta
 author: Kafka, Barbara
 servings: 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/8355-creamy-lemon-pasta
 image: "[[attachments/Creamy Lemon Pasta.jpg]]"

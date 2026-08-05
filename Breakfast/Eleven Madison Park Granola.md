@@ -3,7 +3,7 @@ tags: [breakfast, easy, vegetarian]
 title: Eleven Madison Park Granola
 author: Sam Sifton
 servings: 6 cups
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014304-eleven-madison-park-granola
 image: "[[attachments/Eleven Madison Park Granola.jpg]]"

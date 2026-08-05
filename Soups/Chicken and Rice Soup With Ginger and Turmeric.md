@@ -3,7 +3,7 @@ tags: [soups]
 title: Chicken and Rice Soup With Ginger and Turmeric
 author: Alexa Weibel
 servings: 8 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020776-chicken-and-rice-soup-with-ginger-and-turmeric
 image: "[[attachments/Chicken and Rice Soup With Ginger and Turmeric.jpg]]"

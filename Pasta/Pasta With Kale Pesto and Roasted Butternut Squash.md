@@ -3,7 +3,7 @@ tags: [pasta, easy, fall, one-pot, vegetarian]
 title: Pasta With Kale Pesto and Roasted Butternut Squash
 author: Melissa Clark
 servings: 2 to 3 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012888-pasta-with-kale-pesto-and-roasted-butternut-squash
 image: "[[attachments/Pasta With Kale Pesto and Roasted Butternut Squash.jpg]]"

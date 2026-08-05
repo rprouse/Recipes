@@ -3,7 +3,7 @@ tags: [salads, easy, quick, spring, summer, weeknight, vegetarian]
 title: Feta-Ranch Wedge Salad
 author: Alexa Weibel
 servings: 4 to 8 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027066-feta-ranch-wedge-salad
 image: "[[attachments/Feta-Ranch Wedge Salad.jpg]]"

@@ -3,7 +3,7 @@ tags: [snacks, vegan]
 title: Roasted Garlic and White Bean Dip With Rosemary
 author: Sarah Jampel
 servings: 8 to 10 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019746-roasted-garlic-and-white-bean-dip-with-rosemary
 image: "[[attachments/Roasted Garlic and White Bean Dip With Rosemary.jpg]]"

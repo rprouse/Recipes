@@ -3,7 +3,7 @@ tags: [sides, summer, vegan]
 title: Bread-and-Butter Pickles
 author: Melissa Clark
 servings: 1 quart
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12579-bread-and-butter-pickles
 image: "[[attachments/Bread-and-Butter Pickles.jpg]]"

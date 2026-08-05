@@ -3,7 +3,7 @@ tags: [snacks, easy, quick]
 title: Cheddar Scallion Dip
 author: Melissa Clark
 servings: 1 cup
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016781-cheddar-scallion-dip
 image: "[[attachments/Cheddar Scallion Dip.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides]
 title: Roasted Cauliflower With Pancetta, Olives and Crisp Parmesan
 author: Melissa Clark
 servings: 2 main-dish servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021536-roasted-cauliflower-with-pancetta-olives-and-crisp-parmesan
 image: "[[attachments/Roasted Cauliflower With Pancetta, Olives and Crisp Parmesan.jpg]]"

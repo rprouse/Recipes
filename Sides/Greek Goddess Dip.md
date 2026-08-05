@@ -3,7 +3,7 @@ tags: [sides, easy, quick]
 title: Greek Goddess Dip
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013024-greek-goddess-dip
 image: "[[attachments/Greek Goddess Dip.jpg]]"

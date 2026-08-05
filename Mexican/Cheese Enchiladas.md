@@ -3,7 +3,7 @@ tags: [mexican, freezer-friendly]
 title: Cheese Enchiladas
 author: Bryan Washington
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023152-cheese-enchiladas
 image: "[[attachments/Cheese Enchiladas.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, great-leftovers, weeknight]
 title: Coconut Chicken Curry
 author: Genevieve Ko
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry
 image: "[[attachments/Coconut Chicken Curry.jpg]]"

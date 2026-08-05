@@ -3,7 +3,7 @@ tags: [chicken, fall, winter]
 title: Cider-Braised Chicken Thighs With Apples and Greens
 author: Lidey Heuck
 servings: 4 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020636-cider-braised-chicken-thighs-with-apples-and-greens
 image: "[[attachments/Cider-Braised Chicken Thighs With Apples and Greens.jpg]]"

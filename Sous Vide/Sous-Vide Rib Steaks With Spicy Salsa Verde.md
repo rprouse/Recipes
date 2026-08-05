@@ -3,7 +3,7 @@ tags: [sous-vide, fall, spring, summer, winter]
 title: Sous-Vide Rib Steaks With Spicy Salsa Verde
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020301-sous-vide-rib-steaks-with-spicy-salsa-verde
 image: "[[attachments/Sous-Vide Rib Steaks With Spicy Salsa Verde.jpg]]"

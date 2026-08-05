@@ -3,7 +3,7 @@ tags: [noodles, weeknight]
 title: Dan Dan Noodles
 author: Genevieve Ko
 servings: 4 to 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027503-dan-dan-noodles
 image: "[[attachments/Dan Dan Noodles.jpg]]"

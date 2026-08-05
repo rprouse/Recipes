@@ -3,7 +3,7 @@ tags: [bbq, fall, summer]
 title: Smoked Chicken Wings
 author: Sam Sifton
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018138-smoked-chicken-wings
 image: "[[attachments/Smoked Chicken Wings.jpg]]"

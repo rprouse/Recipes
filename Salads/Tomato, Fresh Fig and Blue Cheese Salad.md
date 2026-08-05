@@ -3,7 +3,7 @@ tags: [salads, easy, quick, summer]
 title: Tomato, Fresh Fig and Blue Cheese Salad
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12663-tomato-fresh-fig-and-blue-cheese-salad
 image: "[[attachments/Tomato, Fresh Fig and Blue Cheese Salad.jpg]]"

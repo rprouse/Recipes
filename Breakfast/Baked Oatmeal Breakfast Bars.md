@@ -3,7 +3,7 @@ tags: [breakfast, easy, freezer-friendly, great-leftovers, make-ahead, quick, ve
 title: Baked Oatmeal Breakfast Bars
 author: Samantha Seneviratne
 servings: 16 bars
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026482-baked-oatmeal-breakfast-bars
 image: "[[attachments/Baked Oatmeal Breakfast Bars.jpg]]"

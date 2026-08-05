@@ -3,7 +3,7 @@ tags: [pasta, easy, one-pot, quick, summer, weeknight, vegan]
 title: One-Pot Ratatouille Pasta
 author: Vivian Chan-Tam
 servings: 4 to 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025450-one-pot-ratatouille-pasta
 image: "[[attachments/One-Pot Ratatouille Pasta.jpg]]"

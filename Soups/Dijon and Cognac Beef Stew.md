@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, winter]
 title: Dijon and Cognac Beef Stew
 author: Regina Schrambling
 servings: 4 to 6 servings
-time: 
+time: 3 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017085-dijon-and-cognac-beef-stew
 image: "[[attachments/Dijon and Cognac Beef Stew.jpg]]"

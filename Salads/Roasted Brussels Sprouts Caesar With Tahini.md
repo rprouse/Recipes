@@ -3,7 +3,7 @@ tags: [salads, easy, fall, sheet-pan, weeknight, winter, vegetarian]
 title: Roasted Brussels Sprouts Caesar With Tahini
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025950-roasted-brussels-sprouts-caesar-with-tahini
 image: "[[attachments/Roasted Brussels Sprouts Caesar With Tahini.jpg]]"

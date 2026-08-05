@@ -3,7 +3,7 @@ tags: [sides]
 title: Jerk Seasoning
 author: Mark Bittman
 servings: cup
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/10606-jerk-seasoning
 image: "[[attachments/Jerk Seasoning.jpg]]"

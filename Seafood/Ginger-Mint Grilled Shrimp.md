@@ -3,7 +3,7 @@ tags: [seafood]
 title: Ginger-Mint Grilled Shrimp
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022336-ginger-mint-grilled-shrimp
 image: "[[attachments/Ginger-Mint Grilled Shrimp.jpg]]"

@@ -3,7 +3,7 @@ tags: [soups, quick, weeknight, winter, vegan]
 title: Brothy Thai Curry With Silken Tofu and Herbs
 author: Yewande Komolafe
 servings: 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022862-brothy-thai-curry-with-silken-tofu-and-herbs
 image: "[[attachments/Brothy Thai Curry With Silken Tofu and Herbs.jpg]]"

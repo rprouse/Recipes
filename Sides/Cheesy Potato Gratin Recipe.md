@@ -3,7 +3,7 @@ tags: [sides]
 title: Cheesy Potato Gratin Recipe
 author: Emily Weinstein
 servings: 6 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017724-cheesy-hasselback-potato-gratin
 image: "[[attachments/Cheesy Potato Gratin Recipe.jpg]]"

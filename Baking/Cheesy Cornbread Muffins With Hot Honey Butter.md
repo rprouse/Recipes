@@ -3,7 +3,7 @@ tags: [baking, great-leftovers]
 title: Cheesy Cornbread Muffins With Hot Honey Butter
 author: Alexa Weibel
 servings: 12 muffins
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020775-cheesy-cornbread-muffins-with-hot-honey-butter
 image: "[[attachments/Cheesy Cornbread Muffins With Hot Honey Butter.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken]
 title: Lemon-Pepper Chicken Wings
 author: Eric Kim
 servings: 4 appetizer servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022848-lemon-pepper-chicken-wings
 image: "[[attachments/Lemon-Pepper Chicken Wings.jpg]]"

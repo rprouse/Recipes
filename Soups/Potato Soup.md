@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, winter]
 title: Potato Soup
 author: Naz Deravian
 servings: 6 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024500-potato-soup
 image: "[[attachments/Potato Soup.jpg]]"

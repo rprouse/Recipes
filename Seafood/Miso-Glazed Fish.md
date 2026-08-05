@@ -3,7 +3,7 @@ tags: [seafood, easy]
 title: Miso-Glazed Fish
 author: Martha Rose Shulman
 servings: 4 servings
-time: 
+time: 3 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015115-miso-glazed-fish
 image: "[[attachments/Miso-Glazed Fish.jpg]]"

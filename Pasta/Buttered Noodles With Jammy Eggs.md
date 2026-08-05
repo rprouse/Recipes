@@ -3,7 +3,7 @@ tags: [pasta, budget, easy, quick, weeknight, vegetarian]
 title: Buttered Noodles With Jammy Eggs
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025470-buttered-noodles-with-jammy-eggs
 image: "[[attachments/Buttered Noodles With Jammy Eggs.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides, easy, party, vegetarian]
 title: Hot Honey Baked Sweet Potatoes
 author: Eric Kim
 servings: 8 servings
-time: 
+time: 1 hour 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026387-hot-honey-baked-sweet-potatoes
 image: "[[attachments/Hot Honey Baked Sweet Potatoes.jpg]]"

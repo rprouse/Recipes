@@ -3,7 +3,7 @@ tags: [chicken, one-pot]
 title: Chicken Breasts With Tomatoes and Capers
 author: Pierre Franey
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/4406-chicken-breasts-with-tomatoes-and-capers
 image: "[[attachments/Chicken Breasts With Tomatoes and Capers.jpg]]"

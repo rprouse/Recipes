@@ -3,7 +3,7 @@ tags: [breakfast]
 title: Indian-Spiced Tomato and Egg Casserole
 author: Melissa Clark
 servings: 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016158-indian-spiced-tomato-and-egg-casserole
 image: "[[attachments/Indian-Spiced Tomato and Egg Casserole.jpg]]"

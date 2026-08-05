@@ -3,7 +3,7 @@ tags: [noodles, vegetarian]
 title: Singapore Noodles With Charred Scallions
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022564-singapore-noodles-with-charred-scallions
 image: "[[attachments/Singapore Noodles With Charred Scallions.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, summer, vegan]
 title: Green Beans, Corn and Carrot Salad
 author: Melissa Clark
 servings: 6 to 8 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014799-green-beans-corn-and-carrot-salad
 image: "[[attachments/Green Beans, Corn and Carrot Salad.jpg]]"

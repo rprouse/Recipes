@@ -3,7 +3,7 @@ tags: [noodles, quick, weeknight, make-again]
 title: Spicy Sesame Noodles With Chicken and Peanuts
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts
 image: "[[attachments/Spicy Sesame Noodles With Chicken and Peanuts.jpg]]"

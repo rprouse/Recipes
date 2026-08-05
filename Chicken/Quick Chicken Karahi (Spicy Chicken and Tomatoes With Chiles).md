@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: Quick Chicken Karahi (Spicy Chicken and Tomatoes With Chiles)
 author: Zainab Shah
 servings: 2 to 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023370-quick-chicken-karahi-spicy-chicken-and-tomatoes-with-chiles
 image: "[[attachments/Quick Chicken Karahi (Spicy Chicken and Tomatoes With Chiles).jpg]]"

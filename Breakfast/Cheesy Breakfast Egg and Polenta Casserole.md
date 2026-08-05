@@ -3,7 +3,7 @@ tags: [breakfast, great-leftovers]
 title: Cheesy Breakfast Egg and Polenta Casserole
 author: Sarah Copeland
 servings: 8 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019766-cheesy-breakfast-egg-and-polenta-casserole
 image: "[[attachments/Cheesy Breakfast Egg and Polenta Casserole.jpg]]"

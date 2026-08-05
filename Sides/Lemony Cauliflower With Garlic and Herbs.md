@@ -3,7 +3,7 @@ tags: [sides, fall, winter, vegan]
 title: Lemony Cauliflower With Garlic and Herbs
 author: Melissa Clark
 servings: 8 to 10 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020617-lemony-cauliflower-with-garlic-and-herbs
 image: "[[attachments/Lemony Cauliflower With Garlic and Herbs.jpg]]"

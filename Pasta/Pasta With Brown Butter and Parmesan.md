@@ -3,7 +3,7 @@ tags: [pasta, budget, easy, quick, weeknight, vegetarian]
 title: Pasta With Brown Butter and Parmesan
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019980-pasta-with-brown-butter-and-parmesan
 image: "[[attachments/Pasta With Brown Butter and Parmesan.jpg]]"

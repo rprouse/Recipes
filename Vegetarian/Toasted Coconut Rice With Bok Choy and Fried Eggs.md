@@ -3,7 +3,7 @@ tags: [vegetarian, budget, weeknight]
 title: Toasted Coconut Rice With Bok Choy and Fried Eggs
 author: Genevieve Ko
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019494-toasted-coconut-rice-with-bok-choy-and-fried-eggs
 image: "[[attachments/Toasted Coconut Rice With Bok Choy and Fried Eggs.jpg]]"

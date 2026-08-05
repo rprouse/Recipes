@@ -3,7 +3,7 @@ tags: [beef]
 title: Cast-Iron Steak
 author: Julia Moskin
 servings: 4 to 6 servings, with leftovers
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016334-cast-iron-steak
 image: "[[attachments/Cast-Iron Steak.jpg]]"

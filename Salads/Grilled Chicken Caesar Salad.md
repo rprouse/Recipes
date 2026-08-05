@@ -3,7 +3,7 @@ tags: [salads]
 title: Grilled Chicken Caesar Salad
 author: Florence Fabricant
 servings: 6 servings
-time: 
+time: 2 hours 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017460-grilled-chicken-caesar-salad
 image: "[[attachments/Grilled Chicken Caesar Salad.jpg]]"

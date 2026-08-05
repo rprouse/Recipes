@@ -3,7 +3,7 @@ tags: [noodles]
 title: Thai Red Curry Noodles With Vegetables
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019142-thai-red-curry-noodles-with-vegetables
 image: "[[attachments/Thai Red Curry Noodles With Vegetables.jpg]]"

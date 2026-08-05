@@ -3,7 +3,7 @@ tags: [breakfast, easy]
 title: Creamy Homemade Yogurt
 author: Melissa Clark
 servings: 1 quarts
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017991-creamy-homemade-yogurt
 image: "[[attachments/Creamy Homemade Yogurt.jpg]]"

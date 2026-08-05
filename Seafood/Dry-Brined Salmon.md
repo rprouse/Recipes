@@ -3,7 +3,7 @@ tags: [seafood, easy, weeknight]
 title: Dry-Brined Salmon
 author: J. Kenji López-Alt
 servings: 4 servings
-time: 
+time: 8 hours 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024187-dry-brined-salmon
 image: "[[attachments/Dry-Brined Salmon.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, weeknight, vegan]
 title: Spiced Chickpea Salad With Tahini and Pita Chips
 author: Julia Moskin
 servings: 4 main-course servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips
 image: "[[attachments/Spiced Chickpea Salad With Tahini and Pita Chips.jpg]]"

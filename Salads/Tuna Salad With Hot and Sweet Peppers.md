@@ -3,7 +3,7 @@ tags: [salads, easy, quick, weeknight]
 title: Tuna Salad With Hot and Sweet Peppers
 author: Genevieve Ko
 servings: 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023334-tuna-salad-with-hot-and-sweet-peppers
 image: "[[attachments/Tuna Salad With Hot and Sweet Peppers.jpg]]"

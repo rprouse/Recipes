@@ -3,7 +3,7 @@ tags: [salads, winter, vegan]
 title: Roasted Beet and Winter Squash Salad With Walnuts
 author: Martha Rose Shulman
 servings: 6 servings
-time: 
+time: 1 hour 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12900-roasted-beet-and-winter-squash-salad-with-walnuts
 image: "[[attachments/Roasted Beet and Winter Squash Salad With Walnuts.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides, budget, easy, quick, sheet-pan, weeknight, vegetarian]
 title: Sheet-Pan Grilled Cheese
 author: Ali Slagle
 servings: 4  servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023552-sheet-pan-grilled-cheese
 image: "[[attachments/Sheet-Pan Grilled Cheese.jpg]]"

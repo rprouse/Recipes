@@ -3,7 +3,7 @@ tags: [mexican, easy, quick, weeknight]
 title: Garlicky Shrimp Tacos
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025852-garlicky-shrimp-tacos
 image: "[[attachments/Garlicky Shrimp Tacos.jpg]]"

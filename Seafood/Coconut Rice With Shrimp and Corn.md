@@ -3,7 +3,7 @@ tags: [seafood, easy, one-pot, summer]
 title: Coconut Rice With Shrimp and Corn
 author: Samantha Seneviratne
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022459-coconut-rice-with-shrimp-and-corn
 image: "[[attachments/Coconut Rice With Shrimp and Corn.jpg]]"

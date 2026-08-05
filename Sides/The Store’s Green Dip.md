@@ -3,7 +3,7 @@ tags: [sides, easy, fall, quick, spring, summer]
 title: The Store’s Green Dip
 author: Sam Sifton
 servings: 2 cups
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020427-the-stores-green-dip
 image: "[[attachments/The Store’s Green Dip.jpg]]"

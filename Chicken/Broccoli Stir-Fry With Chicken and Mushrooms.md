@@ -3,7 +3,7 @@ tags: [chicken, easy, one-pot, quick, weeknight]
 title: Broccoli Stir-Fry With Chicken and Mushrooms
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013417-broccoli-stir-fry-with-chicken-and-mushrooms
 image: "[[attachments/Broccoli Stir-Fry With Chicken and Mushrooms.jpg]]"

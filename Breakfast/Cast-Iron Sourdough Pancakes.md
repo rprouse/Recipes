@@ -3,7 +3,7 @@ tags: [breakfast]
 title: Cast-Iron Sourdough Pancakes
 author: Tejal Rao
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018663-cast-iron-sourdough-pancakes
 image: "[[attachments/Cast-Iron Sourdough Pancakes.jpg]]"

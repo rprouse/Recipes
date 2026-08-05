@@ -3,7 +3,7 @@ tags: [salads, budget, easy, quick, weeknight]
 title: Spicy Tuna Salad With Crispy Rice
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024471-spicy-tuna-salad-with-crispy-rice
 image: "[[attachments/Spicy Tuna Salad With Crispy Rice.jpg]]"

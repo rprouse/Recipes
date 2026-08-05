@@ -3,7 +3,7 @@ tags: [pizza]
 title: Sourdough Pizza Dough
 author: Sam Sifton
 servings: 3 pizzas
-time: 
+time: 24 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018030-sourdough-pizza-dough
 image: "[[attachments/Sourdough Pizza Dough.jpg]]"

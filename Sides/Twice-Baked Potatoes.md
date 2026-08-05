@@ -3,7 +3,7 @@ tags: [sides, weeknight]
 title: Twice-Baked Potatoes
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019882-twice-baked-potatoes
 image: "[[attachments/Twice-Baked Potatoes.jpg]]"

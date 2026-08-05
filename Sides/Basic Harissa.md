@@ -3,7 +3,7 @@ tags: [sides]
 title: Basic Harissa
 author: David Tanis
 servings: cup
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016565-basic-harissa
 image: "[[attachments/Basic Harissa.jpg]]"

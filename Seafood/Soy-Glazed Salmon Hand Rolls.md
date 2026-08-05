@@ -3,7 +3,7 @@ tags: [seafood]
 title: Soy-Glazed Salmon Hand Rolls
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023003-soy-glazed-salmon-hand-rolls
 image: "[[attachments/Soy-Glazed Salmon Hand Rolls.jpg]]"

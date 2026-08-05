@@ -3,7 +3,7 @@ tags: [salads, summer]
 title: Garlic Aioli Potato Salad
 author: Melissa Clark
 servings: 8 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017402-garlic-aioli-potato-salad
 image: "[[attachments/Garlic Aioli Potato Salad.jpg]]"

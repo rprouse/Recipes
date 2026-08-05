@@ -3,7 +3,7 @@ tags: [salads, summer, weeknight, vegan]
 title: Turkish Shepherd’s Salad
 author: Martha Rose Shulman
 servings: 6 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12609-turkish-shepherds-salad
 image: "[[attachments/Turkish Shepherd’s Salad.jpg]]"

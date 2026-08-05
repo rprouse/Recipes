@@ -3,7 +3,7 @@ tags: [salads, easy, quick]
 title: Tomato Salad With Red Beans
 author: Martha Rose Shulman
 servings: 6 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017554-tomato-salad-with-red-beans
 image: "[[attachments/Tomato Salad With Red Beans.jpg]]"

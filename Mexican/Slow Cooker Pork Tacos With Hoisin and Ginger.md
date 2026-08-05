@@ -3,7 +3,7 @@ tags: [mexican, slow-cooker]
 title: Slow Cooker Pork Tacos With Hoisin and Ginger
 author: Sam Sifton
 servings: 6 to 8 servings
-time: 
+time: 7 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017230-slow-cooker-pork-tacos-with-hoisin-and-ginger
 image: "[[attachments/Slow Cooker Pork Tacos With Hoisin and Ginger.jpg]]"

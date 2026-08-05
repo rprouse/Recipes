@@ -3,7 +3,7 @@ tags: [seafood, budget, easy, make-ahead, quick, summer, weeknight]
 title: Spicy Tuna and Avocado Tostadas
 author: Kristina Felix
 servings: 6 tostadas
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025611-spicy-tuna-and-avocado-tostadas
 image: "[[attachments/Spicy Tuna and Avocado Tostadas.jpg]]"

@@ -3,7 +3,7 @@ tags: [breakfast, easy, make-ahead]
 title: Overnight Oats
 author: Genevieve Ko
 servings: 2 cups
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019516-overnight-oats
 image: "[[attachments/Overnight Oats.jpg]]"

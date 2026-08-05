@@ -3,7 +3,7 @@ tags: [sides, easy, quick, summer, vegetarian]
 title: Mango Slaw
 author: Millie Peartree
 servings: 3 cups
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021305-mango-slaw
 image: "[[attachments/Mango Slaw.jpg]]"

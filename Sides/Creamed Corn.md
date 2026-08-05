@@ -3,7 +3,7 @@ tags: [sides, budget, summer]
 title: Creamed Corn
 author: Amanda Hesser
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/11675-creamed-corn
 image: "[[attachments/Creamed Corn.jpg]]"

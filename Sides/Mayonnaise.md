@@ -3,7 +3,7 @@ tags: [sides, quick]
 title: Mayonnaise
 author: Melissa Clark
 servings: 1 cup
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12459-mayonnaise
 image: "[[attachments/Mayonnaise.jpg]]"

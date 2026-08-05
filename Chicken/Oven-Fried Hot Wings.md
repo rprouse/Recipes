@@ -3,7 +3,7 @@ tags: [chicken, easy]
 title: Oven-Fried Hot Wings
 author: Eric Kim
 servings: 2 to 4 servings
-time: 
+time: 1 hour 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025750-oven-fried-hot-wings
 image: "[[attachments/Oven-Fried Hot Wings.jpg]]"

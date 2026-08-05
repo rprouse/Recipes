@@ -3,7 +3,7 @@ tags: [breakfast, freezer-friendly, great-leftovers]
 title: Waffles
 author: Melissa Clark
 servings: 10 waffles
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017409-waffles
 image: "[[attachments/Waffles.jpg]]"

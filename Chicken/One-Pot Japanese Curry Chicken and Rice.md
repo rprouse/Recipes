@@ -3,7 +3,7 @@ tags: [chicken, one-pot]
 title: One-Pot Japanese Curry Chicken and Rice
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021201-one-pot-japanese-curry-chicken-and-rice
 image: "[[attachments/One-Pot Japanese Curry Chicken and Rice.jpg]]"

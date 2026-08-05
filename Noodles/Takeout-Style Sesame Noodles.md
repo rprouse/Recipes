@@ -3,7 +3,7 @@ tags: [noodles, easy, quick, summer, vegetarian]
 title: Takeout-Style Sesame Noodles
 author: Sam Sifton
 servings: 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9558-takeout-style-sesame-noodles
 image: "[[attachments/Takeout-Style Sesame Noodles.jpg]]"

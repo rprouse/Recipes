@@ -3,7 +3,7 @@ tags: [sides]
 title: Kimchi
 author: Eric Kim
 servings: gallon
-time: 
+time: 50 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023416-kimchi
 image: "[[attachments/Kimchi.jpg]]"

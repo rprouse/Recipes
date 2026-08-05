@@ -3,7 +3,7 @@ tags: [pasta, easy, one-pot, quick, weeknight, vegetarian]
 title: Crispy Gnocchi With Spinach and Feta
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025701-crispy-gnocchi-with-spinach-and-feta
 image: "[[attachments/Crispy Gnocchi With Spinach and Feta.jpg]]"

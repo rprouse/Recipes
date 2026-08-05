@@ -3,7 +3,7 @@ tags: [salads, easy, quick, weeknight]
 title: Taco Salad
 author: Sohla El-Waylly
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024304-taco-salad
 image: "[[attachments/Taco Salad.jpg]]"

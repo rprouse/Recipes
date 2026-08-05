@@ -3,7 +3,7 @@ tags: [chicken, budget, easy, great-leftovers, slow-cooker, weeknight]
 title: Slow Cooker Tajín Chicken and Peppers
 author: Sarah DiGregorio
 servings: 4 servings
-time: 
+time: 4 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026792-slow-cooker-tajin-chicken-and-peppers
 image: "[[attachments/Slow Cooker Tajín Chicken and Peppers.jpg]]"

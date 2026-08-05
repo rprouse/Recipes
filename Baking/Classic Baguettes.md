@@ -3,7 +3,7 @@ tags: [baking, vegan]
 title: Classic Baguettes
 author: Claire Saffitz
 servings: 3 baguettes
-time: 
+time: 21 hours 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024403-classic-baguettes
 image: "[[attachments/Classic Baguettes.jpg]]"

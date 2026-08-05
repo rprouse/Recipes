@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: Vinegar Chicken With Crushed Olive Dressing
 author: Alison Roman
 servings: 6 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020486-vinegar-chicken-with-crushed-olive-dressing
 image: "[[attachments/Vinegar Chicken With Crushed Olive Dressing.jpg]]"

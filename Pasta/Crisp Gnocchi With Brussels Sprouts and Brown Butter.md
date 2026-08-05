@@ -3,7 +3,7 @@ tags: [pasta, easy, fall, quick, weeknight, winter, make-again]
 title: Crisp Gnocchi With Brussels Sprouts and Brown Butter
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter
 image: "[[attachments/Crisp Gnocchi With Brussels Sprouts and Brown Butter.jpg]]"

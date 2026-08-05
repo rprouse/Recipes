@@ -3,7 +3,7 @@ tags: [salads, easy, make-ahead, quick, summer, vegan]
 title: Tabbouleh
 author: Martha Rose Shulman
 servings: 6 appetizer spread servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012585-tabbouleh
 image: "[[attachments/Tabbouleh.jpg]]"

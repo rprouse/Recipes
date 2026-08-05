@@ -3,7 +3,7 @@ tags: [noodles, easy, quick, weeknight]
 title: Longevity Noodles With Chicken, Ginger and Mushrooms
 author: Julia Moskin
 servings: 2 to 3 main-dish servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013451-longevity-noodles-with-chicken-ginger-and-mushrooms
 image: "[[attachments/Longevity Noodles With Chicken, Ginger and Mushrooms.jpg]]"

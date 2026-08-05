@@ -3,7 +3,7 @@ tags: [snacks]
 title: Stuffed Jalapeños
 author: Sam Sifton
 servings: 6 to 12 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015129-stuffed-jalapenos
 image: "[[attachments/Stuffed Jalapeños.jpg]]"

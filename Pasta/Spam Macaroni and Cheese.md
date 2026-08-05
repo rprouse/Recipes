@@ -3,7 +3,7 @@ tags: [pasta, pork, cheese, comfort-food, great-leftovers]
 title: Spam Macaroni and Cheese
 author: Von Diaz
 servings: 6 servings
-time: 
+time: 30 minutes
 date: 2026-06-24 Wednesday
 link: https://cooking.nytimes.com/recipes/1021436-spam-macaroni-and-cheese
 image: "[[attachments/Spam Macaroni and Cheese.jpg]]"

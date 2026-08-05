@@ -3,7 +3,7 @@ tags: [soups, easy, quick, weeknight]
 title: Easiest Chicken Noodle Soup
 author: Alexa Weibel
 servings: 4 to 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020746-easiest-chicken-noodle-soup
 image: "[[attachments/Easiest Chicken Noodle Soup.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, easy, quick, summer]
 title: Minty Fruit Salad
 author: Mark Bittman
 servings: 
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12558-minty-fruit-salad
 image: "[[attachments/Minty Fruit Salad.jpg]]"

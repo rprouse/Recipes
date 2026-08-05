@@ -3,7 +3,7 @@ tags: [pork, easy, party, quick, weeknight]
 title: Sausage Smash Burgers
 author: Christian Reynoso
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024669-sausage-smash-burgers
 image: "[[attachments/Sausage Smash Burgers.jpg]]"

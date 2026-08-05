@@ -3,7 +3,7 @@ tags: [sides, easy, party, vegetarian]
 title: Aglio e Olio Baked Potatoes
 author: Eric Kim
 servings: 8 servings
-time: 
+time: 1 hour 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026385-aglio-e-olio-baked-potatoes
 image: "[[attachments/Aglio e Olio Baked Potatoes.jpg]]"

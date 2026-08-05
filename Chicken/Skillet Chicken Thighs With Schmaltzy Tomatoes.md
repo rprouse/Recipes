@@ -3,7 +3,7 @@ tags: [chicken, quick, summer, weeknight]
 title: Skillet Chicken Thighs With Schmaltzy Tomatoes
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025619-skillet-chicken-thighs-with-schmaltzy-tomatoes
 image: "[[attachments/Skillet Chicken Thighs With Schmaltzy Tomatoes.jpg]]"

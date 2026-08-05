@@ -3,7 +3,7 @@ tags: [pasta, easy, weeknight, vegetarian]
 title: Blistered Broccoli Pasta With Walnuts, Pecorino and Mint
 author: Dawn Perry
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020997-blistered-broccoli-pasta-with-walnuts-pecorino-and-mint
 image: "[[attachments/Blistered Broccoli Pasta With Walnuts, Pecorino and Mint.jpg]]"

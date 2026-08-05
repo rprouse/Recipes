@@ -3,7 +3,7 @@ tags: [pork, weeknight]
 title: Sausage and Cabbage
 author: Julia Moskin
 servings: 6 servings
-time: 
+time: 3 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1881-sausage-and-cabbage
 image: "[[attachments/Sausage and Cabbage.jpg]]"

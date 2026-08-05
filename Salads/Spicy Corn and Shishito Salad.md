@@ -3,7 +3,7 @@ tags: [salads, fall, summer, weeknight]
 title: Spicy Corn and Shishito Salad
 author: Lidey Heuck
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020414-spicy-corn-and-shishito-salad
 image: "[[attachments/Spicy Corn and Shishito Salad.jpg]]"

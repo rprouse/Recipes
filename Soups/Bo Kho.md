@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, winter]
 title: Bo Kho
 author: David Tanis
 servings: 4 to 6 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019891-bo-kho-vietnamese-braised-beef-stew
 image: "[[attachments/Bo Kho.jpg]]"

@@ -3,7 +3,7 @@ tags: [pasta, easy, one-pot, summer, weeknight, vegetarian, make-again]
 title: One-Pan Orzo With Spinach and Feta
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021485-one-pan-orzo-with-spinach-and-feta
 image: "[[attachments/One-Pan Orzo With Spinach and Feta.jpg]]"

@@ -3,7 +3,7 @@ tags: [breakfast, easy, quick, weeknight, vegetarian]
 title: Huevos Rotos (Broken Eggs)
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020055-huevos-rotos-broken-eggs
 image: "[[attachments/Huevos Rotos (Broken Eggs).jpg]]"

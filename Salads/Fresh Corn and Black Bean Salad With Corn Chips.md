@@ -3,7 +3,7 @@ tags: [salads, easy, make-ahead, quick, summer, weeknight, vegan]
 title: Fresh Corn and Black Bean Salad With Corn Chips
 author: Hetty Lui McKinnon
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027095-fresh-corn-and-black-bean-salad-with-corn-chips
 image: "[[attachments/Fresh Corn and Black Bean Salad With Corn Chips.jpg]]"

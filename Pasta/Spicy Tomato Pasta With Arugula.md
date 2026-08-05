@@ -3,7 +3,7 @@ tags: [pasta, easy, one-pot, quick, weeknight, vegetarian]
 title: Spicy Tomato Pasta With Arugula
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024674-spicy-tomato-pasta-with-arugula
 image: "[[attachments/Spicy Tomato Pasta With Arugula.jpg]]"

@@ -3,7 +3,7 @@ tags: [soups, great-leftovers]
 title: Thai Rice Soup With Pork-Cilantro Meatballs
 author: Julia Moskin
 servings: 6 to 8 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016651-thai-rice-soup-with-pork-cilantro-meatballs
 image: "[[attachments/Thai Rice Soup With Pork-Cilantro Meatballs.jpg]]"

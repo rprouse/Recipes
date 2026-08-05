@@ -3,7 +3,7 @@ tags: [vegetarian, weeknight]
 title: Creamy Farro With Crispy Mushrooms and Sour Cream
 author: Alison Roman
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020774-creamy-farro-with-crispy-mushrooms-and-sour-cream
 image: "[[attachments/Creamy Farro With Crispy Mushrooms and Sour Cream.jpg]]"

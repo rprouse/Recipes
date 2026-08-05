@@ -3,7 +3,7 @@ tags: [soups, spring, winter]
 title: Lemony Chicken Soup With Fennel and Dill
 author: Alison Roman
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020049-lemony-chicken-soup-with-fennel-and-dill
 image: "[[attachments/Lemony Chicken Soup With Fennel and Dill.jpg]]"

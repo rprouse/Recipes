@@ -3,7 +3,7 @@ tags: [beef, summer]
 title: Thin but Juicy Chargrilled Burgers
 author: J. Kenji López-Alt
 servings: 4 burgers
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022400-thin-but-juicy-chargrilled-burgers
 image: "[[attachments/Thin but Juicy Chargrilled Burgers.jpg]]"

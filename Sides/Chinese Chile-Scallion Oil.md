@@ -3,7 +3,7 @@ tags: [sides]
 title: Chinese Chile-Scallion Oil
 author: Julia Moskin
 servings: 
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016203-chinese-chile-scallion-oil
 image: "[[attachments/Chinese Chile-Scallion Oil.jpg]]"

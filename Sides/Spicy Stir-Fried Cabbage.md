@@ -3,7 +3,7 @@ tags: [sides, easy, one-pot, quick, weeknight, vegan]
 title: Spicy Stir-Fried Cabbage
 author: Martha Rose Shulman
 servings: 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013335-spicy-stir-fried-cabbage
 image: "[[attachments/Spicy Stir-Fried Cabbage.jpg]]"

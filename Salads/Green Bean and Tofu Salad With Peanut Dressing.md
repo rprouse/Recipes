@@ -3,7 +3,7 @@ tags: [salads, easy, quick, summer, weeknight, vegetarian]
 title: Green Bean and Tofu Salad With Peanut Dressing
 author: Genevieve Ko
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023335-green-bean-and-tofu-salad-with-peanut-dressing
 image: "[[attachments/Green Bean and Tofu Salad With Peanut Dressing.jpg]]"

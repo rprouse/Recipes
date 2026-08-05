@@ -3,7 +3,7 @@ tags: [pasta, summer, weeknight]
 title: Orzo Salad With Lentils and Zucchini
 author: Ali Slagle
 servings: 4 to 6 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023338-orzo-salad-with-lentils-and-zucchini
 image: "[[attachments/Orzo Salad With Lentils and Zucchini.jpg]]"

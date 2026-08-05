@@ -3,7 +3,7 @@ tags: [seafood, easy, make-ahead, one-pot, party, quick, summer, weeknight]
 title: Madhur Jaffrey’s Goan Shrimp Curry
 author: David Tanis
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027130-madhur-jaffreys-goan-shrimp-curry
 image: "[[attachments/Madhur Jaffrey’s Goan Shrimp Curry.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides, quick, vegan]
 title: Aloo Masala (Spiced Potatoes)
 author: Tejal Rao
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020910-aloo-masala-spiced-potatoes
 image: "[[attachments/Aloo Masala (Spiced Potatoes).jpg]]"

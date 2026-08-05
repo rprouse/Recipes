@@ -3,7 +3,7 @@ tags: [salads, easy, make-ahead, quick, weeknight, vegetarian]
 title: Citrusy Couscous Salad With Broccoli and Feta
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023515-citrusy-couscous-salad-with-broccoli-and-feta
 image: "[[attachments/Citrusy Couscous Salad With Broccoli and Feta.jpg]]"

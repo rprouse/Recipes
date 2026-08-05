@@ -3,7 +3,7 @@ tags: [breakfast, easy, quick, vegetarian]
 title: Scrambled Eggs for a Crowd
 author: Ali Slagle
 servings: 6 to 12 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026273-scrambled-eggs-for-a-crowd
 image: "[[attachments/Scrambled Eggs for a Crowd.jpg]]"

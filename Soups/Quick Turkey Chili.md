@@ -3,7 +3,7 @@ tags: [soups, budget, easy, fall, great-leftovers, make-ahead, one-pot, quick, w
 title: Quick Turkey Chili
 author: Genevieve Ko
 servings: 6 to 8 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027448-quick-turkey-chili
 image: "[[attachments/Quick Turkey Chili.jpg]]"

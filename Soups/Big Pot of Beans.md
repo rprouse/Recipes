@@ -3,7 +3,7 @@ tags: [soups, vegan]
 title: Big Pot of Beans
 author: Melissa Clark
 servings: 6 to 8 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020947-big-pot-of-beans
 image: "[[attachments/Big Pot of Beans.jpg]]"

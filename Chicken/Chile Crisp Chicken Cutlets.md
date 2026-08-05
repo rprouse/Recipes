@@ -3,7 +3,7 @@ tags: [chicken, quick, weeknight]
 title: Chile Crisp Chicken Cutlets
 author: Christian Reynoso
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025207-chile-crisp-chicken-cutlets
 image: "[[attachments/Chile Crisp Chicken Cutlets.jpg]]"

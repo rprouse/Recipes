@@ -3,7 +3,7 @@ tags: [vegetarian, easy, quick, weeknight]
 title: Braised White Beans and Greens With Parmesan
 author: Lidey Heuck
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan
 image: "[[attachments/Braised White Beans and Greens With Parmesan.jpg]]"

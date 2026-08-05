@@ -3,7 +3,7 @@ tags: [baking]
 title: Dosa
 author: Tejal Rao
 servings: 20 to 25 dosa
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020908-dosa
 image: "[[attachments/Dosa.jpg]]"

@@ -3,7 +3,7 @@ tags: [seafood, easy, quick, weeknight]
 title: Hoisin-Peanut Shrimp and Slaw
 author: Ali Slagle
 servings: 6 to 8 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026229-hoisin-peanut-shrimp-and-slaw
 image: "[[attachments/Hoisin-Peanut Shrimp and Slaw.jpg]]"

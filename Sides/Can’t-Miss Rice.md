@@ -3,7 +3,7 @@ tags: [sides]
 title: Can’t-Miss Rice
 author: Kim Severson
 servings: 2 cups
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016673-cant-miss-rice
 image: "[[attachments/Can’t-Miss Rice.jpg]]"

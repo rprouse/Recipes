@@ -3,7 +3,7 @@ tags: [sides, vegetarian]
 title: Aioli With Roasted Vegetables
 author: Melissa Clark
 servings: 8 to 12 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016907-aioli-with-roasted-vegetables
 image: "[[attachments/Aioli With Roasted Vegetables.jpg]]"

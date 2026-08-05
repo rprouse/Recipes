@@ -3,7 +3,7 @@ tags: [noodles, weeknight]
 title: Pork Noodle Soup With Ginger and Toasted Garlic
 author: Alison Roman
 servings: 4 to 6 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020927-pork-noodle-soup-with-ginger-and-toasted-garlic
 image: "[[attachments/Pork Noodle Soup With Ginger and Toasted Garlic.jpg]]"

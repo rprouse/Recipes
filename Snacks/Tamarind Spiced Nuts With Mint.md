@@ -3,7 +3,7 @@ tags: [snacks, vegetarian]
 title: Tamarind Spiced Nuts With Mint
 author: Melissa Clark
 servings: 4 cups
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014739-tamarind-spiced-nuts-with-mint
 image: "[[attachments/Tamarind Spiced Nuts With Mint.jpg]]"

@@ -3,7 +3,7 @@ tags: [beef, winter]
 title: Homemade Corned Beef
 author: Sam Sifton
 servings: 8 to 12 servings
-time: 
+time: 123 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018642-homemade-corned-beef
 image: "[[attachments/Homemade Corned Beef.jpg]]"

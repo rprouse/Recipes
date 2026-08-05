@@ -3,7 +3,7 @@ tags: [snacks]
 title: Creamy Goat Cheese, Bacon and Date Dip
 author: Ali Slagle
 servings: 6 to 8 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019796-creamy-goat-cheese-bacon-and-date-dip
 image: "[[attachments/Creamy Goat Cheese, Bacon and Date Dip.jpg]]"

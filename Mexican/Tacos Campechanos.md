@@ -3,7 +3,7 @@ tags: [mexican]
 title: Tacos Campechanos
 author: Rick A. Martínez
 servings: 8 to 10 servings
-time: 
+time: 4 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023504-tacos-campechanos
 image: "[[attachments/Tacos Campechanos.jpg]]"

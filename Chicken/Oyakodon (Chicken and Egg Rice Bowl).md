@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: Oyakodon (Chicken and Egg Rice Bowl)
 author: Bryan Washington
 servings: 2 to 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024159-oyakodon-chicken-and-egg-rice-bowl
 image: "[[attachments/Oyakodon (Chicken and Egg Rice Bowl).jpg]]"

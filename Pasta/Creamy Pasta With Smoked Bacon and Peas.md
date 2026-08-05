@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight]
 title: Creamy Pasta With Smoked Bacon and Peas
 author: Alex Witchel
 servings: 4 to 6 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012805-creamy-pasta-with-smoked-bacon-and-peas
 image: "[[attachments/Creamy Pasta With Smoked Bacon and Peas.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, summer]
 title: Bacon and Shallot Potato Salad
 author: Melissa Clark
 servings: 8 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017404-bacon-and-shallot-potato-salad
 image: "[[attachments/Bacon and Shallot Potato Salad.jpg]]"

@@ -3,7 +3,7 @@ tags: [beef]
 title: Juicy Lucy Burger
 author: Alexa Weibel
 servings: 4 burgers
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020256-juicy-lucy-burger
 image: "[[attachments/Juicy Lucy Burger.jpg]]"

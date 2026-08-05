@@ -3,7 +3,7 @@ tags: [sides, summer]
 title: All-Purpose Dry Rub
 author: Sam Sifton
 servings: 2 cups
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017417-all-purpose-dry-rub
 image: "[[attachments/All-Purpose Dry Rub.jpg]]"

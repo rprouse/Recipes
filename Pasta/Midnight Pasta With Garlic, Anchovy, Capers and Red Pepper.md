@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight]
 title: Midnight Pasta With Garlic, Anchovy, Capers and Red Pepper
 author: David Tanis
 servings: 2 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12168-midnight-pasta-with-garlic-anchovy-capers-and-red-pepper
 image: "[[attachments/Midnight Pasta With Garlic, Anchovy, Capers and Red Pepper.jpg]]"

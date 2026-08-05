@@ -3,7 +3,7 @@ tags: [noodles, quick, summer, weeknight]
 title: Summer Roll Noodle Salad
 author: Kayla Hoang
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027024-summer-roll-noodle-salad
 image: "[[attachments/Summer Roll Noodle Salad.jpg]]"

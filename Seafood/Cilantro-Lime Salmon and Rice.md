@@ -3,7 +3,7 @@ tags: [seafood, easy, one-pot, quick, weeknight]
 title: Cilantro-Lime Salmon and Rice
 author: Yossy Arefi
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025172-cilantro-lime-salmon-and-rice
 image: "[[attachments/Cilantro-Lime Salmon and Rice.jpg]]"

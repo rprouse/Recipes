@@ -3,7 +3,7 @@ tags: [seafood, easy, weeknight]
 title: Salmon With Sesame and Herbs
 author: Alison Roman
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018897-salmon-with-sesame-and-herbs
 image: "[[attachments/Salmon With Sesame and Herbs.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, easy, quick, summer, weeknight, vegetarian]
 title: Corn Salad With Tomatoes, Feta and Mint
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015537-corn-salad-with-tomatoes-feta-and-mint
 image: "[[attachments/Corn Salad With Tomatoes, Feta and Mint.jpg]]"

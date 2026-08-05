@@ -3,7 +3,7 @@ tags: [noodles, easy, quick]
 title: Niku Udon (Japanese Beef Noodle Soup)
 author: J. Kenji López-Alt
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023569-niku-udon-japanese-beef-noodle-soup
 image: "[[attachments/Niku Udon (Japanese Beef Noodle Soup).jpg]]"

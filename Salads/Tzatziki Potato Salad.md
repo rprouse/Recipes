@@ -3,7 +3,7 @@ tags: [salads, vegetarian]
 title: Tzatziki Potato Salad
 author: Hetty Lui McKinnon
 servings: 4 to 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022307-tzatziki-potato-salad
 image: "[[attachments/Tzatziki Potato Salad.jpg]]"

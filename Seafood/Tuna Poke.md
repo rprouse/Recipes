@@ -3,7 +3,7 @@ tags: [seafood, quick]
 title: Tuna Poke
 author: Sam Sifton
 servings: 4 to 6 servings for dinner
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019641-tuna-poke
 image: "[[attachments/Tuna Poke.jpg]]"

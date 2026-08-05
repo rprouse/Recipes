@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, weeknight, make-again]
 title: Winter Squash and Rice Soup with Pancetta
 author: Christian Reynoso
 servings: 4 to 6 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023916-winter-squash-and-rice-soup-with-pancetta
 image: "[[attachments/Winter Squash and Rice Soup with Pancetta.jpg]]"

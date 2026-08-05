@@ -3,7 +3,7 @@ tags: [baking, budget]
 title: Cornbread
 author: Yewande Komolafe
 servings: 6 to 8 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022722-cornbread
 image: "[[attachments/Cornbread.jpg]]"

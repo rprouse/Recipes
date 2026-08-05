@@ -3,7 +3,7 @@ tags: [seafood, easy, quick, weeknight]
 title: Maple and Miso Sheet-Pan Salmon With Green Beans
 author: Colu Henry
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans
 image: "[[attachments/Maple and Miso Sheet-Pan Salmon With Green Beans.jpg]]"

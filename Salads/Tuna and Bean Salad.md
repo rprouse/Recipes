@@ -3,7 +3,7 @@ tags: [salads]
 title: Tuna and Bean Salad
 author: Martha Rose Shulman
 servings: 2 as a main dish
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016427-tuna-and-bean-salad
 image: "[[attachments/Tuna and Bean Salad.jpg]]"

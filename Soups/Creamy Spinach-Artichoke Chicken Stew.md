@@ -3,7 +3,7 @@ tags: [soups, great-leftovers]
 title: Creamy Spinach-Artichoke Chicken Stew
 author: Sarah DiGregorio
 servings: 4 to 6 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021794-creamy-spinach-artichoke-chicken-stew
 image: "[[attachments/Creamy Spinach-Artichoke Chicken Stew.jpg]]"

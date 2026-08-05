@@ -3,7 +3,7 @@ tags: [salads]
 title: Mashed Potato Salad With Scallions and Herbs
 author: Melissa Clark
 servings: 6 to 8 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018913-mashed-potato-salad-with-scallions-and-herbs
 image: "[[attachments/Mashed Potato Salad With Scallions and Herbs.jpg]]"

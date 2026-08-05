@@ -3,7 +3,7 @@ tags: [sides, summer]
 title: Chinese Smashed Cucumbers With Sesame Oil and Garlic
 author: Julia Moskin
 servings: 4 to 6 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017629-chinese-smashed-cucumbers-with-sesame-oil-and-garlic
 image: "[[attachments/Chinese Smashed Cucumbers With Sesame Oil and Garlic.jpg]]"

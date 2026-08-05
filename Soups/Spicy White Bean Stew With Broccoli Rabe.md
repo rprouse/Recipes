@@ -3,7 +3,7 @@ tags: [soups, easy, fall, great-leftovers, quick, weeknight, winter, vegetarian]
 title: Spicy White Bean Stew With Broccoli Rabe
 author: Alison Roman
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020754-spicy-white-bean-stew-with-broccoli-rabe
 image: "[[attachments/Spicy White Bean Stew With Broccoli Rabe.jpg]]"

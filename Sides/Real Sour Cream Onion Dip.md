@@ -3,7 +3,7 @@ tags: [sides, fall, vegetarian]
 title: Real Sour Cream Onion Dip
 author: Mark Bittman
 servings: 6 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/348-real-sour-cream-onion-dip
 image: "[[attachments/Real Sour Cream Onion Dip.jpg]]"

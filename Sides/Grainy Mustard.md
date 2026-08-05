@@ -3,7 +3,7 @@ tags: [sides]
 title: Grainy Mustard
 author: Melissa Clark
 servings: One and  cups
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12577-grainy-mustard
 image: "[[attachments/Grainy Mustard.jpg]]"

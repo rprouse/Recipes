@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight]
 title: Pasta With Sardines, Bread Crumbs and Capers
 author: Mark Bittman
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013094-pasta-with-sardines-bread-crumbs-and-capers
 image: "[[attachments/Pasta With Sardines, Bread Crumbs and Capers.jpg]]"

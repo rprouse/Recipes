@@ -3,7 +3,7 @@ tags: [soups, budget, easy, great-leftovers, one-pot, quick, weeknight]
 title: Lemony Greek Chicken, Spinach and Potato Stew
 author: Sarah DiGregorio
 servings: 4 to 5 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew
 image: "[[attachments/Lemony Greek Chicken, Spinach and Potato Stew.jpg]]"

@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight, vegetarian]
 title: Crispy Gnocchi With Burst Tomatoes and Mozzarella
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022024-crispy-gnocchi-with-burst-tomatoes-and-mozzarella
 image: "[[attachments/Crispy Gnocchi With Burst Tomatoes and Mozzarella.jpg]]"

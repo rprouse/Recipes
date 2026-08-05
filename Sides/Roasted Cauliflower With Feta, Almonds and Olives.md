@@ -3,7 +3,7 @@ tags: [sides, fall, spring, weeknight, winter]
 title: Roasted Cauliflower With Feta, Almonds and Olives
 author: Colu Henry
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019657-roasted-cauliflower-with-feta-almonds-and-olives
 image: "[[attachments/Roasted Cauliflower With Feta, Almonds and Olives.jpg]]"

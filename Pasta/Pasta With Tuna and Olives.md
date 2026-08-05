@@ -3,7 +3,7 @@ tags: [pasta, budget]
 title: Pasta With Tuna and Olives
 author: Martha Rose Shulman
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016459-pasta-with-tuna-and-olives
 image: "[[attachments/Pasta With Tuna and Olives.jpg]]"

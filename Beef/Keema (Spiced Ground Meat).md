@@ -3,7 +3,7 @@ tags: [beef]
 title: Keema (Spiced Ground Meat)
 author: Tejal Rao
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020913-keema-spiced-ground-meat
 image: "[[attachments/Keema (Spiced Ground Meat).jpg]]"

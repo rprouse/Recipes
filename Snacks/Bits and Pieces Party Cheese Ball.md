@@ -3,7 +3,7 @@ tags: [snacks, easy, fall, quick, winter]
 title: Bits and Pieces Party Cheese Ball
 author: Kim Severson
 servings: 1 12-ounce cheese ball
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018455-bits-and-pieces-party-cheese-ball
 image: "[[attachments/Bits and Pieces Party Cheese Ball.jpg]]"

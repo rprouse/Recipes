@@ -3,7 +3,7 @@ tags: [pasta, great-leftovers, winter]
 title: Macaroni and Beef Casserole
 author: Pierre Franey
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/3178-macaroni-and-beef-casserole
 image: "[[attachments/Macaroni and Beef Casserole.jpg]]"

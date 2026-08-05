@@ -3,7 +3,7 @@ tags: [baking]
 title: Updated No-Knead Bread
 author: J. Kenji López-Alt
 servings: 1 loaf
-time: 
+time: 21 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022147-updated-no-knead-bread
 image: "[[attachments/Updated No-Knead Bread.jpg]]"

@@ -3,7 +3,7 @@ tags: [soups, easy, fall, great-leftovers, spring, weeknight, winter, vegetarian
 title: Roasted Cauliflower Soup
 author: Mayukh Sen
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup
 image: "[[attachments/Roasted Cauliflower Soup.jpg]]"

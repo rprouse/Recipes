@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: Ginger-Lime Chicken
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021294-ginger-lime-chicken
 image: "[[attachments/Ginger-Lime Chicken.jpg]]"

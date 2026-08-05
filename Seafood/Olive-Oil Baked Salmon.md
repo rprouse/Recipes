@@ -3,7 +3,7 @@ tags: [seafood, easy, quick, weeknight]
 title: Olive-Oil Baked Salmon
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023979-olive-oil-baked-salmon
 image: "[[attachments/Olive-Oil Baked Salmon.jpg]]"

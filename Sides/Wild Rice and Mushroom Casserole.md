@@ -3,7 +3,7 @@ tags: [sides, fall, great-leftovers, winter, vegan]
 title: Wild Rice and Mushroom Casserole
 author: Melissa Clark
 servings: 12 servings
-time: 
+time: 1 hour 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019029-wild-rice-and-mushroom-casserole
 image: "[[attachments/Wild Rice and Mushroom Casserole.jpg]]"

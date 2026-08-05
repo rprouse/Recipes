@@ -3,7 +3,7 @@ tags: [baking, make-ahead, party, vegetarian]
 title: Chile Crisp Cheese Crackers
 author: Goh, Helen
 servings: 25 crackers
-time: 
+time: 1 hour 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027668-chile-crisp-cheese-crackers
 image: "[[attachments/Chile Crisp Cheese Crackers.jpg]]"

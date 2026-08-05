@@ -3,7 +3,7 @@ tags: [seafood, summer, weeknight]
 title: Smoked Salmon Sandwich With Goat Cheese
 author: Martha Rose Shulman
 servings: 1 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013786-smoked-salmon-sandwich-with-goat-cheese
 image: "[[attachments/Smoked Salmon Sandwich With Goat Cheese.jpg]]"

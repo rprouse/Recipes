@@ -3,7 +3,7 @@ tags: [pasta, easy, fall, quick, weeknight]
 title: Fettuccine Alfredo
 author: Alex Witchel
 servings: 6 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9025-elaines-fettuccine-alfredo
 image: "[[attachments/Fettuccine Alfredo.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: Grilled Tahini-Honey Chicken Thighs
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025608-grilled-tahini-honey-chicken-thighs
 image: "[[attachments/Grilled Tahini-Honey Chicken Thighs.jpg]]"

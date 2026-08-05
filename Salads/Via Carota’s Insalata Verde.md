@@ -3,7 +3,7 @@ tags: [salads, quick, vegetarian]
 title: Via Carota’s Insalata Verde
 author: Samin Nosrat
 servings: 6 to 8 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020223-via-carotas-insalata-verde
 image: "[[attachments/Via Carota’s Insalata Verde.jpg]]"

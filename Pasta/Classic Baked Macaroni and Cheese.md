@@ -3,7 +3,7 @@ tags: [pasta, great-leftovers]
 title: Classic Baked Macaroni and Cheese
 author: Alison Roman
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019251-classic-baked-macaroni-and-cheese
 image: "[[attachments/Classic Baked Macaroni and Cheese.jpg]]"

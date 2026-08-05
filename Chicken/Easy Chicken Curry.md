@@ -3,7 +3,7 @@ tags: [chicken, easy, one-pot, quick, weeknight]
 title: Easy Chicken Curry
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/6393-easy-chicken-curry
 image: "[[attachments/Easy Chicken Curry.jpg]]"

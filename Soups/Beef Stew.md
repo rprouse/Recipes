@@ -3,7 +3,7 @@ tags: [soups, easy, fall, great-leftovers, one-pot]
 title: Beef Stew
 author: Molly O’Neill
 servings: 4 servings
-time: 
+time: 2 hours 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/4735-old-fashioned-beef-stew
 image: "[[attachments/Beef Stew.jpg]]"

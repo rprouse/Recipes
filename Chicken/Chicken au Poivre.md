@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: Chicken au Poivre
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025895-chicken-au-poivre
 image: "[[attachments/Chicken au Poivre.jpg]]"

@@ -3,7 +3,7 @@ tags: [soups, freezer-friendly, great-leftovers, vegetarian]
 title: Toor Dal (Split Yellow Pigeon Peas)
 author: Tejal Rao
 servings: 4 to 6 servings
-time: 
+time: 4 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020907-toor-dal-split-yellow-pigeon-peas
 image: "[[attachments/Toor Dal (Split Yellow Pigeon Peas).jpg]]"

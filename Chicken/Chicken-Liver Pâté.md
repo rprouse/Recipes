@@ -3,7 +3,7 @@ tags: [chicken]
 title: Chicken-Liver Pâté
 author: Sam Sifton
 servings: 6 to 8 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015975-chicken-liver-pate
 image: "[[attachments/Chicken-Liver Pâté.jpg]]"

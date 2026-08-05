@@ -3,7 +3,7 @@ tags: [breakfast, easy, fall, quick, spring, summer, weeknight, winter]
 title: Fried Eggs With Garlicky Green Rice
 author: Sarah Copeland
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019908-fried-eggs-with-garlicky-green-rice
 image: "[[attachments/Fried Eggs With Garlicky Green Rice.jpg]]"

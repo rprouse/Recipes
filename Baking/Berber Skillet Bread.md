@@ -3,7 +3,7 @@ tags: [baking, vegan]
 title: Berber Skillet Bread
 author: Julia Moskin
 servings: 4 8-inch bread rounds
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014206-berber-skillet-bread
 image: "[[attachments/Berber Skillet Bread.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides, easy, one-pot, party, quick, weeknight, vegetarian]
 title: Cheesy Green Chile Bean Bake
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025014-cheesy-green-chile-bean-bake
 image: "[[attachments/Cheesy Green Chile Bean Bake.jpg]]"

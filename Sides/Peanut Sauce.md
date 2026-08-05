@@ -3,7 +3,7 @@ tags: [sides]
 title: Peanut Sauce
 author: Ali Slagle
 servings: cup
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024727-peanut-sauce
 image: "[[attachments/Peanut Sauce.jpg]]"

@@ -3,7 +3,7 @@ tags: [seafood, easy, one-pot, quick, weeknight]
 title: One-Pot Miso-Turmeric Salmon and Coconut Rice
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice
 image: "[[attachments/One-Pot Miso-Turmeric Salmon and Coconut Rice.jpg]]"

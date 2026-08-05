@@ -3,7 +3,7 @@ tags: [snacks, weeknight, vegetarian]
 title: Mozzarella in Carrozza (Fried Mozzarella Sandwiches)
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019683-mozzarella-in-carrozza-fried-mozzarella-sandwiches
 image: "[[attachments/Mozzarella in Carrozza (Fried Mozzarella Sandwiches).jpg]]"

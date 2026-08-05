@@ -3,7 +3,7 @@ tags: [pasta, fall, weeknight, winter, vegetarian, make-again]
 title: Spicy Butternut Squash Pasta With Spinach
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021535-spicy-butternut-squash-pasta-with-spinach
 image: "[[attachments/Spicy Butternut Squash Pasta With Spinach.jpg]]"

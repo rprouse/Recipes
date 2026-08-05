@@ -3,7 +3,7 @@ tags: [mexican, budget, easy, quick, weeknight]
 title: Crispy-Edged Quesadilla
 author: Melissa Clark
 servings: 1 quesadilla
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023226-crispy-edged-quesadilla
 image: "[[attachments/Crispy-Edged Quesadilla.jpg]]"

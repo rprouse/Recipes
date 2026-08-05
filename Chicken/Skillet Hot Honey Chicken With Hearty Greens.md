@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: Skillet Hot Honey Chicken With Hearty Greens
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019790-skillet-hot-honey-chicken-with-hearty-greens
 image: "[[attachments/Skillet Hot Honey Chicken With Hearty Greens.jpg]]"

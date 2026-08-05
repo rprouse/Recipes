@@ -3,7 +3,7 @@ tags: [salads, easy, weeknight, vegetarian]
 title: Kale Salad With Apples and Cheddar
 author: Martha Rose Shulman
 servings: 4 to 6 servings
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013732-kale-salad-with-apples-and-cheddar
 image: "[[attachments/Kale Salad With Apples and Cheddar.jpg]]"

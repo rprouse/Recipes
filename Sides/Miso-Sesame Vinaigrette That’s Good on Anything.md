@@ -3,7 +3,7 @@ tags: [sides, vegan]
 title: Miso-Sesame Vinaigrette That’s Good on Anything
 author: J. Kenji López-Alt
 servings: 1 cup
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021463-miso-sesame-vinaigrette-thats-good-on-anything
 image: "[[attachments/Miso-Sesame Vinaigrette That’s Good on Anything.jpg]]"

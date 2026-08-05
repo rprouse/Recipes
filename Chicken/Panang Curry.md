@@ -3,7 +3,7 @@ tags: [chicken, great-leftovers, quick]
 title: Panang Curry
 author: Naz Deravian
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024637-panang-curry
 image: "[[attachments/Panang Curry.jpg]]"

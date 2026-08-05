@@ -3,7 +3,7 @@ tags: [sides, easy, quick, weeknight]
 title: 5-Minute Hummus
 author: Krysten Chambrot
 servings: 4 generous cups
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019619-5-minute-hummus
 image: "[[attachments/5-Minute Hummus.jpg]]"

@@ -3,7 +3,7 @@ tags: [breakfast, budget]
 title: The Best Scrambled Eggs
 author: Mark Bittman
 servings: 2 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015676-the-best-scrambled-eggs
 image: "[[attachments/The Best Scrambled Eggs.jpg]]"

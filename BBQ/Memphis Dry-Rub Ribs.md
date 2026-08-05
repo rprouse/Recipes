@@ -3,7 +3,7 @@ tags: [bbq]
 title: Memphis Dry-Rub Ribs
 author: Nicole Taylor
 servings: 3 to 6 servings
-time: 
+time: 3 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021141-memphis-dry-rub-ribs
 image: "[[attachments/Memphis Dry-Rub Ribs.jpg]]"

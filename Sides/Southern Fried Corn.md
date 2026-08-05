@@ -3,7 +3,7 @@ tags: [sides, budget, summer]
 title: Southern Fried Corn
 author: Millie Peartree
 servings: 5 cups
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024531-southern-fried-corn
 image: "[[attachments/Southern Fried Corn.jpg]]"

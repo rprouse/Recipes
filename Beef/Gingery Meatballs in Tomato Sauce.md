@@ -3,7 +3,7 @@ tags: [beef, easy, great-leftovers, summer, weeknight]
 title: Gingery Meatballs in Tomato Sauce
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce
 image: "[[attachments/Gingery Meatballs in Tomato Sauce.jpg]]"

@@ -3,7 +3,7 @@ tags: [noodles, weeknight, vegan]
 title: Vegetable Chow Mein
 author: Alexa Weibel
 servings: 2 to 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023036-vegetable-chow-mein
 image: "[[attachments/Vegetable Chow Mein.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, summer]
 title: Lemon Potato Salad With Mint
 author: Melissa Clark
 servings: 8 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017405-lemon-potato-salad-with-mint
 image: "[[attachments/Lemon Potato Salad With Mint.jpg]]"

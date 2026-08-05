@@ -3,7 +3,7 @@ tags: [seafood, easy, party, quick, weeknight]
 title: Salmon With Avocado and Cilantro Salad
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025955-salmon-with-avocado-and-cilantro-salad
 image: "[[attachments/Salmon With Avocado and Cilantro Salad.jpg]]"

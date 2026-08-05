@@ -3,7 +3,7 @@ tags: [vegetarian, easy, quick, weeknight]
 title: Cheesy, Spicy Black Bean Bake
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020705-cheesy-spicy-black-bean-bake
 image: "[[attachments/Cheesy, Spicy Black Bean Bake.jpg]]"

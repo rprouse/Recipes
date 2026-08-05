@@ -3,7 +3,7 @@ tags: [beef, easy, one-pot, weeknight]
 title: Hilib Suqaar (Beef and Vegetable Sauté)
 author: Ifrah F. Ahmed
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025188-hilib-suqaar-beef-and-vegetable-saute
 image: "[[attachments/Hilib Suqaar (Beef and Vegetable Sauté).jpg]]"

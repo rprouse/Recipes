@@ -3,7 +3,7 @@ tags: [pasta, budget, easy, quick, weeknight]
 title: Baasto iyo Suugo Tuuna (Pasta and Spiced Tuna Sauce)
 author: Ifrah F. Ahmed
 servings: 2 to 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024650-baasto-iyo-suugo-tuuna-pasta-and-spiced-tuna-sauce
 image: "[[attachments/Baasto iyo Suugo Tuuna (Pasta and Spiced Tuna Sauce).jpg]]"

@@ -3,7 +3,7 @@ tags: [vegetarian, easy, great-leftovers, weeknight]
 title: Indian Butter Chickpeas
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 1 hour 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020739-indian-butter-chickpeas
 image: "[[attachments/Indian Butter Chickpeas.jpg]]"

@@ -3,7 +3,7 @@ tags: [breakfast, easy, quick, weeknight, vegetarian]
 title: Eggs Kejriwal
 author: Tejal Rao
 servings: 2 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018717-eggs-kejriwal
 image: "[[attachments/Eggs Kejriwal.jpg]]"

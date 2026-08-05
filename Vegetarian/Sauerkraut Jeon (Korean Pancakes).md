@@ -3,7 +3,7 @@ tags: [vegetarian, quick, weeknight, vegan]
 title: Sauerkraut Jeon (Korean Pancakes)
 author: J. Kenji López-Alt
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021774-sauerkraut-jeon-korean-pancakes
 image: "[[attachments/Sauerkraut Jeon (Korean Pancakes).jpg]]"

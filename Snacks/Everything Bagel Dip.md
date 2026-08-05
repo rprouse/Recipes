@@ -3,7 +3,7 @@ tags: [snacks, easy, quick, vegetarian]
 title: Everything Bagel Dip
 author: Ali Slagle
 servings: 2 cups
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019686-everything-bagel-dip
 image: "[[attachments/Everything Bagel Dip.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, easy, quick, vegan]
 title: Garden Salad
 author: Lidey Heuck
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025526-garden-salad
 image: "[[attachments/Garden Salad.jpg]]"

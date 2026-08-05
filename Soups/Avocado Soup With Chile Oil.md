@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, vegan]
 title: Avocado Soup With Chile Oil
 author: Jocelyn Ramirez
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022480-avocado-soup-with-chile-oil
 image: "[[attachments/Avocado Soup With Chile Oil.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides]
 title: Kimchi
 author: Julia Moskin
 servings: 
-time: 
+time: 96 hours 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016209-kimchi
 image: "[[attachments/Kimchi - Julia Moskin.jpg]]"

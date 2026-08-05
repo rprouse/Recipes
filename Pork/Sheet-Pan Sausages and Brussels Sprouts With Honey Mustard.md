@@ -3,7 +3,7 @@ tags: [pork, easy, fall, sheet-pan, weeknight, winter]
 title: Sheet-Pan Sausages and Brussels Sprouts With Honey Mustard
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020747-sheet-pan-sausages-and-brussels-sprouts-with-honey-mustard
 image: "[[attachments/Sheet-Pan Sausages and Brussels Sprouts With Honey Mustard.jpg]]"

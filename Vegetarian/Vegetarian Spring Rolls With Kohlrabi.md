@@ -3,7 +3,7 @@ tags: [vegetarian, summer, vegan]
 title: Vegetarian Spring Rolls With Kohlrabi
 author: Martha Rose Shulman
 servings: 7 spring rolls
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12351-vegetarian-spring-rolls-with-kohlrabi
 image: "[[attachments/Vegetarian Spring Rolls With Kohlrabi.jpg]]"

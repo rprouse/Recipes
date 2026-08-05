@@ -3,7 +3,7 @@ tags: [beef, budget, easy, freezer-friendly, make-ahead, quick, sheet-pan, weekn
 title: Sheet-Pan Charred Meat Pitas
 author: Zaynab Issa
 servings: 4 to 6 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027680-sheet-pan-charred-meat-pitas
 image: "[[attachments/Sheet-Pan Charred Meat Pitas.jpg]]"

@@ -3,7 +3,7 @@ tags: [soups, budget, fall, great-leftovers, weeknight, winter, vegan]
 title: Easy Lentil Soup
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019943-easy-lentil-soup
 image: "[[attachments/Easy Lentil Soup.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides, fall]
 title: Cranberry and Walnut Relish
 author: David Leite
 servings: 5 cups
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/806-cranberry-and-walnut-relish
 image: "[[attachments/Cranberry and Walnut Relish.jpg]]"

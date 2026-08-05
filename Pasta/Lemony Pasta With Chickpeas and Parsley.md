@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight]
 title: Lemony Pasta With Chickpeas and Parsley
 author: Melissa Clark
 servings: 2 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018591-lemony-pasta-with-chickpeas-and-parsley
 image: "[[attachments/Lemony Pasta With Chickpeas and Parsley.jpg]]"

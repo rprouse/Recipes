@@ -3,7 +3,7 @@ tags: [sides, fall, quick]
 title: Warm Olives with Za'atar
 author: Julia Moskin
 servings: 8 to 12 servings
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9186-warm-olives-with-zaatar
 image: "[[attachments/Warm Olives with Za'atar.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides, budget, easy, quick]
 title: Classic Marinara Sauce
 author: Julia Moskin
 servings: 3 cups
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015987-classic-marinara-sauce
 image: "[[attachments/Classic Marinara Sauce.jpg]]"

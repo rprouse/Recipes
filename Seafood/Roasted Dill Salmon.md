@@ -3,7 +3,7 @@ tags: [seafood, quick]
 title: Roasted Dill Salmon
 author: Naz Deravian
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020253-roasted-dill-salmon
 image: "[[attachments/Roasted Dill Salmon.jpg]]"

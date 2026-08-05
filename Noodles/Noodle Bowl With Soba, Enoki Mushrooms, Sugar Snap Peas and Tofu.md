@@ -3,7 +3,7 @@ tags: [noodles, fall, winter, vegan]
 title: Noodle Bowl With Soba, Enoki Mushrooms, Sugar Snap Peas and Tofu
 author: Martha Rose Shulman
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017114-noodle-bowl-with-soba-enoki-mushrooms-sugar-snap-peas-and-tofu
 image: "[[attachments/Noodle Bowl With Soba, Enoki Mushrooms, Sugar Snap Peas and Tofu.jpg]]"

@@ -3,7 +3,7 @@ tags: [salads, easy, quick, summer]
 title: Cherry Tomato Caesar Salad
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12662-cherry-tomato-caesar-salad
 image: "[[attachments/Cherry Tomato Caesar Salad.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides, easy, weeknight]
 title: Smacked Cucumber ‘Quick Kimchi’
 author: Eric Kim
 servings: 2 to 2 cups
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021194-smacked-cucumber-quick-kimchi
 image: "[[attachments/Smacked Cucumber ‘Quick Kimchi’.jpg]]"

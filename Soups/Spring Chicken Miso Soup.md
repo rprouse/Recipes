@@ -3,7 +3,7 @@ tags: [soups]
 title: Spring Chicken Miso Soup
 author: David Tanis
 servings: 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017330-spring-chicken-miso-soup
 image: "[[attachments/Spring Chicken Miso Soup.jpg]]"

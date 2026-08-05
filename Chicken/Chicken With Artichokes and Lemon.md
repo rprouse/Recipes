@@ -3,7 +3,7 @@ tags: [chicken, make-ahead, one-pot, spring, winter]
 title: Chicken With Artichokes and Lemon
 author: Joan Nathan
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020964-chicken-with-artichokes-and-lemon
 image: "[[attachments/Chicken With Artichokes and Lemon.jpg]]"

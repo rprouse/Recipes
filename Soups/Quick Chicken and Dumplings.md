@@ -3,7 +3,7 @@ tags: [soups, fall, quick, weeknight, winter]
 title: Quick Chicken and Dumplings
 author: Alexa Weibel
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020756-quick-chicken-and-dumplings
 image: "[[attachments/Quick Chicken and Dumplings.jpg]]"

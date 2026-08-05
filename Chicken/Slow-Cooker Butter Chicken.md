@@ -3,7 +3,7 @@ tags: [chicken, easy, great-leftovers, slow-cooker]
 title: Slow-Cooker Butter Chicken
 author: Jennifer Steinhauer
 servings: 4 to 6 servings
-time: 
+time: 5 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018803-slow-cooker-butter-chicken
 image: "[[attachments/Slow-Cooker Butter Chicken.jpg]]"

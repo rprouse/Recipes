@@ -3,7 +3,7 @@ tags: [vegetarian, easy, great-leftovers, quick, weeknight, vegan]
 title: Rosemary White Beans With Frizzled Onions and Tomato
 author: Melissa Clark
 servings: 3 to 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023775-rosemary-white-beans-with-frizzled-onions-and-tomato
 image: "[[attachments/Rosemary White Beans With Frizzled Onions and Tomato.jpg]]"

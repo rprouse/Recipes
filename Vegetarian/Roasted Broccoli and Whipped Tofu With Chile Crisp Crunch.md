@@ -3,7 +3,7 @@ tags: [vegetarian, quick, weeknight, vegan]
 title: Roasted Broccoli and Whipped Tofu With Chile Crisp Crunch
 author: Alexa Weibel
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026270-roasted-broccoli-and-whipped-tofu-with-chile-crisp-crunch
 image: "[[attachments/Roasted Broccoli and Whipped Tofu With Chile Crisp Crunch.jpg]]"

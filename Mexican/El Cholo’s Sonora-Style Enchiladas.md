@@ -2,7 +2,7 @@
 tags: [mexican]
 title: El Cholo’s Sonora-Style Enchiladas
 servings: 6 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023767-el-cholos-sonora-style-enchiladas
 image: "[[attachments/El Cholo’s Sonora-Style Enchiladas.jpg]]"

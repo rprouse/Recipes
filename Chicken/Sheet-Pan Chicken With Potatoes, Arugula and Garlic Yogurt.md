@@ -3,7 +3,7 @@ tags: [chicken, easy, sheet-pan, spring, weeknight]
 title: Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt
 image: "[[attachments/Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt.jpg]]"

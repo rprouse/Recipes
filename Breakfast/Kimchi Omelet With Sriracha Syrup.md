@@ -3,7 +3,7 @@ tags: [breakfast, easy, quick, vegetarian]
 title: Kimchi Omelet With Sriracha Syrup
 author: Melissa Clark
 servings: 1 main course serving
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015053-kimchi-omelet-with-sriracha-syrup
 image: "[[attachments/Kimchi Omelet With Sriracha Syrup.jpg]]"

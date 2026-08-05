@@ -3,7 +3,7 @@ tags: [sides, weeknight, vegetarian]
 title: Pearl Couscous With Creamy Feta and Chickpeas
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019916-pearl-couscous-with-creamy-feta-and-chickpeas
 image: "[[attachments/Pearl Couscous With Creamy Feta and Chickpeas.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, easy, fall, quick, spring, summer, weeknight, winter]
 title: Weeknight Lemon Chicken Breasts With Herbs
 author: Jennifer Steinhauer
 servings: 4 servings
-time: 
+time: 1 hour 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019909-weeknight-lemon-chicken-breasts-with-herbs
 image: "[[attachments/Weeknight Lemon Chicken Breasts With Herbs.jpg]]"

@@ -3,7 +3,7 @@ tags: [vegetarian, great-leftovers, weeknight, vegan]
 title: Green Curry Glazed Tofu
 author: Ali Slagle
 servings: 2 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023248-green-curry-glazed-tofu
 image: "[[attachments/Green Curry Glazed Tofu.jpg]]"

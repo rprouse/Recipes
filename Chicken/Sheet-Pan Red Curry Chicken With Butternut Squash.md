@@ -3,7 +3,7 @@ tags: [chicken, easy, fall, sheet-pan, weeknight, winter]
 title: Sheet-Pan Red Curry Chicken With Butternut Squash
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024982-sheet-pan-red-curry-chicken-with-butternut-squash
 image: "[[attachments/Sheet-Pan Red Curry Chicken With Butternut Squash.jpg]]"

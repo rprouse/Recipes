@@ -3,7 +3,7 @@ tags: [pasta]
 title: Pasta Alla Gricia
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017305-pasta-alla-gricia
 image: "[[attachments/Pasta Alla Gricia.jpg]]"

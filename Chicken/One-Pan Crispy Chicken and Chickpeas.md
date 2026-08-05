@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: One-Pan Crispy Chicken and Chickpeas
 author: Yossy Arefi
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023862-one-pan-crispy-chicken-and-chickpeas
 image: "[[attachments/One-Pan Crispy Chicken and Chickpeas.jpg]]"

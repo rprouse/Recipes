@@ -3,7 +3,7 @@ tags: [chicken]
 title: Chicken Kebabs With Turmeric and Chile
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 3 hours 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014920-chicken-kebabs-with-turmeric-and-chile
 image: "[[attachments/Chicken Kebabs With Turmeric and Chile.jpg]]"

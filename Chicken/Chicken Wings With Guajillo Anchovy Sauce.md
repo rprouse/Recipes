@@ -3,7 +3,7 @@ tags: [chicken]
 title: Chicken Wings With Guajillo Anchovy Sauce
 author: Jeff Gordinier
 servings: 4 servings
-time: 
+time: 15 hours 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016874-chicken-wings-with-guajillo-anchovy-sauce
 image: "[[attachments/Chicken Wings With Guajillo Anchovy Sauce.jpg]]"

@@ -3,7 +3,7 @@ tags: [seafood, fall]
 title: Thieboudienne
 author: Yewande Komolafe
 servings: 6 to 8 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024610-thieboudienne
 image: "[[attachments/Thieboudienne.jpg]]"

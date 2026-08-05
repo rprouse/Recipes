@@ -3,7 +3,7 @@ tags: [chicken, easy, great-leftovers, weeknight]
 title: Skillet Chicken With Black Beans, Rice and Chiles
 author: Margaux Laskey
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020457-skillet-chicken-with-black-beans-rice-and-chiles
 image: "[[attachments/Skillet Chicken With Black Beans, Rice and Chiles.jpg]]"

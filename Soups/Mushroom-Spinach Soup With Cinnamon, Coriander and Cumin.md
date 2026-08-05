@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, winter, vegetarian]
 title: Mushroom-Spinach Soup With Cinnamon, Coriander and Cumin
 author: Melissa Clark
 servings: 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017980-mushroom-spinach-soup-with-cinnamon-coriander-and-cumin
 image: "[[attachments/Mushroom-Spinach Soup With Cinnamon, Coriander and Cumin.jpg]]"

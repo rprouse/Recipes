@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: Three-Cup Chicken
 author: Sam Sifton
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017456-three-cup-chicken
 image: "[[attachments/Three-Cup Chicken.jpg]]"

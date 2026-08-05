@@ -3,7 +3,7 @@ tags: [sides, easy, make-ahead, quick]
 title: Make-Ahead Gravy
 author: Mark Bittman
 servings: 5 to 6 cups
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015197-make-ahead-gravy
 image: "[[attachments/Make-Ahead Gravy.jpg]]"

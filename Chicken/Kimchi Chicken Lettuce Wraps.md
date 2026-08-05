@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: Kimchi Chicken Lettuce Wraps
 author: Alexa Weibel
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024520-kimchi-chicken-lettuce-wraps
 image: "[[attachments/Kimchi Chicken Lettuce Wraps.jpg]]"

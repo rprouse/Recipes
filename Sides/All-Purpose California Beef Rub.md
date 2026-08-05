@@ -3,7 +3,7 @@ tags: [sides, easy]
 title: All-Purpose California Beef Rub
 author: Kim Severson
 servings: cup
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016918-all-purpose-california-beef-rub
 image: "[[attachments/All-Purpose California Beef Rub.jpg]]"

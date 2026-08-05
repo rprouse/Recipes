@@ -3,7 +3,7 @@ tags: [vegetarian, budget, easy, one-pot, quick, weeknight]
 title: Creamy, Spicy Tomato Beans and Greens
 author: Alexa Weibel
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens
 image: "[[attachments/Creamy, Spicy Tomato Beans and Greens.jpg]]"

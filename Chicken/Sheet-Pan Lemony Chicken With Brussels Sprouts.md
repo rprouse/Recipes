@@ -3,7 +3,7 @@ tags: [chicken, easy, fall, sheet-pan, weeknight, winter]
 title: Sheet-Pan Lemony Chicken With Brussels Sprouts
 author: Yasmin Fahr
 servings: 2 to 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021697-sheet-pan-lemony-chicken-with-brussels-sprouts
 image: "[[attachments/Sheet-Pan Lemony Chicken With Brussels Sprouts.jpg]]"

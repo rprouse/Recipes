@@ -3,7 +3,7 @@ tags: [pasta, easy, one-pot, quick]
 title: Shrimp Scampi With Orzo
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020330-shrimp-scampi-with-orzo
 image: "[[attachments/Shrimp Scampi With Orzo.jpg]]"

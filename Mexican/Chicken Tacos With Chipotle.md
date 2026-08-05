@@ -3,7 +3,7 @@ tags: [mexican]
 title: Chicken Tacos With Chipotle
 author: David Tanis
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017936-chicken-tacos-with-chipotle
 image: "[[attachments/Chicken Tacos With Chipotle.jpg]]"

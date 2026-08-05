@@ -3,7 +3,7 @@ tags: [snacks]
 title: Jalapeño Poppers
 author: Alexa Weibel
 servings: 24 poppers
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020843-jalapeno-poppers
 image: "[[attachments/Jalapeño Poppers.jpg]]"

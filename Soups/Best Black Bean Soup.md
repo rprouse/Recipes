@@ -3,7 +3,7 @@ tags: [soups, fall, freezer-friendly, great-leftovers, winter, vegan]
 title: Best Black Bean Soup
 author: Julia Moskin
 servings: 10 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018592-best-black-bean-soup
 image: "[[attachments/Best Black Bean Soup.jpg]]"

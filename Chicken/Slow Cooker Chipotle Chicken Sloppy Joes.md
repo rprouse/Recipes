@@ -3,7 +3,7 @@ tags: [chicken, easy, make-ahead, slow-cooker, weeknight]
 title: Slow Cooker Chipotle Chicken Sloppy Joes
 author: Carolina Gelen
 servings: 6 servings
-time: 
+time: 4 hours 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027188-slow-cooker-chipotle-chicken-sloppy-joes
 image: "[[attachments/Slow Cooker Chipotle Chicken Sloppy Joes.jpg]]"

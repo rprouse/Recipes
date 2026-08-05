@@ -3,7 +3,7 @@ tags: [sides]
 title: Teriyaki Sauce
 author: Genevieve Ko
 servings: 1 cups
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022367-teriyaki-sauce
 image: "[[attachments/Teriyaki Sauce.jpg]]"

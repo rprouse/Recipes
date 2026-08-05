@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: Nasi Goreng Ayam (Indonesian Chicken Fried Rice)
 author: Kayla Stewart
 servings: 2 to 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021520-nasi-goreng-ayam-indonesian-chicken-fried-rice
 image: "[[attachments/Nasi Goreng Ayam (Indonesian Chicken Fried Rice).jpg]]"

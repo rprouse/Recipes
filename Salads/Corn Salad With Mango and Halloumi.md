@@ -3,7 +3,7 @@ tags: [salads]
 title: Corn Salad With Mango and Halloumi
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022435-corn-salad-with-mango-and-halloumi
 image: "[[attachments/Corn Salad With Mango and Halloumi.jpg]]"

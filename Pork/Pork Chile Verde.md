@@ -3,7 +3,7 @@ tags: [pork, great-leftovers]
 title: Pork Chile Verde
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 2 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025775-pork-chile-verde
 image: "[[attachments/Pork Chile Verde.jpg]]"

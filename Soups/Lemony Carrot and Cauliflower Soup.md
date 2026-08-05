@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, weeknight, vegan]
 title: Lemony Carrot and Cauliflower Soup
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015360-lemony-carrot-and-cauliflower-soup
 image: "[[attachments/Lemony Carrot and Cauliflower Soup.jpg]]"

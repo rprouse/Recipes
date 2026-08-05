@@ -3,7 +3,7 @@ tags: [chicken, fall, summer, weeknight]
 title: Sheet-Pan Chicken With Shallots and Grapes
 author: Colu Henry
 servings: 4 to 6 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019626-sheet-pan-chicken-with-shallots-and-grapes
 image: "[[attachments/Sheet-Pan Chicken With Shallots and Grapes.jpg]]"

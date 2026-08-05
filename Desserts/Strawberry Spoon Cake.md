@@ -3,7 +3,7 @@ tags: [desserts, easy, quick, spring, summer]
 title: Strawberry Spoon Cake
 author: Jerrelle Guy
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021174-strawberry-spoon-cake
 image: "[[attachments/Strawberry Spoon Cake.jpg]]"

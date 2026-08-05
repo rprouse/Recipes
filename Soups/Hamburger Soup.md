@@ -3,7 +3,7 @@ tags: [soups, beef, one-pot, weeknight, freezer-friendly, great-leftovers]
 title: Hamburger Soup
 author: Melissa Knific
 servings: 6 servings
-time: 
+time: 45 minutes
 date: 2026-06-24 Wednesday
 link: https://cooking.nytimes.com/recipes/1025427-hamburger-soup
 image: "[[attachments/Hamburger Soup.jpg]]"

@@ -3,7 +3,7 @@ tags: [noodles, budget, easy, one-pot, quick, weeknight, vegetarian]
 title: Peanut Butter Noodles
 author: Eric Kim
 servings: 1 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025047-peanut-butter-noodles
 image: "[[attachments/Peanut Butter Noodles.jpg]]"

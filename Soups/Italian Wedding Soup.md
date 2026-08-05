@@ -3,7 +3,7 @@ tags: [soups, freezer-friendly, great-leftovers]
 title: Italian Wedding Soup
 author: Lidey Heuck
 servings: 6 to 8 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024492-italian-wedding-soup
 image: "[[attachments/Italian Wedding Soup.jpg]]"

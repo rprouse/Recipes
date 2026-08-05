@@ -3,7 +3,7 @@ tags: [seafood, summer]
 title: Rainbow Trout Baked in Foil With Tomatoes, Garlic and Thyme
 author: Martha Rose Shulman
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12682-rainbow-trout-baked-in-foil-with-tomatoes-garlic-and-thyme
 image: "[[attachments/Rainbow Trout Baked in Foil With Tomatoes, Garlic and Thyme.jpg]]"

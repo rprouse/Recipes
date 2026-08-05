@@ -3,7 +3,7 @@ tags: [snacks, easy]
 title: Cowboy Caviar
 author: Margaux Laskey
 servings: 8 cups
-time: 
+time: 2 hours 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020433-cowboy-caviar
 image: "[[attachments/Cowboy Caviar.jpg]]"

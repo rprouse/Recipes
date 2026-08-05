@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, slow-cooker, weeknight]
 title: Slow-Cooker Beef Stew
 author: Sarah DiGregorio
 servings: 8 servings
-time: 
+time: 10 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019691-slow-cooker-beef-stew
 image: "[[attachments/Slow-Cooker Beef Stew.jpg]]"

@@ -3,7 +3,7 @@ tags: [sides, easy, quick, summer, vegetarian]
 title: Spicy Coleslaw
 author: Sam Sifton
 servings: 6 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012539-spicy-coleslaw
 image: "[[attachments/Spicy Coleslaw.jpg]]"

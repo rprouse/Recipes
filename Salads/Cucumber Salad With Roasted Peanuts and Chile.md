@@ -8,7 +8,7 @@ tags:
 title: Cucumber Salad With Roasted Peanuts and Chile
 author: Sue Li
 servings: 2 to 4 servings
-time:
+time: 15 minutes
 date: 2026-07-03 Friday
 link: https://cooking.nytimes.com/recipes/1020217-cucumber-salad-with-roasted-peanuts-and-chile
 image: "[[attachments/Cucumber Salad With Roasted Peanuts and Chile.jpg]]"

@@ -3,7 +3,7 @@ tags: [pork, budget, easy, fall, make-ahead, party, winter]
 title: Miso-Marinated Pork Roast
 author: Genevieve Ko
 servings: 12 to 16 servings
-time: 
+time: 8 hours 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026388-miso-marinated-pork-roast
 image: "[[attachments/Miso-Marinated Pork Roast.jpg]]"

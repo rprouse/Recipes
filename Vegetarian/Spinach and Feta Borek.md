@@ -3,7 +3,7 @@ tags: [vegetarian, party, weeknight]
 title: Spinach and Feta Borek
 author: David Tanis
 servings: 6 to 8 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020581-spinach-and-feta-borek
 image: "[[attachments/Spinach and Feta Borek.jpg]]"

@@ -3,7 +3,7 @@ tags: [noodles]
 title: Beef Pho Recipe
 author: Naz Deravian
 servings: 10 servings
-time: 
+time: 9 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026047-ph-bo-mi-n-nam-beef-ph
 image: "[[attachments/Beef Pho Recipe.jpg]]"

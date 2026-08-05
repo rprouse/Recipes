@@ -3,7 +3,7 @@ tags: [chicken, party, make-again]
 title: Oven-Roasted Chicken Shawarma
 author: Sam Sifton
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017161-oven-roasted-chicken-shawarma
 image: "[[attachments/Oven-Roasted Chicken Shawarma.jpg]]"

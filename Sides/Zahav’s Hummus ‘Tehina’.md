@@ -3,7 +3,7 @@ tags: [sides]
 title: Zahav’s Hummus ‘Tehina’
 author: Melissa Clark
 servings: 4 cups
-time: 
+time: 2 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017734-zahavs-hummus-tehina
 image: "[[attachments/Zahav’s Hummus ‘Tehina’.jpg]]"

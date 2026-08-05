@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: Braised Chicken Thighs With Tomatillos
 author: Alison Roman
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019687-braised-chicken-thighs-with-tomatillos
 image: "[[attachments/Braised Chicken Thighs With Tomatillos.jpg]]"

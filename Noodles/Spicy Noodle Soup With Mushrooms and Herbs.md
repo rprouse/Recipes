@@ -3,7 +3,7 @@ tags: [noodles, weeknight, vegan]
 title: Spicy Noodle Soup With Mushrooms and Herbs
 author: Alison Roman
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020122-spicy-noodle-soup-with-mushrooms-and-herbs
 image: "[[attachments/Spicy Noodle Soup With Mushrooms and Herbs.jpg]]"

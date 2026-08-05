@@ -3,7 +3,7 @@ tags: [desserts, easy, fall]
 title: Apple Galette
 author: Samantha Seneviratne
 servings: 8 to 10 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025765-apple-galette
 image: "[[attachments/Apple Galette.jpg]]"

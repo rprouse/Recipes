@@ -3,7 +3,7 @@ tags: [pasta, great-leftovers, weeknight, winter]
 title: Creamy Macaroni and Cheese
 author: Julia Moskin
 servings: 6 to 8 servings
-time: 
+time: 1 hour 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015825-creamy-macaroni-and-cheese
 image: "[[attachments/Creamy Macaroni and Cheese.jpg]]"

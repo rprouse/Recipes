@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, one-pot, winter]
 title: Ground Beef Chili With Chocolate and Peanut Butter
 author: Aaron Hutcherson
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021549-ground-beef-chili-with-chocolate-and-peanut-butter
 image: "[[attachments/Ground Beef Chili With Chocolate and Peanut Butter.jpg]]"

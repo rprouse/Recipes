@@ -3,7 +3,7 @@ tags: [salads, easy, make-ahead, quick, weeknight, vegan]
 title: Cucumber Salad
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025369-cucumber-salad
 image: "[[attachments/Cucumber Salad.jpg]]"

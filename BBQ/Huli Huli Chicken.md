@@ -3,7 +3,7 @@ tags: [bbq, fall, summer]
 title: Huli Huli Chicken
 author: Margaux Laskey
 servings: 4 to 6 servings
-time: 
+time: 8 hours 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020347-huli-huli-chicken
 image: "[[attachments/Huli Huli Chicken.jpg]]"

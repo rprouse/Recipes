@@ -3,7 +3,7 @@ tags: [mexican, quick, weeknight]
 title: Broiled Fish Tacos
 author: Sarah Copeland
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019586-broiled-fish-tacos
 image: "[[attachments/Broiled Fish Tacos.jpg]]"

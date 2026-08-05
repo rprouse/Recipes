@@ -3,7 +3,7 @@ tags: [chicken]
 title: Tita Em’s Chicken Wings Adobo
 author: Jeff Gordinier
 servings: 4 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016873-tita-ems-chicken-wings-adobo
 image: "[[attachments/Tita Em’s Chicken Wings Adobo.jpg]]"

@@ -3,7 +3,7 @@ tags: [breakfast, great-leftovers, make-ahead]
 title: Bacon, Egg and Cheese Breakfast Casserole
 author: Alison Roman
 servings: 6 servings
-time: 
+time: 55 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019120-bacon-egg-and-cheese-breakfast-casserole
 image: "[[attachments/Bacon, Egg and Cheese Breakfast Casserole.jpg]]"

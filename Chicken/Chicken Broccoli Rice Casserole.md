@@ -3,7 +3,7 @@ tags: [chicken, easy, great-leftovers, one-pot, weeknight]
 title: Chicken Broccoli Rice Casserole
 author: Sarah Copeland
 servings: 4 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024172-chicken-broccoli-rice-casserole
 image: "[[attachments/Chicken Broccoli Rice Casserole.jpg]]"

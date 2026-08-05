@@ -3,7 +3,7 @@ tags: [pasta, easy, fall, quick, summer, weeknight]
 title: One-Pot Zucchini-Basil Pasta
 author: Alexa Weibel
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020395-one-pot-zucchini-basil-pasta
 image: "[[attachments/One-Pot Zucchini-Basil Pasta.jpg]]"

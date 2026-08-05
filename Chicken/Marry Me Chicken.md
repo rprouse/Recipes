@@ -3,7 +3,7 @@ tags: [chicken, one-pot, party, weeknight]
 title: Marry Me Chicken
 author: Naz Deravian
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024503-marry-me-chicken
 image: "[[attachments/Marry Me Chicken.jpg]]"

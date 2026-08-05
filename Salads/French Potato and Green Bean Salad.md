@@ -3,7 +3,7 @@ tags: [salads, summer]
 title: French Potato and Green Bean Salad
 author: David Tanis
 servings: 4 to 6 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12564-french-potato-and-green-bean-salad
 image: "[[attachments/French Potato and Green Bean Salad.jpg]]"

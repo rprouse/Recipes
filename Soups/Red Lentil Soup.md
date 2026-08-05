@@ -3,7 +3,7 @@ tags: [soups, easy, freezer-friendly, great-leftovers, quick, vegan]
 title: Red Lentil Soup
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016062-red-lentil-soup
 image: "[[attachments/Red Lentil Soup.jpg]]"

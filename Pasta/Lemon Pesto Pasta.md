@@ -3,7 +3,7 @@ tags: [pasta, easy, make-ahead, quick, summer, weeknight, vegetarian]
 title: Lemon Pesto Pasta
 author: Anna Francese Gass
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024253-lemon-pesto-pasta
 image: "[[attachments/Lemon Pesto Pasta.jpg]]"

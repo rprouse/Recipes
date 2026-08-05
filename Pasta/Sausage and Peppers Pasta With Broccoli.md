@@ -3,7 +3,7 @@ tags: [pasta, easy, fall, quick, spring, summer, weeknight, winter]
 title: Sausage and Peppers Pasta With Broccoli
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019818-sausage-and-peppers-pasta-with-broccoli
 image: "[[attachments/Sausage and Peppers Pasta With Broccoli.jpg]]"

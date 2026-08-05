@@ -3,7 +3,7 @@ tags: [sides, budget, easy, fall, quick, weeknight, winter, vegetarian]
 title: Garlicky Alfredo Beans
 author: Carolina Gelen
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025330-garlicky-alfredo-beans
 image: "[[attachments/Garlicky Alfredo Beans.jpg]]"

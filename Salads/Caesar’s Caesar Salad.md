@@ -3,7 +3,7 @@ tags: [salads]
 title: Caesar’s Caesar Salad
 author: Pati Jinich
 servings: 2 to 4 servings
-time: 
+time: 1 hour 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025567-caesars-caesar-salad
 image: "[[attachments/Caesar’s Caesar Salad.jpg]]"

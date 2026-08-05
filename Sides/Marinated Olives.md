@@ -3,7 +3,7 @@ tags: [sides, easy, winter, vegan]
 title: Marinated Olives
 author: Martha Rose Shulman
 servings: 2 cups
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014416-marinated-olives
 image: "[[attachments/Marinated Olives.jpg]]"

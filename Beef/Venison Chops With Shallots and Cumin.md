@@ -3,7 +3,7 @@ tags: [beef, fall, winter]
 title: Venison Chops With Shallots and Cumin
 author: Florence Fabricant
 servings: 4 to 6 servings
-time: 
+time: 1 hour 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019798-venison-chops-with-shallots-and-cumin
 image: "[[attachments/Venison Chops With Shallots and Cumin.jpg]]"

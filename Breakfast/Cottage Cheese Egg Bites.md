@@ -3,7 +3,7 @@ tags: [breakfast, budget, easy, freezer-friendly, great-leftovers, make-ahead, q
 title: Cottage Cheese Egg Bites
 author: Naz Deravian
 servings: 12 egg bites
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026338-cottage-cheese-egg-bites
 image: "[[attachments/Cottage Cheese Egg Bites.jpg]]"

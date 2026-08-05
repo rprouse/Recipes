@@ -3,7 +3,7 @@ tags: [chicken, easy, fall, party, sheet-pan, weeknight, winter]
 title: Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill
 author: Lidey Heuck
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill
 image: "[[attachments/Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill.jpg]]"

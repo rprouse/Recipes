@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight, vegetarian]
 title: Creamy Tomato Spaghetti With Preserved Lemon
 author: Nargisse Benkabbou
 servings: 4 to 6 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026820-creamy-tomato-spaghetti-with-preserved-lemon
 image: "[[attachments/Creamy Tomato Spaghetti With Preserved Lemon.jpg]]"

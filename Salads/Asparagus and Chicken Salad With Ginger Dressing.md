@@ -3,7 +3,7 @@ tags: [salads, quick]
 title: Asparagus and Chicken Salad With Ginger Dressing
 author: David Tanis
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017429-asparagus-and-chicken-salad-with-ginger-dressing
 image: "[[attachments/Asparagus and Chicken Salad With Ginger Dressing.jpg]]"

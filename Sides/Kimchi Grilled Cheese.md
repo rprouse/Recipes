@@ -3,7 +3,7 @@ tags: [sides, quick, weeknight]
 title: Kimchi Grilled Cheese
 author: Ali Slagle
 servings: 1 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019879-kimchi-grilled-cheese
 image: "[[attachments/Kimchi Grilled Cheese.jpg]]"

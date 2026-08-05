@@ -3,7 +3,7 @@ tags: [noodles, easy, fall, one-pot, quick, weeknight, winter]
 title: Citrus-Soy Chicken Ramen
 author: Christian Reynoso
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026647-citrus-soy-chicken-ramen
 image: "[[attachments/Citrus-Soy Chicken Ramen.jpg]]"

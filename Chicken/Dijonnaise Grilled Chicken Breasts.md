@@ -3,7 +3,7 @@ tags: [chicken, easy, make-ahead, party, quick, summer, weeknight]
 title: Dijonnaise Grilled Chicken Breasts
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025355-dijonnaise-grilled-chicken-breasts
 image: "[[attachments/Dijonnaise Grilled Chicken Breasts.jpg]]"

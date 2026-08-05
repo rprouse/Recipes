@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, weeknight, winter, vegetarian]
 title: Baked Potato Soup
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019913-baked-potato-soup
 image: "[[attachments/Baked Potato Soup.jpg]]"

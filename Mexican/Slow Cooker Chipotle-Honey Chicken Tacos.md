@@ -3,7 +3,7 @@ tags: [mexican, slow-cooker, weeknight, make-again]
 title: Slow Cooker Chipotle-Honey Chicken Tacos
 author: Sarah DiGregorio
 servings: 4 servings
-time: 
+time: 5 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos
 image: "[[attachments/Slow Cooker Chipotle-Honey Chicken Tacos.jpg]]"

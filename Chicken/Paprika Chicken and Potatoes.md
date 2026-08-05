@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, sheet-pan, weeknight, make-again]
 title: Paprika Chicken and Potatoes
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025628-paprika-chicken-and-potatoes
 image: "[[attachments/Paprika Chicken and Potatoes.jpg]]"

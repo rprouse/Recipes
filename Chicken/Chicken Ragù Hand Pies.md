@@ -3,7 +3,7 @@ tags: [chicken, fall, weeknight, winter]
 title: Chicken Ragù Hand Pies
 author: Kim Severson
 servings: 10 hand pies
-time: 
+time: 1 hour 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020477-chicken-ragu-hand-pies
 image: "[[attachments/Chicken Ragù Hand Pies.jpg]]"

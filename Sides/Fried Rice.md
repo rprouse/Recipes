@@ -3,7 +3,7 @@ tags: [sides, one-pot, vegetarian]
 title: Fried Rice
 author: Sam Sifton
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12177-fried-rice
 image: "[[attachments/Fried Rice.jpg]]"

@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, winter]
 title: Whatever You Want Soup
 author: Samin Nosrat
 servings: 6 to 8 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018526-whatever-you-want-soup
 image: "[[attachments/Whatever You Want Soup.jpg]]"

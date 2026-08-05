@@ -3,7 +3,7 @@ tags: [vegetarian, budget, easy, quick, weeknight, vegan]
 title: Kung Pao Tofu
 author: Ham El-Waylly
 servings: 3 to 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025397-kung-pao-tofu
 image: "[[attachments/Kung Pao Tofu.jpg]]"

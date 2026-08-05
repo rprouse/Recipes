@@ -3,7 +3,7 @@ tags: [chicken, easy, weeknight]
 title: Salt-and-Pepper Roast Chicken
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017715-salt-and-pepper-roast-chicken
 image: "[[attachments/Salt-and-Pepper Roast Chicken.jpg]]"

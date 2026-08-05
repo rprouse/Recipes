@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: One-Pan Coconut Curry Rice With Chicken and Vegetables
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020858-one-pan-coconut-curry-rice-with-chicken-and-vegetables
 image: "[[attachments/One-Pan Coconut Curry Rice With Chicken and Vegetables.jpg]]"

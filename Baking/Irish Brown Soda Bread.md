@@ -3,7 +3,7 @@ tags: [baking]
 title: Irish Brown Soda Bread
 author: David Tanis
 servings: 1 loaf
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017906-irish-brown-soda-bread
 image: "[[attachments/Irish Brown Soda Bread.jpg]]"

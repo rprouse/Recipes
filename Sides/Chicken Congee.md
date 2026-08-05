@@ -3,7 +3,7 @@ tags: [sides]
 title: Chicken Congee
 author: Sara Bonisteel
 servings: 3 to 4 servings
-time: 
+time: 2 hours 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018321-chicken-congee
 image: "[[attachments/Chicken Congee.jpg]]"

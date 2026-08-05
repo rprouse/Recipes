@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, weeknight]
 title: Sheet-Pan Chicken With Potatoes, Scallions and Capers
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020456-sheet-pan-chicken-with-potatoes-scallions-and-capers
 image: "[[attachments/Sheet-Pan Chicken With Potatoes, Scallions and Capers.jpg]]"

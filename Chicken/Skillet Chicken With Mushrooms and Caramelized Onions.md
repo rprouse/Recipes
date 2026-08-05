@@ -3,7 +3,7 @@ tags: [chicken, easy, weeknight]
 title: Skillet Chicken With Mushrooms and Caramelized Onions
 author: Yasmin Fahr
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022068-skillet-chicken-with-mushrooms-and-caramelized-onions
 image: "[[attachments/Skillet Chicken With Mushrooms and Caramelized Onions.jpg]]"

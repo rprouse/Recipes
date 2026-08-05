@@ -3,7 +3,7 @@ tags: [soups, easy, great-leftovers, one-pot, quick, weeknight]
 title: White Chicken Chili
 author: Lidey Heuck
 servings: 4 to 6 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024345-white-chicken-chili
 image: "[[attachments/White Chicken Chili.jpg]]"

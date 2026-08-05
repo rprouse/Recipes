@@ -3,7 +3,7 @@ tags: [beef, summer]
 title: Thick Backyard Burgers
 author: J. Kenji López-Alt
 servings: 4 burgers
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027101-thick-backyard-burgers
 image: "[[attachments/Thick Backyard Burgers.jpg]]"

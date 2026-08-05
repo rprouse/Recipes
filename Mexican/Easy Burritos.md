@@ -3,7 +3,7 @@ tags: [mexican, easy, freezer-friendly, great-leftovers, make-ahead, quick, week
 title: Easy Burritos
 author: Ali Slagle
 servings: 6 burritos
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024725-easy-burritos
 image: "[[attachments/Easy Burritos.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, easy, spring, summer]
 title: Greek Chicken With Cucumber-Feta Salad
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023135-greek-chicken-with-cucumber-feta-salad
 image: "[[attachments/Greek Chicken With Cucumber-Feta Salad.jpg]]"

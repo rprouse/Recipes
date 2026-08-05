@@ -3,7 +3,7 @@ tags: [pork, slow-cooker, easy, party, weeknight]
 title: Slow-Cooker Jalapeño Pulled Pork
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 6 hours 30 minutes
 date: 2026-06-24 Wednesday
 link: https://cooking.nytimes.com/recipes/1025359-slow-cooker-jalapeno-pulled-pork
 image: "[[attachments/Slow-Cooker Jalapeño Pulled Pork.jpg]]"

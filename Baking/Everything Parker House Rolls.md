@@ -3,7 +3,7 @@ tags: [baking]
 title: Everything Parker House Rolls
 author: Erin Jeanne McDowell
 servings: 12 rolls
-time: 
+time: 2 hours 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019842-everything-parker-house-rolls
 image: "[[attachments/Everything Parker House Rolls.jpg]]"

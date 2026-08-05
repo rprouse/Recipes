@@ -3,7 +3,7 @@ tags: [vegetarian, budget, quick, weeknight, vegan]
 title: Lemon-Miso Tofu With Broccoli
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026706-lemon-miso-tofu-with-broccoli
 image: "[[attachments/Lemon-Miso Tofu With Broccoli.jpg]]"

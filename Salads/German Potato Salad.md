@@ -3,7 +3,7 @@ tags: [salads]
 title: German Potato Salad
 author: Suzanne Hamlin
 servings: 6 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9470-german-potato-salad
 image: "[[attachments/German Potato Salad.jpg]]"

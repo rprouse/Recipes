@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, vegetarian]
 title: Thomas Keller’s Butternut Squash Soup With Brown Butter
 author: Amanda Hesser
 servings: 6 servings
-time: 
+time: 2 hours 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1857-thomas-kellers-butternut-squash-soup-with-brown-butter
 image: "[[attachments/Thomas Keller’s Butternut Squash Soup With Brown Butter.jpg]]"

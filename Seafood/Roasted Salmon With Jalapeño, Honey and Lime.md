@@ -3,7 +3,7 @@ tags: [seafood, weeknight]
 title: Roasted Salmon With Jalapeño, Honey and Lime
 author: Lidey Heuck
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020713-roasted-salmon-with-jalapeno-honey-and-lime
 image: "[[attachments/Roasted Salmon With Jalapeño, Honey and Lime.jpg]]"

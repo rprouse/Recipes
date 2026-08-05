@@ -3,7 +3,7 @@ tags: [mexican, easy, fall, quick, spring, summer, winter]
 title: Thai-Style Coconut Curry Chicken Tacos
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019815-thai-style-coconut-curry-chicken-tacos
 image: "[[attachments/Thai-Style Coconut Curry Chicken Tacos.jpg]]"

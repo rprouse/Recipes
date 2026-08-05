@@ -3,7 +3,7 @@ tags: [soups, fall, winter, vegetarian]
 title: Stewed Greens and Chickpeas With Toasted Garlic and Lemon
 author: Yotam Ottolenghi
 servings: 4 to 6 servings
-time: 
+time: 55 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027678-stewed-greens-and-chickpeas-with-toasted-garlic-and-lemon
 image: "[[attachments/Stewed Greens and Chickpeas With Toasted Garlic and Lemon.jpg]]"

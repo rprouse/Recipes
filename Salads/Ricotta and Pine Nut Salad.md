@@ -3,7 +3,7 @@ tags: [salads, easy, quick, vegetarian]
 title: Ricotta and Pine Nut Salad
 author: Lawson, Nigella
 servings: 8 to 10 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/9348-ricotta-and-pine-nut-salad
 image: "[[attachments/Ricotta and Pine Nut Salad.jpg]]"

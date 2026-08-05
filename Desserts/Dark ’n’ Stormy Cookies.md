@@ -3,7 +3,7 @@ tags: [desserts, winter, vegetarian]
 title: Dark ’n’ Stormy Cookies
 author: Dan Pelosi
 servings: 24 cookies
-time: 
+time: 1 hour 55 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027496-dark-n-stormy-cookies
 image: "[[attachments/Dark ’n’ Stormy Cookies.jpg]]"

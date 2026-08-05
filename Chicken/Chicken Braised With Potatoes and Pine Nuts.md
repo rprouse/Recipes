@@ -3,7 +3,7 @@ tags: [chicken, fall, one-pot, winter]
 title: Chicken Braised With Potatoes and Pine Nuts
 author: Julia Moskin
 servings: 4 to 6 servings
-time: 
+time: 1 hour 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020869-chicken-braised-with-potatoes-and-pine-nuts
 image: "[[attachments/Chicken Braised With Potatoes and Pine Nuts.jpg]]"

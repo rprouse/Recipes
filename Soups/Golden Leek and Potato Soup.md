@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, winter, vegetarian]
 title: Golden Leek and Potato Soup
 author: Melissa Clark
 servings: 6 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017981-golden-leek-and-potato-soup
 image: "[[attachments/Golden Leek and Potato Soup.jpg]]"

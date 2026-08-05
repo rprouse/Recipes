@@ -3,7 +3,7 @@ tags: [salads]
 title: Caesar Salad
 author: Samin Nosrat
 servings: 6 to 8 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018732-caesar-salad
 image: "[[attachments/Caesar Salad.jpg]]"

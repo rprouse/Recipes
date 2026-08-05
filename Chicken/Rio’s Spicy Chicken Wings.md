@@ -3,7 +3,7 @@ tags: [chicken, easy]
 title: Rio’s Spicy Chicken Wings
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015196-rios-spicy-chicken-wings
 image: "[[attachments/Rio’s Spicy Chicken Wings.jpg]]"

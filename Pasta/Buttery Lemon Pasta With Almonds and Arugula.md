@@ -3,7 +3,7 @@ tags: [pasta, easy, quick, weeknight, vegetarian]
 title: Buttery Lemon Pasta With Almonds and Arugula
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023797-buttery-lemon-pasta-with-almonds-and-arugula
 image: "[[attachments/Buttery Lemon Pasta With Almonds and Arugula.jpg]]"

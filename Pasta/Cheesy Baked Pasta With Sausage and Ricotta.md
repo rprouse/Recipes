@@ -3,7 +3,7 @@ tags: [pasta, easy, weeknight]
 title: Cheesy Baked Pasta With Sausage and Ricotta
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020811-cheesy-baked-pasta-with-sausage-and-ricotta
 image: "[[attachments/Cheesy Baked Pasta With Sausage and Ricotta.jpg]]"

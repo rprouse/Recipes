@@ -3,7 +3,7 @@ tags: [chicken]
 title: Tinga de Pollo (Chicken with Chipotle and Onions)
 author: Tejal Rao
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021734-tinga-de-pollo-chicken-with-chipotle-and-onions
 image: "[[attachments/Tinga de Pollo (Chicken with Chipotle and Onions).jpg]]"

@@ -3,7 +3,7 @@ tags: [noodles, easy, quick, summer]
 title: Cold Soba Noodles With Dipping Sauce
 author: Mark Bittman
 servings: 2 to 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/10549-cold-soba-noodles-with-dipping-sauce
 image: "[[attachments/Cold Soba Noodles With Dipping Sauce.jpg]]"

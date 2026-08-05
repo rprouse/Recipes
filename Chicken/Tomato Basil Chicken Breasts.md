@@ -3,7 +3,7 @@ tags: [chicken, one-pot, quick, summer, weeknight]
 title: Tomato Basil Chicken Breasts
 author: Christian Reynoso
 servings: 2 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts
 image: "[[attachments/Tomato Basil Chicken Breasts.jpg]]"

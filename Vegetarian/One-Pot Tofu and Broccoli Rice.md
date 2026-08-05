@@ -3,7 +3,7 @@ tags: [vegetarian, budget, easy, one-pot, quick, weeknight, vegan]
 title: One-Pot Tofu and Broccoli Rice
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025167-one-pot-tofu-and-broccoli-rice
 image: "[[attachments/One-Pot Tofu and Broccoli Rice.jpg]]"

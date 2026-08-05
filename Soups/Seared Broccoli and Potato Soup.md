@@ -3,7 +3,7 @@ tags: [soups, great-leftovers]
 title: Seared Broccoli and Potato Soup
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017010-seared-broccoli-and-potato-soup
 image: "[[attachments/Seared Broccoli and Potato Soup.jpg]]"

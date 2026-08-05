@@ -3,7 +3,7 @@ tags: [salads, easy]
 title: Arugula Salad With Parmesan
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023337-arugula-salad-with-parmesan
 image: "[[attachments/Arugula Salad With Parmesan.jpg]]"

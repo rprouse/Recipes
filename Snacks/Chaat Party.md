@@ -3,7 +3,7 @@ tags: [snacks]
 title: Chaat Party
 author: Priya Krishna
 servings: Varies
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021288-chaat-party
 image: "[[attachments/Chaat Party.jpg]]"

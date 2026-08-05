@@ -3,7 +3,7 @@ tags: [sides, weeknight]
 title: Jook
 author: Mark Bittman
 servings: 6 servings
-time: 
+time: 2 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1839-jook
 image: "[[attachments/Jook.jpg]]"

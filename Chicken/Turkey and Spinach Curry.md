@@ -3,7 +3,7 @@ tags: [chicken, easy, quick]
 title: Turkey and Spinach Curry
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012887-turkey-and-spinach-curry
 image: "[[attachments/Turkey and Spinach Curry.jpg]]"

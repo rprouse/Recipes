@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, winter]
 title: Texas Chili
 author: Jennifer Steinhauer
 servings: 4 to 6 servings
-time: 
+time: 2 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016036-texas-chili
 image: "[[attachments/Texas Chili.jpg]]"

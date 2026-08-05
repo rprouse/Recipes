@@ -3,7 +3,7 @@ tags: [seafood, sheet-pan, weeknight]
 title: Sheet-Pan Roasted Fish With Sweet Peppers
 author: Melissa Clark
 servings: 3 to 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017725-sheet-pan-roasted-fish-with-sweet-peppers
 image: "[[attachments/Sheet-Pan Roasted Fish With Sweet Peppers.jpg]]"

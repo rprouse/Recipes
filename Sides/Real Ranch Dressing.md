@@ -3,7 +3,7 @@ tags: [sides, easy, quick]
 title: Real Ranch Dressing
 author: Mark Bittman
 servings: 2 cups
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1012692-real-ranch-dressing
 image: "[[attachments/Real Ranch Dressing.jpg]]"

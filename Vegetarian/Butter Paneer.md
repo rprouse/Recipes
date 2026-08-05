@@ -3,7 +3,7 @@ tags: [vegetarian, easy, great-leftovers, one-pot, quick, weeknight]
 title: Butter Paneer
 author: Zainab Shah
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025797-butter-paneer
 image: "[[attachments/Butter Paneer.jpg]]"

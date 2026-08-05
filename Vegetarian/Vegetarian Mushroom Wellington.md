@@ -3,7 +3,7 @@ tags: [vegetarian, fall, winter]
 title: Vegetarian Mushroom Wellington
 author: Alexa Weibel
 servings: 8 servings
-time: 
+time: 3 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020596-vegetarian-mushroom-wellington
 image: "[[attachments/Vegetarian Mushroom Wellington.jpg]]"

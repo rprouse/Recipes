@@ -3,7 +3,7 @@ tags: [baking, freezer-friendly]
 title: No-Knead Bread
 author: Mark Bittman
 servings: 1 1 1/2-pound loaf
-time: 
+time: 21 hours 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/11376-no-knead-bread
 image: "[[attachments/No-Knead Bread.jpg]]"

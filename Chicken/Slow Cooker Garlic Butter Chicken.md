@@ -3,7 +3,7 @@ tags: [chicken, easy, slow-cooker]
 title: Slow Cooker Garlic Butter Chicken
 author: Sarah DiGregorio
 servings: 4 servings
-time: 
+time: 4 hours 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026893-slow-cooker-garlic-butter-chicken
 image: "[[attachments/Slow Cooker Garlic Butter Chicken.jpg]]"

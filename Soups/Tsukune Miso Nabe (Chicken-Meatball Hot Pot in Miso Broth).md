@@ -3,7 +3,7 @@ tags: [soups]
 title: Tsukune Miso Nabe (Chicken-Meatball Hot Pot in Miso Broth)
 author: Tejal Rao
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022023-tsukune-miso-nabe-chicken-meatball-hot-pot-in-miso-broth
 image: "[[attachments/Tsukune Miso Nabe (Chicken-Meatball Hot Pot in Miso Broth).jpg]]"

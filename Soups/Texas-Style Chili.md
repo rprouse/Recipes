@@ -3,7 +3,7 @@ tags: [soups, fall, great-leftovers, winter]
 title: Texas-Style Chili
 author: Julia Moskin
 servings: 12 servings
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1017160-texas-style-chili
 image: "[[attachments/Texas-Style Chili.jpg]]"

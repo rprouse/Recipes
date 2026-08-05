@@ -3,7 +3,7 @@ tags: [pasta, budget, easy, quick, weeknight, winter, vegetarian]
 title: Brown Butter Bucatini With Charred Cabbage
 author: Ham El-Waylly
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025324-brown-butter-bucatini-with-charred-cabbage
 image: "[[attachments/Brown Butter Bucatini With Charred Cabbage.jpg]]"

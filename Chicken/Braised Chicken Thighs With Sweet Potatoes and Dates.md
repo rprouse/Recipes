@@ -3,7 +3,7 @@ tags: [chicken, one-pot]
 title: Braised Chicken Thighs With Sweet Potatoes and Dates
 author: Melissa Clark
 servings: 6 to 8 servings
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024884-braised-chicken-thighs-with-sweet-potatoes-and-dates
 image: "[[attachments/Braised Chicken Thighs With Sweet Potatoes and Dates.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, easy, one-pot, quick, weeknight]
 title: Balsamic Chicken Thighs With Burst Tomatoes
 author: Dan Pelosi
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026114-balsamic-chicken-thighs-with-burst-tomatoes
 image: "[[attachments/Balsamic Chicken Thighs With Burst Tomatoes.jpg]]"

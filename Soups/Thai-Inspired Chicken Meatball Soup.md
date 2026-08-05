@@ -3,7 +3,7 @@ tags: [soups, easy, great-leftovers, one-pot]
 title: Thai-Inspired Chicken Meatball Soup
 author: Ali Slagle
 servings: 4 to 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020631-thai-inspired-chicken-meatball-soup
 image: "[[attachments/Thai-Inspired Chicken Meatball Soup.jpg]]"

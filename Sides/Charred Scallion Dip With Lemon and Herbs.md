@@ -8,7 +8,7 @@ tags:
 title: Charred Scallion Dip With Lemon and Herbs
 author: Alexa Weibel
 servings: 1 cup
-time:
+time: 20 minutes
 date: 2026-07-03 Friday
 link: https://cooking.nytimes.com/recipes/1021098-charred-scallion-dip-with-lemon-and-herbs
 image: "[[attachments/Charred Scallion Dip With Lemon and Herbs.jpg]]"

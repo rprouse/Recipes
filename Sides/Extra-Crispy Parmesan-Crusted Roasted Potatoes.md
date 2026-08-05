@@ -3,7 +3,7 @@ tags: [sides, vegetarian]
 title: Extra-Crispy Parmesan-Crusted Roasted Potatoes
 author: J. Kenji López-Alt
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020633-extra-crispy-parmesan-crusted-roasted-potatoes
 image: "[[attachments/Extra-Crispy Parmesan-Crusted Roasted Potatoes.jpg]]"

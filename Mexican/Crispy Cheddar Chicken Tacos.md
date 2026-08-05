@@ -3,7 +3,7 @@ tags: [mexican, easy, quick, weeknight]
 title: Crispy Cheddar Chicken Tacos
 author: Rick A. Martínez
 servings: 8 tacos
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025276-crispy-cheddar-chicken-tacos
 image: "[[attachments/Crispy Cheddar Chicken Tacos.jpg]]"

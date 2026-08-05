@@ -3,7 +3,7 @@ tags: [chicken, easy]
 title: Buffalo Chicken Wings
 author: Mark Bittman
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015016-buffalo-chicken-wings
 image: "[[attachments/Buffalo Chicken Wings.jpg]]"

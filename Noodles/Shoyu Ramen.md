@@ -3,7 +3,7 @@ tags: [noodles]
 title: Shoyu Ramen
 author: Naz Deravian
 servings: 6 servings
-time: 
+time: 8 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024748-shoyu-ramen
 image: "[[attachments/Shoyu Ramen.jpg]]"

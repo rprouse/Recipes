@@ -3,7 +3,7 @@ tags: [chicken, easy, one-pot, weeknight]
 title: One-Pot Roman Chicken Cacciatore With Potatoes
 author: Cybelle Tondu
 servings: 4 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026287-one-pot-roman-chicken-cacciatore-with-potatoes
 image: "[[attachments/One-Pot Roman Chicken Cacciatore With Potatoes.jpg]]"

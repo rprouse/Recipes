@@ -3,7 +3,7 @@ tags: [noodles, vegetarian]
 title: Soba Noodles With Shiitakes, Broccoli and Tofu
 author: Martha Rose Shulman
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016016-soba-noodles-with-shiitakes-broccoli-and-tofu
 image: "[[attachments/Soba Noodles With Shiitakes, Broccoli and Tofu.jpg]]"

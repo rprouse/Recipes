@@ -3,7 +3,7 @@ tags: [salads, easy, quick, summer, vegetarian]
 title: Eggplant Salad With Peppers, Mint and Caper-Feta Vinaigrette
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/11890-eggplant-salad-with-peppers-mint-and-caper-feta-vinaigrette
 image: "[[attachments/Eggplant Salad With Peppers, Mint and Caper-Feta Vinaigrette.jpg]]"

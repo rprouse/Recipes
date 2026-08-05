@@ -3,7 +3,7 @@ tags: [chicken, fall, winter]
 title: Sheet-Pan Coriander Chicken With Caramelized Brussels Sprouts
 author: Melissa Clark
 servings: 3 servings
-time: 
+time: 50 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018590-sheet-pan-coriander-chicken-with-caramelized-brussels-sprouts
 image: "[[attachments/Sheet-Pan Coriander Chicken With Caramelized Brussels Sprouts.jpg]]"

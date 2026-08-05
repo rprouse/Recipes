@@ -3,7 +3,7 @@ tags: [soups, budget, easy, great-leftovers, one-pot, weeknight]
 title: Sausage and Barley Soup With Greens
 author: Yossy Arefi
 servings: 6 to 8 servings
-time: 
+time: 55 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026506-sausage-and-barley-soup-with-greens
 image: "[[attachments/Sausage and Barley Soup With Greens.jpg]]"

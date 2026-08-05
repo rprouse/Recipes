@@ -3,7 +3,7 @@ tags: [chicken, easy, weeknight]
 title: Mayo-Marinated Chicken With Chimichurri
 author: J. Kenji López-Alt
 servings: 2 to 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020543-mayo-marinated-chicken-with-chimichurri
 image: "[[attachments/Mayo-Marinated Chicken With Chimichurri.jpg]]"

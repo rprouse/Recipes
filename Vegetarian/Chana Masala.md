@@ -3,7 +3,7 @@ tags: [vegetarian, easy, one-pot, quick, vegan, make-again]
 title: Chana Masala
 author: Zainab Shah
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024429-chana-masala
 image: "[[attachments/Chana Masala.jpg]]"

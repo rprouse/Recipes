@@ -3,7 +3,7 @@ tags: [snacks, fall, spring, winter]
 title: Hot Cheese Olives
 author: Julia Reed
 servings: 50 hors d'oeuvres
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/8665-hot-cheese-olives
 image: "[[attachments/Hot Cheese Olives.jpg]]"

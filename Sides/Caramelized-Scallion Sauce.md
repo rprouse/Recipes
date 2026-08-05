@@ -3,7 +3,7 @@ tags: [sides]
 title: Caramelized-Scallion Sauce
 author: Francis Lam
 servings: 1 cups
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce
 image: "[[attachments/Caramelized-Scallion Sauce.jpg]]"

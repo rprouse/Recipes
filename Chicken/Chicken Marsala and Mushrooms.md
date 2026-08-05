@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: Chicken Marsala and Mushrooms
 author: Molly O’Neill
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/7344-chicken-marsala-and-mushrooms
 image: "[[attachments/Chicken Marsala and Mushrooms.jpg]]"

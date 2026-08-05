@@ -3,7 +3,7 @@ tags: [chicken, weeknight]
 title: Garlic Chicken With Guasacaca Sauce
 author: Yewande Komolafe
 servings: 4 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022128-garlic-chicken-with-guasacaca-sauce
 image: "[[attachments/Garlic Chicken With Guasacaca Sauce.jpg]]"

@@ -3,7 +3,7 @@ tags: [pork]
 title: Pan-Seared Gyoza
 author: Kiera Wright-Ruiz
 servings: 60 gyoza
-time: 
+time: 2 hours
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020467-pan-seared-gyoza
 image: "[[attachments/Pan-Seared Gyoza.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, budget, easy, one-pot, quick, spring, weeknight]
 title: Spicy Skillet Ground Turkey and Snap Peas
 author: Melissa Clark
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1025253-spicy-skillet-ground-turkey-and-snap-peas
 image: "[[attachments/Spicy Skillet Ground Turkey and Snap Peas.jpg]]"

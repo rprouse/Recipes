@@ -3,7 +3,7 @@ tags: [sides, budget, fall, weeknight, winter, vegan]
 title: The Best Brussels Sprouts Recipe
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1890-roasted-brussels-sprouts-with-garlic
 image: "[[attachments/The Best Brussels Sprouts Recipe.jpg]]"

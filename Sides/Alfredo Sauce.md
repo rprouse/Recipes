@@ -3,7 +3,7 @@ tags: [sides, easy, quick, weeknight]
 title: Alfredo Sauce
 author: The New York Times
 servings: 1 cups
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020965-alfredo-sauce
 image: "[[attachments/Alfredo Sauce.jpg]]"

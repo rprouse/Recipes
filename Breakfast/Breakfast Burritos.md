@@ -3,7 +3,7 @@ tags: [breakfast, easy, freezer-friendly, great-leftovers, make-ahead, quick, we
 title: Breakfast Burritos
 author: Yewande Komolafe
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022540-breakfast-burritos
 image: "[[attachments/Breakfast Burritos.jpg]]"

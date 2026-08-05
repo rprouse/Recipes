@@ -3,7 +3,7 @@ tags: [chicken, sheet-pan, weeknight]
 title: Roasted Chicken Thighs With Cauliflower and Herby Yogurt
 author: Yossy Arefi
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021945-roasted-chicken-thighs-with-cauliflower-and-herby-yogurt
 image: "[[attachments/Roasted Chicken Thighs With Cauliflower and Herby Yogurt.jpg]]"

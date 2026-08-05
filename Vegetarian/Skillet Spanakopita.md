@@ -3,7 +3,7 @@ tags: [vegetarian]
 title: Skillet Spanakopita
 author: Alexa Weibel
 servings: 6 to 8 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020541-skillet-spanakopita
 image: "[[attachments/Skillet Spanakopita.jpg]]"

@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, one-pot]
 title: Korean Spicy Chicken Stew (Dakdori Tang)
 author: Sara Bonisteel
 servings: 6 servings
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019612-korean-spicy-chicken-stew-dakdori-tang
 image: "[[attachments/Korean Spicy Chicken Stew (Dakdori Tang).jpg]]"

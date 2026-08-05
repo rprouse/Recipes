@@ -3,7 +3,7 @@ tags: [chicken, easy, freezer-friendly, great-leftovers, slow-cooker, weeknight]
 title: Mississippi Chicken
 author: Kia Damon
 servings: 6 to 8 servings
-time: 
+time: 6 hours 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027090-mississippi-chicken
 image: "[[attachments/Mississippi Chicken.jpg]]"

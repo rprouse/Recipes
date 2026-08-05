@@ -3,7 +3,7 @@ tags: [salads, quick]
 title: Salad With Anchovy-Mustard Vinaigrette
 author: Melissa Clark
 servings: 8 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015839-salad-with-anchovy-mustard-vinaigrette
 image: "[[attachments/Salad With Anchovy-Mustard Vinaigrette.jpg]]"

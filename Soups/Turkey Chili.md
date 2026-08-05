@@ -3,7 +3,7 @@ tags: [soups, fall, freezer-friendly, great-leftovers, weeknight]
 title: Turkey Chili
 author: Pierre Franey
 servings: 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/7985-turkey-chili
 image: "[[attachments/Turkey Chili.jpg]]"

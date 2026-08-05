@@ -3,7 +3,7 @@ tags: [seafood, easy, one-pot, spring, summer, make-again]
 title: Sesame Salmon Bowls
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022255-sesame-salmon-bowls
 image: "[[attachments/Sesame Salmon Bowls.jpg]]"

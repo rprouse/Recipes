@@ -3,7 +3,7 @@ tags: [beef, easy, quick, weeknight]
 title: Diner-Style Burgers
 author: Sam Sifton
 servings: 4 to 8 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016595-diner-style-burgers
 image: "[[attachments/Diner-Style Burgers.jpg]]"

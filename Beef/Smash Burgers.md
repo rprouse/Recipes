@@ -3,7 +3,7 @@ tags: [beef, quick]
 title: Smash Burgers
 author: J. Kenji López-Alt
 servings: 4 burgers
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027099-smash-burgers
 image: "[[attachments/Smash Burgers.jpg]]"

@@ -3,7 +3,7 @@ tags: [chicken, easy, quick, sheet-pan, weeknight]
 title: Miso-Honey Chicken and Asparagus
 author: Yossy Arefi
 servings: 4 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023863-miso-honey-chicken-and-asparagus
 image: "[[attachments/Miso-Honey Chicken and Asparagus.jpg]]"

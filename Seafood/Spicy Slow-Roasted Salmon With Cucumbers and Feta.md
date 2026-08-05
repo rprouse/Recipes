@@ -3,7 +3,7 @@ tags: [seafood, weeknight]
 title: Spicy Slow-Roasted Salmon With Cucumbers and Feta
 author: Ali Slagle
 servings: 4 to 6 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta
 image: "[[attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg]]"

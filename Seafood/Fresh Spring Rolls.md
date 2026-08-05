@@ -3,7 +3,7 @@ tags: [seafood]
 title: Fresh Spring Rolls
 author: Ali Slagle
 servings: 12 rolls
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024726-fresh-spring-rolls
 image: "[[attachments/Fresh Spring Rolls.jpg]]"

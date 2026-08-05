@@ -3,7 +3,7 @@ tags: [pork, easy, party, quick, weeknight]
 title: San Choy Bao (Pork Lettuce Wraps)
 author: Genevieve Ko
 servings: 4 to 6 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027155-san-choy-bao-pork-lettuce-wraps
 image: "[[attachments/San Choy Bao (Pork Lettuce Wraps).jpg]]"

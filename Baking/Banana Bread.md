@@ -3,7 +3,7 @@ tags: [baking, budget, great-leftovers, weeknight]
 title: Banana Bread
 author: Julia Moskin
 servings: 1 loaf
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013989-banana-bread
 image: "[[attachments/Banana Bread.jpg]]"

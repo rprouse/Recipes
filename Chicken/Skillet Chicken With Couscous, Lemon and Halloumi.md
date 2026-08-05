@@ -3,7 +3,7 @@ tags: [chicken, easy]
 title: Skillet Chicken With Couscous, Lemon and Halloumi
 author: Yewande Komolafe
 servings: 4 servings
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020773-skillet-chicken-with-couscous-lemon-and-halloumi
 image: "[[attachments/Skillet Chicken With Couscous, Lemon and Halloumi.jpg]]"

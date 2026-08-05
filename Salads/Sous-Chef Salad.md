@@ -3,7 +3,7 @@ tags: [salads, summer]
 title: Sous-Chef Salad
 author: Gabrielle Hamilton
 servings: 2 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022418-sous-chef-salad
 image: "[[attachments/Sous-Chef Salad.jpg]]"

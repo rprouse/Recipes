@@ -3,7 +3,7 @@ tags: [sides, weeknight]
 title: Braised Greens
 author: Marian Burros
 servings: 2 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/6165-braised-greens
 image: "[[attachments/Braised Greens.jpg]]"

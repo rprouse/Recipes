@@ -3,7 +3,7 @@ tags: [soups, great-leftovers, weeknight, vegetarian]
 title: Winter Tomato Soup With Bulgur
 author: Martha Rose Shulman
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1014581-winter-tomato-soup-with-bulgur
 image: "[[attachments/Winter Tomato Soup With Bulgur.jpg]]"

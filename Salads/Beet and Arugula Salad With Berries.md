@@ -3,7 +3,7 @@ tags: [salads, spring, summer, vegan]
 title: Beet and Arugula Salad With Berries
 author: Martha Rose Shulman
 servings: 6 to 8 servings
-time: 
+time: 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016380-beet-and-arugula-salad-with-berries
 image: "[[attachments/Beet and Arugula Salad With Berries.jpg]]"

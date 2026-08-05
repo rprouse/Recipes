@@ -3,7 +3,7 @@ tags: [breakfast, easy, quick, weeknight, vegetarian]
 title: Olive Oil and Chile-Fried Eggs
 author: Andy Baraghani
 servings: 2 to 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1027281-olive-oil-and-chile-fried-eggs
 image: "[[attachments/Olive Oil and Chile-Fried Eggs.jpg]]"

@@ -3,7 +3,7 @@ tags: [drinks]
 title: Kombucha
 author: Sam Sifton
 servings: 1 gallon
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020295-kombucha
 image: "[[attachments/Kombucha.jpg]]"

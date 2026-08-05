@@ -3,7 +3,7 @@ tags: [sides]
 title: Tomato Ketchup
 author: Melissa Clark
 servings: 2 cups
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/12578-tomato-ketchup
 image: "[[attachments/Tomato Ketchup.jpg]]"

@@ -3,7 +3,7 @@ tags: [drinks, vegetarian]
 title: Citrus and Herb Tonic
 author: Yewande Komolafe
 servings: 1 quarts
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1022860-citrus-and-herb-tonic
 image: "[[attachments/Citrus and Herb Tonic.jpg]]"

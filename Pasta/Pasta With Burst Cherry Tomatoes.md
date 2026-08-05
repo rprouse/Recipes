@@ -3,7 +3,7 @@ tags: [pasta, summer, weeknight]
 title: Pasta With Burst Cherry Tomatoes
 author: Melissa Clark
 servings: 4 to 6 servings
-time: 
+time: 20 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016634-pasta-with-burst-cherry-tomatoes
 image: "[[attachments/Pasta With Burst Cherry Tomatoes.jpg]]"

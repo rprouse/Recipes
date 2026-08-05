@@ -3,7 +3,7 @@ tags: [salads, budget, easy, quick, weeknight]
 title: Pork Laab
 author: Sherry Rujikarn
 servings: 4 servings as part of a larger Thai meal
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026919-pork-laab
 image: "[[attachments/Pork Laab.jpg]]"

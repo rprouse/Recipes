@@ -3,7 +3,7 @@ tags: [soups, quick]
 title: Manhattan Clam Chowder
 author: Sam Sifton
 servings: 8 to 10 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016719-manhattan-clam-chowder
 image: "[[attachments/Manhattan Clam Chowder.jpg]]"

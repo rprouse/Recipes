@@ -3,7 +3,7 @@ tags: [breakfast, easy, weeknight, vegetarian]
 title: Green Shakshuka With Avocado and Lime
 author: Sarah Copeland
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime
 image: "[[attachments/Green Shakshuka With Avocado and Lime.jpg]]"

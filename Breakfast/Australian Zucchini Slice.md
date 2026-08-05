@@ -3,7 +3,7 @@ tags: [breakfast, great-leftovers, weeknight]
 title: Australian Zucchini Slice
 author: Melissa Clark
 servings: 8 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023340-australian-zucchini-slice
 image: "[[attachments/Australian Zucchini Slice.jpg]]"

@@ -3,7 +3,7 @@ tags: [vegetarian, easy, fall, weeknight, winter, vegan]
 title: Stir-Fried Tofu, Red Cabbage and Winter Squash
 author: Martha Rose Shulman
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1013030-stir-fried-tofu-red-cabbage-and-winter-squash
 image: "[[attachments/Stir-Fried Tofu, Red Cabbage and Winter Squash.jpg]]"

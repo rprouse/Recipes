@@ -3,7 +3,7 @@ tags: [vegetarian]
 title: Roasted-Mushroom-and-Broccoli Grain Bowls
 author: Francis Lam
 servings: 2 servings, plus leftovers
-time: 
+time: 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019271-roasted-mushroom-and-broccoli-grain-bowls
 image: "[[attachments/Roasted-Mushroom-and-Broccoli Grain Bowls.jpg]]"

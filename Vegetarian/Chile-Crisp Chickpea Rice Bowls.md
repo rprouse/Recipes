@@ -3,7 +3,7 @@ tags: [vegetarian, easy, weeknight, vegan]
 title: Chile-Crisp Chickpea Rice Bowls
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 35 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023420-chile-crisp-chickpea-rice-bowls
 image: "[[attachments/Chile-Crisp Chickpea Rice Bowls.jpg]]"

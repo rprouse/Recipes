@@ -3,7 +3,7 @@ tags: [snacks, easy, quick, weeknight, vegetarian]
 title: Cheddar-Sauerkraut Toast
 author: Ali Slagle
 servings: 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1023015-cheddar-sauerkraut-toast
 image: "[[attachments/Cheddar-Sauerkraut Toast.jpg]]"

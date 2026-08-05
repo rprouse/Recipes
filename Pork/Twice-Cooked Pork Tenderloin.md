@@ -3,7 +3,7 @@ tags: [pork, easy, quick, weeknight]
 title: Twice-Cooked Pork Tenderloin
 author: Mark Bittman
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/11897-twice-cooked-pork-tenderloin
 image: "[[attachments/Twice-Cooked Pork Tenderloin.jpg]]"

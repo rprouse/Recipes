@@ -3,7 +3,7 @@ tags: [beef, party, summer]
 title: Lomo al Trapo (Salt-Grilled Beef Tenderloin)
 author: Peter Kaminsky
 servings: 4 to 6 servings
-time: 
+time: 1 hour
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026814-lomo-al-trapo-salt-grilled-beef-tenderloin
 image: "[[attachments/Lomo al Trapo (Salt-Grilled Beef Tenderloin).jpg]]"

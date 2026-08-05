@@ -3,7 +3,7 @@ tags: [breakfast, one-pot, weeknight, vegetarian]
 title: Eggs in Purgatory
 author: Melissa Clark
 servings: 3 to 4 servings
-time: 
+time: 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1019109-eggs-in-purgatory
 image: "[[attachments/Eggs in Purgatory.jpg]]"

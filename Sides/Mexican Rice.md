@@ -3,7 +3,7 @@ tags: [sides]
 title: Mexican Rice
 author: Kim Severson
 servings: 4 cups
-time: 
+time: 40 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1016674-mexican-rice
 image: "[[attachments/Mexican Rice.jpg]]"

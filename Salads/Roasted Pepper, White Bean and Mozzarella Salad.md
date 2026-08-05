@@ -3,7 +3,7 @@ tags: [salads, easy, party, quick, summer, weeknight, vegetarian]
 title: Roasted Pepper, White Bean and Mozzarella Salad
 author: Hetty Lui McKinnon
 servings: 4 servings
-time: 
+time: 10 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026924-roasted-pepper-white-bean-and-mozzarella-salad
 image: "[[attachments/Roasted Pepper, White Bean and Mozzarella Salad.jpg]]"

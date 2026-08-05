@@ -3,7 +3,7 @@ tags: [mexican]
 title: Martha Rose Shulman's Chicken Fajitas
 author: Martha Rose Shulman
 servings: 4 servings
-time: 
+time: 1 hour 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1018100-martha-rose-shulmans-chicken-fajitas
 image: "[[attachments/Martha Rose Shulman's Chicken Fajitas.jpg]]"

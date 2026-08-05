@@ -3,7 +3,7 @@ tags: [beef, fall, winter]
 title: Corned Beef and Cabbage
 author: Sarah DiGregorio
 servings: 4 servings
-time: 
+time: 4 hours 45 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020074-corned-beef-and-cabbage
 image: "[[attachments/Corned Beef and Cabbage.jpg]]"

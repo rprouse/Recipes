@@ -3,7 +3,7 @@ tags: [pasta, easy, great-leftovers, weeknight]
 title: Baked Mac and Cheese
 author: Julia Moskin
 servings: 8 to 12 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1015824-baked-macaroni-and-cheese
 image: "[[attachments/Baked Mac and Cheese.jpg]]"

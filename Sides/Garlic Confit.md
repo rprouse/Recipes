@@ -3,7 +3,7 @@ tags: [sides]
 title: Garlic Confit
 author: Ali Slagle
 servings: 2 cups
-time: 
+time: 1 hour 30 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1024716-garlic-confit
 image: "[[attachments/Garlic Confit.jpg]]"

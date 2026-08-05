@@ -3,7 +3,7 @@ tags: [beef, easy, quick, weeknight]
 title: Smashed Beef Kebab With Cucumber Yogurt
 author: Zaynab Issa
 servings: 4 servings
-time: 
+time: 25 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1026425-smashed-beef-kebab-with-cucumber-yogurt
 image: "[[attachments/Smashed Beef Kebab With Cucumber Yogurt.jpg]]"

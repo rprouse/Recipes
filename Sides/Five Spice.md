@@ -3,7 +3,7 @@ tags: [sides]
 title: Five Spice
 author: Melissa Clark
 servings: cup ground spice blend
-time: 
+time: 5 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1021925-five-spice
 image: "[[attachments/Five Spice.jpg]]"

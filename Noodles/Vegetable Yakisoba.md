@@ -3,7 +3,7 @@ tags: [noodles, japanese, vegetable, weeknight]
 title: Vegetable Yakisoba
 author: Kay Chun
 servings: 4 servings
-time: 
+time: 30 minutes
 date: 2026-06-24 Wednesday
 link: https://cooking.nytimes.com/recipes/1022780-vegetable-yakisoba
 image: "[[attachments/Vegetable Yakisoba.jpg]]"
