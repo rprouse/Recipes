@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken/Chicken Souvlaki With Tzatziki Sauce and Greek Salad.md",
+                "file": "Chicken/Chicken and Pesto Rice With Peas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
-                  "extraContext": false,
+                  "extraContext": true,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chicken Souvlaki With Tzatziki Sauce and Greek Salad"
+              "title": "Chicken and Pesto Rice With Peas"
             }
           }
         ]
@@ -47,7 +47,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipe Websites.md",
+            "file": "Pasta/Homemade Hamburger Helper.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,12 +164,16 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
+    "Planned Recipe List.md",
+    "Beef/Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs).md",
+    "Soups/Chicken and White Bean Stew.md",
+    "Pasta/Homemade Hamburger Helper.md",
     "All Recipes.base",
+    "Chicken/Chicken Souvlaki With Tzatziki Sauce and Greek Salad.md",
     "Recipe Websites.md",
     "Chicken/Sheet-Pan Scallion Chicken With Bok Choy.md",
     "Readme.md",
     "Mexican/Easy Chicken Tacos.md",
-    "Planned Recipe List.md",
     "Chicken/Sheet-Pan Chicken and Carrots With Yogurt Sauce.md",
     "Vegetarian/Saag Paneer.md",
     "Noodles/Simple Pad Thai.md",
@@ -196,9 +202,6 @@
     "Pasta/Roman-Style Spaghetti Alla Carrettiera (Tomato, Tuna, and Mushroom Pasta).md",
     "Snacks/Whipped Feta Dip With Brown Butter, Dates, and Pine Nuts.md",
     "Pasta/Cacio e Pepe (Spaghetti With Black Pepper and Pecorino Romano).md",
-    "Mexican/Beer-Marinated Chicken Tacos.md",
-    "Desserts/5-Minute Chocolate Raspberry Mug Cake for Two.md",
-    "Beef/Cuban Picadillo.md",
     "Sandwiches/attachments",
     "Sandwiches"
   ]

@@ -1,3 +1,7 @@
+## 2026-08
+- [ ] [[Chicken and White Bean Stew]]
+- [ ] [[Chicken and Pesto Rice With Peas]]
+- [ ] [[Keema Palak (Ground Chicken and Spinach Curry)]]
 ## 2026-07
 - [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [x] Steak, Salad and Potatoes
@@ -24,9 +28,9 @@
 - [x] [[Easy Chicken Tacos]]
 - [x] Shepherds Pie
 ## Future
+- [ ] [[Stir-Fried Cumin Green Beans and Chicken]]
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
 - [ ] [[Creamy Lasagna Soup]]
-- [ ] [[Chicken and White Bean Stew]]
 - [ ] [[Horiatiki (Greek Salad)]]
 - [ ] [[Orange and Leek Loukaniko (Greek Sausage)]]
 - [ ] [[Better Than Chipotle Beef Barbacoa]]
@@ -34,7 +38,6 @@
 - [ ] [[Creamy Tuscan Chicken]]
 - [ ] [[Chicken Souvlaki With Tzatziki Sauce and Greek Salad]]
 - [ ] [[Chicken Marsala]]
-- [ ] [[Chicken and Pesto Rice With Peas]]
 - [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
 - [ ] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [ ] [[Beer-Marinated Chicken Tacos]]

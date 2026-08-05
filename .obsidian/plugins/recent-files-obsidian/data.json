@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Basic Sports Drink",
-      "path": "Sports/Basic Sports Drink.md"
+      "basename": "Stir-Fried Cumin Green Beans and Chicken",
+      "path": "Chicken/Stir-Fried Cumin Green Beans and Chicken.md"
     },
     {
-      "basename": "Quick & Easy Refrigerator Pickles",
-      "path": "Sides/Quick & Easy Refrigerator Pickles.md"
+      "basename": "Planned Recipe List",
+      "path": "Planned Recipe List.md"
+    },
+    {
+      "basename": "Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce",
+      "path": "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md"
     },
     {
       "basename": "All Recipes",
       "path": "All Recipes.base"
     },
     {
-      "basename": "Planned Recipe List",
-      "path": "Planned Recipe List.md"
+      "basename": "Chicken and Pesto Rice With Peas",
+      "path": "Chicken/Chicken and Pesto Rice With Peas.md"
+    },
+    {
+      "basename": "Keema Palak (Ground Chicken and Spinach Curry)",
+      "path": "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md"
+    },
+    {
+      "basename": "Make Again",
+      "path": "Make Again.base"
+    },
+    {
+      "basename": "Post-Ride Recovery Drink",
+      "path": "Sports/Post-Ride Recovery Drink.md"
+    },
+    {
+      "basename": "Orange and Leek Loukaniko (Greek Sausage)",
+      "path": "Pork/Orange and Leek Loukaniko (Greek Sausage).md"
+    },
+    {
+      "basename": "Quick & Easy Refrigerator Pickles",
+      "path": "Sides/Quick & Easy Refrigerator Pickles.md"
+    },
+    {
+      "basename": "Basic Sports Drink",
+      "path": "Sports/Basic Sports Drink.md"
     },
     {
       "basename": "The Only Naan Recipe You Need    No Oven, Restaurant-Like Results",
@@ -141,10 +169,6 @@
       "path": "Seafood/Curry Shrimp and Sweet Potato.md"
     },
     {
-      "basename": "Make Again",
-      "path": "Make Again.base"
-    },
-    {
       "basename": "Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)",
       "path": "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Cottage Cheese Egg Bites",
       "path": "Breakfast/Cottage Cheese Egg Bites.md"
-    },
-    {
-      "basename": "Breakfast Bars With Oats and Coconut",
-      "path": "Breakfast/Breakfast Bars With Oats and Coconut.md"
-    },
-    {
-      "basename": "Baked Oatmeal Breakfast Bars",
-      "path": "Breakfast/Baked Oatmeal Breakfast Bars.md"
-    },
-    {
-      "basename": "Chile Crisp Cheese Crackers",
-      "path": "Baking/Chile Crisp Cheese Crackers.md"
-    },
-    {
-      "basename": "Cornbread",
-      "path": "Baking/Cornbread.md"
-    },
-    {
-      "basename": "Beef, Asparagus and Tofu Stir-Fry",
-      "path": "Beef/Beef, Asparagus and Tofu Stir-Fry.md"
-    },
-    {
-      "basename": "Creamy Cottage Cheese Basil Pasta",
-      "path": "Pasta/Creamy Cottage Cheese Basil Pasta.md"
     }
   ],
   "omittedPaths": [],

@@ -1,9 +1,14 @@
 ---
-tags: [pasta, easy, one-pot]
+tags:
+  - pasta
+  - easy
+  - one-pot
+  - cooked
+  - make-again
 title: Homemade Hamburger Helper
 author: Priya Krishna
 servings: 4 servings
-time: 
+time: 1 hour 15 minutes
 date: 2026-05-28 Thursday
 link: https://cooking.nytimes.com/recipes/1020728-homemade-hamburger-helper
 image: "[[attachments/Homemade Hamburger Helper.jpg]]"

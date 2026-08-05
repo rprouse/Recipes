@@ -1,5 +1,13 @@
 ---
-tags: [chicken, dutch-oven, easy, one-pot, weeknight, quick]
+tags:
+  - chicken
+  - dutch-oven
+  - easy
+  - one-pot
+  - weeknight
+  - quick
+  - cooked
+  - make-again
 title: Chicken and Pesto Rice With Peas
 author: Dan Pelosi
 servings: 4 to 6 servings
