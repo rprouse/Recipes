@@ -29,7 +29,7 @@ for actual dishes. A reference note is a scannable knowledge page.
 Figure out which kind of guide it is (ingredient / technique / cuisine-flavor / other
 kitchen reference) — this decides the hub section later — then write the note and link
 it. If the user asks for something dish-specific ("a recipe for X"), this is the wrong
-skill; use `download-recipe` / `download-nyt-recipe` or the Recipe template instead.
+skill; use `download-recipe` or the Recipe template instead.
 
 ## Note format
 

@@ -35,7 +35,7 @@ note does not.
 ### 3. Pick the destination folder
 
 Classify by the same rubric the import tooling uses (full version in the
-`download-nyt-recipe` skill). Existing folders: **Baking, BBQ, Beef, Chicken,
+`download-recipe` skill). Existing folders: **Baking, BBQ, Beef, Chicken,
 Desserts, Drinks, Mexican, Noodles, Pasta, Pizza, Pork, Salads, Seafood, Sides,
 Snacks, Soups, Sous Vide, Vegetarian** (plus **Breakfast**). Priority:
 

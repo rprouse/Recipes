@@ -51,19 +51,20 @@ Conventions that matter:
 
 Recipes are filed into mixed-axis top-level folders — by **protein** (Beef, Chicken, Pork, Seafood), **dish type** (Pasta, Noodles, Pizza, Soups, Salads, Sandwiches, Baking, Breakfast, Desserts, Snacks, Sides, Drinks), **cuisine** (Mexican), **method** (BBQ, Sous Vide), or **diet** (Vegetarian). `Incoming/` is the unsorted inbox.
 
-When classifying, dish type wins over protein (e.g. "Shrimp Piccata Spaghetti" → Pasta, not Seafood); soups/stews → Soups even when meat-forward. The full rubric lives in the `download-nyt-recipe` skill.
+When classifying, dish type wins over protein (e.g. "Shrimp Piccata Spaghetti" → Pasta, not Seafood); soups/stews → Soups even when meat-forward. The full rubric lives in the `download-recipe` skill.
 
 ## Reference notes (not recipes)
 
 `Reference/` holds a growing series of **general cooking-knowledge notes** — ingredient guides, techniques, cuisine flavor profiles — linked from a hub note (`Reference/Cooking Reference.md`). These are **not recipes**: do not apply `Templates/Recipe.md` to them. To create or extend one, use the **`create-reference-guide` skill** (`.claude/skills/create-reference-guide/`), which carries the house format and hub-linking steps.
 
-## NYT Cooking import tooling
+## Recipe import tooling
 
-Most notes were imported from NYT Cooking. The reusable tooling is the **`download-nyt-recipe` skill** (`.claude/skills/download-nyt-recipe/`) — invoke it for any NYT recipe URL or to bulk-import the user's recipe box. Key facts baked into that skill:
+One skill handles every site: the **`download-recipe` skill** (`.claude/skills/download-recipe/`) — invoke it for any recipe URL, NYT Cooking included. Key facts:
 
-- A **single recipe needs no login**: its full `schema.org/Recipe` JSON-LD (and the cook's tip, in a separate embedded blob) is in the raw HTML, so a plain `curl` gets everything. The Playwright browser is only needed to enumerate the auth-gated recipe box.
-- The recipe box is enumerated via the JSON API `…/api/v2/users/<USER_ID>/search/recipe_box_search?q=&per_page=48&page=N` (add `&collection_id=<id>` for a specific collection/folder).
-- Bulk pipeline (all resumable): enumerate (browser) → `scripts/nyt_fetch.py <manifest.json>` (curl+parse, no browser) → classify folders with **Sonnet** sub-agents → `scripts/nyt_write.py` (writes notes + downloads images).
-- The `link:` frontmatter field contains the NYT recipe id, which acts as the **stable join key** between NYT data and a vault note — used to dedupe imports and to tag existing notes (e.g. matching a collection's recipes to add a `make-again` tag). Match on `recipes/<id>-` (with trailing hyphen) to avoid id-prefix false positives.
+- **No login is needed for a single recipe**, even behind a paywall. Sites gate the *rendered reading experience*, not the `schema.org/Recipe` JSON-LD they publish for SEO, so a plain fetch gets the whole recipe.
+- Extraction is `scripts/recipe_extract.py`, run with **`uv run`** — a PEP 723 header declares `recipe-scrapers`, so uv resolves it automatically and there is nothing to `pip install`. The script emits normalized JSON; the note itself is written with editorial judgment, not generated.
+- **Dotdash Meredith sites (Serious Eats, Simply Recipes, AllRecipes, Food & Wine) return intermittent 403s** to automated clients. It is rate-limiting, not fingerprinting — the same URL alternates 200/403 seconds apart regardless of HTTP client. The script retries with backoff; if it still fails, wait and re-run.
+- The `link:` frontmatter field contains the source URL, and for NYT the recipe id in it acts as the **stable join key** between NYT data and a vault note — used to dedupe imports and to tag existing notes (e.g. matching a collection's recipes to add a `make-again` tag). Match on `recipes/<id>-` (with trailing hyphen) to avoid id-prefix false positives.
+- **`image:` frontmatter is load-bearing**, not decorative: `All Recipes.base` and `Make Again.base` render their card views via `image: note.image`, so a note missing it shows a blank card. Every note with a lead photo needs both the `image:` property and the embed below the frontmatter.
 
-Working scratch for imports (manifests, per-recipe JSON cache, batch files, logs) goes in **`.recipe-import/`**, which is gitignored along with `.playwright-mcp/`. The committed, canonical scripts are the ones bundled in the skill — copy/run those rather than relying on scratch.
+`.recipe-import/` (gitignored, along with `.playwright-mcp/`) holds leftover scratch from the original 853-recipe NYT bulk import — a per-recipe JSON cache and the one-off `add_image_frontmatter.py` backfill. Nothing current depends on it.
