@@ -76,18 +76,35 @@ that all existing notes use. Leave it off unless a site's default image is poor.
 ### Outdoor Eats / camping recipes
 
 `outdooreats.com` publishes a stub `schema.org/Recipe` node — name and image only.
-`recipe-scrapers` reports success and returns zero ingredients, so watch `missing[]`
-for a run of `SchemaOrgException` entries. `scripts/site_parsers.py` repairs this from
-the page's inline microdata; you do not need to do anything special beyond running the
-normal command.
+`recipe-scrapers` reports success and returns zero ingredients.
+`scripts/site_parsers.py` repairs this from the page's inline microdata; you do not
+need to do anything special beyond running the normal command.
+
+**Reading `missing[]` here.** After a successful repair the recovered fields read
+`recovered from site parser` — that is the healthy signal, not a warning. Only
+`prep_time`, `cook_time`, `description`, `cuisine`, `keywords` and
+`dietary_restrictions` stay `SchemaOrgException`; this site publishes none of them.
+The entry to act on is `site parser found nothing`: the repair parser ran for that
+field and came back empty-handed, so check it against the page before writing the note.
+
+**`description` is `null` for every recipe on this site**, and the page's
+`<meta name="description">` is a site-wide marketing blurb ("Checkout all the outdoor
+meal recipes and camping recipes from Chef Corso…") that says nothing about this
+recipe — never use it as the overview. Take the overview from the page body instead:
+the `<p class="excerptbox">` one-liner under the `<h1>` (e.g. "A flavor packed trail
+lunch!"), found with `--save-html`, expanded in the vault's voice. This is the
+exception to step 4's "tighten the extracted `description`".
 
 Extras arrive in a `camping` sub-object: `weight_per_serving_g`, `water_needed_ml`,
-`cook_method` (always inferred — sanity-check it against the steps), and
-`dietary_tags`. A recovered cook's note arrives as `cooks_note` and belongs in the
-`> [!tip]` callout. Images are 800×800 PNG, so use `.png` in the attachment name,
-the `image:` property, and the embed.
+`cook_method`, `cook_method_inferred` (always `true` — the method is derived rather
+than published as such, so sanity-check it against the steps), and `dietary_tags`.
+A recovered cook's note arrives as `cooks_note` and belongs in the `> [!tip]` callout.
+Images are 800×800 PNG, so use `.png` in the attachment name, the `image:` property,
+and the embed.
 
-Gated recipes exit with code 2 and write nothing.
+Gated recipes exit with code 2 and write nothing. That is specifically a page that
+still ships the stub JSON-LD; one carrying no JSON-LD at all fails earlier, inside
+`recipe-scrapers`, and exits 1.
 
 ## 2. Pick the destination folder
 

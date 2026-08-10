@@ -65,7 +65,9 @@ which extends the standard template with `weight-per-serving` (grams, numeric),
 needed, blank means unknown), and `cook-method`. `Camping.base` renders these,
 sorted by pack weight. The camping folder wins over dish type: "Hiker Pasta" is
 Camping, not Pasta. Distinct from `Sports/`, which is sports drinks and exercise
-nutrition.
+nutrition. Lead images from Outdoor Eats are **800×800 PNG**, so camping notes use
+`.png` — not the `.jpg` of the example above — in the attachment filename, the
+`image:` property, and the embed.
 
 ## Recipe import tooling
 

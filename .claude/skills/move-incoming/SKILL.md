@@ -35,10 +35,13 @@ note does not.
 ### 3. Pick the destination folder
 
 Classify by the same rubric the import tooling uses (full version in the
-`download-recipe` skill). Existing folders: **Baking, BBQ, Beef, Chicken,
+`download-recipe` skill). Existing folders: **Baking, BBQ, Beef, Camping, Chicken,
 Desserts, Drinks, Mexican, Noodles, Pasta, Pizza, Pork, Salads, Seafood, Sides,
-Snacks, Soups, Sous Vide, Vegetarian** (plus **Breakfast**). Priority:
+Snacks, Soups, Sous Vide, Sports, Vegetarian** (plus **Breakfast**). Priority:
 
+0. **CAMPING / BACKPACKING** — from a camping/backpacking site, or explicitly trail,
+   camp, or pack food → Camping. This wins over every other rule, **including dish
+   type**. "Hiker Pasta" is Camping, not Pasta; "Trail Cioppino" is Camping, not Soups.
 1. Dish type first: pasta → Pasta; ramen/soba/udon/rice-noodle → Noodles; soup/stew/
    chili/broth → Soups; salad → Salads; pizza → Pizza; Mexican (tacos/enchiladas) →
    Mexican; breakfast food → Breakfast; bread/cracker → Baking; dessert → Desserts;
@@ -51,6 +54,11 @@ Snacks, Soups, Sous Vide, Vegetarian** (plus **Breakfast**). Priority:
 
 When a dish is both a dish-type and a protein (e.g. "Shrimp Piccata Spaghetti"), dish
 type wins.
+
+**Sports is not Camping.** `Sports/` is sports drinks and exercise nutrition;
+`Camping/` is trail and camp food. A high-calorie energy snack from a camping
+source goes to Camping; a drink mix or gel for workouts goes to Sports. Source
+and intent decide, not the macros.
 
 **Multi-dish collections** (one note containing many recipes, e.g. "15 Medieval
 Meals") have no perfect single home — pick the folder that fits the *dominant* content
