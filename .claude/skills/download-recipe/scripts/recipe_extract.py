@@ -1,6 +1,6 @@
 # /// script
 # requires-python = ">=3.10"
-# dependencies = ["recipe-scrapers>=15.11"]
+# dependencies = ["recipe-scrapers>=15.11", "beautifulsoup4"]
 # ///
 """Extract a recipe from any cooking site into normalized JSON, and optionally
 download its lead image.
@@ -36,6 +36,17 @@ import time
 import urllib.error
 import urllib.request
 
+from site_parsers import parser_for
+
+
+class Gated(Exception):
+    """The page is behind a hard paywall with no recoverable content.
+
+    Distinct from a fetch failure: the request succeeded, the page simply has no
+    recipe in it. Callers must abort rather than write a half-empty note.
+    """
+
+
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/120 Safari/537.36"
@@ -70,7 +81,7 @@ FIELDS = (
 )
 
 
-def fetch(url, tries=6):
+def fetch(url, tries=6, cookie=None):
     """Fetch with a browser UA — many recipe CDNs refuse bare requests.
 
     Retries patiently with exponential backoff because Dotdash Meredith sites
@@ -82,7 +93,15 @@ def fetch(url, tries=6):
     last = None
     for n in range(tries):
         try:
-            req = urllib.request.Request(url, headers=HEADERS)
+            headers = dict(HEADERS)
+            if cookie:
+                # Seam for Outdoor Eats Recipe Club membership. Nothing sets this yet —
+                # the user holds no membership, so ~46% of that site stays unreachable and
+                # the gate check in site_parsers handles it. When a session cookie does get
+                # passed here, gated pages render in full and the existing parser handles
+                # them unchanged.
+                headers["Cookie"] = cookie
+            req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=30) as r:
                 return r.read().decode("utf-8", "replace")
         except (urllib.error.URLError, TimeoutError) as e:
@@ -205,6 +224,31 @@ def extract(url, html, best_image=False):
             missing = [m for m in missing if m["field"] != "image"]
             missing.append({"field": "image", "error": "recovered from og:image"})
 
+    # Repair pass for sites whose schema.org Recipe node is a stub. Sits here, after
+    # the schema.org pass, for the same reason the og:image recovery above does:
+    # trust the standard data first, patch only what it failed to provide.
+    parser = parser_for(url)
+    if parser:
+        recovered = parser(html, data)
+        if recovered.get("gated"):
+            raise Gated(
+                "recipe is member-gated (Outdoor Eats Recipe Club) — no content in page"
+            )
+        # Pulled out before the merge loop below: neither is a schema.org field, so
+        # neither belongs in missing[] — that array tracks what the standard pass
+        # failed to find, and listing extras there would be noise.
+        camping = recovered.pop("camping", None)
+        cooks_note = recovered.pop("cooks_note", None)
+        for key, value in recovered.items():
+            if value and not data.get(key):
+                data[key] = value
+                missing = [m for m in missing if m["field"] != key]
+                missing.append({"field": key, "error": "recovered from site parser"})
+        if camping:
+            data["camping"] = camping
+        if cooks_note:
+            data["cooks_note"] = cooks_note
+
     data["time_human"] = humanize(data.get("total_time"))
     data["url"] = url
     data["missing"] = missing
@@ -251,6 +295,10 @@ def main():
 
     try:
         data = extract(args.url, html, best_image=args.best_image)
+    except Gated as e:
+        print(f"GATED: {e}", file=sys.stderr)
+        print("No JSON written. Free recipes only — this one needs a membership.", file=sys.stderr)
+        return 2
     except Exception as e:  # noqa: BLE001
         sys.exit(f"extraction failed: {type(e).__name__}: {e}")
 
@@ -290,4 +338,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main() or 0)
