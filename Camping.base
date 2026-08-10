@@ -1,0 +1,60 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.inFolder("Camping")
+properties:
+  file.folder:
+    displayName: Category
+  author:
+    displayName: Author
+  servings:
+    displayName: Servings
+  weight-per-serving:
+    displayName: Weight / Serving (g)
+  calories-per-serving:
+    displayName: Cal / Serving
+  water-needed:
+    displayName: Water (ml)
+  cook-method:
+    displayName: Method
+  time:
+    displayName: Time
+views:
+  - type: cards
+    name: Camping
+    order:
+      - file.name
+      - weight-per-serving
+      - cook-method
+      - time
+    sort:
+      - property: date
+        direction: DESC
+    image: note.image
+    imageAspectRatio: 1
+    imageFit: cover
+  - type: table
+    name: By Weight
+    order:
+      - file.name
+      - weight-per-serving
+      - calories-per-serving
+      - water-needed
+      - cook-method
+      - time
+    sort:
+      - property: weight-per-serving
+        direction: ASC
+  - type: table
+    name: No-Cook
+    filters:
+      and:
+        - cook-method == "no-cook"
+    order:
+      - file.name
+      - weight-per-serving
+      - water-needed
+      - time
+    sort:
+      - property: file.name
+        direction: ASC
