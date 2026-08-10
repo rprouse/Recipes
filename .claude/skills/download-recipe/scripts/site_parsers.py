@@ -26,6 +26,74 @@ def _soup(html):
     return BeautifulSoup(html, "html.parser")
 
 
+NUMBERED_RE = re.compile(r"^\d+[.)]\s*")
+
+
+def _norm(s):
+    """Collapse all whitespace runs to single spaces and strip."""
+    return " ".join(s.split())
+
+
+def _split_on_br(node):
+    """Split a node's contents at <br> tags into normalized text fragments.
+
+    Outdoor Eats writes every step into a single <p itemprop="recipeInstructions">
+    separated by <br>, rather than using a list. Splitting on the tag (rather than
+    on the rendered text) is what keeps the step boundaries intact.
+    """
+    parts, current = [], []
+    for child in node.children:
+        if getattr(child, "name", None) == "br":
+            parts.append("".join(current))
+            current = []
+        else:
+            current.append(child.get_text() if hasattr(child, "get_text") else str(child))
+    parts.append("".join(current))
+    return [_norm(p) for p in parts if _norm(p)]
+
+
+def _steps_and_note(frags):
+    """Split <br> fragments into (steps, cook's note).
+
+    Steps carry their own "1. " numbering in the text, which is stripped. Two
+    quirks, both real:
+
+      * Some recipes repeat the "Steps" heading inside the <p>
+        (chicken-dijon-with-rice does; hiker-pasta does not).
+      * Trailing UNNUMBERED fragments are a cook's note, not steps. On
+        chicken-dijon they are the two <br>-wrapped halves of one sentence
+        ("*you can also cook sauce separately, before or after" / "rice
+        depending on your pot/pan sitch.") and would otherwise become bogus
+        steps 6 and 7. They are rejoined and handed back for the tip callout.
+    """
+    steps, note = [], []
+    for frag in frags:
+        if not steps and frag.strip().lower() == "steps":
+            continue
+        if NUMBERED_RE.match(frag):
+            steps.append(NUMBERED_RE.sub("", frag).strip())
+        elif steps:
+            note.append(frag)
+        # An unnumbered fragment before any step is stray heading text — skipped.
+    return steps, _norm(" ".join(note))
+
+
+def _ingredients(soup):
+    return [_norm(li.get_text(" ")) for li in soup.select('[itemprop="recipeIngredient"]')]
+
+
+def _instructions(soup):
+    """Steps and note from the FIRST recipeInstructions <p>.
+
+    Taking only the first drops the "EAT & PACK IT OUT" sign-off, which the site
+    puts in a second <p> — no special-casing needed.
+    """
+    nodes = soup.select('[itemprop="recipeInstructions"]')
+    if not nodes:
+        return [], ""
+    return _steps_and_note(_split_on_br(nodes[0]))
+
+
 def _parse_outdooreats(html, data):
     """Recover a recipe from outdooreats.com page markup.
 
