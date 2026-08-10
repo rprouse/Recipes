@@ -62,26 +62,36 @@ def _split_on_br(node):
 def _steps_and_note(frags):
     """Split <br> fragments into (steps, cook's note).
 
-    Steps carry their own "1. " numbering in the text, which is stripped. Two
-    quirks, both real:
+    Steps carry their own "1. " numbering in the text, which is stripped. Three
+    quirks, all real:
 
       * Some recipes repeat the "Steps" heading inside the <p>
         (chicken-dijon-with-rice does; hiker-pasta does not).
-      * Trailing UNNUMBERED fragments are a cook's note, not steps. On
+      * Only fragments after the LAST numbered step are a cook's note. On
         chicken-dijon they are the two <br>-wrapped halves of one sentence
         ("*you can also cook sauce separately, before or after" / "rice
         depending on your pot/pan sitch.") and would otherwise become bogus
         steps 6 and 7. They are rejoined and handed back for the tip callout.
+      * An unnumbered fragment BETWEEN two numbered steps is a wrapped
+        continuation of the step above it, not a note — sun-dried-tomato-tuna-mix
+        splits step 1 across a <br> ("Chop or crush nuts/olives as needed").
+        Position, not the absence of a number, is what separates the two cases.
     """
+    last_numbered = max(
+        (i for i, frag in enumerate(frags) if NUMBERED_RE.match(frag)), default=-1
+    )
     steps, note = [], []
-    for frag in frags:
+    for i, frag in enumerate(frags):
         if not steps and frag.strip().lower() == "steps":
             continue
         if NUMBERED_RE.match(frag):
             steps.append(NUMBERED_RE.sub("", frag).strip())
-        elif steps:
+        elif not steps:
+            continue  # An unnumbered fragment before any step is stray heading text.
+        elif i < last_numbered:
+            steps[-1] = _norm(f"{steps[-1]} {frag}")
+        else:
             note.append(frag)
-        # An unnumbered fragment before any step is stray heading text — skipped.
     return steps, _norm(" ".join(note))
 
 
@@ -90,15 +100,20 @@ def _ingredients(soup):
 
 
 def _instructions(soup):
-    """Steps and note from the FIRST recipeInstructions <p>.
+    """Steps and note from whichever recipeInstructions <p> carries the numbering.
 
-    Taking only the first drops the "EAT & PACK IT OUT" sign-off, which the site
-    puts in a second <p> — no special-casing needed.
+    The site emits several `recipeInstructions` nodes and the numbered one is not
+    reliably first. Every recipe ends with an "EAT & PACK IT OUT" sign-off in its
+    own <p>, and a no-cook recipe LEADS with a banner paragraph
+    ("*NO COOK / NO BURNER RECIPE*" on sun-dried-tomato-tuna-mix), pushing the
+    steps into the middle. Selecting the node by what it contains — rather than by
+    index — skips both without special-casing either.
     """
-    nodes = soup.select('[itemprop="recipeInstructions"]')
-    if not nodes:
-        return [], ""
-    return _steps_and_note(_split_on_br(nodes[0]))
+    for node in soup.select('[itemprop="recipeInstructions"]'):
+        steps, note = _steps_and_note(_split_on_br(node))
+        if steps:
+            return steps, note
+    return [], ""
 
 
 def _digits(soup):
@@ -173,16 +188,28 @@ def _dietary_tags(soup):
     return [t.strip().lower().replace(" ", "-") for t in raw.split(",") if t.strip()]
 
 
-def _cook_method(steps, water_ml):
+def _cook_method(steps, water_ml, type_tags=()):
     """Infer how the meal is cooked. ALWAYS reported as inferred to the caller.
 
-    Deliberately conservative: it falls through to one-pot, the commonest case
-    on this site, rather than guessing cleverly at a distinction the step text
-    does not reliably carry.
+    The site publishes the answer for the one case that matters: its own type
+    taxonomy (the same list `_dietary_tags` reads) labels no-burner recipes
+    `No Cook`. That label is the author's, so it beats any reading of the step
+    text and is checked first.
+
+    Everything below it reads the steps, and `water_ml` corroborates: an
+    unheated step list only means no-cook if the recipe needs no water either.
+    Without that check an EMPTY step list — a parse failure — reports itself as a
+    perfectly plausible no-cook recipe, which is how a broken import stays silent.
+
+    Deliberately conservative otherwise: it falls through to one-pot, the
+    commonest case on this site, rather than guessing cleverly at a distinction
+    the step text does not reliably carry.
     """
+    if "no-cook" in type_tags:
+        return "no-cook"
     blob = " ".join(steps)
     if not HEAT_RE.search(blob):
-        return "no-cook"
+        return "no-cook" if water_ml == 0 else "one-pot"
     if BAG_RE.search(blob):
         return "freezer-bag"
     if STEEP_RE.search(blob):
@@ -224,7 +251,10 @@ def _parse_outdooreats(html, data):
     yield_node = soup.select_one('[itemprop="recipeYield"]')
     if yield_node:
         n = _norm(yield_node.get_text(" "))
-        out["yields"] = f"{n} servings" if n else None
+        # Singular matters: this site is mostly single-serving recipes, and
+        # SKILL.md tells the note writer to copy `yields` verbatim — so a sloppy
+        # "1 servings" here lands in the finished note.
+        out["yields"] = f"{n} {'serving' if n == '1' else 'servings'}" if n else None
 
     minutes = re.search(r"\d+", digits.get("minutes", ""))
     if minutes:
@@ -235,12 +265,13 @@ def _parse_outdooreats(html, data):
         out["title"] = _norm(title.get_text(" "))
 
     water = _water_ml(ingredients)
+    tags = _dietary_tags(soup)
     out["camping"] = {
         "weight_per_serving_g": _grams(digits.get("weight per serving", "")),
         "water_needed_ml": water,
-        "cook_method": _cook_method(steps, water),
+        "cook_method": _cook_method(steps, water, tags),
         "cook_method_inferred": True,
-        "dietary_tags": _dietary_tags(soup),
+        "dietary_tags": tags,
     }
 
     # NOTE: no "image" key, ever. The stub JSON-LD carries the correct recipe

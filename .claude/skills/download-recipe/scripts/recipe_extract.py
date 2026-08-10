@@ -194,6 +194,35 @@ def image_format(b):
     return None
 
 
+def merge_recovered(data, recovered, missing):
+    """Merge a site parser's fields into `data`; record BOTH outcomes in missing[].
+
+    Only fields the schema.org pass left empty are filled — the standard data is
+    trusted first, exactly as with the og:image recovery above.
+
+    Recording the misses is the point. A parser that hands back an empty value for
+    a field `data` also lacks used to leave no trace at all: not merged, not
+    listed, no error — an import that reports success while returning nothing. That
+    is the silent failure this whole repair path exists to prevent, so a miss now
+    says so in missing[]. Either outcome replaces the field's earlier entry, so the
+    array always names the last thing that happened to that field.
+
+    Scoped deliberately: the caller runs this only for hosts that HAVE a repair
+    parser, so no other site's missing[] changes shape.
+    """
+    for key, value in recovered.items():
+        if data.get(key):
+            continue
+        if value:
+            data[key] = value
+            why = "recovered from site parser"
+        else:
+            why = "site parser found nothing"
+        missing = [m for m in missing if m["field"] != key]
+        missing.append({"field": key, "error": why})
+    return missing
+
+
 def extract(url, html, best_image=False):
     # Resolved by uv from the PEP 723 header, so it is absent from the system
     # interpreter — a linter "unresolved import" here is expected, not a fault.
@@ -234,16 +263,12 @@ def extract(url, html, best_image=False):
             raise Gated(
                 "recipe is member-gated (Outdoor Eats Recipe Club) — no content in page"
             )
-        # Pulled out before the merge loop below: neither is a schema.org field, so
+        # Pulled out before the merge below: neither is a schema.org field, so
         # neither belongs in missing[] — that array tracks what the standard pass
         # failed to find, and listing extras there would be noise.
         camping = recovered.pop("camping", None)
         cooks_note = recovered.pop("cooks_note", None)
-        for key, value in recovered.items():
-            if value and not data.get(key):
-                data[key] = value
-                missing = [m for m in missing if m["field"] != key]
-                missing.append({"field": key, "error": "recovered from site parser"})
+        missing = merge_recovered(data, recovered, missing)
         if camping:
             data["camping"] = camping
         if cooks_note:
