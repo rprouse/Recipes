@@ -49,13 +49,23 @@ Conventions that matter:
 
 ## Folder taxonomy
 
-Recipes are filed into mixed-axis top-level folders — by **protein** (Beef, Chicken, Pork, Seafood), **dish type** (Pasta, Noodles, Pizza, Soups, Salads, Sandwiches, Baking, Breakfast, Desserts, Snacks, Sides, Drinks), **cuisine** (Mexican), **method** (BBQ, Sous Vide), or **diet** (Vegetarian). `Incoming/` is the unsorted inbox.
+Recipes are filed into mixed-axis top-level folders — by **protein** (Beef, Chicken, Pork, Seafood), **dish type** (Pasta, Noodles, Pizza, Soups, Salads, Sandwiches, Baking, Breakfast, Desserts, Snacks, Sides, Drinks), **cuisine** (Mexican), **method** (BBQ, Sous Vide), **diet** (Vegetarian), or **occasion** (Camping, Sports). `Incoming/` is the unsorted inbox.
 
 When classifying, dish type wins over protein (e.g. "Shrimp Piccata Spaghetti" → Pasta, not Seafood); soups/stews → Soups even when meat-forward. The full rubric lives in the `download-recipe` skill.
 
 ## Reference notes (not recipes)
 
 `Reference/` holds a growing series of **general cooking-knowledge notes** — ingredient guides, techniques, cuisine flavor profiles — linked from a hub note (`Reference/Cooking Reference.md`). These are **not recipes**: do not apply `Templates/Recipe.md` to them. To create or extend one, use the **`create-reference-guide` skill** (`.claude/skills/create-reference-guide/`), which carries the house format and hub-linking steps.
+
+## Camping recipes
+
+`Camping/` holds trail and backpacking food and uses **`Templates/Camping Recipe.md`**,
+which extends the standard template with `weight-per-serving` (grams, numeric),
+`calories-per-serving`, `water-needed` (millilitres, numeric — `0` means no water
+needed, blank means unknown), and `cook-method`. `Camping.base` renders these,
+sorted by pack weight. The camping folder wins over dish type: "Hiker Pasta" is
+Camping, not Pasta. Distinct from `Sports/`, which is sports drinks and exercise
+nutrition.
 
 ## Recipe import tooling
 

@@ -21,6 +21,12 @@ publish `schema.org/Recipe` JSON-LD for SEO, so a single extractor handles them.
 Paywalls generally gate the *rendered reading experience*, not that structured data
 — NYT included, so no login is needed to import a single recipe.
 
+**This does not hold everywhere.** Outdoor Eats gates server-side (MemberPress):
+a locked page contains no ingredients or steps anywhere in the HTML, and its
+JSON-LD `Recipe` node is a stub carrying only name and image. About 46% of that
+site's 374 recipes are locked. The extractor detects this and exits non-zero
+rather than writing an empty note — do not try to work around it.
+
 The extractor produces data. **You** interpret it and write the note, so tags, the
 overview paragraph, and the `time:` phrasing match the vault's style.
 
@@ -67,13 +73,33 @@ that all existing notes use. Leave it off unless a site's default image is poor.
   hand, or use `WebFetch`. Then continue from step 2 as normal.
 - Anything else: stop and report it rather than guessing at the recipe.
 
+### Outdoor Eats / camping recipes
+
+`outdooreats.com` publishes a stub `schema.org/Recipe` node — name and image only.
+`recipe-scrapers` reports success and returns zero ingredients, so watch `missing[]`
+for a run of `SchemaOrgException` entries. `scripts/site_parsers.py` repairs this from
+the page's inline microdata; you do not need to do anything special beyond running the
+normal command.
+
+Extras arrive in a `camping` sub-object: `weight_per_serving_g`, `water_needed_ml`,
+`cook_method` (always inferred — sanity-check it against the steps), and
+`dietary_tags`. A recovered cook's note arrives as `cooks_note` and belongs in the
+`> [!tip]` callout. Images are 800×800 PNG, so use `.png` in the attachment name,
+the `image:` property, and the embed.
+
+Gated recipes exit with code 2 and write nothing.
+
 ## 2. Pick the destination folder
 
-Existing folders: **Baking, BBQ, Beef, Breakfast, Chicken, Desserts, Drinks,
-Mexican, Noodles, Pasta, Pizza, Pork, Salads, Sandwiches, Seafood, Sides, Snacks,
-Soups, Sous Vide, Vegetarian**. Use `Incoming` only as a true last resort. Apply in
-priority order:
+Existing folders: **Baking, BBQ, Beef, Breakfast, Camping, Chicken, Desserts,
+Drinks, Mexican, Noodles, Pasta, Pizza, Pork, Salads, Sandwiches, Seafood, Sides,
+Snacks, Soups, Sous Vide, Sports, Vegetarian**. Use `Incoming` only as a true last
+resort. Apply in priority order:
 
+0. **CAMPING / BACKPACKING** — from a camping/backpacking site, or explicitly trail,
+   camp, or pack food → Camping. This wins over every other rule, **including dish
+   type**. "Hiker Pasta" is Camping, not Pasta; "Trail Cioppino" is Camping, not Soups.
+   Camping notes use `Templates/Camping Recipe.md`, not the standard recipe template.
 1. PASTA dish (spaghetti, fettuccine, gnocchi, macaroni, orzo, lasagna) → Pasta.
    ASIAN NOODLE dish (ramen, soba, udon, lo mein, rice noodles, pho) → Noodles.
 2. SOUP or STEW (brothy, soup, stew, chili, chowder) → Soups.
@@ -95,6 +121,11 @@ wins over protein.
 
 **Grilling is not BBQ.** `BBQ/` is for actual barbecue and smoking (ribs, pulled
 pork, smoked wings). Grilled chicken and steak mains go to their protein folder.
+
+**Sports is not Camping.** `Sports/` is sports drinks and exercise nutrition;
+`Camping/` is trail and camp food. A high-calorie energy snack from a camping
+source goes to Camping; a drink mix or gel for workouts goes to Sports. Source
+and intent decide, not the macros.
 
 Mention any close call so the user can move it.
 
