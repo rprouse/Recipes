@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⛺",
       "🚴",
       "🥪",
       "🌎",
-      "🗒",
-      "🧑‍🍳"
+      "🗒"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,5 +79,6 @@
   "Sandwiches": "🥪",
   "Planned Recipe List.md": "🗒",
   "Reference": "🗒",
-  "Sports": "🚴"
+  "Sports": "🚴",
+  "Camping": "⛺"
 }

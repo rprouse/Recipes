@@ -1,5 +1,14 @@
 ---
-tags: [soups, quick, one-pot, great-leftovers, easy, weeknight, stew]
+tags:
+  - soups
+  - quick
+  - one-pot
+  - great-leftovers
+  - easy
+  - weeknight
+  - stew
+  - cooked
+  - make-again
 title: Chicken and White Bean Stew
 author: Ali Slagle
 servings: 4 servings

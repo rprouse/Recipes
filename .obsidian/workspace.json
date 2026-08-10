@@ -4,76 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "08d80cb464016c5e",
+        "id": "7705b059d48cbe0c",
         "type": "tabs",
         "children": [
           {
-            "id": "18be481e683c85b1",
+            "id": "fbeff737133deb98",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planned Recipe List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Planned Recipe List"
-            }
-          },
-          {
-            "id": "03a201c6460f3fb9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "All Recipes.base",
-                "viewName": "All Recipes"
-              },
-              "pinned": true,
-              "icon": "lucide-layout-grid",
-              "title": "All Recipes"
-            }
-          },
-          {
-            "id": "98631bad0db16f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stir-Fried Cumin Green Beans and Chicken"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -218,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -227,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,12 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98631bad0db16f96",
+  "active": "2247007034cf037c",
   "lastOpenFiles": [
-    "Planned Recipe List.md",
-    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
-    "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md",
+    "Camping",
+    "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md",
     "All Recipes.base",
+    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
+    "Planned Recipe List.md",
+    "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md",
     "Chicken/Chicken and Pesto Rice With Peas.md",
     "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md",
     "Make Again.base",
@@ -257,7 +204,6 @@
     "Sports/attachments/water_bottle.png",
     "Sports/attachments",
     "Sports",
-    "Incoming/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md",
     "Reference/Sous-Vide Times & Temperatures.md",
     "Reference/Meat Doneness Temperatures.md",
     "Reference/Cooking Reference.md.tmp.27064.2cf30f7f93ed",
@@ -279,7 +225,6 @@
     "Salads/Cucumber Salad With Roasted Peanuts and Chile.md",
     "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
     "Noodles/Vegetable Yakisoba.md",
-    "Chicken/Spiced Chicken and Rice With Cardamom and Cinnamon.md",
     "Pasta/attachments/Roman-Style Spaghetti Alla Carrettiera (Tomato, Tuna, and Mushroom Pasta).jpg",
     "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg",
     "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",

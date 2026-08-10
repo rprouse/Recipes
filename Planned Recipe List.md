@@ -1,7 +1,7 @@
 ## 2026-08
-- [ ] [[Chicken and White Bean Stew]]
-- [ ] [[Chicken and Pesto Rice With Peas]]
-- [ ] [[Keema Palak (Ground Chicken and Spinach Curry)]]
+- [x] [[Chicken and White Bean Stew]]
+- [x] [[Chicken and Pesto Rice With Peas]]
+- [x] [[Keema Palak (Ground Chicken and Spinach Curry)]]
 ## 2026-07
 - [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [x] Steak, Salad and Potatoes

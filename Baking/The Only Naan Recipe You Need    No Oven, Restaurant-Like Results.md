@@ -6,7 +6,7 @@ channel: Curry Recipe Academy -
 date: 2026-05-08T17:01:01.000Z
 ---
 
-# The Only Naan Recipe You Need |  No Oven, Restaurant-Like Results
+# The Only Naan Recipe You Need
 
 Discover how to make soft, flavorful naan breads right at home with minimal ingredients and no oven needed. This simple recipe delivers restaurant-quality garlic and coriander naan with perfect toasty marks using a stovetop method.
 

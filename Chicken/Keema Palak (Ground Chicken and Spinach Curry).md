@@ -1,5 +1,13 @@
 ---
-tags: [chicken, budget, easy, one-pot, quick, weeknight, make-again]
+tags:
+  - chicken
+  - budget
+  - easy
+  - one-pot
+  - quick
+  - weeknight
+  - make-again
+  - cooked
 title: Keema Palak (Ground Chicken and Spinach Curry)
 author: Zainab Shah
 servings: 2 to 4 servings
@@ -23,9 +31,8 @@ This comforting ground-chicken dish is layered with typical Desi spices: cumin, 
 - 1 teaspoon garlic paste or freshly grated garlic
 - 1 teaspoon fine sea salt
 - 1 teaspoon cumin seeds
-- 1 teaspoon Kashmiri chile powder, or other ground red chile powder
+- 1/2 teaspoon Kashmiri chile powder, or other ground red chile powder
 - ¼ teaspoon ground turmeric
-- 3 Thai green chiles, chopped
 - 2 medium plum tomatoes, finely chopped
 - 1 pound baby spinach
 - ¾ teaspoon garam masala
