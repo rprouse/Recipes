@@ -198,6 +198,69 @@ def test_author_is_not_the_tester():
     assert site_parsers._author(site_parsers._soup(AUTHOR_HTML)) != "Grammysaurus"
 
 
+TYPES_HTML = """
+<div class="fd-recipe-type-cont"><span class="fd-Recipe-Type">High Calorie, Gluten Free, Nut Free</span></div>
+"""
+
+FULL_HTML = f"""
+<html><body>
+  <h1 class="recipe-title">Chicken Dijon with Rice</h1>
+  {INGREDIENTS_HTML}
+  {DIJON_STEPS_HTML}
+  {DIGITS_HTML}
+  {TYPES_HTML}
+  {AUTHOR_HTML}
+</body></html>
+"""
+
+
+def test_dietary_types_become_kebab_case_tags():
+    got = site_parsers._dietary_tags(site_parsers._soup(TYPES_HTML))
+    assert got == ["high-calorie", "gluten-free", "nut-free"]
+
+
+def test_cook_method_one_pot_when_ingredients_cook_in_the_pot():
+    steps = ["TURN ON BURNER: HIGH HEAT", "Add chicken, water, packet, salt",
+             "Stir. Boil", "Add rice. Stir. Cover. Sit 10 min"]
+    assert site_parsers._cook_method(steps, 250) == "one-pot"
+
+
+def test_cook_method_no_cook_when_nothing_is_heated():
+    steps = ["Combine everything in the tortilla", "Roll and eat"]
+    assert site_parsers._cook_method(steps, 0) == "no-cook"
+
+
+def test_cook_method_freezer_bag():
+    steps = ["Boil water", "Pour into the freezer bag and seal", "Wait 10 min"]
+    assert site_parsers._cook_method(steps, 300) == "freezer-bag"
+
+
+def test_cook_method_boil_only():
+    steps = ["Boil water", "Just add hot water and steep 5 min"]
+    assert site_parsers._cook_method(steps, 250) == "boil-only"
+
+
+def test_full_parse_populates_every_field():
+    got = site_parsers._parse_outdooreats(FULL_HTML, {})
+    assert got["author"] == "Corso"
+    assert got["yields"] == "2 servings"
+    assert got["total_time"] == 15
+    assert len(got["ingredients"]) == 3
+    assert len(got["instructions_list"]) == 5
+    assert got["camping"]["weight_per_serving_g"] == 238
+    assert got["camping"]["water_needed_ml"] == 250
+    assert got["camping"]["cook_method"] == "one-pot"
+    assert got["camping"]["dietary_tags"] == ["high-calorie", "gluten-free", "nut-free"]
+    assert got["cooks_note"].startswith("*you can also cook sauce separately")
+
+
+def test_full_parse_never_returns_an_image_key():
+    # The stub JSON-LD has the right photo; the page markup leads with the site
+    # logo (montYbocalogo.png). Returning an image here would overwrite good
+    # data with the logo.
+    assert "image" not in site_parsers._parse_outdooreats(FULL_HTML, {})
+
+
 if __name__ == "__main__":
     import sys
     import pytest

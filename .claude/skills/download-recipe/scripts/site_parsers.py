@@ -31,6 +31,9 @@ GRAMS_RE = re.compile(r"(\d+(?:\.\d+)?)\s*g\b", re.I)
 ML_RE = re.compile(r"(\d+(?:\.\d+)?)\s*ml\b", re.I)
 OZ_RE = re.compile(r"(\d+(?:\.\d+)?)\s*oz\b", re.I)
 WATER_RE = re.compile(r"^\s*water\b", re.I)
+HEAT_RE = re.compile(r"\b(boil|burner|heat|simmer|stove|flame)\b", re.I)
+BAG_RE = re.compile(r"\b(freezer bag|zip.?lock|pouch)\b", re.I)
+STEEP_RE = re.compile(r"\b(just add|add hot water|steep)\b", re.I)
 
 
 def _norm(s):
@@ -161,6 +164,32 @@ def _author(soup):
     return _norm(node.get_text(" ")) if node else None
 
 
+def _dietary_tags(soup):
+    """'High Calorie, Gluten Free, Nut Free' -> ['high-calorie', ...]."""
+    node = soup.select_one(".fd-Recipe-Type")
+    if not node:
+        return []
+    raw = _norm(node.get_text(" "))
+    return [t.strip().lower().replace(" ", "-") for t in raw.split(",") if t.strip()]
+
+
+def _cook_method(steps, water_ml):
+    """Infer how the meal is cooked. ALWAYS reported as inferred to the caller.
+
+    Deliberately conservative: it falls through to one-pot, the commonest case
+    on this site, rather than guessing cleverly at a distinction the step text
+    does not reliably carry.
+    """
+    blob = " ".join(steps)
+    if not HEAT_RE.search(blob):
+        return "no-cook"
+    if BAG_RE.search(blob):
+        return "freezer-bag"
+    if STEEP_RE.search(blob):
+        return "boil-only"
+    return "one-pot"
+
+
 def _parse_outdooreats(html, data):
     """Recover a recipe from outdooreats.com page markup.
 
@@ -178,7 +207,46 @@ def _parse_outdooreats(html, data):
     if not soup.select('[itemprop="recipeIngredient"]'):
         return {"gated": True}
 
-    return {}
+    ingredients = _ingredients(soup)
+    steps, note = _instructions(soup)
+    digits = _digits(soup)
+
+    out = {
+        "ingredients": ingredients,
+        "instructions_list": steps,
+        "cooks_note": note,
+    }
+
+    author = _author(soup)
+    if author:
+        out["author"] = author
+
+    yield_node = soup.select_one('[itemprop="recipeYield"]')
+    if yield_node:
+        n = _norm(yield_node.get_text(" "))
+        out["yields"] = f"{n} servings" if n else None
+
+    minutes = re.search(r"\d+", digits.get("minutes", ""))
+    if minutes:
+        out["total_time"] = int(minutes.group(0))
+
+    title = soup.select_one(".recipe-title")
+    if title:
+        out["title"] = _norm(title.get_text(" "))
+
+    water = _water_ml(ingredients)
+    out["camping"] = {
+        "weight_per_serving_g": _grams(digits.get("weight per serving", "")),
+        "water_needed_ml": water,
+        "cook_method": _cook_method(steps, water),
+        "cook_method_inferred": True,
+        "dietary_tags": _dietary_tags(soup),
+    }
+
+    # NOTE: no "image" key, ever. The stub JSON-LD carries the correct recipe
+    # photo; the page markup leads with the site logo (montYbocalogo.png), so any
+    # scrape here would replace good data with the logo.
+    return out
 
 
 SITE_PARSERS = {"outdooreats.com": _parse_outdooreats}
