@@ -71,7 +71,7 @@ nutrition.
 
 One skill handles every site: the **`download-recipe` skill** (`.claude/skills/download-recipe/`) — invoke it for any recipe URL, NYT Cooking included. Key facts:
 
-- **No login is needed for a single recipe**, even behind a paywall. Sites gate the *rendered reading experience*, not the `schema.org/Recipe` JSON-LD they publish for SEO, so a plain fetch gets the whole recipe.
+- **No login is needed for a single recipe** on most sites, even behind a paywall — they gate the *rendered reading experience*, not the `schema.org/Recipe` JSON-LD they publish for SEO, so a plain fetch gets the whole recipe. **Outdoor Eats is the exception**: it gates server-side, so a locked page has no recipe in it at all and the extractor exits 2 rather than writing an empty note.
 - Extraction is `scripts/recipe_extract.py`, run with **`uv run`** — a PEP 723 header declares `recipe-scrapers`, so uv resolves it automatically and there is nothing to `pip install`. The script emits normalized JSON; the note itself is written with editorial judgment, not generated.
 - **Dotdash Meredith sites (Serious Eats, Simply Recipes, AllRecipes, Food & Wine) return intermittent 403s** to automated clients. It is rate-limiting, not fingerprinting — the same URL alternates 200/403 seconds apart regardless of HTTP client. The script retries with backoff; if it still fails, wait and re-run.
 - The `link:` frontmatter field contains the source URL, and for NYT the recipe id in it acts as the **stable join key** between NYT data and a vault note — used to dedupe imports and to tag existing notes (e.g. matching a collection's recipes to add a `make-again` tag). Match on `recipes/<id>-` (with trailing hyphen) to avoid id-prefix false positives.
