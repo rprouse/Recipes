@@ -27,6 +27,10 @@ def _soup(html):
 
 
 NUMBERED_RE = re.compile(r"^\d+[.)]\s*")
+GRAMS_RE = re.compile(r"(\d+(?:\.\d+)?)\s*g\b", re.I)
+ML_RE = re.compile(r"(\d+(?:\.\d+)?)\s*ml\b", re.I)
+OZ_RE = re.compile(r"(\d+(?:\.\d+)?)\s*oz\b", re.I)
+WATER_RE = re.compile(r"^\s*water\b", re.I)
 
 
 def _norm(s):
@@ -92,6 +96,69 @@ def _instructions(soup):
     if not nodes:
         return [], ""
     return _steps_and_note(_split_on_br(nodes[0]))
+
+
+def _digits(soup):
+    """Map the stats block's visible labels to their values.
+
+    Returns e.g. {"servings": "Yields 2", "minutes": "15",
+                  "weight per serving": "~8.4 oz / ~238 g"}.
+    Keyed on the label rather than position, so a reordered or added tile does
+    not silently shift every value by one.
+    """
+    out = {}
+    for item in soup.select(".recipe-digits-item"):
+        label = _norm(item.select_one(".text").get_text(" ")) if item.select_one(".text") else ""
+        value = _norm(item.select_one(".digits").get_text(" ")) if item.select_one(".digits") else ""
+        if label:
+            out[label.lower()] = value
+    return out
+
+
+def _grams(text):
+    """Grams from a dual-unit weight string. '~8.4 oz / ~238 g' -> 238.
+
+    The `~` estimate marker cannot survive a numeric field; these are
+    approximations by nature. Requires the `g` unit, so the ounce figure is
+    never mistaken for grams.
+    """
+    m = GRAMS_RE.search(text or "")
+    return int(round(float(m.group(1)))) if m else None
+
+
+def _water_ml(ingredients):
+    """Millilitres of water the recipe needs.
+
+    Returns 0 when no water ingredient exists (genuinely no water needed) and
+    None when a water line exists but carries no parseable quantity (unknown).
+    That distinction is load-bearing: in the note, 0 and blank mean different
+    things when you are planning a dry camp.
+
+    Where a range is given, the upper bound wins — under-packing water is the
+    failure that actually hurts.
+    """
+    for ing in ingredients:
+        if WATER_RE.match(ing):
+            mls = [float(x) for x in ML_RE.findall(ing)]
+            if mls:
+                return int(round(max(mls)))
+            ozs = [float(x) for x in OZ_RE.findall(ing)]
+            if ozs:
+                return int(round(max(ozs) * 29.5735))
+            return None
+    return 0
+
+
+def _author(soup):
+    """The recipe's author from microdata.
+
+    Deliberately NOT `.recipe-subtitle`, which names the tester — on
+    chicken-dijon-with-rice the author is Corso and the tester is Grammysaurus.
+    They coincide on hiker-pasta, which makes conflating them an easy mistake.
+    Also avoids the `.recipe-author` text, which renders unspaced as "byCorso".
+    """
+    node = soup.select_one('[itemprop="author"] [itemprop="name"]')
+    return _norm(node.get_text(" ")) if node else None
 
 
 def _parse_outdooreats(html, data):

@@ -122,6 +122,75 @@ def test_ingredients_read_from_microdata():
     ]
 
 
+DIGITS_HTML = """
+<div class="recipe-digits">
+  <div class="recipe-digits-item">
+    <div class="digits"><span class="meta-label">Yields</span>
+      <span class="meta-servings"><span itemprop="recipeYield">2</span></span></div>
+    <div class="text">Servings</div>
+  </div>
+  <div class="recipe-digits-item">
+    <div class="digits"><span class="fd-Ingredient"></span></div>
+    <div class="text">Ingredients</div>
+  </div>
+  <div class="recipe-digits-item">
+    <div class="digits text-minutes"><span class="meta-label"></span><span>15</span></div>
+    <div class="text">Minutes</div>
+  </div>
+  <div class="recipe-digits-item">
+    <div class="digits text-description"><div itemprop="description"><p>~8.4 oz / ~238 g</p></div></div>
+    <div class="text">Weight per serving</div>
+  </div>
+</div>
+"""
+
+AUTHOR_HTML = """
+<p class="recipe-author">by <strong itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <span itemprop="name">Corso</span></strong></p>
+<div class="recipe-subtitle">Tested by<span>Grammysaurus</span></div>
+"""
+
+
+def test_digits_keyed_by_visible_label():
+    d = site_parsers._digits(site_parsers._soup(DIGITS_HTML))
+    assert d["minutes"] == "15"
+    assert d["weight per serving"] == "~8.4 oz / ~238 g"
+
+
+def test_grams_parsed_ignoring_tilde_and_ounces():
+    assert site_parsers._grams("~8.4 oz / ~238 g") == 238
+    assert site_parsers._grams("~10 oz / ~275 g") == 275
+
+
+def test_grams_returns_none_when_absent():
+    assert site_parsers._grams("a handful") is None
+
+
+def test_water_ml_from_ingredient_line():
+    assert site_parsers._water_ml(["Water - 8 oz / 250 ml", "Salt - to taste"]) == 250
+
+
+def test_water_range_takes_upper_bound():
+    # Hiker Pasta lists "8-12 oz / 400 ml"; under-packing water is the failure
+    # that matters, so a range resolves upward.
+    assert site_parsers._water_ml(["Water - 8-12 oz / 400 ml"]) == 400
+
+
+def test_water_zero_when_no_water_ingredient():
+    # 0 means "genuinely needs no water"; None would mean "unknown".
+    assert site_parsers._water_ml(["Tortilla - 1", "Cheese - 2 oz / 56 g"]) == 0
+
+
+def test_author_from_microdata_not_the_by_prefix():
+    assert site_parsers._author(site_parsers._soup(AUTHOR_HTML)) == "Corso"
+
+
+def test_author_is_not_the_tester():
+    # .recipe-subtitle names the tester (Grammysaurus), who differs from the
+    # author (Corso) on chicken-dijon-with-rice. They must not be conflated.
+    assert site_parsers._author(site_parsers._soup(AUTHOR_HTML)) != "Grammysaurus"
+
+
 if __name__ == "__main__":
     import sys
     import pytest
