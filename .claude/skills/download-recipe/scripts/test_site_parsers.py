@@ -181,6 +181,13 @@ def test_water_zero_when_no_water_ingredient():
     assert site_parsers._water_ml(["Tortilla - 1", "Cheese - 2 oz / 56 g"]) == 0
 
 
+def test_water_none_when_quantity_is_unparseable():
+    # A water line with no number means "unknown", which must stay distinct from
+    # the 0 returned when there is no water ingredient at all — in the finished
+    # note, blank and 0 tell a camper different things about a dry camp.
+    assert site_parsers._water_ml(["Water - to taste", "Salt - to taste"]) is None
+
+
 def test_author_from_microdata_not_the_by_prefix():
     assert site_parsers._author(site_parsers._soup(AUTHOR_HTML)) == "Corso"
 
