@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a55f06fcdbced47",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Camping.base",
-                "viewName": "Camping"
-              },
-              "pinned": true,
-              "icon": "lucide-layout-grid",
-              "title": "Camping"
-            }
-          },
-          {
             "id": "6c78ec314c5b02d9",
             "type": "leaf",
             "pinned": true,
@@ -46,6 +31,21 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Planned Recipe List"
+            }
+          },
+          {
+            "id": "2a55f06fcdbced47",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Camping.base",
+                "viewName": "Camping"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "Camping"
             }
           },
           {
@@ -86,9 +86,33 @@
               "icon": "lucide-file",
               "title": "Cold-Soak Bircher Muesli"
             }
+          },
+          {
+            "id": "6dd4d4f4396c8ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sous Vide/Sous Vide Yogurt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sous Vide Yogurt"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,10 +280,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e6c871a5bfb7c56",
+  "active": "6dd4d4f4396c8ac0",
   "lastOpenFiles": [
+    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.bdeaa4e02709",
+    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.ef50380f596e",
     "Camping.base",
+    "Planned Recipe List.md",
     "All Recipes.base",
+    "Sous Vide/Sous Vide Yogurt.md",
+    "Breakfast/Creamy Homemade Yogurt.md",
+    "Breakfast/Australian Zucchini Slice.md",
+    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.e1fcf0a8ec78",
+    "Sous Vide/attachments/Sous Vide Yogurt.jpg",
     "Camping/Cold-Soak Bircher Muesli.md",
     "Camping/Traditional Pad Thai.md",
     "Breakfast/Toasted Muesli.md",
@@ -282,26 +314,19 @@
     "Camping/attachments/Bacon Cheddar Grits w Eggs.jpg",
     "Templates/Camping Recipe.md",
     "Camping/attachments/Beef Stroganoff.png",
-    "Planned Recipe List.md",
     "pytest-cache-files-jugwcdl1/README.md",
     "pytest-cache-files-jugwcdl1",
     "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
     "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
     "Mexican/Green Chile Chicken Tacos.md",
     "Camping/Pad Thai.md.tmp.38436.340d4c4ceec1",
-    "Camping/Dirtbag Pad Thai.md.tmp.38436.23cc9a507556",
     "Camping/attachments/Pad Thai.jpg",
     "Camping/attachments/Dirtbag Pad Thai.png",
-    "Make Again.base",
     "Templates/Recipe.md",
     "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md",
     "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md",
     "Chicken/Chicken and Pesto Rice With Peas.md",
     "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md",
-    "Sports/Post-Ride Recovery Drink.md",
-    "Pork/Orange and Leek Loukaniko (Greek Sausage).md",
-    "Sides/Quick & Easy Refrigerator Pickles.md",
-    "Sports/attachments/Pasted image 20260728104456.png",
-    "Sports/attachments/water_bottle.png"
+    "Sports/attachments/Pasted image 20260728104456.png"
   ]
 }

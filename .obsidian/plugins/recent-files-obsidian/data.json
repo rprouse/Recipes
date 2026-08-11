@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Cold-Soak Bircher Muesli",
-      "path": "Camping/Cold-Soak Bircher Muesli.md"
+      "basename": "Sous Vide Yogurt",
+      "path": "Sous Vide/Sous Vide Yogurt.md"
     },
     {
       "basename": "Camping",
       "path": "Camping.base"
     },
     {
+      "basename": "Planned Recipe List",
+      "path": "Planned Recipe List.md"
+    },
+    {
       "basename": "All Recipes",
       "path": "All Recipes.base"
+    },
+    {
+      "basename": "Creamy Homemade Yogurt",
+      "path": "Breakfast/Creamy Homemade Yogurt.md"
+    },
+    {
+      "basename": "Australian Zucchini Slice",
+      "path": "Breakfast/Australian Zucchini Slice.md"
+    },
+    {
+      "basename": "Cold-Soak Bircher Muesli",
+      "path": "Camping/Cold-Soak Bircher Muesli.md"
     },
     {
       "basename": "Traditional Pad Thai",
@@ -63,10 +79,6 @@
     {
       "basename": "Beef Stroganoff",
       "path": "Camping/attachments/Beef Stroganoff.png"
-    },
-    {
-      "basename": "Planned Recipe List",
-      "path": "Planned Recipe List.md"
     },
     {
       "basename": "Stir-Fried Cumin Green Beans and Chicken",
@@ -187,18 +199,6 @@
     {
       "basename": "Homemade Protein Bars",
       "path": "Snacks/Homemade Protein Bars.md"
-    },
-    {
-      "basename": "Saag Shrimp",
-      "path": "Seafood/Saag Shrimp.md"
-    },
-    {
-      "basename": "Creamy Lemon Asparagus Gnocchi",
-      "path": "Pasta/Creamy Lemon Asparagus Gnocchi.md"
-    },
-    {
-      "basename": "Buffalo Chicken Wings",
-      "path": "Chicken/Buffalo Chicken Wings.md"
     }
   ],
   "omittedPaths": [],
