@@ -1,5 +1,11 @@
 ---
-tags: [camping, one-pot, dairy-free, gluten-free, high-calorie]
+tags:
+  - camping
+  - one-pot
+  - dairy-free
+  - gluten-free
+  - high-calorie
+  - dinner
 title: Hiker Pasta
 author: Corso
 servings: 1 serving

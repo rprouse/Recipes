@@ -74,6 +74,38 @@ TUNA_STEPS_HTML = """
 </div>
 """
 
+# Pad Thai (the Belollipop reader recipe), copied verbatim from the live page: the
+# steps are an <ol> of <li itemprop="recipeInstructions">, so the numbering is
+# rendered by the list and never appears in the text. The sign-off is the last
+# <li> of that same list rather than a paragraph of its own.
+LIST_STEPS_HTML = """
+<div class="recipe-instructions">
+  <ol>
+    <li itemprop="recipeInstructions">TURN ON BURNER: High Heat</li>
+    <li itemprop="recipeInstructions">+ water, rice noodles</li>
+    <li itemprop="recipeInstructions">BOIL until soft, STIR. RESERVE 4 oz water in pot</li>
+    <li itemprop="recipeInstructions">CHOP green onions</li>
+    <li itemprop="recipeInstructions">NOODS DONE+ fish sauce/salt peanut butter, sriracha, rice vinegar. STIR</li>
+    <li itemprop="recipeInstructions">COOK 2-2 min. STIR</li>
+    <li itemprop="recipeInstructions">GARNISH with green onions, lime wedge</li>
+    <li itemprop="recipeInstructions">EAT!</li>
+  </ol>
+</div>
+"""
+
+# The same list markup, but with the numbering ALSO written into each <li>. A
+# per-node scan reads the first <li> as a complete one-step recipe and returns it,
+# silently dropping the rest — the failure mode this module keeps hitting.
+NUMBERED_LIST_STEPS_HTML = """
+<div class="recipe-instructions">
+  <ol>
+    <li itemprop="recipeInstructions">1. Boil water</li>
+    <li itemprop="recipeInstructions">2. Add noodles</li>
+    <li itemprop="recipeInstructions">3. Stir and serve</li>
+  </ol>
+</div>
+"""
+
 INGREDIENTS_HTML = """
 <div class="recipe-ingredients-wrap"><h2>Ingredients</h2><ul>
   <li itemprop="recipeIngredient">Packaged Chicken - 9 oz / 275 g</li>
@@ -187,6 +219,55 @@ def test_instructions_on_a_single_numbered_node():
 
 def test_instructions_returns_empty_when_the_markup_has_no_nodes():
     assert site_parsers._instructions(site_parsers._soup("<div><p>nothing</p></div>")) == ([], "")
+
+
+# Some recipes put the steps in an <ol> instead of one <br>-separated <p>. Reading
+# a step only when its text carries "1. " loses every one of them, because the list
+# renders the numbering.
+
+
+def test_instructions_reads_steps_from_an_ordered_list():
+    steps, note = site_parsers._instructions(site_parsers._soup(LIST_STEPS_HTML))
+    assert len(steps) == 7, "list markup must yield steps, not an empty recipe"
+    assert steps[0] == "TURN ON BURNER: High Heat"
+    assert steps[-1] == "GARNISH with green onions, lime wedge"
+    assert note == ""
+
+
+def test_list_signoff_item_is_not_a_step():
+    # "EAT!" closes the list the way "EAT & PACK IT OUT" closes a <p> recipe.
+    steps, _ = site_parsers._instructions(site_parsers._soup(LIST_STEPS_HTML))
+    assert "EAT!" not in steps
+
+
+def test_list_items_that_repeat_the_numbering_keep_every_step():
+    steps, _ = site_parsers._instructions(site_parsers._soup(NUMBERED_LIST_STEPS_HTML))
+    assert len(steps) == 3, "a numbered first <li> must not be read as the whole recipe"
+    assert steps == ["Boil water", "Add noodles", "Stir and serve"]
+
+
+# bacon-cheddar-grits-w-eggs, copied verbatim from the live page: an older
+# template ("2.4 Ingredients formatted as text block") repeats itemprop on an
+# inner <p>, so each ingredient is marked up twice, once nested inside the other.
+NESTED_INGREDIENTS_HTML = """
+<div class="recipe-ingredients-wrap"><h2>Ingredients</h2>
+  <!-- 2.4 Ingredients formatted as text block -->
+  <ul>
+    <li itemprop="recipeIngredient"><p itemprop="recipeIngredient">Water 24 oz / 700 ml</p></li>
+    <li itemprop="recipeIngredient"><p itemprop="recipeIngredient">Quick Cook Grits/Polenta - 2 C / 350 g</p></li>
+    <li itemprop="recipeIngredient"><p itemprop="recipeIngredient">Salt - 1/2 tsp / 2 g</p></li>
+  </ul>
+</div>
+"""
+
+
+def test_nested_ingredient_markup_is_not_read_twice():
+    got = site_parsers._ingredients(site_parsers._soup(NESTED_INGREDIENTS_HTML))
+    assert got == [
+        "Water 24 oz / 700 ml",
+        "Quick Cook Grits/Polenta - 2 C / 350 g",
+        "Salt - 1/2 tsp / 2 g",
+    ], "the outer <li> and inner <p> describe one ingredient, not two"
 
 
 def test_ingredients_read_from_microdata():

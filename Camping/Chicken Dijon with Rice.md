@@ -1,5 +1,11 @@
 ---
-tags: [camping, one-pot, gluten-free, nut-free, high-calorie]
+tags:
+  - camping
+  - one-pot
+  - gluten-free
+  - nut-free
+  - high-calorie
+  - dinner
 title: Chicken Dijon with Rice
 author: Corso
 servings: 2 servings

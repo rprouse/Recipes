@@ -27,6 +27,10 @@ def _soup(html):
 
 
 NUMBERED_RE = re.compile(r"^\d+[.)]\s*")
+# Every recipe closes with a sign-off: "EAT & PACK IT OUT" in its own <p>, or a
+# bare "EAT!" as the last <li>. Matched whole, so a real step that merely starts
+# with "Eat" ("Eat with crackers") is left alone.
+SIGNOFF_RE = re.compile(r"^eat\s*!*$|^eat\s*&\s*pack it out\s*!*$", re.I)
 GRAMS_RE = re.compile(r"(\d+(?:\.\d+)?)\s*g\b", re.I)
 ML_RE = re.compile(r"(\d+(?:\.\d+)?)\s*ml\b", re.I)
 OZ_RE = re.compile(r"(\d+(?:\.\d+)?)\s*oz\b", re.I)
@@ -96,19 +100,57 @@ def _steps_and_note(frags):
 
 
 def _ingredients(soup):
-    return [_norm(li.get_text(" ")) for li in soup.select('[itemprop="recipeIngredient"]')]
+    """Ingredient lines from microdata, reading only the innermost node.
+
+    An older template (bacon-cheddar-grits-w-eggs) nests the itemprop, writing
+    `<li itemprop="recipeIngredient"><p itemprop="recipeIngredient">…</p></li>`.
+    Both nodes match the selector and both render the same text, so taking every
+    match lists each ingredient twice. A node wrapping another is the container,
+    never a line of its own.
+    """
+    return [
+        _norm(node.get_text(" "))
+        for node in soup.select('[itemprop="recipeIngredient"]')
+        if node.select_one('[itemprop="recipeIngredient"]') is None
+    ]
+
+
+def _list_steps(items):
+    """Steps from <li itemprop="recipeInstructions"> nodes, in document order.
+
+    The list supplies the numbering, so unlike the <p> shape there is nothing to
+    key on but position. Any numbering repeated in the text is stripped so both
+    variants come out the same.
+    """
+    steps = []
+    for li in items:
+        frag = NUMBERED_RE.sub("", _norm(li.get_text(" "))).strip()
+        if frag and not SIGNOFF_RE.match(frag):
+            steps.append(frag)
+    return steps
 
 
 def _instructions(soup):
-    """Steps and note from whichever recipeInstructions <p> carries the numbering.
+    """Steps and note from whichever recipeInstructions node carries the recipe.
 
-    The site emits several `recipeInstructions` nodes and the numbered one is not
-    reliably first. Every recipe ends with an "EAT & PACK IT OUT" sign-off in its
-    own <p>, and a no-cook recipe LEADS with a banner paragraph
-    ("*NO COOK / NO BURNER RECIPE*" on sun-dried-tomato-tuna-mix), pushing the
-    steps into the middle. Selecting the node by what it contains — rather than by
-    index — skips both without special-casing either.
+    Two markup shapes are in the wild. Most recipes write every step into one
+    <p itemprop="recipeInstructions"> separated by <br>, numbered in the text;
+    others (pad-thai) use an <ol> of <li itemprop="recipeInstructions">, where the
+    list renders the numbering and the text carries none. Checking for the list
+    first matters: scanning per-node would read a numbered first <li> as a
+    complete one-step recipe and drop the rest.
+
+    Within the <p> shape the site emits several `recipeInstructions` nodes and the
+    numbered one is not reliably first. Every recipe ends with an "EAT & PACK IT
+    OUT" sign-off in its own <p>, and a no-cook recipe LEADS with a banner
+    paragraph ("*NO COOK / NO BURNER RECIPE*" on sun-dried-tomato-tuna-mix),
+    pushing the steps into the middle. Selecting the node by what it contains —
+    rather than by index — skips both without special-casing either.
     """
+    items = soup.select('li[itemprop="recipeInstructions"]')
+    if len(items) > 1:
+        return _list_steps(items), ""
+
     for node in soup.select('[itemprop="recipeInstructions"]'):
         steps, note = _steps_and_note(_split_on_br(node))
         if steps:

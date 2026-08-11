@@ -1,7 +1,10 @@
+[Bring! Grocery List](https://web.getbring.com/app/lists/0)
 ## 2026-08
 - [x] [[Chicken and White Bean Stew]]
 - [x] [[Chicken and Pesto Rice With Peas]]
 - [x] [[Keema Palak (Ground Chicken and Spinach Curry)]]
+- [ ] [[Malaay Qumbe (Coconut Fish Curry)]]
+- [ ] [[Green Chile Chicken Tacos]]
 ## 2026-07
 - [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [x] Steak, Salad and Potatoes
@@ -29,6 +32,7 @@
 - [x] Shepherds Pie
 ## Future
 - [ ] [[Stir-Fried Cumin Green Beans and Chicken]]
+- [ ] [[Chicken Burrito Bowls with Spicy Green Sauce]]
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
 - [ ] [[Creamy Lasagna Soup]]
 - [ ] [[Horiatiki (Greek Salad)]]
@@ -41,5 +45,9 @@
 - [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
 - [ ] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [ ] [[Beer-Marinated Chicken Tacos]]
+- [ ] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
+- [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
+## Breakfasts
 - [ ] [[Cottage Cheese Egg Bites]]
 - [ ] [[Egg Muffins]]
+- [ ] [[Corn and Jalapeño Egg Bites]]

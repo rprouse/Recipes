@@ -12,7 +12,6 @@ date: "{{date:YYYY-MM-DD dddd}}"
 link:
 image:
 ---
-
 ![[attachments/Title.png]]
 
 # Title

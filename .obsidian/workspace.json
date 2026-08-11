@@ -4,20 +4,115 @@
     "type": "split",
     "children": [
       {
-        "id": "7705b059d48cbe0c",
+        "id": "d7159f7e8c470849",
         "type": "tabs",
         "children": [
           {
-            "id": "fbeff737133deb98",
+            "id": "2a55f06fcdbced47",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Camping.base",
+                "viewName": "Camping"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "Camping"
+            }
+          },
+          {
+            "id": "6c78ec314c5b02d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planned Recipe List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Planned Recipe List"
+            }
+          },
+          {
+            "id": "014c7c389d89d5d4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "All Recipes.base",
+                "viewName": "All Recipes"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "All Recipes"
+            }
+          },
+          {
+            "id": "52b46e5290fe5c08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Camping/Traditional Pad Thai.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Traditional Pad Thai"
+            }
+          },
+          {
+            "id": "3726e9b2c25fd27a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camping/Pad Thai.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pad Thai"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,53 +281,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2247007034cf037c",
+  "active": "3726e9b2c25fd27a",
   "lastOpenFiles": [
+    "Camping.base",
+    "Camping/Traditional Pad Thai.md",
+    "All Recipes.base",
+    "Camping/attachments/Traditional Pad Thai.png",
+    "Camping/Loaded Mashed Potato Bowl.md",
+    "Camping/Beef Stroganoff.md",
+    "Camping/Hiker Pasta.md",
+    "Camping/Pad Thai.md",
+    "Camping/Bacon Cheddar Grits w Eggs.md",
+    "Camping/Chicken Dijon with Rice.md",
+    "Camping/Dirtbag Pad Thai.md",
+    "Camping/attachments/Loaded Mashed Potato Bowl.png",
+    "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md",
+    "Camping/Bacon Cheddar Grits w Eggs.md.tmp.38436.c1d99fb25cea",
+    "Camping/attachments/Bacon Cheddar Grits w Eggs.jpg",
+    "Templates/Camping Recipe.md",
+    "Camping/attachments/Beef Stroganoff.png",
+    "Planned Recipe List.md",
+    "pytest-cache-files-jugwcdl1/README.md",
+    "pytest-cache-files-jugwcdl1",
+    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
+    "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
+    "Mexican/Green Chile Chicken Tacos.md",
+    "Camping/Pad Thai.md.tmp.38436.340d4c4ceec1",
+    "Camping/Dirtbag Pad Thai.md.tmp.38436.23cc9a507556",
+    "Camping/attachments/Pad Thai.jpg",
+    "Camping/attachments/Dirtbag Pad Thai.png",
+    "Make Again.base",
+    "Camping/Chicken Dijon with Rice.md.tmp.38436.188c60be70eb",
+    "Templates/Recipe.md",
+    "Camping/Hiker Pasta.md.tmp.38436.d6e0bad7bca8",
     "Camping",
     "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md",
-    "All Recipes.base",
-    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
-    "Planned Recipe List.md",
     "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md",
     "Chicken/Chicken and Pesto Rice With Peas.md",
     "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md",
-    "Make Again.base",
     "Sports/Post-Ride Recovery Drink.md",
     "Pork/Orange and Leek Loukaniko (Greek Sausage).md",
     "Sides/Quick & Easy Refrigerator Pickles.md",
     "Sports/Basic Sports Drink.md",
     "Sports/attachments/Pasted image 20260728104456.png",
     "Sports/attachments/water_bottle.png",
-    "Sports/attachments",
-    "Sports",
     "Reference/Sous-Vide Times & Temperatures.md",
-    "Reference/Meat Doneness Temperatures.md",
-    "Reference/Cooking Reference.md.tmp.27064.2cf30f7f93ed",
-    "Reference/Sous-Vide Times & Temperatures.md.tmp.27064.c40996bd31fd",
-    "CLAUDE.md.tmp.27064.b6a2f603c99a",
-    "Reference/Herbs — Fresh vs Dried.md",
-    "Reference/Cooking Oils.md",
-    "Reference/Cooking Reference.md",
-    "Reference/Global Flavor Profiles.md",
-    "Reference/Salt.md",
-    "Reference/Cooking Reference.md.tmp.27064.cade6f1ddd90",
-    "Reference/Potatoes.md",
-    "Reference/Onions & Alliums.md",
-    "Reference/Cooking Reference.md.tmp.27064.3742bb0792c2",
-    "Reference/Meat Doneness Temperatures.md.tmp.27064.f808211e9695",
-    "Sides/Charred Scallion Dip With Lemon and Herbs.md",
-    "Potatoes.md",
-    "Mexican/Easy Chicken Tacos.md",
-    "Salads/Cucumber Salad With Roasted Peanuts and Chile.md",
-    "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
-    "Noodles/Vegetable Yakisoba.md",
     "Pasta/attachments/Roman-Style Spaghetti Alla Carrettiera (Tomato, Tuna, and Mushroom Pasta).jpg",
-    "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg",
-    "Sides/attachments/Spicy Stir-Fried Cabbage.jpg",
-    "Salads/attachments/Pan-Roasted Corn and Tomato Salad.jpg",
-    "Soups/attachments/Kale Soup With Potatoes and Sausage.jpg",
-    "Pasta/attachments/Baked Alfredo Pasta With Broccoli Rabe and Lemon.jpg",
-    "Soups/attachments/Texas-Style Chili.jpg",
-    "Seafood/attachments/Spicy Slow-Roasted Salmon With Cucumbers and Feta.jpg"
+    "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg"
   ]
 }

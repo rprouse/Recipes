@@ -19,6 +19,9 @@ views:
     filters:
       and:
         - '!file.path.startsWith("Reference")'
+        - '!file.path.startsWith("Camping")'
+        - and:
+            - '!file.path.startsWith("Sports")'
     order:
       - file.name
       - servings

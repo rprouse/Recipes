@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "The Only Naan Recipe You Need    No Oven, Restaurant-Like Results",
-      "path": "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md"
+      "basename": "Pad Thai",
+      "path": "Camping/Pad Thai.md"
+    },
+    {
+      "basename": "Camping",
+      "path": "Camping.base"
+    },
+    {
+      "basename": "Traditional Pad Thai",
+      "path": "Camping/Traditional Pad Thai.md"
     },
     {
       "basename": "All Recipes",
       "path": "All Recipes.base"
     },
     {
-      "basename": "Stir-Fried Cumin Green Beans and Chicken",
-      "path": "Chicken/Stir-Fried Cumin Green Beans and Chicken.md"
+      "basename": "Traditional Pad Thai",
+      "path": "Camping/attachments/Traditional Pad Thai.png"
+    },
+    {
+      "basename": "Loaded Mashed Potato Bowl",
+      "path": "Camping/Loaded Mashed Potato Bowl.md"
+    },
+    {
+      "basename": "Beef Stroganoff",
+      "path": "Camping/Beef Stroganoff.md"
+    },
+    {
+      "basename": "Hiker Pasta",
+      "path": "Camping/Hiker Pasta.md"
+    },
+    {
+      "basename": "Bacon Cheddar Grits w Eggs",
+      "path": "Camping/Bacon Cheddar Grits w Eggs.md"
+    },
+    {
+      "basename": "Chicken Dijon with Rice",
+      "path": "Camping/Chicken Dijon with Rice.md"
+    },
+    {
+      "basename": "Dirtbag Pad Thai",
+      "path": "Camping/Dirtbag Pad Thai.md"
+    },
+    {
+      "basename": "Chicken Burrito Bowls with Spicy Green Sauce",
+      "path": "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md"
+    },
+    {
+      "basename": "Camping Recipe",
+      "path": "Templates/Camping Recipe.md"
+    },
+    {
+      "basename": "Beef Stroganoff",
+      "path": "Camping/attachments/Beef Stroganoff.png"
     },
     {
       "basename": "Planned Recipe List",
       "path": "Planned Recipe List.md"
+    },
+    {
+      "basename": "Stir-Fried Cumin Green Beans and Chicken",
+      "path": "Chicken/Stir-Fried Cumin Green Beans and Chicken.md"
+    },
+    {
+      "basename": "Malaay Qumbe (Coconut Fish Curry)",
+      "path": "Seafood/Malaay Qumbe (Coconut Fish Curry).md"
+    },
+    {
+      "basename": "Green Chile Chicken Tacos",
+      "path": "Mexican/Green Chile Chicken Tacos.md"
+    },
+    {
+      "basename": "Make Again",
+      "path": "Make Again.base"
+    },
+    {
+      "basename": "Recipe",
+      "path": "Templates/Recipe.md"
+    },
+    {
+      "basename": "The Only Naan Recipe You Need    No Oven, Restaurant-Like Results",
+      "path": "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md"
     },
     {
       "basename": "Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce",
@@ -27,10 +95,6 @@
     {
       "basename": "Keema Palak (Ground Chicken and Spinach Curry)",
       "path": "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md"
-    },
-    {
-      "basename": "Make Again",
-      "path": "Make Again.base"
     },
     {
       "basename": "Post-Ride Recovery Drink",
@@ -129,76 +193,12 @@
       "path": "Chicken/Buffalo Chicken Wings.md"
     },
     {
-      "basename": "Recipe",
-      "path": "Templates/Recipe.md"
-    },
-    {
       "basename": "Sous Vide Texas-Style Barbecue Brisket",
       "path": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md"
     },
     {
       "basename": "Chicken Wings",
       "path": "Chicken/Chicken Wings.md"
-    },
-    {
-      "basename": "Smoked Chicken Wings",
-      "path": "BBQ/Smoked Chicken Wings.md"
-    },
-    {
-      "basename": "Recipe Websites",
-      "path": "Recipe Websites.md"
-    },
-    {
-      "basename": "Carbonara",
-      "path": "Pasta/Carbonara.md"
-    },
-    {
-      "basename": "Chile-Crisp Shrimp and Green Beans",
-      "path": "Seafood/Chile-Crisp Shrimp and Green Beans.md"
-    },
-    {
-      "basename": "Charred Corn and Pickled Jalapeño Potato Salad",
-      "path": "Salads/Charred Corn and Pickled Jalapeño Potato Salad.md"
-    },
-    {
-      "basename": "Japanese Ground Beef Curry",
-      "path": "Beef/Japanese Ground Beef Curry.md"
-    },
-    {
-      "basename": "Curry Shrimp and Sweet Potato",
-      "path": "Seafood/Curry Shrimp and Sweet Potato.md"
-    },
-    {
-      "basename": "Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)",
-      "path": "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md"
-    },
-    {
-      "basename": "15 Minute Chili Garlic Noodles",
-      "path": "Noodles/15 Minute Chili Garlic Noodles.md"
-    },
-    {
-      "basename": "5-Minute Hummus",
-      "path": "Sides/5-Minute Hummus.md"
-    },
-    {
-      "basename": "10 Pizza Rules That Separate Amateurs from Pros",
-      "path": "Pizza/10 Pizza Rules That Separate Amateurs from Pros.md"
-    },
-    {
-      "basename": "Readme",
-      "path": "Readme.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill",
-      "path": "Chicken/Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill.md"
-    },
-    {
-      "basename": "Cottage Cheese Egg Bites",
-      "path": "Breakfast/Cottage Cheese Egg Bites.md"
     }
   ],
   "omittedPaths": [],
