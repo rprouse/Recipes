@@ -9,6 +9,7 @@ An **Obsidian vault of cooking recipes** — not a software project. There is no
 - The vault lives at `G:\My Drive\Recipes`, so it **syncs through Google Drive** — files may change under you, and anything written here (especially images) syncs to the cloud.
 - Backups are git commits made by the **obsidian-git** plugin (commit messages look like `vault backup: <timestamp>`). Other plugins in use: `obsidian-icon-folder`, `obsidian-paste-image-rename`, `recent-files-obsidian`.
 - Line endings are pinned to LF (`git config core.autocrlf false`, `core.eol lf`) so the vault behaves across Windows/Linux. Preserve LF when writing files.
+- A **PostToolUse formatter hook may rewrite notes after Edit/Write**. Re-Read the file before a follow-up edit that targets a region it might have reformatted.
 - `git commit` must go through the **PowerShell tool**, not Bash (1Password SSH signing breaks under MSYS2) — see the global `~/.claude/CLAUDE.md` for the full reason. The user normally commits themselves via the obsidian-git keybindings; don't commit unless asked.
 
 ## Recipe note conventions
@@ -44,8 +45,10 @@ link: <source URL>
 Conventions that matter:
 - The lead image is embedded at the very top via an Obsidian wikilink and stored in an **`attachments/` subfolder beside the note** (per-folder, e.g. `Chicken/attachments/...`), not a single vault-wide folder.
 - `date` is the date the note was added, in `YYYY-MM-DD dddd` format — not the recipe's publish date.
-- `tags` are a lowercase inline list; the first tag mirrors the folder. Editing tags means rewriting the single `tags: [...]` line.
+- `tags` are a lowercase inline list; the first tag mirrors the folder, lowercased and hyphenated for multi-word folders (`Sous Vide/` → `sous-vide`). Editing tags means rewriting the single `tags: [...]` line.
 - Drop the `> [!tip]` callout when there's no tip.
+- **Original recipes** (written from scratch, no source URL) keep `author:`, `link:` and `image:` present but blank rather than omitted, so the properties still appear in Obsidian's property editor.
+- **Never use em dashes (—) in recipe prose you write.** Use a comma, a colon, parentheses, or split the sentence. This covers the overview, steps and callouts of any note authored here. Text carried over verbatim from a downloaded recipe keeps whatever punctuation the source used.
 
 ## Folder taxonomy
 
@@ -65,9 +68,16 @@ which extends the standard template with `weight-per-serving` (grams, numeric),
 needed, blank means unknown), and `cook-method`. `Camping.base` renders these,
 sorted by pack weight. The camping folder wins over dish type: "Hiker Pasta" is
 Camping, not Pasta. Distinct from `Sports/`, which is sports drinks and exercise
-nutrition. Lead images from Outdoor Eats are **800×800 PNG**, so camping notes use
-`.png` — not the `.jpg` of the example above — in the attachment filename, the
-`image:` property, and the embed.
+nutrition. Lead images from Outdoor Eats are **800×800 PNG**, so imports from there
+use `.png` in the attachment filename, the `image:` property, and the embed. That
+follows the source, not a folder rule: match whatever the actual file is
+(`Pad Thai.jpg` and `Bacon Cheddar Grits w Eggs.jpg` already use `.jpg`).
+`Camping.base`'s **No-Cook view filters `cook-method == "no-cook"` as an exact
+string**, so "cold soak" or "No-Cook" silently drops the note out of that view.
+
+## Lead images for original recipes
+
+A from-scratch recipe has no source photo, and a missing `image:` renders a blank card. Wikimedia Commons is the working source: query `commons.wikimedia.org/w/api.php` with `generator=search&gsrnamespace=6&prop=imageinfo&iiprop=url|extmetadata`, then read `LicenseShortName`. **Prefer CC0**; CC BY and CC BY-SA are usable but need a credit line at the foot of the note. Commons returns 429 if hit too fast, so space the requests out.
 
 ## Recipe import tooling
 

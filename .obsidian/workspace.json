@@ -62,57 +62,9 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
-          },
-          {
-            "id": "1e6c871a5bfb7c56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camping/Cold-Soak Bircher Muesli.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cold-Soak Bircher Muesli"
-            }
-          },
-          {
-            "id": "6dd4d4f4396c8ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sous Vide/Sous Vide Yogurt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sous Vide Yogurt"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,27 +232,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dd4d4f4396c8ac0",
+  "active": "014c7c389d89d5d4",
   "lastOpenFiles": [
-    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.bdeaa4e02709",
-    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.ef50380f596e",
-    "Camping.base",
-    "Planned Recipe List.md",
-    "All Recipes.base",
+    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.a5677c56af63",
+    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.202896aad1b8",
+    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.f010ec66229d",
+    "Camping/Cold-Soak Bircher Muesli.md.tmp.38436.6b996a9e26a9",
+    "Camping/Cold-Soak Bircher Muesli.md.tmp.38436.5eb704f2665d",
+    "Camping/Cold-Soak Bircher Muesli.md.tmp.38436.804fe0bb039e",
+    "Breakfast/Toasted Muesli.md.tmp.38436.cb2f1952682c",
+    "Breakfast/Toasted Muesli.md.tmp.38436.33f619e065f8",
+    "CLAUDE.md.tmp.38436.87050b4c08f5",
+    "CLAUDE.md.tmp.38436.9ac884387c54",
+    "CLAUDE.md.tmp.38436.de5164beec14",
+    "Camping/Cold-Soak Bircher Muesli.md",
     "Sous Vide/Sous Vide Yogurt.md",
+    "Planned Recipe List.md",
     "Breakfast/Creamy Homemade Yogurt.md",
     "Breakfast/Australian Zucchini Slice.md",
-    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.e1fcf0a8ec78",
     "Sous Vide/attachments/Sous Vide Yogurt.jpg",
-    "Camping/Cold-Soak Bircher Muesli.md",
     "Camping/Traditional Pad Thai.md",
     "Breakfast/Toasted Muesli.md",
     "Camping/attachments/Cold-Soak Bircher Muesli.jpg",
-    "Breakfast/Toasted Muesli.md.tmp.38436.84c855ed7b32",
     "Breakfast/attachments/Toasted Muesli.jpg",
     "Camping/Pad Thai.md",
-    "Breakfast/Toasted Muesli.md.tmp.38436.63cf8b99b149",
-    "Breakfast/Toasted Muesli.md.tmp.38436.fe998dca9188",
     "Camping/attachments/Traditional Pad Thai.png",
     "Camping/Loaded Mashed Potato Bowl.md",
     "Camping/Beef Stroganoff.md",
@@ -310,16 +265,13 @@
     "Camping/Dirtbag Pad Thai.md",
     "Camping/attachments/Loaded Mashed Potato Bowl.png",
     "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md",
-    "Camping/Bacon Cheddar Grits w Eggs.md.tmp.38436.c1d99fb25cea",
     "Camping/attachments/Bacon Cheddar Grits w Eggs.jpg",
     "Templates/Camping Recipe.md",
     "Camping/attachments/Beef Stroganoff.png",
     "pytest-cache-files-jugwcdl1/README.md",
-    "pytest-cache-files-jugwcdl1",
     "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
     "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
     "Mexican/Green Chile Chicken Tacos.md",
-    "Camping/Pad Thai.md.tmp.38436.340d4c4ceec1",
     "Camping/attachments/Pad Thai.jpg",
     "Camping/attachments/Dirtbag Pad Thai.png",
     "Templates/Recipe.md",

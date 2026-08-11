@@ -26,21 +26,21 @@ Eat it under a scoop of [[Toasted Muesli]].
 
 ### 🥣 Steps
 1. Whisk the milk powder, if using, into the cold milk until no lumps remain. Divide between clean quart jars, or keep it in a pot for the stovetop route.
-2. COOK THE MILK: hold at 180°F / 82°C for 20 to 30 minutes. In the bath, jars go in with lids fingertip-tight and the water at the shoulder of the jar. On the stove, heat gently and stir often so the bottom does not scorch. This step is not optional if you want thick yogurt — see the tip below.
+2. COOK THE MILK: hold at 180°F / 82°C for 20 to 30 minutes. In the bath, jars go in with lids fingertip-tight and the water at the shoulder of the jar. On the stove, heat gently and stir often so the bottom does not scorch. This step is not optional if you want thick yogurt. See the tip below.
 3. Cool to 110°F / 43°C. Drop the bath temperature with a few cups of cold water or ice, or sit the pot in an ice bath, stirring. Verify with a thermometer; do not guess.
 4. Whisk the starter into about ½ cup of the warm milk until completely smooth, then stir that back into the rest. Tempering it first prevents the grainy specks you get from dumping cold yogurt into warm milk.
-5. Set the circulator to 110°F / 43°C and lower the jars in. Walk away for 6 to 8 hours. Do not stir, shake or move them — the gel sets undisturbed or not at all.
+5. Set the circulator to 110°F / 43°C and lower the jars in. Walk away for 6 to 8 hours. Do not stir, shake or move them, the gel sets undisturbed or not at all.
 6. Lift the jars out without tipping them and refrigerate at least 6 hours before opening. It thickens substantially as it chills, and yogurt judged straight from the bath always looks like a failure.
 7. For Greek yogurt, line a sieve with cheesecloth and drain in the fridge for 2 to 4 hours. Keep the whey for smoothies, bread dough or brining chicken.
 
 > [!tip] The 180°F hold is the whole game
-> Milk gels when acid drops it to about pH 4.6, but casein alone makes a weak, leaky curd. Holding the milk near 180°F unfolds the whey proteins so they cross-link into that casein network, giving a denser gel with smaller pores that actually holds its water. Skip this step and you get thin, drinkable yogurt with a pool of whey on top — no incubation temperature or extra time will rescue it.
+> Milk gels when acid drops it to about pH 4.6, but casein alone makes a weak, leaky curd. Holding the milk near 180°F unfolds the whey proteins so they cross-link into that casein network, giving a denser gel with smaller pores that actually holds its water. Skip this step and you get thin, drinkable yogurt with a pool of whey on top, and no incubation temperature or extra time will rescue it.
 
 > [!tip] Use less starter, not more
 > Three tablespoons for two quarts is plenty, and doubling it makes things worse: too many bacteria strip the lactose fast, turning the yogurt sour and grainy while producing a *weaker* set. The starter must be plain and live, with no gelatin, pectin or starch on the label.
 
 > [!warning] Never inoculate above 115°F
-> These are thermophilic strains, but they are not heatproof. Milk still above about 120°F will cripple the culture and you will wake to warm sweet milk. When in doubt let it cool another five minutes — running cool merely slows fermentation, while running hot ends it.
+> These are thermophilic strains, but they are not heatproof. Milk still above about 120°F will cripple the culture and you will wake to warm sweet milk. When in doubt let it cool another five minutes. Running cool merely slows fermentation, while running hot ends it.
 
 > [!note] Dial the flavour with temperature
 > 108°F over 8 to 10 hours gives a mild, creamy, custardy set. 115°F over 4 to 5 hours gives a faster, sharper, firmer yogurt that is more prone to weeping whey. 110°F is the middle and the right place to start.
