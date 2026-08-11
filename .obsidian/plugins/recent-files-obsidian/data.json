@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Pad Thai",
-      "path": "Camping/Pad Thai.md"
+      "basename": "Cold-Soak Bircher Muesli",
+      "path": "Camping/Cold-Soak Bircher Muesli.md"
     },
     {
       "basename": "Camping",
       "path": "Camping.base"
     },
     {
+      "basename": "All Recipes",
+      "path": "All Recipes.base"
+    },
+    {
       "basename": "Traditional Pad Thai",
       "path": "Camping/Traditional Pad Thai.md"
     },
     {
-      "basename": "All Recipes",
-      "path": "All Recipes.base"
+      "basename": "Toasted Muesli",
+      "path": "Breakfast/Toasted Muesli.md"
+    },
+    {
+      "basename": "Pad Thai",
+      "path": "Camping/Pad Thai.md"
     },
     {
       "basename": "Traditional Pad Thai",
@@ -191,14 +199,6 @@
     {
       "basename": "Buffalo Chicken Wings",
       "path": "Chicken/Buffalo Chicken Wings.md"
-    },
-    {
-      "basename": "Sous Vide Texas-Style Barbecue Brisket",
-      "path": "Sous Vide/Sous Vide Texas-Style Barbecue Brisket.md"
-    },
-    {
-      "basename": "Chicken Wings",
-      "path": "Chicken/Chicken Wings.md"
     }
   ],
   "omittedPaths": [],

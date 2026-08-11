@@ -64,12 +64,12 @@
             }
           },
           {
-            "id": "52b46e5290fe5c08",
+            "id": "1e6c871a5bfb7c56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camping/Traditional Pad Thai.md",
+                "file": "Camping/Cold-Soak Bircher Muesli.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -84,35 +84,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Traditional Pad Thai"
-            }
-          },
-          {
-            "id": "3726e9b2c25fd27a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camping/Pad Thai.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pad Thai"
+              "title": "Cold-Soak Bircher Muesli"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -268,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,16 +256,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3726e9b2c25fd27a",
+  "active": "1e6c871a5bfb7c56",
   "lastOpenFiles": [
     "Camping.base",
-    "Camping/Traditional Pad Thai.md",
     "All Recipes.base",
+    "Camping/Cold-Soak Bircher Muesli.md",
+    "Camping/Traditional Pad Thai.md",
+    "Breakfast/Toasted Muesli.md",
+    "Camping/attachments/Cold-Soak Bircher Muesli.jpg",
+    "Breakfast/Toasted Muesli.md.tmp.38436.84c855ed7b32",
+    "Breakfast/attachments/Toasted Muesli.jpg",
+    "Camping/Pad Thai.md",
+    "Breakfast/Toasted Muesli.md.tmp.38436.63cf8b99b149",
+    "Breakfast/Toasted Muesli.md.tmp.38436.fe998dca9188",
     "Camping/attachments/Traditional Pad Thai.png",
     "Camping/Loaded Mashed Potato Bowl.md",
     "Camping/Beef Stroganoff.md",
     "Camping/Hiker Pasta.md",
-    "Camping/Pad Thai.md",
     "Camping/Bacon Cheddar Grits w Eggs.md",
     "Camping/Chicken Dijon with Rice.md",
     "Camping/Dirtbag Pad Thai.md",
@@ -311,10 +293,7 @@
     "Camping/attachments/Pad Thai.jpg",
     "Camping/attachments/Dirtbag Pad Thai.png",
     "Make Again.base",
-    "Camping/Chicken Dijon with Rice.md.tmp.38436.188c60be70eb",
     "Templates/Recipe.md",
-    "Camping/Hiker Pasta.md.tmp.38436.d6e0bad7bca8",
-    "Camping",
     "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md",
     "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md",
     "Chicken/Chicken and Pesto Rice With Peas.md",
@@ -322,11 +301,7 @@
     "Sports/Post-Ride Recovery Drink.md",
     "Pork/Orange and Leek Loukaniko (Greek Sausage).md",
     "Sides/Quick & Easy Refrigerator Pickles.md",
-    "Sports/Basic Sports Drink.md",
     "Sports/attachments/Pasted image 20260728104456.png",
-    "Sports/attachments/water_bottle.png",
-    "Reference/Sous-Vide Times & Temperatures.md",
-    "Pasta/attachments/Roman-Style Spaghetti Alla Carrettiera (Tomato, Tuna, and Mushroom Pasta).jpg",
-    "Sous Vide/attachments/Sous Vide Texas-Style Barbecue Brisket.jpg"
+    "Sports/attachments/water_bottle.png"
   ]
 }
