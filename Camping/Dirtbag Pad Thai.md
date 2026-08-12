@@ -9,6 +9,8 @@ tags:
   - high-calorie
   - budget
   - dinner
+  - cooked
+  - make-again
 title: Dirtbag Pad Thai
 author: Corso
 servings: 1 serving

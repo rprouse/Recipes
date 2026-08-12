@@ -62,9 +62,22 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
+          },
+          {
+            "id": "430a6b6bcc4ea033",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Camping.base",
+                "viewName": "Camping"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Camping"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#summer",
+                "query": "tag:#make-again",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 289.5
   },
   "right": {
     "id": "1fdd5cdc487ee9cc",
@@ -220,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,53 +246,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "014c7c389d89d5d4",
+  "active": "2247007034cf037c",
   "lastOpenFiles": [
-    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.a5677c56af63",
-    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.202896aad1b8",
-    "Sous Vide/Sous Vide Yogurt.md.tmp.38436.f010ec66229d",
-    "Camping/Cold-Soak Bircher Muesli.md.tmp.38436.6b996a9e26a9",
-    "Camping/Cold-Soak Bircher Muesli.md.tmp.38436.5eb704f2665d",
-    "Camping/Cold-Soak Bircher Muesli.md.tmp.38436.804fe0bb039e",
-    "Breakfast/Toasted Muesli.md.tmp.38436.cb2f1952682c",
-    "Breakfast/Toasted Muesli.md.tmp.38436.33f619e065f8",
-    "CLAUDE.md.tmp.38436.87050b4c08f5",
-    "CLAUDE.md.tmp.38436.9ac884387c54",
-    "CLAUDE.md.tmp.38436.de5164beec14",
-    "Camping/Cold-Soak Bircher Muesli.md",
-    "Sous Vide/Sous Vide Yogurt.md",
-    "Planned Recipe List.md",
-    "Breakfast/Creamy Homemade Yogurt.md",
-    "Breakfast/Australian Zucchini Slice.md",
-    "Sous Vide/attachments/Sous Vide Yogurt.jpg",
-    "Camping/Traditional Pad Thai.md",
-    "Breakfast/Toasted Muesli.md",
-    "Camping/attachments/Cold-Soak Bircher Muesli.jpg",
-    "Breakfast/attachments/Toasted Muesli.jpg",
-    "Camping/Pad Thai.md",
-    "Camping/attachments/Traditional Pad Thai.png",
-    "Camping/Loaded Mashed Potato Bowl.md",
-    "Camping/Beef Stroganoff.md",
-    "Camping/Hiker Pasta.md",
-    "Camping/Bacon Cheddar Grits w Eggs.md",
-    "Camping/Chicken Dijon with Rice.md",
-    "Camping/Dirtbag Pad Thai.md",
-    "Camping/attachments/Loaded Mashed Potato Bowl.png",
-    "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md",
-    "Camping/attachments/Bacon Cheddar Grits w Eggs.jpg",
-    "Templates/Camping Recipe.md",
-    "Camping/attachments/Beef Stroganoff.png",
-    "pytest-cache-files-jugwcdl1/README.md",
-    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
-    "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
-    "Mexican/Green Chile Chicken Tacos.md",
-    "Camping/attachments/Pad Thai.jpg",
-    "Camping/attachments/Dirtbag Pad Thai.png",
-    "Templates/Recipe.md",
-    "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md",
-    "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md",
-    "Chicken/Chicken and Pesto Rice With Peas.md",
-    "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md",
-    "Sports/attachments/Pasted image 20260728104456.png"
+    "Camping.base",
+    "All Recipes.base",
+    "Camping/Spanish Trail Mix.md",
+    "Camping/Chili Crisp Ramen Crunch.md",
+    "Camping/Thai Sweet Potato Soup.md",
+    "Camping/Green Bean Casserole.md",
+    "Chicken/Apricot Thyme Chicken and Chickpeas.md",
+    "Camping/Creole Shepherd’s Pie.md",
+    "Camping/Creole Shepherd’s Pie.md.tmp.28048.1a54170f4aec",
+    "Camping/Fresh Ultra-light Jambalaya.md",
+    "Camping/Bacon & Mushroom “Risotto”.md",
+    "Camping/Bacon & Mushroom “Risotto”.md.tmp.28048.d1ba67bd9895",
+    "Camping/Gnocchi w Tomato Sauce.md",
+    "Camping/Smoked Salmon Orzo.md",
+    "Camping/Chili Mac.md",
+    "Camping/Chili Mac.md.tmp.28048.4f4094edf719",
+    "Camping/Not Boxed Mac & Cheese.md",
+    "Camping/Not Boxed Mac & Cheese.md.tmp.28048.585c03c50b44",
+    "Camping/French Onion Pasta.md",
+    "Camping/Porcini and Roasted Garlic Stroganoff.md",
+    "Camping/Meat & Potatoes & Gravy.md",
+    "Untitled.md",
+    "Camping/Beef Chow Mein.md",
+    "Camping/Broccoli Beef with Rice.md",
+    "Camping/Broccoli Beef with Rice.md.tmp.28048.6f134be09dab",
+    "Camping/Japanese Curry & Rice – Chicken & Potato.md",
+    "Camping/Japanese Curry & Rice – Chicken & Potato.md.tmp.28048.bafe0603d24f",
+    "Camping/Bacon Chicken Bowl.md",
+    "Camping/Bacon Chicken Bowl.md.tmp.28048.8aa1363c14f8",
+    "Camping/Chicken Chili Verde with Cilantro Rice.md",
+    "Camping/Chicken Chili Verde with Cilantro Rice.md.tmp.28048.c98566739c02",
+    "Camping/Chicken & Garlic Rice.md",
+    "Camping/Jamaican Jerk Chicken with Coconut Mango.md",
+    "Camping/Steak & Pork Fajitas.md",
+    "Camping/Ultimate Steak Trail Taco.md",
+    "Camping/attachments/Ultimate Steak Trail Taco.png",
+    "Camping/attachments/Thai Sweet Potato Soup.jpg",
+    "Camping/attachments/Tannenbomb.jpg",
+    "Camping/attachments/Steak & Pork Fajitas.png",
+    "Camping/attachments/Spanish Trail Mix.png",
+    "Camping/attachments/Smoked Salmon Orzo.jpg",
+    "Camping/attachments/Sausage Scramble.jpg",
+    "Camping/attachments/Porcini and Roasted Garlic Stroganoff.png",
+    "Camping/attachments/Not Boxed Mac & Cheese.png",
+    "Camping/attachments/Meat & Potatoes & Gravy.jpg"
   ]
 }

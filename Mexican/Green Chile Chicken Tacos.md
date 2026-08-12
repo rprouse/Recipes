@@ -1,5 +1,14 @@
 ---
-tags: [mexican, chicken, tacos, quick, weeknight, kid-friendly, pantry]
+tags:
+  - mexican
+  - chicken
+  - tacos
+  - quick
+  - weeknight
+  - kid-friendly
+  - pantry
+  - cook
+  - make-again
 title: Green Chile Chicken Tacos
 author: Kay Chun
 servings: 4 servings

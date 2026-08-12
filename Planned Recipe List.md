@@ -4,7 +4,7 @@
 - [x] [[Chicken and Pesto Rice With Peas]]
 - [x] [[Keema Palak (Ground Chicken and Spinach Curry)]]
 - [ ] [[Malaay Qumbe (Coconut Fish Curry)]]
-- [ ] [[Green Chile Chicken Tacos]]
+- [x] [[Green Chile Chicken Tacos]]
 ## 2026-07
 - [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [x] Steak, Salad and Potatoes

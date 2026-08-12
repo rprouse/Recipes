@@ -4,6 +4,9 @@ filters:
     - file.path.contains("/")
     - '!file.inFolder("Incoming")'
     - '!file.inFolder("Templates")'
+    - '!file.inFolder("Camping")'
+    - '!file.inFolder("Sports")'
+    - '!file.inFolder("Reference")'
 properties:
   file.folder:
     displayName: Category
@@ -16,12 +19,6 @@ properties:
 views:
   - type: cards
     name: All Recipes
-    filters:
-      and:
-        - '!file.path.startsWith("Reference")'
-        - '!file.path.startsWith("Camping")'
-        - and:
-            - '!file.path.startsWith("Sports")'
     order:
       - file.name
       - servings
@@ -31,19 +28,16 @@ views:
       - property: date
         direction: DESC
     image: note.image
-    imageAspectRatio: 1
-    imageFit: cover
-  - type: table
-    name: All
+    imageAspectRatio: 0.5
+  - type: cards
+    name: Make Again
+    filters:
+      and:
+        - file.tags.contains("make-again")
     order:
       - file.name
-      - file.folder
-      - author
-      - servings
       - time
-      - date
-    sort:
-      - property: file.folder
-        direction: ASC
-      - property: file.name
-        direction: ASC
+      - servings
+      - tags
+    image: note.image
+    imageAspectRatio: 0.5

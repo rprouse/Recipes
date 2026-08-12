@@ -39,7 +39,8 @@
       "Bash(curl -sSL -A \"Mozilla/5.0\" \"https://www.seriouseats.com/bacon-lettuce-and-avocado-sandwich-with-herb-aioli-recipe-11944891\" -o .recipe-import/blt-avocado.html)",
       "Bash(python .claude/skills/download-recipe/scripts/parse_jsonld.py .recipe-import/blt-avocado.html .recipe-import/blt-avocado.json)",
       "Bash(python *)",
-      "Bash(uv run *)"
+      "Bash(uv run *)",
+      "Bash(echo \"exit=$?\")"
     ]
   }
 }

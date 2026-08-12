@@ -31,8 +31,7 @@ views:
       - property: date
         direction: DESC
     image: note.image
-    imageAspectRatio: 1
-    imageFit: cover
+    imageAspectRatio: 0.5
   - type: table
     name: By Weight
     order:

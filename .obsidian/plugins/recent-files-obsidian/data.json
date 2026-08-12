@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Camping",
+      "path": "Camping.base"
+    },
+    {
       "basename": "All Recipes",
       "path": "All Recipes.base"
+    },
+    {
+      "basename": "Apricot Thyme Chicken and Chickpeas",
+      "path": "Chicken/Apricot Thyme Chicken and Chickpeas.md"
+    },
+    {
+      "basename": "Dehydrating Ground Chicken",
+      "path": "Camping/Dehydrating Ground Chicken.md"
+    },
+    {
+      "basename": "Recipe Websites",
+      "path": "Recipe Websites.md"
     },
     {
       "basename": "Cold-Soak Bircher Muesli",
@@ -11,10 +27,6 @@
     {
       "basename": "Sous Vide Yogurt",
       "path": "Sous Vide/Sous Vide Yogurt.md"
-    },
-    {
-      "basename": "Camping",
-      "path": "Camping.base"
     },
     {
       "basename": "Planned Recipe List",
@@ -91,10 +103,6 @@
     {
       "basename": "Green Chile Chicken Tacos",
       "path": "Mexican/Green Chile Chicken Tacos.md"
-    },
-    {
-      "basename": "Make Again",
-      "path": "Make Again.base"
     },
     {
       "basename": "Recipe",
@@ -187,18 +195,6 @@
     {
       "basename": "Vegetable Yakisoba",
       "path": "Noodles/Vegetable Yakisoba.md"
-    },
-    {
-      "basename": "Spiced Chicken and Rice With Cardamom and Cinnamon",
-      "path": "Chicken/Spiced Chicken and Rice With Cardamom and Cinnamon.md"
-    },
-    {
-      "basename": "Spicy Marmalade Chicken and Sweet Potatoes",
-      "path": "Chicken/Spicy Marmalade Chicken and Sweet Potatoes.md"
-    },
-    {
-      "basename": "Homemade Protein Bars",
-      "path": "Snacks/Homemade Protein Bars.md"
     }
   ],
   "omittedPaths": [],
