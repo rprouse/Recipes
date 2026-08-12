@@ -16,7 +16,7 @@ image: "[[attachments/Peanut Butter Noodles (Ban Mian).jpg]]"
 Ban mian means "mixed noodles", and in Fuzhou, in China's Fujian province, that is exactly what it is: a bowl of thick wheat noodles slicked with a sauce built on peanut butter, lard, dark soy, garlic oil and sesame. Jess Eng chased the dish through New York's Chinatowns and then to Fuzhou itself before landing on this version. The peanut butter gets melted with the lard until it is genuinely smooth, which is the only way it will combine with the soy and sesame oil rather than sitting in clumps, and a splash of starchy noodle water pulls the whole thing into a glossy sauce. Ten minutes, one bowl, and a very high reward for the effort.
 
 ### 🛒 Ingredients
-- 2 tablespoons creamy peanut butter spread (1 1/4 ounces; 35 g), such as Skippys
+- 2 tablespoons creamy peanut butter spread (1 1/4 ounces; 35 g)
 - 1 teaspoon lard
 - 1 tablespoon (15 ml) garlic oil, see notes
 - 1 teaspoon dark soy sauce

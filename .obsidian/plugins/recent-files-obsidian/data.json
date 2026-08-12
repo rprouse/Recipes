@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Planned Recipe List",
+      "path": "Planned Recipe List.md"
+    },
+    {
+      "basename": "All Recipes",
+      "path": "All Recipes.base"
+    },
+    {
       "basename": "Camping",
       "path": "Camping.base"
+    },
+    {
+      "basename": "Bacon & Mushroom “Risotto”",
+      "path": "Camping/Bacon & Mushroom “Risotto”.md"
+    },
+    {
+      "basename": "Peanut Butter Noodles (Ban Mian)",
+      "path": "Noodles/Peanut Butter Noodles (Ban Mian).md"
     },
     {
       "basename": "Websites",
@@ -21,10 +37,6 @@
       "path": "Camping/Baja Tuna Trail Tacos.md"
     },
     {
-      "basename": "All Recipes",
-      "path": "All Recipes.base"
-    },
-    {
       "basename": "Apricot Thyme Chicken and Chickpeas",
       "path": "Chicken/Apricot Thyme Chicken and Chickpeas.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "Sous Vide Yogurt",
       "path": "Sous Vide/Sous Vide Yogurt.md"
-    },
-    {
-      "basename": "Planned Recipe List",
-      "path": "Planned Recipe List.md"
     },
     {
       "basename": "Creamy Homemade Yogurt",
@@ -191,14 +199,6 @@
     {
       "basename": "Charred Scallion Dip With Lemon and Herbs",
       "path": "Sides/Charred Scallion Dip With Lemon and Herbs.md"
-    },
-    {
-      "basename": "Easy Chicken Tacos",
-      "path": "Mexican/Easy Chicken Tacos.md"
-    },
-    {
-      "basename": "Cucumber Salad With Roasted Peanuts and Chile",
-      "path": "Salads/Cucumber Salad With Roasted Peanuts and Chile.md"
     }
   ],
   "omittedPaths": [],

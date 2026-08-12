@@ -34,21 +34,6 @@
             }
           },
           {
-            "id": "2a55f06fcdbced47",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Camping.base",
-                "viewName": "Camping"
-              },
-              "pinned": true,
-              "icon": "lucide-layout-grid",
-              "title": "Camping"
-            }
-          },
-          {
             "id": "014c7c389d89d5d4",
             "type": "leaf",
             "pinned": true,
@@ -64,31 +49,21 @@
             }
           },
           {
-            "id": "430a6b6bcc4ea033",
+            "id": "409e34858f4fd177",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Websites.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Camping.base",
+                "viewName": "Camping"
               },
-              "icon": "lucide-file",
-              "title": "Websites"
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "Camping"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,17 +231,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a55f06fcdbced47",
+  "active": "6c78ec314c5b02d9",
   "lastOpenFiles": [
+    "All Recipes.base",
+    "Camping.base",
+    "Camping/Bacon & Mushroom “Risotto”.md",
+    "Planned Recipe List.md",
+    "Noodles/Peanut Butter Noodles (Ban Mian).md",
     "Websites.md",
     "Camping/attachments/Japanese Curry and Rice with Chicken and Potato.png",
     "Camping/Japanese Curry and Rice with Chicken and Potato.md",
-    "Camping.base",
     "Camping/Baja Tuna Trail Tacos.md",
     "Untitled.md",
     "Camping/Dehydrating Ground Beef.md",
     "Camping/attachments/Dehydrating Ground Beef.jpg",
-    "All Recipes.base",
     "Camping/Spanish Trail Mix.md",
     "Camping/Chili Crisp Ramen Crunch.md",
     "Camping/Thai Sweet Potato Soup.md",
@@ -275,7 +253,6 @@
     "Camping/Creole Shepherd’s Pie.md",
     "Camping/Creole Shepherd’s Pie.md.tmp.28048.1a54170f4aec",
     "Camping/Fresh Ultra-light Jambalaya.md",
-    "Camping/Bacon & Mushroom “Risotto”.md",
     "Camping/Bacon & Mushroom “Risotto”.md.tmp.28048.d1ba67bd9895",
     "Camping/Gnocchi w Tomato Sauce.md",
     "Camping/Smoked Salmon Orzo.md",
@@ -292,9 +269,7 @@
     "Camping/Japanese Curry & Rice – Chicken & Potato.md.tmp.28048.bafe0603d24f",
     "Camping/Bacon Chicken Bowl.md",
     "Camping/Bacon Chicken Bowl.md.tmp.28048.8aa1363c14f8",
-    "Camping/Chicken Chili Verde with Cilantro Rice.md",
     "Camping/Chicken Chili Verde with Cilantro Rice.md.tmp.28048.c98566739c02",
-    "Camping/Chicken & Garlic Rice.md",
     "Camping/attachments/Ultimate Steak Trail Taco.png",
     "Camping/attachments/Thai Sweet Potato Soup.jpg",
     "Camping/attachments/Tannenbomb.jpg",

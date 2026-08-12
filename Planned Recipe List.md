@@ -5,6 +5,7 @@
 - [x] [[Keema Palak (Ground Chicken and Spinach Curry)]]
 - [ ] [[Malaay Qumbe (Coconut Fish Curry)]]
 - [x] [[Green Chile Chicken Tacos]]
+- [ ] [[Peanut Butter Noodles (Ban Mian)]]
 ## 2026-07
 - [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [x] Steak, Salad and Potatoes
