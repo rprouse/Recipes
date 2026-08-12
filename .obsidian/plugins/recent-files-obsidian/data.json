@@ -5,6 +5,22 @@
       "path": "Camping.base"
     },
     {
+      "basename": "Websites",
+      "path": "Websites.md"
+    },
+    {
+      "basename": "Japanese Curry and Rice with Chicken and Potato",
+      "path": "Camping/attachments/Japanese Curry and Rice with Chicken and Potato.png"
+    },
+    {
+      "basename": "Japanese Curry and Rice with Chicken and Potato",
+      "path": "Camping/Japanese Curry and Rice with Chicken and Potato.md"
+    },
+    {
+      "basename": "Baja Tuna Trail Tacos",
+      "path": "Camping/Baja Tuna Trail Tacos.md"
+    },
+    {
       "basename": "All Recipes",
       "path": "All Recipes.base"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Dehydrating Ground Chicken",
       "path": "Camping/Dehydrating Ground Chicken.md"
-    },
-    {
-      "basename": "Recipe Websites",
-      "path": "Recipe Websites.md"
     },
     {
       "basename": "Cold-Soak Bircher Muesli",
@@ -187,14 +199,6 @@
     {
       "basename": "Cucumber Salad With Roasted Peanuts and Chile",
       "path": "Salads/Cucumber Salad With Roasted Peanuts and Chile.md"
-    },
-    {
-      "basename": "Linguine With Zucchini, Corn and Shrimp",
-      "path": "Pasta/Linguine With Zucchini, Corn and Shrimp.md"
-    },
-    {
-      "basename": "Vegetable Yakisoba",
-      "path": "Noodles/Vegetable Yakisoba.md"
     }
   ],
   "omittedPaths": [],

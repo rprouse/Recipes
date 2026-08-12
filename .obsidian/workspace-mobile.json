@@ -11,24 +11,13 @@
             "id": "b6b90ed671b34446",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Camping/Traditional Pad Thai.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Camping.base",
+                "viewName": "Camping"
               },
-              "icon": "lucide-file",
-              "title": "Traditional Pad Thai"
+              "icon": "lucide-layout-grid",
+              "title": "Camping"
             }
           }
         ]
@@ -164,11 +153,13 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
+    "Camping/Hiker Pasta.md",
     "Camping.base",
+    "Camping/Chicken Dijon with Rice.md",
+    "Camping/Traditional Pad Thai.md",
     "Planned Recipe List.md",
     "Mexican/Green Chile Chicken Tacos.md",
     "Camping/Dirtbag Pad Thai.md",
-    "Camping/Chicken Dijon with Rice.md",
     "All Recipes.base",
     "Sous Vide/attachments/Sous Vide Yogurt.jpg",
     "Seafood/attachments/Malaay Qumbe (Coconut Fish Curry).jpg",
@@ -183,9 +174,7 @@
     "Templates/Camping Recipe.md",
     "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
     "Sous Vide/Sous Vide Yogurt.md",
-    "Camping/Traditional Pad Thai.md",
     "Camping/Pad Thai.md",
-    "Camping/Hiker Pasta.md",
     "Camping/Loaded Mashed Potato Bowl.md",
     "Camping/Cold-Soak Bircher Muesli.md",
     "Camping/Beef Stroganoff.md",

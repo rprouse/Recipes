@@ -16,10 +16,10 @@ cook-method: one-pot
 time: 20 minutes
 date: 2026-08-12 Wednesday
 link: https://outdooreats.com/recipe/japanese-curry-rice-chicken-potato/
-image: "[[attachments/Japanese Curry & Rice – Chicken & Potato.png]]"
+image: "[[Japanese Curry and Rice with Chicken and Potato.png]]"
 ---
 
-![[attachments/Japanese Curry & Rice – Chicken & Potato.png]]
+![[Japanese Curry and Rice with Chicken and Potato.png]]
 
 # Japanese Curry & Rice – Chicken & Potato
 
