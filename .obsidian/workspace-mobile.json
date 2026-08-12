@@ -11,13 +11,24 @@
             "id": "b6b90ed671b34446",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Camping.base",
-                "viewName": "Camping"
+                "file": "Camping/Hiker Pasta.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Camping"
+              "icon": "lucide-file",
+              "title": "Hiker Pasta"
             }
           }
         ]
@@ -153,8 +164,9 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
-    "Camping/Hiker Pasta.md",
     "Camping.base",
+    "Camping/Loaded Mashed Potato Bowl.md",
+    "Camping/Hiker Pasta.md",
     "Camping/Chicken Dijon with Rice.md",
     "Camping/Traditional Pad Thai.md",
     "Planned Recipe List.md",
@@ -175,7 +187,6 @@
     "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
     "Sous Vide/Sous Vide Yogurt.md",
     "Camping/Pad Thai.md",
-    "Camping/Loaded Mashed Potato Bowl.md",
     "Camping/Cold-Soak Bircher Muesli.md",
     "Camping/Beef Stroganoff.md",
     "Breakfast/Toasted Muesli.md",
