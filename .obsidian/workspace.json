@@ -233,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +245,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2247007034cf037c",
+  "active": "64125dcb463092aa",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Camping/Dehydrating Ground Beef.md",
+    "Camping/attachments/Dehydrating Ground Beef.jpg",
     "Camping.base",
     "All Recipes.base",
     "Camping/Spanish Trail Mix.md",
@@ -269,7 +271,6 @@
     "Camping/French Onion Pasta.md",
     "Camping/Porcini and Roasted Garlic Stroganoff.md",
     "Camping/Meat & Potatoes & Gravy.md",
-    "Untitled.md",
     "Camping/Beef Chow Mein.md",
     "Camping/Broccoli Beef with Rice.md",
     "Camping/Broccoli Beef with Rice.md.tmp.28048.6f134be09dab",
@@ -291,7 +292,6 @@
     "Camping/attachments/Smoked Salmon Orzo.jpg",
     "Camping/attachments/Sausage Scramble.jpg",
     "Camping/attachments/Porcini and Roasted Garlic Stroganoff.png",
-    "Camping/attachments/Not Boxed Mac & Cheese.png",
-    "Camping/attachments/Meat & Potatoes & Gravy.jpg"
+    "Camping/attachments/Not Boxed Mac & Cheese.png"
   ]
 }

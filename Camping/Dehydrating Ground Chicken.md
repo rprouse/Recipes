@@ -25,7 +25,7 @@ Chicken is the awkward one in the dehydrator. Chef Glenn tried baking, poaching,
 
 The other half of the method is safety. Poultry has a looser cellular structure than beef, which leaves more places for pathogens to survive a low-temperature dry, so the meat gets cooked twice: once in a pan, then again in the oven. Because it goes into the dehydrator fully cooked, you dry it at 145°F rather than 160°F, which avoids case-hardening.
 
-This is a component, not a meal. Bag it up and drop a third of a cup into any one-pot dinner in place of ground beef.
+This is a component, not a meal. Bag it up and drop a third of a cup into any one-pot dinner in place of ground beef. The beef version is [[Dehydrating Ground Beef]], which uses the same starch trick without the second cook.
 
 ### 🛒 Ingredients
 - Low fat ground chicken or turkey (98% fat-free ground breast) - 1 lb / 454 g
