@@ -1,5 +1,10 @@
 ---
-tags: [breakfast, easy, vegetarian]
+tags:
+  - breakfast
+  - easy
+  - vegetarian
+  - cooked
+  - make-again
 title: Eleven Madison Park Granola
 author: Sam Sifton
 servings: 6 cups

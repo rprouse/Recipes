@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camping/Hiker Pasta.md",
+                "file": "Reference/Cooking Reference.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hiker Pasta"
+              "title": "Cooking Reference"
             }
           }
         ]
@@ -61,7 +61,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Grano",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pasta/Homemade Hamburger Helper.md",
+            "file": "Breakfast/Eleven Madison Park Granola.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,15 +164,32 @@
   },
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
+    "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md",
+    "Planned Recipe List.md",
+    "Mexican/Easy Chicken Tacos.md",
+    "All Recipes.base",
+    "Seafood/Sesame Salmon Bowls.md",
+    "Beef/Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs).md",
+    "Chicken/Creamy Tuscan Chicken.md",
+    "Untitled.md",
+    "Chicken/Paprika Chicken and Potatoes.md",
+    "Seafood/Chile-Crisp Shrimp and Green Beans.md",
+    "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
+    "Salads/Horiatiki (Greek Salad).md",
+    "Breakfast/Eleven Madison Park Granola.md",
+    "Breakfast/Toasted Muesli.md",
+    "Websites.md",
     "Camping.base",
-    "Camping/Loaded Mashed Potato Bowl.md",
+    "Camping/Garlic & Cracked Pepper Beef Jerky.md",
+    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
+    "Noodles/Peanut Butter Noodles (Ban Mian).md",
+    "Camping/Dirtbag Pad Thai.md",
     "Camping/Hiker Pasta.md",
+    "Noodles/attachments/Peanut Butter Noodles (Ban Mian).jpg",
+    "Camping/Loaded Mashed Potato Bowl.md",
     "Camping/Chicken Dijon with Rice.md",
     "Camping/Traditional Pad Thai.md",
-    "Planned Recipe List.md",
     "Mexican/Green Chile Chicken Tacos.md",
-    "Camping/Dirtbag Pad Thai.md",
-    "All Recipes.base",
     "Sous Vide/attachments/Sous Vide Yogurt.jpg",
     "Seafood/attachments/Malaay Qumbe (Coconut Fish Curry).jpg",
     "Mexican/attachments/Green Chile Chicken Tacos.jpg",
@@ -182,27 +199,10 @@
     "Camping/attachments/Dirtbag Pad Thai.png",
     "Camping/attachments/Hiker Pasta.png",
     "Camping/attachments/Cold-Soak Bircher Muesli.jpg",
-    "Camping/attachments/Beef Stroganoff.png",
     "Templates/Camping Recipe.md",
-    "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
     "Sous Vide/Sous Vide Yogurt.md",
-    "Camping/Pad Thai.md",
-    "Camping/Cold-Soak Bircher Muesli.md",
-    "Camping/Beef Stroganoff.md",
-    "Breakfast/Toasted Muesli.md",
-    "Camping/Bacon Cheddar Grits w Eggs.md",
     "Camping/attachments",
     "Camping",
-    "Soups/Chicken and White Bean Stew.md",
-    "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md",
-    "Chicken/Chicken and Pesto Rice With Peas.md",
-    "Beef/Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs).md",
-    "Pasta/Homemade Hamburger Helper.md",
-    "Chicken/Chicken Souvlaki With Tzatziki Sauce and Greek Salad.md",
-    "Recipe Websites.md",
-    "Chicken/Sheet-Pan Scallion Chicken With Bok Choy.md",
-    "Readme.md",
-    "Mexican/Easy Chicken Tacos.md",
     "Make Again.base",
     "Sandwiches/attachments",
     "Sandwiches"

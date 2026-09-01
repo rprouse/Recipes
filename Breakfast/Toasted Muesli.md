@@ -1,5 +1,11 @@
 ---
-tags: [breakfast, easy, make-ahead, vegetarian]
+tags:
+  - breakfast
+  - easy
+  - make-ahead
+  - vegetarian
+  - cooked
+  - make-again
 title: Toasted Muesli
 servings: about 8 cups (16 servings)
 time: 30 minutes

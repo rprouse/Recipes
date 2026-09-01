@@ -47,23 +47,9 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
-          },
-          {
-            "id": "409e34858f4fd177",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Camping.base",
-                "viewName": "Camping"
-              },
-              "pinned": true,
-              "icon": "lucide-layout-grid",
-              "title": "Camping"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,52 +218,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c78ec314c5b02d9",
+  "active": "014c7c389d89d5d4",
   "lastOpenFiles": [
-    "All Recipes.base",
-    "Camping.base",
-    "Camping/Bacon & Mushroom “Risotto”.md",
+    "Seafood/Curry Shrimp and Sweet Potato.md",
+    "Reference/Stocks.md",
+    "Reference/Salad Dressings.md",
     "Planned Recipe List.md",
+    "All Recipes.base",
+    "Pasta/Crispy Gnocchi With Sausage and Broccoli.md",
+    "Reference/Cooking Reference.md",
+    "Reference/Mother Sauces.md",
+    "Reference/Mother Sauces.md.tmp.2648.a4333da19806",
+    "Reference/attachments/mother_sauces.png",
+    "Reference/attachments",
+    "Seafood/Sesame Salmon Bowls.md",
+    "Chicken/Paprika Chicken and Potatoes.md",
+    "Seafood/Chile-Crisp Shrimp and Green Beans.md",
+    "Camping.base",
     "Noodles/Peanut Butter Noodles (Ban Mian).md",
+    "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
+    "Camping/Steakhouse Bowl.md",
+    "Camping/Beef Stroganoff.md",
+    "Camping/attachments/Steakhouse Bowl.jpg",
+    "Salads/Horiatiki (Greek Salad).md",
+    "Mexican/Beer-Marinated Chicken Tacos.md",
+    "Chicken/Creamy Tuscan Chicken.md",
+    "Camping/Garlic & Cracked Pepper Beef Jerky.md",
+    "Breakfast/Toasted Muesli.md",
+    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
+    "Chicken/Chicken Marsala.md",
+    "Camping/Bacon & Mushroom “Risotto”.md",
     "Websites.md",
     "Camping/attachments/Japanese Curry and Rice with Chicken and Potato.png",
     "Camping/Japanese Curry and Rice with Chicken and Potato.md",
     "Camping/Baja Tuna Trail Tacos.md",
     "Untitled.md",
-    "Camping/Dehydrating Ground Beef.md",
     "Camping/attachments/Dehydrating Ground Beef.jpg",
-    "Camping/Spanish Trail Mix.md",
-    "Camping/Chili Crisp Ramen Crunch.md",
-    "Camping/Thai Sweet Potato Soup.md",
-    "Camping/Green Bean Casserole.md",
-    "Chicken/Apricot Thyme Chicken and Chickpeas.md",
-    "Camping/Creole Shepherd’s Pie.md",
     "Camping/Creole Shepherd’s Pie.md.tmp.28048.1a54170f4aec",
-    "Camping/Fresh Ultra-light Jambalaya.md",
     "Camping/Bacon & Mushroom “Risotto”.md.tmp.28048.d1ba67bd9895",
-    "Camping/Gnocchi w Tomato Sauce.md",
-    "Camping/Smoked Salmon Orzo.md",
-    "Camping/Chili Mac.md",
     "Camping/Chili Mac.md.tmp.28048.4f4094edf719",
-    "Camping/Not Boxed Mac & Cheese.md",
     "Camping/Not Boxed Mac & Cheese.md.tmp.28048.585c03c50b44",
-    "Camping/French Onion Pasta.md",
-    "Camping/Porcini and Roasted Garlic Stroganoff.md",
-    "Camping/Meat & Potatoes & Gravy.md",
-    "Camping/Beef Chow Mein.md",
-    "Camping/Broccoli Beef with Rice.md",
     "Camping/Broccoli Beef with Rice.md.tmp.28048.6f134be09dab",
     "Camping/Japanese Curry & Rice – Chicken & Potato.md.tmp.28048.bafe0603d24f",
-    "Camping/Bacon Chicken Bowl.md",
-    "Camping/Bacon Chicken Bowl.md.tmp.28048.8aa1363c14f8",
-    "Camping/Chicken Chili Verde with Cilantro Rice.md.tmp.28048.c98566739c02",
     "Camping/attachments/Ultimate Steak Trail Taco.png",
     "Camping/attachments/Thai Sweet Potato Soup.jpg",
     "Camping/attachments/Tannenbomb.jpg",
     "Camping/attachments/Steak & Pork Fajitas.png",
-    "Camping/attachments/Spanish Trail Mix.png",
-    "Camping/attachments/Smoked Salmon Orzo.jpg",
-    "Camping/attachments/Sausage Scramble.jpg",
-    "Camping/attachments/Porcini and Roasted Garlic Stroganoff.png"
+    "Camping/attachments/Spanish Trail Mix.png"
   ]
 }

@@ -1,5 +1,12 @@
 ---
-tags: [noodles, chinese, quick, weeknight, easy]
+tags:
+  - noodles
+  - chinese
+  - quick
+  - weeknight
+  - easy
+  - cooked
+  - make-again
 title: Peanut Butter Noodles (Ban Mian)
 author: Jess Eng
 servings: 1 serving

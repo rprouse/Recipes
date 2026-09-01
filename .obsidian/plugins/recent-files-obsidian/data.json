@@ -1,24 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "All Recipes",
+      "path": "All Recipes.base"
+    },
+    {
+      "basename": "Curry Shrimp and Sweet Potato",
+      "path": "Seafood/Curry Shrimp and Sweet Potato.md"
+    },
+    {
+      "basename": "Stocks",
+      "path": "Reference/Stocks.md"
+    },
+    {
+      "basename": "Salad Dressings",
+      "path": "Reference/Salad Dressings.md"
+    },
+    {
       "basename": "Planned Recipe List",
       "path": "Planned Recipe List.md"
     },
     {
-      "basename": "All Recipes",
-      "path": "All Recipes.base"
+      "basename": "Crispy Gnocchi With Sausage and Broccoli",
+      "path": "Pasta/Crispy Gnocchi With Sausage and Broccoli.md"
+    },
+    {
+      "basename": "Cooking Reference",
+      "path": "Reference/Cooking Reference.md"
+    },
+    {
+      "basename": "Mother Sauces",
+      "path": "Reference/Mother Sauces.md"
+    },
+    {
+      "basename": "mother_sauces",
+      "path": "Reference/attachments/mother_sauces.png"
+    },
+    {
+      "basename": "Sesame Salmon Bowls",
+      "path": "Seafood/Sesame Salmon Bowls.md"
+    },
+    {
+      "basename": "Paprika Chicken and Potatoes",
+      "path": "Chicken/Paprika Chicken and Potatoes.md"
+    },
+    {
+      "basename": "Chile-Crisp Shrimp and Green Beans",
+      "path": "Seafood/Chile-Crisp Shrimp and Green Beans.md"
     },
     {
       "basename": "Camping",
       "path": "Camping.base"
     },
     {
-      "basename": "Bacon & Mushroom “Risotto”",
-      "path": "Camping/Bacon & Mushroom “Risotto”.md"
-    },
-    {
       "basename": "Peanut Butter Noodles (Ban Mian)",
       "path": "Noodles/Peanut Butter Noodles (Ban Mian).md"
+    },
+    {
+      "basename": "Malaay Qumbe (Coconut Fish Curry)",
+      "path": "Seafood/Malaay Qumbe (Coconut Fish Curry).md"
+    },
+    {
+      "basename": "Steakhouse Bowl",
+      "path": "Camping/Steakhouse Bowl.md"
+    },
+    {
+      "basename": "Beef Stroganoff",
+      "path": "Camping/Beef Stroganoff.md"
+    },
+    {
+      "basename": "Horiatiki (Greek Salad)",
+      "path": "Salads/Horiatiki (Greek Salad).md"
+    },
+    {
+      "basename": "Beer-Marinated Chicken Tacos",
+      "path": "Mexican/Beer-Marinated Chicken Tacos.md"
+    },
+    {
+      "basename": "Creamy Tuscan Chicken",
+      "path": "Chicken/Creamy Tuscan Chicken.md"
+    },
+    {
+      "basename": "Garlic & Cracked Pepper Beef Jerky",
+      "path": "Camping/Garlic & Cracked Pepper Beef Jerky.md"
+    },
+    {
+      "basename": "Toasted Muesli",
+      "path": "Breakfast/Toasted Muesli.md"
+    },
+    {
+      "basename": "Stir-Fried Cumin Green Beans and Chicken",
+      "path": "Chicken/Stir-Fried Cumin Green Beans and Chicken.md"
+    },
+    {
+      "basename": "Chicken Marsala",
+      "path": "Chicken/Chicken Marsala.md"
+    },
+    {
+      "basename": "Bacon & Mushroom “Risotto”",
+      "path": "Camping/Bacon & Mushroom “Risotto”.md"
     },
     {
       "basename": "Websites",
@@ -65,10 +145,6 @@
       "path": "Camping/Traditional Pad Thai.md"
     },
     {
-      "basename": "Toasted Muesli",
-      "path": "Breakfast/Toasted Muesli.md"
-    },
-    {
       "basename": "Pad Thai",
       "path": "Camping/Pad Thai.md"
     },
@@ -79,10 +155,6 @@
     {
       "basename": "Loaded Mashed Potato Bowl",
       "path": "Camping/Loaded Mashed Potato Bowl.md"
-    },
-    {
-      "basename": "Beef Stroganoff",
-      "path": "Camping/Beef Stroganoff.md"
     },
     {
       "basename": "Hiker Pasta",
@@ -113,14 +185,6 @@
       "path": "Camping/attachments/Beef Stroganoff.png"
     },
     {
-      "basename": "Stir-Fried Cumin Green Beans and Chicken",
-      "path": "Chicken/Stir-Fried Cumin Green Beans and Chicken.md"
-    },
-    {
-      "basename": "Malaay Qumbe (Coconut Fish Curry)",
-      "path": "Seafood/Malaay Qumbe (Coconut Fish Curry).md"
-    },
-    {
       "basename": "Green Chile Chicken Tacos",
       "path": "Mexican/Green Chile Chicken Tacos.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce",
       "path": "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md"
-    },
-    {
-      "basename": "Chicken and Pesto Rice With Peas",
-      "path": "Chicken/Chicken and Pesto Rice With Peas.md"
-    },
-    {
-      "basename": "Keema Palak (Ground Chicken and Spinach Curry)",
-      "path": "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md"
-    },
-    {
-      "basename": "Post-Ride Recovery Drink",
-      "path": "Sports/Post-Ride Recovery Drink.md"
-    },
-    {
-      "basename": "Orange and Leek Loukaniko (Greek Sausage)",
-      "path": "Pork/Orange and Leek Loukaniko (Greek Sausage).md"
-    },
-    {
-      "basename": "Quick & Easy Refrigerator Pickles",
-      "path": "Sides/Quick & Easy Refrigerator Pickles.md"
-    },
-    {
-      "basename": "Basic Sports Drink",
-      "path": "Sports/Basic Sports Drink.md"
-    },
-    {
-      "basename": "Sous-Vide Times & Temperatures",
-      "path": "Reference/Sous-Vide Times & Temperatures.md"
-    },
-    {
-      "basename": "Meat Doneness Temperatures",
-      "path": "Reference/Meat Doneness Temperatures.md"
-    },
-    {
-      "basename": "Herbs — Fresh vs Dried",
-      "path": "Reference/Herbs — Fresh vs Dried.md"
-    },
-    {
-      "basename": "Cooking Oils",
-      "path": "Reference/Cooking Oils.md"
-    },
-    {
-      "basename": "Cooking Reference",
-      "path": "Reference/Cooking Reference.md"
-    },
-    {
-      "basename": "Global Flavor Profiles",
-      "path": "Reference/Global Flavor Profiles.md"
-    },
-    {
-      "basename": "Salt",
-      "path": "Reference/Salt.md"
-    },
-    {
-      "basename": "Potatoes",
-      "path": "Reference/Potatoes.md"
-    },
-    {
-      "basename": "Onions & Alliums",
-      "path": "Reference/Onions & Alliums.md"
-    },
-    {
-      "basename": "Charred Scallion Dip With Lemon and Herbs",
-      "path": "Sides/Charred Scallion Dip With Lemon and Herbs.md"
     }
   ],
   "omittedPaths": [],

@@ -1,11 +1,22 @@
 [Bring! Grocery List](https://web.getbring.com/app/lists/0)
 ## 2026-08
+- [ ] [[Crispy Gnocchi With Sausage and Broccoli]]
+- [ ] [[Curry Shrimp and Sweet Potato]]
+- [ ] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
+- [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
+- [x] [[Chile-Crisp Shrimp and Green Beans]]
+- [x] [[Paprika Chicken and Potatoes]] with Salad
+- [x] [[Sesame Salmon Bowls]]
+- [x] [[Easy Chicken Tacos]]
 - [x] [[Chicken and White Bean Stew]]
 - [x] [[Chicken and Pesto Rice With Peas]]
 - [x] [[Keema Palak (Ground Chicken and Spinach Curry)]]
-- [ ] [[Malaay Qumbe (Coconut Fish Curry)]]
 - [x] [[Green Chile Chicken Tacos]]
-- [ ] [[Peanut Butter Noodles (Ban Mian)]]
+- [x] [[Peanut Butter Noodles (Ban Mian)]]
+- [x] [[Malaay Qumbe (Coconut Fish Curry)]]
+- [x] [[Toasted Muesli]]
+- [x] [[Stir-Fried Cumin Green Beans and Chicken]]
+- [x] [[Horiatiki (Greek Salad)]]
 ## 2026-07
 - [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [x] Steak, Salad and Potatoes
@@ -32,11 +43,10 @@
 - [x] [[Easy Chicken Tacos]]
 - [x] Shepherds Pie
 ## Future
-- [ ] [[Stir-Fried Cumin Green Beans and Chicken]]
+- [ ] [[Mexican Street Corn Salad (Esquites)]]
 - [ ] [[Chicken Burrito Bowls with Spicy Green Sauce]]
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
 - [ ] [[Creamy Lasagna Soup]]
-- [ ] [[Horiatiki (Greek Salad)]]
 - [ ] [[Orange and Leek Loukaniko (Greek Sausage)]]
 - [ ] [[Better Than Chipotle Beef Barbacoa]]
 - [ ] [[Wolfgang Puck’s Chicken Potpie]]
@@ -48,6 +58,9 @@
 - [ ] [[Beer-Marinated Chicken Tacos]]
 - [ ] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
 - [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
+- [ ] [[Sheet-Pan Chicken Thighs With Spicy Corn]]
+- [ ] [[Chicken Fricassee]]
+- [ ] [[Peanut Butter Noodles]]
 ## Breakfasts
 - [ ] [[Cottage Cheese Egg Bites]]
 - [ ] [[Egg Muffins]]

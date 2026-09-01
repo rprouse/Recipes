@@ -1,5 +1,14 @@
 ---
-tags: [seafood, somali, curry, coconut-milk, quick, weeknight, stovetop]
+tags:
+  - seafood
+  - somali
+  - curry
+  - coconut-milk
+  - quick
+  - weeknight
+  - stovetop
+  - cooked
+  - make-again
 title: Malaay Qumbe (Coconut Fish Curry)
 author: Ifrah F. Ahmed
 servings: 4 servings

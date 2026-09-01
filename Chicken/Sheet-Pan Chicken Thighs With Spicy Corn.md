@@ -1,19 +1,18 @@
 ---
-tags: [chicken, budget, easy, sheet-pan, summer, weeknight]
+tags: [chicken, weeknight, summer, spicy]
 title: Sheet-Pan Chicken Thighs With Spicy Corn
 author: Melissa Clark
-servings: 4 to 6 servings
+servings: 6 servings
 time: 1 hour 25 minutes
-date: 2026-05-28 Thursday
+date: 2026-08-24 Monday
 link: https://cooking.nytimes.com/recipes/1024458-sheet-pan-chicken-thighs-with-spicy-corn
 image: "[[attachments/Sheet-Pan Chicken Thighs With Spicy Corn.jpg]]"
 ---
-
 ![[attachments/Sheet-Pan Chicken Thighs With Spicy Corn.jpg]]
 
 # Sheet-Pan Chicken Thighs With Spicy Corn
 
-The spicy, salty jalapeño brine balances sweet corn kernels, which roast on a sheet pan alongside chicken thighs in this simple, summery weeknight meal. The chicken, marinated with basil, garlic and a little mayonnaise, stays juicy even after a brief stint under the broiler. You can serve this hot from the oven or at room temperature — it’s equally good each way — and cold leftovers are excellent piled onto lettuce or avocado for a salad the next day.
+Chicken thighs marinated in basil, garlic, and a little mayonnaise stay juicy even under the broiler, while sweet corn kernels roast alongside in a spicy, salty jalapeño brine. It's a simple, summery weeknight meal that's just as good served hot from the oven as it is at room temperature, and cold leftovers pile onto lettuce or avocado for a salad the next day.
 
 ### 🛒 Ingredients
 - 2 pounds boneless, skinless chicken thighs
@@ -32,5 +31,5 @@ The spicy, salty jalapeño brine balances sweet corn kernels, which roast on a s
 1. Season the chicken all over with ¾ teaspoon of salt. In a large bowl, stir together the mayonnaise, basil, garlic and 2 tablespoons jalapeño brine. Add the chicken to the marinade. Cover and refrigerate for 30 minutes and up to 6 hours.
 2. Heat oven to 425 degrees. In a medium bowl, toss together corn, pickled jalapeños, olive oil, remaining 1 teaspoon salt and half of the scallions (save remaining scallions for serving).
 3. Arrange the chicken on a baking sheet, spacing it out. Roast for 12 minutes. Spoon the corn mixture onto the empty parts of the baking sheet. Drizzle chicken and corn with oil. Continue to roast until the chicken is cooked through, 10 to 15 minutes longer, stirring the corn once while roasting.
-4. Turn the broiler on high and broil the chicken and corn until golden brown in spots, 2 to 4 minutes (watch carefully so it doesn’t burn, though a little blistering is nice).
+4. Turn the broiler on high and broil the chicken and corn until golden brown in spots, 2 to 4 minutes (watch carefully so it doesn't burn, though a little blistering is nice).
 5. Garnish chicken and corn with basil, remaining scallions and fresh jalapeño slices. Sprinkle with more pickled jalapeño brine and squeeze with lime juice. Serve hot or at room temperature.

@@ -28,8 +28,8 @@ views:
       - cook-method
       - time
     sort:
-      - property: date
-        direction: DESC
+      - property: file.name
+        direction: ASC
     image: note.image
     imageAspectRatio: 0.5
   - type: table

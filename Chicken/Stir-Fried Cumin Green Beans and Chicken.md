@@ -7,6 +7,8 @@ tags:
   - weeknight
   - summer
   - budget
+  - cooked
+  - make-again
 title: Stir-Fried Cumin Green Beans and Chicken
 author: Melissa Clark
 servings: 4 servings

@@ -17,6 +17,9 @@ A growing collection of general cooking knowledge — ingredient guides, techniq
 ### Techniques
 - [[Meat Doneness Temperatures]] — internal temps for beef, pork, poultry, and fish
 - [[Sous-Vide Times & Temperatures]] — sous-vide time & temp for meats, fish, eggs & veg, with doneness, thickness, and from-frozen adjustments
+- [[Stocks]] — the base stocks (white, brown, fumet, court bouillon, vegetable), their ratios and simmer times
+- [[Mother Sauces]] — the five French mother sauces, white vs brown roux, and the child sauces built from each
+- [[Salad Dressings]] — build-your-own ratios and ingredient options for vinaigrette, creamy and paste-based dressings
 
 ### Cuisines & Flavor
 - [[Global Flavor Profiles]] — signature spices, herbs & pantry staples of 19 major cuisines, for building culturally-inspired dishes

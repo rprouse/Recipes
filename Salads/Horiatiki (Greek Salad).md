@@ -1,5 +1,12 @@
 ---
-tags: [salads, easy, quick, greek, summer]
+tags:
+  - salads
+  - easy
+  - quick
+  - greek
+  - summer
+  - cooked
+  - make-again
 title: Horiatiki (Greek Salad)
 author: Daniel Gritzer
 servings: 4

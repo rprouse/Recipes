@@ -24,7 +24,7 @@ This stir-fry is inspired by the taste and textures of chile crisp, that fiery c
 ### 🛒 Ingredients
 - 1 tablespoon low-sodium soy sauce
 - 1 teaspoon granulated sugar
-- 1 teaspoon red-pepper flakes
+- 1/4 teaspoon red-pepper flakes
 - ¾ teaspoon ground cumin
 - 1 pound large shrimp, peeled and deveined
 - Kosher salt and black pepper
