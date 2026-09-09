@@ -6,6 +6,8 @@ tags:
   - party
   - spring
   - summer
+  - cooked
+  - make-again
 title: Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce
 author: Lidey Heuck
 servings: 6 servings

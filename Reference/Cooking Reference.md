@@ -5,7 +5,7 @@ date: 2026-07-13 Monday
 ---
 # 🧑‍🍳 Cooking Reference
 
-A growing collection of general cooking knowledge — ingredient guides, techniques, and kitchen know-how that isn't tied to a single recipe.
+A growing collection of general cooking knowledge - ingredient guides, techniques, and kitchen know-how that isn't tied to a single recipe.
 
 ### Ingredient Guides
 - [[Potatoes]] — types of potato and what each is best for, plus storage

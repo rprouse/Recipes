@@ -5,8 +5,20 @@
       "path": "All Recipes.base"
     },
     {
+      "basename": "Chicken Fricassee",
+      "path": "Chicken/Chicken Fricassee.md"
+    },
+    {
+      "basename": "Planned Recipe List",
+      "path": "Planned Recipe List.md"
+    },
+    {
       "basename": "Curry Shrimp and Sweet Potato",
       "path": "Seafood/Curry Shrimp and Sweet Potato.md"
+    },
+    {
+      "basename": "Cooking Reference",
+      "path": "Reference/Cooking Reference.md"
     },
     {
       "basename": "Stocks",
@@ -17,16 +29,8 @@
       "path": "Reference/Salad Dressings.md"
     },
     {
-      "basename": "Planned Recipe List",
-      "path": "Planned Recipe List.md"
-    },
-    {
       "basename": "Crispy Gnocchi With Sausage and Broccoli",
       "path": "Pasta/Crispy Gnocchi With Sausage and Broccoli.md"
-    },
-    {
-      "basename": "Cooking Reference",
-      "path": "Reference/Cooking Reference.md"
     },
     {
       "basename": "Mother Sauces",
@@ -195,10 +199,6 @@
     {
       "basename": "The Only Naan Recipe You Need    No Oven, Restaurant-Like Results",
       "path": "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md"
-    },
-    {
-      "basename": "Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce",
-      "path": "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md"
     }
   ],
   "omittedPaths": [],

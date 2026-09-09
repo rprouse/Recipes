@@ -1,9 +1,11 @@
 [Bring! Grocery List](https://web.getbring.com/app/lists/0)
 ## 2026-08
-- [ ] [[Crispy Gnocchi With Sausage and Broccoli]]
-- [ ] [[Curry Shrimp and Sweet Potato]]
-- [ ] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
-- [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
+- [ ] [[Salsa Macha]]
+- [x] [[Shepherd’s Pie]]
+- [x] [[Dijonnaise Grilled Chicken Breasts]]
+- [x] [[Crispy Gnocchi With Sausage and Broccoli]]
+- [x] [[Curry Shrimp and Sweet Potato]]
+- [x] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
 - [x] [[Chile-Crisp Shrimp and Green Beans]]
 - [x] [[Paprika Chicken and Potatoes]] with Salad
 - [x] [[Sesame Salmon Bowls]]
@@ -43,6 +45,7 @@
 - [x] [[Easy Chicken Tacos]]
 - [x] Shepherds Pie
 ## Future
+- [ ] [[One-Skillet Creamy Sun-Dried Tomato Chicken (Marry Me Chicken)]]
 - [ ] [[Mexican Street Corn Salad (Esquites)]]
 - [ ] [[Chicken Burrito Bowls with Spicy Green Sauce]]
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
@@ -57,7 +60,6 @@
 - [ ] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [ ] [[Beer-Marinated Chicken Tacos]]
 - [ ] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
-- [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
 - [ ] [[Sheet-Pan Chicken Thighs With Spicy Corn]]
 - [ ] [[Chicken Fricassee]]
 - [ ] [[Peanut Butter Noodles]]
@@ -65,3 +67,5 @@
 - [ ] [[Cottage Cheese Egg Bites]]
 - [ ] [[Egg Muffins]]
 - [ ] [[Corn and Jalapeño Egg Bites]]
+- [ ] [[Perfect Microwave Poached Eggs]]
+- [ ] [[Perfect Boiled Eggs]]
