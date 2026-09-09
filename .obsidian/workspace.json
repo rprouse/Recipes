@@ -47,9 +47,33 @@
               "icon": "lucide-layout-grid",
               "title": "All Recipes"
             }
+          },
+          {
+            "id": "25750e11a39a69e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sides/Preserved Lemons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Preserved Lemons"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,11 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "014c7c389d89d5d4",
+  "active": "25750e11a39a69e3",
   "lastOpenFiles": [
+    "All Recipes.base",
     "Chicken/Chicken Fricassee.md",
     "Planned Recipe List.md",
-    "All Recipes.base",
     "Seafood/Curry Shrimp and Sweet Potato.md",
     "Reference/Cooking Reference.md",
     "Reference/Stocks.md",
@@ -252,7 +276,6 @@
     "Websites.md",
     "Camping/attachments/Japanese Curry and Rice with Chicken and Potato.png",
     "Camping/Japanese Curry and Rice with Chicken and Potato.md",
-    "Camping/Baja Tuna Trail Tacos.md",
     "Camping/attachments/Dehydrating Ground Beef.jpg",
     "Camping/Creole Shepherd’s Pie.md.tmp.28048.1a54170f4aec",
     "Camping/Bacon & Mushroom “Risotto”.md.tmp.28048.d1ba67bd9895",

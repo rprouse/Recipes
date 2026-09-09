@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Preserved Lemons",
+      "path": "Sides/Preserved Lemons.md"
+    },
+    {
       "basename": "All Recipes",
       "path": "All Recipes.base"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Recipe",
       "path": "Templates/Recipe.md"
-    },
-    {
-      "basename": "The Only Naan Recipe You Need    No Oven, Restaurant-Like Results",
-      "path": "Baking/The Only Naan Recipe You Need    No Oven, Restaurant-Like Results.md"
     }
   ],
   "omittedPaths": [],
