@@ -1,5 +1,5 @@
 ---
-tags: [pasta, weeknight, vegetarian]
+tags: [pasta, weeknight, vegetarian, cooked]
 title: Pasta With Fresh Herbs, Lemon and Peas
 author: Martha Rose Shulman
 servings: 4 servings

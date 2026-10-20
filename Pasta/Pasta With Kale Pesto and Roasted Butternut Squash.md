@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, fall, one-pot, vegetarian]
+tags: [pasta, easy, fall, one-pot, vegetarian, cooked]
 title: Pasta With Kale Pesto and Roasted Butternut Squash
 author: Melissa Clark
 servings: 2 to 3 servings

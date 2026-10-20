@@ -1,5 +1,5 @@
 ---
-tags: [sides]
+tags: [sides, cooked]
 title: Chimichurri
 author: J. Kenji López-Alt
 servings: 1 cup

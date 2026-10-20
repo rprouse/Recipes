@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, one-pot, quick, weeknight, vegetarian]
+tags: [pasta, easy, one-pot, quick, weeknight, vegetarian, cooked]
 title: Spicy Tomato Pasta With Arugula
 author: Yasmin Fahr
 servings: 4 servings

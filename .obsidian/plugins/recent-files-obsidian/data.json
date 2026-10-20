@@ -1,20 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "Preserved Lemons",
-      "path": "Sides/Preserved Lemons.md"
-    },
-    {
       "basename": "All Recipes",
       "path": "All Recipes.base"
+    },
+    {
+      "basename": "Planned Recipe List",
+      "path": "Planned Recipe List.md"
+    },
+    {
+      "basename": "Crispy Gnocchi With Spinach and Feta",
+      "path": "Pasta/Crispy Gnocchi With Spinach and Feta.md"
+    },
+    {
+      "basename": "Quick Chicken Karahi (Spicy Chicken and Tomatoes With Chiles)",
+      "path": "Chicken/Quick Chicken Karahi (Spicy Chicken and Tomatoes With Chiles).md"
+    },
+    {
+      "basename": "Miso-Maple Sheet-Pan Chicken With Brussels Sprouts",
+      "path": "Chicken/Miso-Maple Sheet-Pan Chicken With Brussels Sprouts.md"
+    },
+    {
+      "basename": "Maangchi’s Cheese Buldak (Fire Chicken)",
+      "path": "Chicken/Maangchi’s Cheese Buldak (Fire Chicken).md"
+    },
+    {
+      "basename": "Easy Chicken Curry",
+      "path": "Chicken/Easy Chicken Curry.md"
+    },
+    {
+      "basename": "Dijon Chicken With Tomatoes and Scallions",
+      "path": "Chicken/Dijon Chicken With Tomatoes and Scallions.md"
+    },
+    {
+      "basename": "Chicken Burrito Bowls with Spicy Green Sauce",
+      "path": "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md"
+    },
+    {
+      "basename": "Coconut Curry Chicken Noodle Soup",
+      "path": "Soups/Coconut Curry Chicken Noodle Soup.md"
+    },
+    {
+      "basename": "Chicken and White Bean Stew",
+      "path": "Soups/Chicken and White Bean Stew.md"
+    },
+    {
+      "basename": "Chicken Marsala",
+      "path": "Chicken/Chicken Marsala.md"
     },
     {
       "basename": "Chicken Fricassee",
       "path": "Chicken/Chicken Fricassee.md"
     },
     {
-      "basename": "Planned Recipe List",
-      "path": "Planned Recipe List.md"
+      "basename": "Sheet-Pan Chicken Thighs With Spicy Corn",
+      "path": "Chicken/Sheet-Pan Chicken Thighs With Spicy Corn.md"
+    },
+    {
+      "basename": "Linguine With Zucchini, Corn and Shrimp",
+      "path": "Pasta/Linguine With Zucchini, Corn and Shrimp.md"
+    },
+    {
+      "basename": "Creamy Lasagna Soup",
+      "path": "Soups/Creamy Lasagna Soup.md"
+    },
+    {
+      "basename": "Quick Chicken and Dumplings",
+      "path": "Soups/Quick Chicken and Dumplings.md"
+    },
+    {
+      "basename": "Chicken Shawarma Sheet-Pan Dinner",
+      "path": "Chicken/Chicken Shawarma Sheet-Pan Dinner.md"
+    },
+    {
+      "basename": "Sheet-Pan Chicken Chilaquiles",
+      "path": "Mexican/Sheet-Pan Chicken Chilaquiles.md"
+    },
+    {
+      "basename": "Homemade Hamburger Helper",
+      "path": "Pasta/Homemade Hamburger Helper.md"
+    },
+    {
+      "basename": "Stir-Fried Cumin Green Beans and Chicken",
+      "path": "Chicken/Stir-Fried Cumin Green Beans and Chicken.md"
+    },
+    {
+      "basename": "Simple Pad Thai",
+      "path": "Noodles/Simple Pad Thai.md"
+    },
+    {
+      "basename": "Lime Chicken Fajitas",
+      "path": "Mexican/Lime Chicken Fajitas.md"
+    },
+    {
+      "basename": "Preserved Lemons",
+      "path": "Sides/Preserved Lemons.md"
     },
     {
       "basename": "Curry Shrimp and Sweet Potato",
@@ -97,14 +177,6 @@
       "path": "Breakfast/Toasted Muesli.md"
     },
     {
-      "basename": "Stir-Fried Cumin Green Beans and Chicken",
-      "path": "Chicken/Stir-Fried Cumin Green Beans and Chicken.md"
-    },
-    {
-      "basename": "Chicken Marsala",
-      "path": "Chicken/Chicken Marsala.md"
-    },
-    {
       "basename": "Bacon & Mushroom “Risotto”",
       "path": "Camping/Bacon & Mushroom “Risotto”.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "Apricot Thyme Chicken and Chickpeas",
       "path": "Chicken/Apricot Thyme Chicken and Chickpeas.md"
-    },
-    {
-      "basename": "Dehydrating Ground Chicken",
-      "path": "Camping/Dehydrating Ground Chicken.md"
-    },
-    {
-      "basename": "Cold-Soak Bircher Muesli",
-      "path": "Camping/Cold-Soak Bircher Muesli.md"
-    },
-    {
-      "basename": "Sous Vide Yogurt",
-      "path": "Sous Vide/Sous Vide Yogurt.md"
-    },
-    {
-      "basename": "Creamy Homemade Yogurt",
-      "path": "Breakfast/Creamy Homemade Yogurt.md"
-    },
-    {
-      "basename": "Australian Zucchini Slice",
-      "path": "Breakfast/Australian Zucchini Slice.md"
-    },
-    {
-      "basename": "Traditional Pad Thai",
-      "path": "Camping/Traditional Pad Thai.md"
-    },
-    {
-      "basename": "Pad Thai",
-      "path": "Camping/Pad Thai.md"
-    },
-    {
-      "basename": "Traditional Pad Thai",
-      "path": "Camping/attachments/Traditional Pad Thai.png"
-    },
-    {
-      "basename": "Loaded Mashed Potato Bowl",
-      "path": "Camping/Loaded Mashed Potato Bowl.md"
-    },
-    {
-      "basename": "Hiker Pasta",
-      "path": "Camping/Hiker Pasta.md"
-    },
-    {
-      "basename": "Bacon Cheddar Grits w Eggs",
-      "path": "Camping/Bacon Cheddar Grits w Eggs.md"
-    },
-    {
-      "basename": "Chicken Dijon with Rice",
-      "path": "Camping/Chicken Dijon with Rice.md"
-    },
-    {
-      "basename": "Dirtbag Pad Thai",
-      "path": "Camping/Dirtbag Pad Thai.md"
-    },
-    {
-      "basename": "Chicken Burrito Bowls with Spicy Green Sauce",
-      "path": "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md"
-    },
-    {
-      "basename": "Camping Recipe",
-      "path": "Templates/Camping Recipe.md"
-    },
-    {
-      "basename": "Beef Stroganoff",
-      "path": "Camping/attachments/Beef Stroganoff.png"
-    },
-    {
-      "basename": "Green Chile Chicken Tacos",
-      "path": "Mexican/Green Chile Chicken Tacos.md"
-    },
-    {
-      "basename": "Recipe",
-      "path": "Templates/Recipe.md"
     }
   ],
   "omittedPaths": [],

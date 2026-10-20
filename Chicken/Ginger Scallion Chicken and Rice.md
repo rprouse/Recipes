@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, one-pot, weeknight]
+tags: [chicken, easy, one-pot, weeknight, cooked]
 title: Ginger Scallion Chicken and Rice
 author: Genevieve Ko
 servings: 4 to 6 servings

@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, easy, fall, make-ahead, spring, weeknight, winter]
+tags: [vegetarian, easy, fall, make-ahead, spring, weeknight, winter, cooked]
 title: Miso Leeks With White Beans
 author: Hetty Lui McKinnon
 servings: 4 servings

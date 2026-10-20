@@ -1,5 +1,5 @@
 ---
-tags: [chicken, one-pot]
+tags: [chicken, one-pot, cooked]
 title: One-Pot Japanese Curry Chicken and Rice
 author: Kay Chun
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [mexican, easy, quick, weeknight]
+tags: [mexican, easy, quick, weeknight, cooked]
 title: Shrimp Tacos
 author: Yewande Komolafe
 servings: 4 servings

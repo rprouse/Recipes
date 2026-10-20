@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, spring, summer]
+tags: [chicken, easy, spring, summer, cooked]
 title: Greek Chicken With Cucumber-Feta Salad
 author: Ali Slagle
 servings: 4 servings

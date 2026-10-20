@@ -1,5 +1,5 @@
 ---
-tags: [chicken, one-pot, quick, weeknight, make-again]
+tags: [chicken, one-pot, quick, weeknight, make-again, cooked]
 title: Chicken Florentine
 author: Dan Pelosi
 servings: 4 servings

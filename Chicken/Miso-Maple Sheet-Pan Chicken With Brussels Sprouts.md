@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, quick, sheet-pan, weeknight]
+tags: [chicken, easy, quick, sheet-pan, weeknight, cooked]
 title: Miso-Maple Sheet-Pan Chicken With Brussels Sprouts
 author: Carolina Gelen
 servings: 4 servings

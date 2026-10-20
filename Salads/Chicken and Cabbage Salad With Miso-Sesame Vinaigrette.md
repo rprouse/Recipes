@@ -1,5 +1,5 @@
 ---
-tags: [salads, weeknight]
+tags: [salads, weeknight, cooked]
 title: Chicken and Cabbage Salad With Miso-Sesame Vinaigrette
 author: J. Kenji López-Alt
 servings: 2 to 4 servings

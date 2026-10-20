@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c78ec314c5b02d9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planned Recipe List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Planned Recipe List"
-            }
-          },
-          {
             "id": "014c7c389d89d5d4",
             "type": "leaf",
             "pinned": true,
@@ -41,7 +15,7 @@
               "type": "bases",
               "state": {
                 "file": "All Recipes.base",
-                "viewName": "All Recipes"
+                "viewName": "Uncooked"
               },
               "pinned": true,
               "icon": "lucide-layout-grid",
@@ -49,12 +23,12 @@
             }
           },
           {
-            "id": "25750e11a39a69e3",
+            "id": "e714ba2e07f23234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sides/Preserved Lemons.md",
+                "file": "Pasta/Crispy Gnocchi With Spinach and Feta.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,11 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Preserved Lemons"
+              "title": "Crispy Gnocchi With Spinach and Feta"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,40 +215,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25750e11a39a69e3",
+  "active": "014c7c389d89d5d4",
   "lastOpenFiles": [
-    "All Recipes.base",
-    "Chicken/Chicken Fricassee.md",
     "Planned Recipe List.md",
+    "Pasta/Crispy Gnocchi With Spinach and Feta.md",
+    "All Recipes.base",
+    "Chicken/Quick Chicken Karahi (Spicy Chicken and Tomatoes With Chiles).md",
+    "Chicken/Miso-Maple Sheet-Pan Chicken With Brussels Sprouts.md",
+    "Chicken/Maangchi’s Cheese Buldak (Fire Chicken).md",
+    "Chicken/Easy Chicken Curry.md",
+    "Chicken/Dijon Chicken With Tomatoes and Scallions.md",
+    "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md",
+    "Soups/Coconut Curry Chicken Noodle Soup.md",
+    "Soups/Chicken and White Bean Stew.md",
+    "Chicken/Chicken Marsala.md",
+    "Chicken/Chicken Fricassee.md",
+    "Chicken/Sheet-Pan Chicken Thighs With Spicy Corn.md",
+    "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
+    "Soups/Creamy Lasagna Soup.md",
+    "Soups/Quick Chicken and Dumplings.md",
+    "Chicken/Chicken Shawarma Sheet-Pan Dinner.md",
+    "Mexican/Sheet-Pan Chicken Chilaquiles.md",
+    "Pasta/Homemade Hamburger Helper.md",
+    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
+    "Noodles/Simple Pad Thai.md",
+    "Mexican/Lime Chicken Fajitas.md",
+    "Sides/Preserved Lemons.md",
     "Seafood/Curry Shrimp and Sweet Potato.md",
     "Reference/Cooking Reference.md",
     "Reference/Stocks.md",
-    "Reference/Salad Dressings.md",
-    "Pasta/Crispy Gnocchi With Sausage and Broccoli.md",
-    "Reference/Mother Sauces.md",
     "Reference/Mother Sauces.md.tmp.2648.a4333da19806",
     "Reference/attachments/mother_sauces.png",
     "Reference/attachments",
-    "Seafood/Sesame Salmon Bowls.md",
-    "Chicken/Paprika Chicken and Potatoes.md",
-    "Seafood/Chile-Crisp Shrimp and Green Beans.md",
     "Camping.base",
-    "Noodles/Peanut Butter Noodles (Ban Mian).md",
-    "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
-    "Camping/Steakhouse Bowl.md",
-    "Camping/Beef Stroganoff.md",
     "Camping/attachments/Steakhouse Bowl.jpg",
-    "Salads/Horiatiki (Greek Salad).md",
-    "Mexican/Beer-Marinated Chicken Tacos.md",
-    "Chicken/Creamy Tuscan Chicken.md",
-    "Camping/Garlic & Cracked Pepper Beef Jerky.md",
-    "Breakfast/Toasted Muesli.md",
-    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
-    "Chicken/Chicken Marsala.md",
-    "Camping/Bacon & Mushroom “Risotto”.md",
-    "Websites.md",
     "Camping/attachments/Japanese Curry and Rice with Chicken and Potato.png",
-    "Camping/Japanese Curry and Rice with Chicken and Potato.md",
     "Camping/attachments/Dehydrating Ground Beef.jpg",
     "Camping/Creole Shepherd’s Pie.md.tmp.28048.1a54170f4aec",
     "Camping/Bacon & Mushroom “Risotto”.md.tmp.28048.d1ba67bd9895",

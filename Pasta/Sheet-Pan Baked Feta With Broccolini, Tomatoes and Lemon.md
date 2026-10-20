@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, fall, quick, sheet-pan, weeknight, vegetarian]
+tags: [pasta, easy, fall, quick, sheet-pan, weeknight, vegetarian, cooked]
 title: Sheet-Pan Baked Feta With Broccolini, Tomatoes and Lemon
 author: Yasmin Fahr
 servings: 4 servings

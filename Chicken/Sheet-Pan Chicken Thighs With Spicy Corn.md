@@ -1,5 +1,5 @@
 ---
-tags: [chicken, weeknight, summer, spicy]
+tags: [chicken, weeknight, summer, spicy, cooked]
 title: Sheet-Pan Chicken Thighs With Spicy Corn
 author: Melissa Clark
 servings: 6 servings

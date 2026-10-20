@@ -1,5 +1,5 @@
 ---
-tags: [soups, freezer-friendly, great-leftovers]
+tags: [soups, freezer-friendly, great-leftovers, cooked]
 title: Italian Wedding Soup
 author: Lidey Heuck
 servings: 6 to 8 servings

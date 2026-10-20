@@ -1,5 +1,5 @@
 ---
-tags: [mexican, easy, sheet-pan, weeknight]
+tags: [mexican, easy, sheet-pan, weeknight, cooked]
 title: Chicken Fajitas
 author: Ali Slagle
 servings: 4 servings

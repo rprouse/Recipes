@@ -1,5 +1,5 @@
 ---
-tags: [soups, great-leftovers, weeknight, vegetarian]
+tags: [soups, great-leftovers, weeknight, vegetarian, cooked]
 title: Winter Tomato Soup With Bulgur
 author: Martha Rose Shulman
 servings: 4 to 6 servings

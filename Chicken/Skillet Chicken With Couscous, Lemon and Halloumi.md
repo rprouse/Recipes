@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy]
+tags: [chicken, easy, cooked]
 title: Skillet Chicken With Couscous, Lemon and Halloumi
 author: Yewande Komolafe
 servings: 4 servings

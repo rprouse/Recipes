@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, easy, sheet-pan, weeknight]
+tags: [vegetarian, easy, sheet-pan, weeknight, cooked]
 title: Roasted Honey Nut Squash and Chickpeas With Hot Honey
 author: Melissa Clark
 servings: 4 servings

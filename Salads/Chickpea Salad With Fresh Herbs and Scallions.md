@@ -1,5 +1,5 @@
 ---
-tags: [salads, easy, make-ahead, weeknight, vegetarian]
+tags: [salads, easy, make-ahead, weeknight, vegetarian, cooked]
 title: Chickpea Salad With Fresh Herbs and Scallions
 author: Lidey Heuck
 servings: 4 to 6 servings

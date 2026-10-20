@@ -1,5 +1,5 @@
 ---
-tags: [noodles, vegetarian]
+tags: [noodles, vegetarian, cooked]
 title: Singapore Noodles With Charred Scallions
 author: Hetty Lui McKinnon
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [salads, vegetarian]
+tags: [salads, vegetarian, cooked]
 title: Tomato Salad With Chickpeas and Feta
 author: Hetty Lui McKinnon
 servings: 4 servings

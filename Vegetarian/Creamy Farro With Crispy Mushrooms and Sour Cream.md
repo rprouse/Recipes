@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, weeknight]
+tags: [vegetarian, weeknight, cooked]
 title: Creamy Farro With Crispy Mushrooms and Sour Cream
 author: Alison Roman
 servings: 4 servings

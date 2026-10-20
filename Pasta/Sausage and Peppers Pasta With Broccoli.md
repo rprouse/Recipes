@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, fall, quick, spring, summer, weeknight, winter]
+tags: [pasta, easy, fall, quick, spring, summer, weeknight, winter, cooked]
 title: Sausage and Peppers Pasta With Broccoli
 author: Kay Chun
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [beef, slow-cooker, make-again]
+tags: [beef, slow-cooker, make-again, cooked]
 title: Mississippi Roast
 author: Sam Sifton
 servings: 6 to 8 servings

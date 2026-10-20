@@ -1,5 +1,5 @@
 ---
-tags: [soups, fall, great-leftovers, winter]
+tags: [soups, fall, great-leftovers, winter, cooked]
 title: Whatever You Want Soup
 author: Samin Nosrat
 servings: 6 to 8 servings

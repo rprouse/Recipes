@@ -1,5 +1,5 @@
 ---
-tags: [mexican, slow-cooker, weeknight, make-again]
+tags: [mexican, slow-cooker, weeknight, make-again, cooked]
 title: Slow Cooker Chipotle-Honey Chicken Tacos
 author: Sarah DiGregorio
 servings: 4 servings

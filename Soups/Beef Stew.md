@@ -1,5 +1,5 @@
 ---
-tags: [soups, easy, fall, great-leftovers, one-pot]
+tags: [soups, easy, fall, great-leftovers, one-pot, cooked]
 title: Beef Stew
 author: Molly O’Neill
 servings: 4 servings

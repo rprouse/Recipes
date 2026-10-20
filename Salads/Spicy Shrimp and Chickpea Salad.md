@@ -1,5 +1,5 @@
 ---
-tags: [salads, easy, quick, weeknight]
+tags: [salads, easy, quick, weeknight, cooked]
 title: Spicy Shrimp and Chickpea Salad
 author: Yasmin Fahr
 servings: 3 to 4 servings

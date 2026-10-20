@@ -1,5 +1,5 @@
 ---
-tags: [salads, winter, vegan]
+tags: [salads, winter, vegan, cooked]
 title: Roasted Beet and Winter Squash Salad With Walnuts
 author: Martha Rose Shulman
 servings: 6 servings

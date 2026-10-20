@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, easy, fall, quick, sheet-pan, weeknight, winter]
+tags: [vegetarian, easy, fall, quick, sheet-pan, weeknight, winter, cooked]
 title: Roasted Brussels Sprouts and Tofu With Chile Lime Dressing
 author: Kristina Felix
 servings: 4 servings

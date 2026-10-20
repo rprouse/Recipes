@@ -1,5 +1,5 @@
 ---
-tags: [mexican, weeknight]
+tags: [mexican, weeknight, cooked]
 title: Chicken Enchiladas With Salsa Verde
 author: Sam Sifton
 servings: 4 to 6 servings

@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, great-leftovers, weeknight, vegan]
+tags: [vegetarian, great-leftovers, weeknight, vegan, cooked]
 title: Green Curry Glazed Tofu
 author: Ali Slagle
 servings: 2 servings

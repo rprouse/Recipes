@@ -1,5 +1,5 @@
 ---
-tags: [soups, easy, freezer-friendly, one-pot, quick, weeknight, vegetarian]
+tags: [soups, easy, freezer-friendly, one-pot, quick, weeknight, vegetarian, cooked]
 title: Tortellini Soup
 author: Lidey Heuck
 servings: 4 to 6 servings

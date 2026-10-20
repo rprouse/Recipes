@@ -1,5 +1,5 @@
 ---
-tags: [seafood, summer]
+tags: [seafood, summer, cooked]
 title: Rainbow Trout Baked in Foil With Tomatoes, Garlic and Thyme
 author: Martha Rose Shulman
 servings: 4 servings

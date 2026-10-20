@@ -1,5 +1,5 @@
 ---
-tags: [sides, vegan]
+tags: [sides, vegan, cooked]
 title: Miso-Sesame Vinaigrette That’s Good on Anything
 author: J. Kenji López-Alt
 servings: 1 cup

@@ -1,5 +1,5 @@
 ---
-tags: [sides, fall, spring, weeknight, winter]
+tags: [sides, fall, spring, weeknight, winter, cooked]
 title: Roasted Cauliflower With Feta, Almonds and Olives
 author: Colu Henry
 servings: 4 servings

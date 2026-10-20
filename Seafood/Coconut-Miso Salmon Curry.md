@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, quick, weeknight]
+tags: [seafood, easy, quick, weeknight, cooked]
 title: Coconut-Miso Salmon Curry
 author: Kay Chun
 servings: 4 servings

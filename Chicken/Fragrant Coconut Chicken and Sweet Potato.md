@@ -1,5 +1,5 @@
 ---
-tags: [chicken, budget, easy, one-pot, quick, weeknight]
+tags: [chicken, budget, easy, one-pot, quick, weeknight, cooked]
 title: Fragrant Coconut Chicken and Sweet Potato
 author: Kay Chun
 servings: 4 servings

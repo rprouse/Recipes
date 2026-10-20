@@ -1,5 +1,5 @@
 ---
-tags: [chicken, weeknight]
+tags: [chicken, weeknight, cooked]
 title: Skillet Hot Honey Chicken With Hearty Greens
 author: Ali Slagle
 servings: 4 servings

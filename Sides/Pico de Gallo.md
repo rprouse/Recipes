@@ -1,5 +1,5 @@
 ---
-tags: [sides, easy, quick, vegetarian]
+tags: [sides, easy, quick, vegetarian, cooked]
 title: Pico de Gallo
 author: Rick A. Martínez
 servings: 2 cups

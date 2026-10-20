@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, one-pot, quick, weeknight]
+tags: [chicken, easy, one-pot, quick, weeknight, cooked]
 title: Skillet Ginger Chicken With Apricots
 author: Yasmin Fahr
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [sides, budget, easy, quick, summer, vegetarian]
+tags: [sides, budget, easy, quick, summer, vegetarian, cooked]
 title: French Green Beans and Shallots
 author: Jacques Pépin
 servings: 4 servings

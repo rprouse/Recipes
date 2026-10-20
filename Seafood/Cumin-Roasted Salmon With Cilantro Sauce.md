@@ -1,5 +1,5 @@
 ---
-tags: [seafood, weeknight]
+tags: [seafood, weeknight, cooked]
 title: Cumin-Roasted Salmon With Cilantro Sauce
 author: Alison Roman
 servings: 3 to 4 servings

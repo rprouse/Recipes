@@ -1,5 +1,5 @@
 ---
-tags: [chicken, great-leftovers]
+tags: [chicken, great-leftovers, cooked]
 title: Coconut-Braised Chicken Thighs With Turmeric and Peppers
 author: Alexa Weibel
 servings: 4 to 6 servings

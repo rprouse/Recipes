@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, one-pot, quick, weeknight]
+tags: [chicken, easy, one-pot, quick, weeknight, cooked]
 title: Easy Chicken Curry
 author: Mark Bittman
 servings: 4 servings

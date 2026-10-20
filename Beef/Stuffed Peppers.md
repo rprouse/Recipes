@@ -1,5 +1,5 @@
 ---
-tags: [beef, budget, weeknight]
+tags: [beef, budget, weeknight, cooked]
 title: Stuffed Peppers
 author: Lidey Heuck
 servings: 6 to 8 servings

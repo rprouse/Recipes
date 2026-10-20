@@ -1,5 +1,5 @@
 ---
-tags: [soups, easy, great-leftovers, one-pot, quick, weeknight]
+tags: [soups, easy, great-leftovers, one-pot, quick, weeknight, cooked]
 title: White Chicken Chili
 author: Lidey Heuck
 servings: 4 to 6 servings

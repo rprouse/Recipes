@@ -1,5 +1,5 @@
 ---
-tags: [soups, fall, great-leftovers, one-pot, winter]
+tags: [soups, fall, great-leftovers, one-pot, winter, cooked]
 title: Ground Beef Chili With Chocolate and Peanut Butter
 author: Aaron Hutcherson
 servings: 4 to 6 servings

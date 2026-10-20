@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, quick]
+tags: [chicken, easy, quick, cooked]
 title: Turkey and Spinach Curry
 author: Mark Bittman
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [drinks, vegetarian]
+tags: [drinks, vegetarian, cooked]
 title: Citrus and Herb Tonic
 author: Yewande Komolafe
 servings: 1 quarts

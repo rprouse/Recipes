@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, fall, quick, summer, weeknight]
+tags: [pasta, easy, fall, quick, summer, weeknight, cooked]
 title: One-Pot Zucchini-Basil Pasta
 author: Alexa Weibel
 servings: 4 servings

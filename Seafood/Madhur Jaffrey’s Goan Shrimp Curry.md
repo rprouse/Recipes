@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, make-ahead, one-pot, party, quick, summer, weeknight]
+tags: [seafood, easy, make-ahead, one-pot, party, quick, summer, weeknight, cooked]
 title: Madhur Jaffrey’s Goan Shrimp Curry
 author: David Tanis
 servings: 4 to 6 servings

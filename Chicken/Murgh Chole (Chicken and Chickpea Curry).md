@@ -1,5 +1,5 @@
 ---
-tags: [chicken, one-pot, great-leftovers, quick, weeknight, easy, budget, gluten-free, dairy-free]
+tags: [chicken, one-pot, great-leftovers, quick, weeknight, easy, budget, gluten-free, dairy-free, cooked]
 title: Murgh Chole (Chicken and Chickpea Curry)
 author: Zainab Shah
 servings: 4  servings

@@ -1,5 +1,5 @@
 ---
-tags: [chicken, great-leftovers, weeknight]
+tags: [chicken, great-leftovers, weeknight, cooked]
 title: Coconut Chicken Curry
 author: Genevieve Ko
 servings: 4 servings

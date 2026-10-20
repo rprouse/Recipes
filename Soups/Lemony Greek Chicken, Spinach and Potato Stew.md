@@ -1,5 +1,5 @@
 ---
-tags: [soups, budget, easy, great-leftovers, one-pot, quick, weeknight]
+tags: [soups, budget, easy, great-leftovers, one-pot, quick, weeknight, cooked]
 title: Lemony Greek Chicken, Spinach and Potato Stew
 author: Sarah DiGregorio
 servings: 4 to 5 servings

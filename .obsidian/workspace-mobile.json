@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken/Dijonnaise Grilled Chicken Breasts.md",
+                "file": "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dijonnaise Grilled Chicken Breasts"
+              "title": "Chicken Burrito Bowls with Spicy Green Sauce"
             }
           }
         ]
@@ -61,7 +61,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Grano",
+            "query": "Jerky",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -92,7 +92,10 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
@@ -110,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Breakfast/Eleven Madison Park Granola.md",
+            "file": "Chicken/Dijon Chicken With Tomatoes and Scallions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,35 +168,36 @@
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
     "Planned Recipe List.md",
-    "Chicken/Dijonnaise Grilled Chicken Breasts.md",
-    "Beef/Shepherd’s Pie.md",
-    "All Recipes.base",
-    "Chicken/Grilled Chicken Thighs and Corn With Lime-Basil Butter.md",
-    "Seafood/Curry Shrimp and Sweet Potato.md",
-    "Breakfast/Eleven Madison Park Granola.md",
-    "Pasta/Crispy Gnocchi With Sausage and Broccoli.md",
-    "Beef/Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs).md",
-    "Reference/attachments/mother_sauces.png",
-    "Reference/Stocks.md",
-    "Reference/Salad Dressings.md",
-    "Reference/Cooking Reference.md",
-    "Reference/Mother Sauces.md",
-    "Reference/attachments",
-    "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md",
-    "Mexican/Easy Chicken Tacos.md",
-    "Seafood/Sesame Salmon Bowls.md",
-    "Chicken/Creamy Tuscan Chicken.md",
-    "Untitled.md",
-    "Chicken/Paprika Chicken and Potatoes.md",
-    "Seafood/Chile-Crisp Shrimp and Green Beans.md",
-    "Seafood/Malaay Qumbe (Coconut Fish Curry).md",
-    "Salads/Horiatiki (Greek Salad).md",
-    "Breakfast/Toasted Muesli.md",
-    "Websites.md",
-    "Camping.base",
-    "Camping/Garlic & Cracked Pepper Beef Jerky.md",
+    "Chicken/Dijon Chicken With Tomatoes and Scallions.md",
     "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
-    "Noodles/Peanut Butter Noodles (Ban Mian).md",
+    "Pasta/Crisp Gnocchi With Sausage and Peas.md",
+    "All Recipes.base",
+    "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md",
+    "Pasta/Spicy Butternut Squash Pasta With Spinach.md",
+    "Pork/Sheet-Pan Sausages With Caramelized Shallots and Apples.md",
+    "Vegetarian/Roasted Broccoli and Whipped Tofu With Chile Crisp Crunch.md",
+    "Untitled",
+    "Chicken/Sheet-Pan Scallion Chicken With Bok Choy.md",
+    "Mexican/Easy Chicken Tacos.md",
+    "Seafood/Saag Shrimp.md",
+    "Seafood/Sesame Salmon Bowls.md",
+    "Chicken/Chicken and Pesto Rice With Peas.md",
+    "Pasta/Creamy Lemon Asparagus Gnocchi.md",
+    "Pasta/Homemade Hamburger Helper.md",
+    "Chicken/Chicken Shawarma Sheet-Pan Dinner.md",
+    "Pasta/Crispy Gnocchi With Sausage and Broccoli.md",
+    "Soups/Chicken and White Bean Stew.md",
+    "Soups/Beef Stew.md",
+    "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md",
+    "Noodles/Simple Pad Thai.md",
+    "Chicken/Sheet-Pan Chicken Thighs With Spicy Corn.md",
+    "Sides/Salsa Macha.md",
+    "Salads/Warm Couscous Salad with Apricot Vinaigrette.md",
+    "Chicken/Grilled Moroccan Chicken.md",
+    "Camping/Garlic & Cracked Pepper Beef Jerky.md",
+    "Reference/attachments/mother_sauces.png",
+    "Reference/attachments",
+    "Camping.base",
     "Noodles/attachments/Peanut Butter Noodles (Ban Mian).jpg",
     "Sous Vide/attachments/Sous Vide Yogurt.jpg",
     "Seafood/attachments/Malaay Qumbe (Coconut Fish Curry).jpg",

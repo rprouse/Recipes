@@ -1,5 +1,5 @@
 ---
-tags: [seafood]
+tags: [seafood, cooked]
 title: Sheet-Pan Fish With Chard and Spicy Red-Pepper Relish
 author: Yewande Komolafe
 servings: 4 servings

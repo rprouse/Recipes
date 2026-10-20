@@ -1,5 +1,5 @@
 ---
-tags: [chicken, budget, easy, one-pot, quick, spring, weeknight]
+tags: [chicken, budget, easy, one-pot, quick, spring, weeknight, cooked]
 title: Spicy Skillet Ground Turkey and Snap Peas
 author: Melissa Clark
 servings: 4 servings

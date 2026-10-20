@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, quick]
+tags: [chicken, easy, quick, cooked]
 title: Arroz Chaufa (Fried Rice With Chicken and Bell Pepper)
 author: Ham El-Waylly
 servings: 2 to 4 servings

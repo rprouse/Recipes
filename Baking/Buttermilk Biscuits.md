@@ -1,5 +1,5 @@
 ---
-tags: [baking, easy, quick]
+tags: [baking, easy, quick, cooked]
 title: Buttermilk Biscuits
 author: Melissa Clark
 servings: 12 to 15 biscuits

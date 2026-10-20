@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, quick, sheet-pan, summer, weeknight]
+tags: [seafood, easy, quick, sheet-pan, summer, weeknight, cooked]
 title: Oven-Seared Salmon With Corn and Tomatoes
 author: Ali Slagle
 servings: 4 servings

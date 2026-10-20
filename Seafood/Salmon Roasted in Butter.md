@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, quick]
+tags: [seafood, easy, quick, cooked]
 title: Salmon Roasted in Butter
 author: Mark Bittman
 servings: 4 to 6 servings

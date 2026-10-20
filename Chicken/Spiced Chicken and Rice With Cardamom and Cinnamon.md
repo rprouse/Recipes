@@ -4,6 +4,7 @@ tags:
   - easy
   - one-pot
   - quick
+  - cooked
 title: Spiced Chicken and Rice With Cardamom and Cinnamon
 author: Kay Chun
 servings: 4 servings

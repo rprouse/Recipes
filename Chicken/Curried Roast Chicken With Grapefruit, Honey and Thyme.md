@@ -1,5 +1,5 @@
 ---
-tags: [chicken, weeknight]
+tags: [chicken, weeknight, cooked]
 title: Curried Roast Chicken With Grapefruit, Honey and Thyme
 author: Colu Henry
 servings: 4 servings

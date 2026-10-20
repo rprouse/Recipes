@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, quick, weeknight]
+tags: [seafood, easy, quick, weeknight, cooked]
 title: Sticky Miso Salmon Bowl
 author: Andy Baraghani
 servings: 4 servings

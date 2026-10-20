@@ -1,5 +1,5 @@
 ---
-tags: [soups, fall, great-leftovers, winter, vegetarian]
+tags: [soups, fall, great-leftovers, winter, vegetarian, cooked]
 title: Golden Leek and Potato Soup
 author: Melissa Clark
 servings: 6 servings

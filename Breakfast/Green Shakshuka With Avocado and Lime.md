@@ -1,5 +1,5 @@
 ---
-tags: [breakfast, easy, weeknight, vegetarian]
+tags: [breakfast, easy, weeknight, vegetarian, cooked]
 title: Green Shakshuka With Avocado and Lime
 author: Sarah Copeland
 servings: 4 servings

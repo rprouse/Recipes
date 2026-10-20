@@ -1,5 +1,5 @@
 ---
-tags: [salads, easy, make-ahead, quick, weeknight, vegan]
+tags: [salads, easy, make-ahead, quick, weeknight, vegan, cooked]
 title: Cucumber Salad
 author: Ali Slagle
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [sides, easy, fall, quick, sheet-pan, weeknight, winter]
+tags: [sides, easy, fall, quick, sheet-pan, weeknight, winter, cooked]
 title: Sheet-Pan Brussels Sprouts and Bacon
 author: Christian Reynoso
 servings: 4 servings

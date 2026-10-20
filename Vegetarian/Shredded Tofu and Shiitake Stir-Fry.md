@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, quick, weeknight]
+tags: [vegetarian, quick, weeknight, cooked]
 title: Shredded Tofu and Shiitake Stir-Fry
 author: Melissa Clark
 servings: 3 to 4 servings

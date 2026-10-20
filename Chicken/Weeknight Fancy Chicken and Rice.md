@@ -1,5 +1,5 @@
 ---
-tags: [chicken, one-pot, weeknight]
+tags: [chicken, one-pot, weeknight, cooked]
 title: Weeknight Fancy Chicken and Rice
 author: Sara Bonisteel
 servings: 4 to 6 servings

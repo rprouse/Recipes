@@ -1,5 +1,5 @@
 ---
-tags: [soups, quick, weeknight, winter, vegan]
+tags: [soups, quick, weeknight, winter, vegan, cooked]
 title: Brothy Thai Curry With Silken Tofu and Herbs
 author: Yewande Komolafe
 servings: 6 servings

@@ -1,5 +1,5 @@
 ---
-tags: [sides, budget, summer]
+tags: [sides, budget, summer, cooked]
 title: Southern Fried Corn
 author: Millie Peartree
 servings: 5 cups

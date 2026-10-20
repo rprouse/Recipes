@@ -1,5 +1,5 @@
 ---
-tags: [sides]
+tags: [sides, cooked]
 title: Lemon-Herb Buttermilk Dressing
 author: Francis Lam
 servings: 1 cups

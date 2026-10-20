@@ -1,5 +1,5 @@
 ---
-tags: [sides]
+tags: [sides, cooked]
 title: Mexican Rice
 author: Kim Severson
 servings: 4 cups

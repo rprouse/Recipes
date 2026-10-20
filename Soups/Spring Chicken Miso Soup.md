@@ -1,5 +1,5 @@
 ---
-tags: [soups]
+tags: [soups, cooked]
 title: Spring Chicken Miso Soup
 author: David Tanis
 servings: 6 servings

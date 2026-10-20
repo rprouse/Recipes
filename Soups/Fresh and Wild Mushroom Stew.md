@@ -1,5 +1,5 @@
 ---
-tags: [soups, great-leftovers]
+tags: [soups, great-leftovers, cooked]
 title: Fresh and Wild Mushroom Stew
 author: David Tanis
 servings: 4 to 6 servings

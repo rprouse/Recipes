@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, one-pot, quick, weeknight]
+tags: [pasta, easy, one-pot, quick, weeknight, cooked]
 title: Spinach One-Pot Pasta
 author: Yasmin Fahr
 servings: 4 servings

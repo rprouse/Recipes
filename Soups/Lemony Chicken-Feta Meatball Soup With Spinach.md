@@ -1,5 +1,5 @@
 ---
-tags: [soups, great-leftovers]
+tags: [soups, great-leftovers, cooked]
 title: Lemony Chicken-Feta Meatball Soup With Spinach
 author: Yasmin Fahr
 servings: 4 servings

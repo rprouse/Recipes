@@ -1,5 +1,5 @@
 ---
-tags: [mexican, summer]
+tags: [mexican, summer, cooked]
 title: Fish Tacos
 author: Sam Sifton
 servings: 4 to 6 servings

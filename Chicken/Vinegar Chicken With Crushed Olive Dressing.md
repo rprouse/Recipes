@@ -1,5 +1,5 @@
 ---
-tags: [chicken, weeknight]
+tags: [chicken, weeknight, cooked]
 title: Vinegar Chicken With Crushed Olive Dressing
 author: Alison Roman
 servings: 6 servings

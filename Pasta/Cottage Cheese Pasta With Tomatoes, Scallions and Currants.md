@@ -1,5 +1,5 @@
 ---
-tags: [pasta, weeknight, vegetarian]
+tags: [pasta, weeknight, vegetarian, cooked]
 title: Cottage Cheese Pasta With Tomatoes, Scallions and Currants
 author: Melissa Clark
 servings: 4 to 6 servings

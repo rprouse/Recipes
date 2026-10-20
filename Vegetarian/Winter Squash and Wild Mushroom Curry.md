@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, fall, great-leftovers]
+tags: [vegetarian, fall, great-leftovers, cooked]
 title: Winter Squash and Wild Mushroom Curry
 author: David Tanis
 servings: 4 to 6 servings

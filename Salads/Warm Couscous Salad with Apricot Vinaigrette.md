@@ -26,7 +26,7 @@ Inspired by the Moroccan way of blending savory and sweet, this couscous salad p
 - 1½ cups low-sodium chicken or vegetable broth, best quality such as Swanson
 - 1 tablespoon unsalted butter
 - Salt
-- 1 10-ounce box couscous (1½ cups) or make with quinio
+- 1 10-ounce box couscous (1½ cups) or make with quinoa
 - 6 tablespoons apricot preserves, best quality such as Bonne Maman
 - 4½ tablespoons extra-virgin olive oil
 - 3 tablespoons white wine vinegar

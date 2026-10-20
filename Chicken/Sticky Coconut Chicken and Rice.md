@@ -1,5 +1,5 @@
 ---
-tags: [chicken, one-pot, weeknight]
+tags: [chicken, one-pot, weeknight, cooked]
 title: Sticky Coconut Chicken and Rice
 author: Kay Chun
 servings: 4 servings

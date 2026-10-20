@@ -1,5 +1,5 @@
 ---
-tags: [soups, fall, great-leftovers, slow-cooker, weeknight]
+tags: [soups, fall, great-leftovers, slow-cooker, weeknight, cooked]
 title: Slow Cooker White Chicken Chili
 author: Sarah DiGregorio
 servings: 6 to 8 servings

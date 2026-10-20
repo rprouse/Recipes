@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, quick, sheet-pan, weeknight]
+tags: [seafood, easy, quick, sheet-pan, weeknight, cooked]
 title: Sheet-Pan Coconut Shrimp and Sweet Potatoes
 author: Melissa Clark
 servings: 4 servings

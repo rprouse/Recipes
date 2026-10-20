@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, easy, fall, weeknight, winter, vegan]
+tags: [vegetarian, easy, fall, weeknight, winter, vegan, cooked]
 title: Stir-Fried Tofu, Red Cabbage and Winter Squash
 author: Martha Rose Shulman
 servings: 4 servings

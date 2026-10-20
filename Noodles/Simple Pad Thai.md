@@ -1,5 +1,5 @@
 ---
-tags: [noodles, one-pot, quick, weeknight, make-again]
+tags: [noodles, one-pot, quick, weeknight, make-again, cooked]
 title: Simple Pad Thai
 author: Mark Bittman
 servings: 4 servings

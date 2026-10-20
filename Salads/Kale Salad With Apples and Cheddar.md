@@ -1,5 +1,5 @@
 ---
-tags: [salads, easy, weeknight, vegetarian]
+tags: [salads, easy, weeknight, vegetarian, cooked]
 title: Kale Salad With Apples and Cheddar
 author: Martha Rose Shulman
 servings: 4 to 6 servings

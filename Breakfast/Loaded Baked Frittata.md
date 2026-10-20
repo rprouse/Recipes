@@ -1,5 +1,5 @@
 ---
-tags: [breakfast]
+tags: [breakfast, cooked]
 title: Loaded Baked Frittata
 author: Genevieve Ko
 servings: 4 to 6 servings

@@ -1,5 +1,5 @@
 ---
-tags: [breakfast, easy, quick, weeknight]
+tags: [breakfast, easy, quick, weeknight, cooked]
 title: Cheese Grits With Saucy Black Beans, Avocado and Radish
 author: Sarah Copeland
 servings: 4 servings

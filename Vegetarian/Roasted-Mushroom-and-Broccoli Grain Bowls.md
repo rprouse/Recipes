@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian]
+tags: [vegetarian, cooked]
 title: Roasted-Mushroom-and-Broccoli Grain Bowls
 author: Francis Lam
 servings: 2 servings, plus leftovers

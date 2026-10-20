@@ -1,5 +1,5 @@
 ---
-tags: [soups, easy, great-leftovers]
+tags: [soups, easy, great-leftovers, cooked]
 title: Mushroom Soup
 author: Mark Bittman
 servings: 4 servings

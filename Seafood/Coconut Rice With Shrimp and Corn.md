@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, one-pot, summer]
+tags: [seafood, easy, one-pot, summer, cooked]
 title: Coconut Rice With Shrimp and Corn
 author: Samantha Seneviratne
 servings: 4 servings

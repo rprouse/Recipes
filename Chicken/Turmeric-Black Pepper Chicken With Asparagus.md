@@ -1,5 +1,5 @@
 ---
-tags: [chicken, quick, spring, weeknight]
+tags: [chicken, quick, spring, weeknight, cooked]
 title: Turmeric-Black Pepper Chicken With Asparagus
 author: Ali Slagle
 servings: 4 servings

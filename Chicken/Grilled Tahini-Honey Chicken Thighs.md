@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, quick, weeknight]
+tags: [chicken, easy, quick, weeknight, cooked]
 title: Grilled Tahini-Honey Chicken Thighs
 author: Yasmin Fahr
 servings: 4 servings

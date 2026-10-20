@@ -1,5 +1,10 @@
 ---
-tags: [chicken, middle-eastern, sheet-pan, quick, weeknight]
+tags:
+  - chicken
+  - middle-eastern
+  - sheet-pan
+  - weeknight
+  - cooked
 title: Chicken Shawarma Sheet-Pan Dinner
 author: Laila Ibrahim
 servings: 6 servings
@@ -14,6 +19,8 @@ image: "[[attachments/Chicken Shawarma Sheet-Pan Dinner.jpg]]"
 # Chicken Shawarma Sheet-Pan Dinner
 
 This weeknight-friendly, halal cart-inspired dinner roasts spiced chicken thighs on a sheet pan alongside crisp chickpeas and charred red onion and bell peppers, then finishes with a lemony tahini-yogurt sauce, rice, and fresh herbs.
+
+This took me a couple hours the first time I cooked it and dirtied four bowls. It was good, but not quick. 
 
 ### 🛒 Ingredients
 - 1 tablespoon ground coriander

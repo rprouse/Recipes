@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, weeknight]
+tags: [chicken, easy, weeknight, cooked]
 title: Mayo-Marinated Chicken With Chimichurri
 author: J. Kenji López-Alt
 servings: 2 to 4 servings

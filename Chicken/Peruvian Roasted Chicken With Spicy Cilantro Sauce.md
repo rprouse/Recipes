@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, weeknight]
+tags: [chicken, easy, weeknight, cooked]
 title: Peruvian Roasted Chicken With Spicy Cilantro Sauce
 author: Melissa Clark
 servings: 4 servings

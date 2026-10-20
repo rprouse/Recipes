@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, one-pot, quick, weeknight]
+tags: [seafood, easy, one-pot, quick, weeknight, cooked]
 title: Corn and Cod Green Curry
 author: Ali Slagle
 servings: 4 to 6 servings

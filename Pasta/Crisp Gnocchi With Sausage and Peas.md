@@ -1,5 +1,5 @@
 ---
-tags: [pasta, easy, one-pot, quick, spring, weeknight, make-again]
+tags: [pasta, easy, one-pot, quick, spring, weeknight, make-again, cooked]
 title: Crisp Gnocchi With Sausage and Peas
 author: Ali Slagle
 servings: 4 servings

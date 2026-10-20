@@ -1,5 +1,5 @@
 ---
-tags: [pasta, budget]
+tags: [pasta, budget, cooked]
 title: Pasta With Tuna and Olives
 author: Martha Rose Shulman
 servings: 4 servings

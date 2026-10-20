@@ -1,5 +1,5 @@
 ---
-tags: [seafood, easy, one-pot, quick, weeknight]
+tags: [seafood, easy, one-pot, quick, weeknight, cooked]
 title: One-Pot Miso-Turmeric Salmon and Coconut Rice
 author: Yasmin Fahr
 servings: 4 servings

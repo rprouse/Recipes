@@ -1,5 +1,5 @@
 ---
-tags: [chicken, party, make-again]
+tags: [chicken, party, make-again, cooked]
 title: Oven-Roasted Chicken Shawarma
 author: Sam Sifton
 servings: 4 to 6 servings

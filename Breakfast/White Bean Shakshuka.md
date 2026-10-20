@@ -1,5 +1,5 @@
 ---
-tags: [breakfast, budget, easy, quick, one-pot, weeknight, vegetarian]
+tags: [breakfast, budget, easy, quick, one-pot, weeknight, vegetarian, cooked]
 title: White Bean Shakshuka
 author: Ifrah F. Ahmed
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [salads, easy, quick, weeknight, vegan]
+tags: [salads, easy, quick, weeknight, vegan, cooked]
 title: Classic Bean Salad
 author: Melissa Clark
 servings: 4 to 6 servings

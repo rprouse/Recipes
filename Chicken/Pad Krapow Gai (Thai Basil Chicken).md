@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, quick, weeknight]
+tags: [chicken, easy, quick, weeknight, cooked]
 title: Pad Krapow Gai (Thai Basil Chicken)
 author: Alexa Weibel
 servings: 2 to 4 servings

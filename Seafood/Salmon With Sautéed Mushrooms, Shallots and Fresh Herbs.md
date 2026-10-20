@@ -1,5 +1,5 @@
 ---
-tags: [seafood]
+tags: [seafood, cooked]
 title: Salmon With Sautéed Mushrooms, Shallots and Fresh Herbs
 author: Martha Rose Shulman
 servings: 4 servings

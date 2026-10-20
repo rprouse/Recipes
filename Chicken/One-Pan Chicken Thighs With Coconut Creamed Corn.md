@@ -1,5 +1,5 @@
 ---
-tags: [chicken, fall, summer, weeknight]
+tags: [chicken, fall, summer, weeknight, cooked]
 title: One-Pan Chicken Thighs With Coconut Creamed Corn
 author: Ali Slagle
 servings: 4 servings

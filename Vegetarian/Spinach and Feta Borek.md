@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, party, weeknight]
+tags: [vegetarian, party, weeknight, cooked]
 title: Spinach and Feta Borek
 author: David Tanis
 servings: 6 to 8 servings

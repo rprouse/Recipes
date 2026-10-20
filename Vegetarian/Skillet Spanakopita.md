@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian]
+tags: [vegetarian, cooked]
 title: Skillet Spanakopita
 author: Alexa Weibel
 servings: 6 to 8 servings

@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, sheet-pan, budget, quick, weeknight, make-again]
+tags: [chicken, easy, sheet-pan, budget, quick, weeknight, make-again, cooked]
 title: Sheet-Pan Chicken and Carrots With Yogurt Sauce
 author: Yasmin Fahr
 servings: 4 servings

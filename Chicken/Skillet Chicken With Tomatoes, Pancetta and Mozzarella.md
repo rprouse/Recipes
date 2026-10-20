@@ -1,5 +1,5 @@
 ---
-tags: [chicken, one-pot]
+tags: [chicken, one-pot, cooked]
 title: Skillet Chicken With Tomatoes, Pancetta and Mozzarella
 author: Melissa Clark
 servings: 4 servings

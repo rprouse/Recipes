@@ -1,5 +1,5 @@
 ---
-tags: [soups, fall, great-leftovers, winter]
+tags: [soups, fall, great-leftovers, winter, cooked]
 title: Bo Kho
 author: David Tanis
 servings: 4 to 6 servings

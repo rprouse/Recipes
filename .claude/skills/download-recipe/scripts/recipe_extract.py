@@ -28,6 +28,7 @@ canonical_url, plus missing[] naming every field that could not be extracted and
 """
 
 import argparse
+import gzip
 import io
 import json
 import re
@@ -35,6 +36,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
+import zlib
 
 from site_parsers import parser_for
 
@@ -103,7 +105,16 @@ def fetch(url, tries=6, cookie=None):
                 headers["Cookie"] = cookie
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=30) as r:
-                return r.read().decode("utf-8", "replace")
+                body = r.read()
+                # urllib never decompresses, and some CDNs (NYT, seen 2026-10) gzip the
+                # body even though we send no Accept-Encoding. Sniff the magic bytes
+                # too, in case the header is missing.
+                enc = (r.headers.get("Content-Encoding") or "").lower()
+                if "gzip" in enc or body[:2] == b"\x1f\x8b":
+                    body = gzip.decompress(body)
+                elif "deflate" in enc:
+                    body = zlib.decompress(body)
+                return body.decode("utf-8", "replace")
         except (urllib.error.URLError, TimeoutError) as e:
             last = e
             # HTTPError subclasses URLError, so 403/429/5xx all land here. Retry only

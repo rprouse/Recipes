@@ -1,5 +1,5 @@
 ---
-tags: [chicken]
+tags: [chicken, cooked]
 title: One-Pot Chicken and Rice With Ginger
 author: Yasmin Fahr
 servings: 4 servings

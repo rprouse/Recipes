@@ -1,5 +1,5 @@
 ---
-tags: [seafood, one-pot, quick]
+tags: [seafood, one-pot, quick, cooked]
 title: Salmon and Green Beans in Red Pepper Sauce
 author: Yewande Komolafe
 servings: 4 servings

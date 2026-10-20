@@ -1,5 +1,5 @@
 ---
-tags: [chicken, great-leftovers, quick]
+tags: [chicken, great-leftovers, quick, cooked]
 title: Panang Curry
 author: Naz Deravian
 servings: 4 servings

@@ -1,5 +1,5 @@
 ---
-tags: [sides]
+tags: [sides, cooked]
 title: Basic Harissa
 author: David Tanis
 servings: cup

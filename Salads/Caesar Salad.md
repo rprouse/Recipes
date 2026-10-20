@@ -1,5 +1,5 @@
 ---
-tags: [salads]
+tags: [salads, cooked]
 title: Caesar Salad
 author: Samin Nosrat
 servings: 6 to 8 servings

@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy]
+tags: [chicken, easy, cooked]
 title: Oven-Fried Hot Wings
 author: Eric Kim
 servings: 2 to 4 servings

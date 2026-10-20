@@ -1,5 +1,5 @@
 ---
-tags: [vegetarian, budget, quick, weeknight, vegan]
+tags: [vegetarian, budget, quick, weeknight, vegan, cooked]
 title: Lemon-Miso Tofu With Broccoli
 author: Hetty Lui McKinnon
 servings: 4 servings

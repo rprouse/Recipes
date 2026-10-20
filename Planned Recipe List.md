@@ -1,9 +1,29 @@
 [Bring! Grocery List](https://web.getbring.com/app/lists/0)
-## 2026-08
-- [ ] [[Salsa Macha]]
+## 2026-10
+- [ ] [[Salsa Macha]] 
+- [ ] [[Crispy Gnocchi With Spinach and Feta]]
+- [ ] Steak, peas or corn and potatoes
+- [x] [[Chicken Burrito Bowls with Spicy Green Sauce]]
+- [x] [[Dijon Chicken With Tomatoes and Scallions]]
+- [x] [[Stir-Fried Cumin Green Beans and Chicken]]
+- [x] [[Crisp Gnocchi With Sausage and Peas]]
+- [x] [[Keema Palak (Ground Chicken and Spinach Curry)]]
+- [x] [[Spicy Butternut Squash Pasta With Spinach]]
+- [x] [[Saag Shrimp]]
+- [x] [[Easy Chicken Tacos]] 
+
+## 2026-09
+- [x] [[Sesame Salmon Bowls]]
+- [x] [[Homemade Hamburger Helper]]
+- [x] [[Stir-Fried Cumin Green Beans and Chicken]]
+- [x] [[Chicken Shawarma Sheet-Pan Dinner]]
+- [x] [[Chicken Burrito Bowls with Spicy Green Sauce]]
+- [x] [[Simple Pad Thai]]
+- [x] [[Sheet-Pan Chicken and Carrots With Yogurt Sauce]]
 - [x] [[Shepherd’s Pie]]
 - [x] [[Dijonnaise Grilled Chicken Breasts]]
 - [x] [[Crispy Gnocchi With Sausage and Broccoli]]
+## 2026-08
 - [x] [[Curry Shrimp and Sweet Potato]]
 - [x] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
 - [x] [[Chile-Crisp Shrimp and Green Beans]]
@@ -27,7 +47,7 @@
 - [x] [[Sheet-Pan Scallion Chicken With Bok Choy]]
 - [x] Trout, salad and potatoes 
 - [x] [[Saag Paneer]]
-- [ ] [[Sheet-Pan Chicken and Carrots With Yogurt Sauce]]
+- [x] [[Sheet-Pan Chicken and Carrots With Yogurt Sauce]]
 ## 2026-06
 - [x] [[Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)]]
 - [x] [[Sheet-Pan Chicken Tikka Thighs]]
@@ -47,7 +67,6 @@
 ## Future
 - [ ] [[One-Skillet Creamy Sun-Dried Tomato Chicken (Marry Me Chicken)]]
 - [ ] [[Mexican Street Corn Salad (Esquites)]]
-- [ ] [[Chicken Burrito Bowls with Spicy Green Sauce]]
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
 - [ ] [[Creamy Lasagna Soup]]
 - [ ] [[Orange and Leek Loukaniko (Greek Sausage)]]
@@ -57,7 +76,7 @@
 - [ ] [[Chicken Souvlaki With Tzatziki Sauce and Greek Salad]]
 - [ ] [[Chicken Marsala]]
 - [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
-- [ ] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
+- [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [ ] [[Beer-Marinated Chicken Tacos]]
 - [ ] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
 - [ ] [[Sheet-Pan Chicken Thighs With Spicy Corn]]

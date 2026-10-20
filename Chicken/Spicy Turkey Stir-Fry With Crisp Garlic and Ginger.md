@@ -1,5 +1,5 @@
 ---
-tags: [chicken, quick, weeknight]
+tags: [chicken, quick, weeknight, cooked]
 title: Spicy Turkey Stir-Fry With Crisp Garlic and Ginger
 author: Melissa Clark
 servings: 4 servings

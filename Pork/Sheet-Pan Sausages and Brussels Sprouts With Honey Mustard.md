@@ -1,5 +1,5 @@
 ---
-tags: [pork, easy, fall, sheet-pan, weeknight, winter]
+tags: [pork, easy, fall, sheet-pan, weeknight, winter, cooked]
 title: Sheet-Pan Sausages and Brussels Sprouts With Honey Mustard
 author: Ali Slagle
 servings: 4 servings

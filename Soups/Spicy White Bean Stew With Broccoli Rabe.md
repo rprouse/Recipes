@@ -1,5 +1,5 @@
 ---
-tags: [soups, easy, fall, great-leftovers, quick, weeknight, winter, vegetarian]
+tags: [soups, easy, fall, great-leftovers, quick, weeknight, winter, vegetarian, cooked]
 title: Spicy White Bean Stew With Broccoli Rabe
 author: Alison Roman
 servings: 4 servings

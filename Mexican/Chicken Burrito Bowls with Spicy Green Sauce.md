@@ -1,5 +1,12 @@
 ---
-tags: [mexican, chicken, grilling, make-ahead, gluten-free]
+tags:
+  - mexican
+  - chicken
+  - grilling
+  - make-ahead
+  - gluten-free
+  - cooked
+  - make-again
 title: Chicken Burrito Bowls with Spicy Green Sauce
 author: Jennifer Segal (Once Upon a Chef)
 servings: 6 servings

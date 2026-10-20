@@ -1,5 +1,5 @@
 ---
-tags: [soups, fall, great-leftovers, slow-cooker, weeknight, winter, vegetarian]
+tags: [soups, fall, great-leftovers, slow-cooker, weeknight, winter, vegetarian, cooked]
 title: Slow-Cooker Curried Sweet Potato Soup With Coconut and Kale
 author: Sarah DiGregorio
 servings: 6 servings

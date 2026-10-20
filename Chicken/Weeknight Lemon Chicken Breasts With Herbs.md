@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, fall, quick, spring, summer, weeknight, winter]
+tags: [chicken, easy, fall, quick, spring, summer, weeknight, winter, cooked]
 title: Weeknight Lemon Chicken Breasts With Herbs
 author: Jennifer Steinhauer
 servings: 4 servings

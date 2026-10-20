@@ -1,5 +1,5 @@
 ---
-tags: [salads, fall, weeknight, vegetarian]
+tags: [salads, fall, weeknight, vegetarian, cooked]
 title: Brown Butter Lentil and Sweet Potato Salad
 author: Yossy Arefi
 servings: 4 to 6 servings

@@ -41,3 +41,16 @@ views:
       - tags
     image: note.image
     imageAspectRatio: 0.5
+  - type: cards
+    name: Uncooked
+    filters:
+      and:
+        - '!file.tags.contains("make-again")'
+        - '!file.tags.contains("cooked")'
+    order:
+      - file.name
+      - time
+      - servings
+      - tags
+    image: note.image
+    imageAspectRatio: 0.5

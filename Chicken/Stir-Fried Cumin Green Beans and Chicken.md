@@ -11,7 +11,7 @@ tags:
   - make-again
 title: Stir-Fried Cumin Green Beans and Chicken
 author: Melissa Clark
-servings: 4 servings
+servings: 2 servings
 time: 25 minutes
 date: 2026-08-05 Wednesday
 link: https://cooking.nytimes.com/recipes/784835537-stir-fried-cumin-green-beans-and-chicken

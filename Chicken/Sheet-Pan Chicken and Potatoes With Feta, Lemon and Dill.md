@@ -1,5 +1,5 @@
 ---
-tags: [chicken, easy, fall, party, sheet-pan, weeknight, winter]
+tags: [chicken, easy, fall, party, sheet-pan, weeknight, winter, cooked]
 title: Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill
 author: Lidey Heuck
 servings: 4 servings
