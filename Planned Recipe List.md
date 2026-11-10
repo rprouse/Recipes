@@ -1,8 +1,30 @@
 [Bring! Grocery List](https://web.getbring.com/app/lists/0)
-## 2026-10
+### 2026-11
 - [ ] [[Salsa Macha]] 
-- [ ] [[Crispy Gnocchi With Spinach and Feta]]
-- [ ] Steak, peas or corn and potatoes
+- [x] [[Creamy Lasagna Soup]]
+- [x] [[Lemony Greek Chicken, Spinach and Potato Stew]]
+- [x] [[Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)]]
+- [x] [[Sheet-Pan Red Curry Chicken With Butternut Squash]]
+- [ ] [[Skillet Tortellini With Sausage and Kale]]
+- [ ] [[Peanut Noodles With Spicy Tofu]]
+- [ ] [[Pad Prik King (Red Curry Chicken and Green Beans)]]
+- [ ] [[Lentil Tomato Soup]]
+- [ ] [[Skillet Chicken With Mushrooms and Caramelized Onions]]
+- [ ] [[Quick-Braised Chicken With Greens]]
+- [ ] [[Creamy One-Pot Pasta With Chicken and Mushrooms]]
+- [ ] [[Kimchi Ramen]]
+- [ ] [[Ras el Hanout Chickpea and Spinach Stew]]
+## 2026-10
+- [x] [[Salsa Macha]] 
+- [x] [[Sticky Chicken and Brussels Sprouts Stir-Fry]]
+- [x] [[Sausage and Peppers]]
+- [x] [[One-Pan Dumplings With Greens]]
+- [x] [[Lasagna Soup]]
+- [x] [[Broccoli Rice With Eggs]]
+- [x] [[Cottage Cheese Meatballs]]
+- [x] [[Lemony Greek Chicken, Spinach and Potato Stew]]
+- [x] [[Crispy Gnocchi With Spinach and Feta]]
+- [x] Steak, peas or corn and potatoes
 - [x] [[Chicken Burrito Bowls with Spicy Green Sauce]]
 - [x] [[Dijon Chicken With Tomatoes and Scallions]]
 - [x] [[Stir-Fried Cumin Green Beans and Chicken]]
@@ -65,6 +87,7 @@
 - [x] [[Easy Chicken Tacos]]
 - [x] Shepherds Pie
 ## Future
+- [ ] [[Cheeseburger Soup]]
 - [ ] [[One-Skillet Creamy Sun-Dried Tomato Chicken (Marry Me Chicken)]]
 - [ ] [[Mexican Street Corn Salad (Esquites)]]
 - [ ] [[Linguine With Zucchini, Corn and Shrimp]]
@@ -76,9 +99,7 @@
 - [ ] [[Chicken Souvlaki With Tzatziki Sauce and Greek Salad]]
 - [ ] [[Chicken Marsala]]
 - [ ] [[Kofte Kebabs With Spicy Harissa Yogurt Sauce and Grilled Flatbread (Minced Lamb Kebabs)]]
-- [x] [[Grilled Moroccan Chicken]] and [[Warm Couscous Salad with Apricot Vinaigrette]]
 - [ ] [[Beer-Marinated Chicken Tacos]]
-- [ ] [[Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce]]
 - [ ] [[Sheet-Pan Chicken Thighs With Spicy Corn]]
 - [ ] [[Chicken Fricassee]]
 - [ ] [[Peanut Butter Noodles]]

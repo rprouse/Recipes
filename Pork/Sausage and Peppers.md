@@ -1,5 +1,9 @@
 ---
-tags: [pork, weeknight]
+tags:
+  - pork
+  - weeknight
+  - cooked
+  - make-again
 title: Sausage and Peppers
 author: David Tanis
 servings: 4 servings

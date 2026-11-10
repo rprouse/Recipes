@@ -1,5 +1,8 @@
 ---
-tags: [baking, budget, great-leftovers, weeknight]
+tags:
+  - baking
+  - budget
+  - great-leftovers
 title: Banana Bread
 author: Julia Moskin
 servings: 1 loaf

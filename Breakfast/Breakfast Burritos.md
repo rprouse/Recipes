@@ -1,5 +1,12 @@
 ---
-tags: [breakfast, easy, freezer-friendly, great-leftovers, make-ahead, quick, weeknight, vegetarian]
+tags:
+  - breakfast
+  - easy
+  - freezer-friendly
+  - great-leftovers
+  - make-ahead
+  - quick
+  - vegetarian
 title: Breakfast Burritos
 author: Yewande Komolafe
 servings: 4 servings

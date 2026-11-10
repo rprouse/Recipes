@@ -1,5 +1,13 @@
 ---
-tags: [chicken, easy, fall, sheet-pan, weeknight, winter]
+tags:
+  - chicken
+  - easy
+  - fall
+  - sheet-pan
+  - weeknight
+  - winter
+  - cooked
+  - make-again
 title: Sheet-Pan Red Curry Chicken With Butternut Squash
 author: Ali Slagle
 servings: 4 servings

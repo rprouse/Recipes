@@ -47,6 +47,7 @@ views:
       and:
         - '!file.tags.contains("make-again")'
         - '!file.tags.contains("cooked")'
+        - file.tags.contains("weeknight")
     order:
       - file.name
       - time

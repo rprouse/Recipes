@@ -1,5 +1,15 @@
 ---
-tags: [soups, winter, fall, quick, one-pot, easy, weeknight]
+tags:
+  - soups
+  - winter
+  - fall
+  - quick
+  - one-pot
+  - easy
+  - weeknight
+  - cooked
+  - make-again
+  - party
 title: Creamy Lasagna Soup
 author: Toni Chapman
 servings: 4 to 6 servings
@@ -17,18 +27,19 @@ Zesty with sage and citrus, this cozy soup brings together some of the best part
 
 ### 🛒 Ingredients
 - 1 pound Italian sausage (mild or hot), casings removed
-- 8 ounces sliced or whole button mushrooms, roughly chopped
+- 1 lbs sliced or whole button mushrooms, roughly chopped
 - 1 small onion (any kind), diced
 - 5 garlic cloves, minced
 - 2 tablespoons chopped fresh sage
 - 1 ½ teaspoons kosher salt (such as Diamond Crystal), divided
 - ½ teaspoon crushed red pepper
 - 6 cups chicken broth
-- 6 lasagna noodles, broken into small to medium pieces (see Tip)
+- 8 lasagna noodles, broken into small to medium pieces (see Tip)
 - 1 cup heavy cream
 - ½ cup grated Parmesan, plus more for serving
 - 1 ½ cups baby spinach
 - 1 lemon, zested then cut into wedges, for serving
+- Ricotta for serving 
 
 ### 🥣 Steps
 1. Heat a large pot or Dutch oven over medium-high. Add the sausage and cook, breaking it into small pieces, until browned and cooked through, 6 to 8 minutes. Transfer the sausage to a bowl and set aside, leaving the drippings in the pot.

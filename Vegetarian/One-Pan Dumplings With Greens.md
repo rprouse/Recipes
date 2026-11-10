@@ -1,5 +1,12 @@
 ---
-tags: [vegetarian, easy, one-pot, weeknight, quick]
+tags:
+  - vegetarian
+  - easy
+  - one-pot
+  - weeknight
+  - quick
+  - cooked
+  - make-again
 title: One-Pan Dumplings With Greens
 author: Ali Slagle
 servings: 4 servings

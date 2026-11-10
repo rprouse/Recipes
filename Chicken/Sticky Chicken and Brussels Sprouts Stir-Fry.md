@@ -1,5 +1,14 @@
 ---
-tags: [chicken, easy, fall, one-pot, quick, weeknight, winter]
+tags:
+  - chicken
+  - easy
+  - fall
+  - one-pot
+  - quick
+  - weeknight
+  - winter
+  - cooked
+  - make-again
 title: Sticky Chicken and Brussels Sprouts Stir-Fry
 author: Ali Slagle
 servings: 4 servings

@@ -1,5 +1,14 @@
 ---
-tags: [sides, easy, weeknight, budget, quick, great-leftovers, vegetarian]
+tags:
+  - sides
+  - easy
+  - weeknight
+  - budget
+  - quick
+  - great-leftovers
+  - vegetarian
+  - cooked
+  - make-again
 title: Broccoli Rice With Eggs
 author: Hetty Lui McKinnon
 servings: 4 servings
@@ -26,7 +35,7 @@ This simple one-pot broccoli rice is a cozy weeknight option that will delight b
 ### 🥣 Steps
 1. Place the rice in a medium Dutch oven or similar heavy pot. Wash the rice, swirling it around with your fingers, and then carefully pour out the starchy water. Repeat this two more times, until the water runs clear. Add 2 ¼ cups of water, 2 tablespoons of oil and 2 teaspoons of salt and stir to combine. Place on medium-high heat and when it comes to a rolling boil, cover, reduce heat to low and cook for 14 minutes.
 2. Meanwhile, separate the broccoli head from the stem and then slice or peel off the woody exterior from the stem. Finely chop the florets and the stem. (You can use a food processor to do this, pulsing a few times until the broccoli is finely chopped. Remove any larger pieces and chop by hand to prevent overprocessing.)
-3. After 14 minutes, add the broccoli to the top of the rice, sprinkle with ½ teaspoon of salt and then cover again with a lid. Cook until the rice is tender and the broccoli has softened and is bright green, 8 to 10 minutes. (The prescribed cooking time yields broccoli that is crisp tender but if you prefer a softer bite, add it to the rice 2 or 3 minutes earlier.)
+3. After ~~14 minutes~~ (add much earlier), add the broccoli to the top of the rice, sprinkle with ½ teaspoon of salt and then cover again with a lid. Cook until the rice is tender and the broccoli has softened and is bright green, 8 to 10 minutes. (The prescribed cooking time yields broccoli that is crisp tender but if you prefer a softer bite, add it to the rice 2 or 3 minutes earlier.)
 4. While the rice finishes cooking, heat a wok or large well-seasoned cast-iron or nonstick skillet over medium-high. When hot, add a drizzle of oil and crack in the eggs, adding however many will comfortably fit in your pan; you may need to work in batches.
 5. Reduce the heat to medium and fry until the edges are frizzled, the whites are set and the yolk is cooked to your liking. Season with a pinch of salt. Remove and repeat with the remaining eggs. Set aside.
 6. In a small bowl, combine the remaining 2 tablespoons of oil and the soy sauce. (It won’t emulsify, and that is OK.)

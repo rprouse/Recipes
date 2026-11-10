@@ -8,6 +8,32 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a01f0dc5c3bc8943",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planned Recipe List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Planned Recipe List"
+            }
+          },
+          {
             "id": "014c7c389d89d5d4",
             "type": "leaf",
             "pinned": true,
@@ -15,7 +41,7 @@
               "type": "bases",
               "state": {
                 "file": "All Recipes.base",
-                "viewName": "Uncooked"
+                "viewName": "All Recipes"
               },
               "pinned": true,
               "icon": "lucide-layout-grid",
@@ -23,12 +49,12 @@
             }
           },
           {
-            "id": "e714ba2e07f23234",
+            "id": "3fca352b9bb4900f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta/Crispy Gnocchi With Spinach and Feta.md",
+                "file": "Pasta/Skillet Tortellini With Sausage and Kale.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +69,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Crispy Gnocchi With Spinach and Feta"
+              "title": "Skillet Tortellini With Sausage and Kale"
+            }
+          },
+          {
+            "id": "1099244f972fed81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noodles/Peanut Noodles With Spicy Tofu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Peanut Noodles With Spicy Tofu"
+            }
+          },
+          {
+            "id": "dc8e208c08587371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chicken/Pad Prik King (Red Curry Chicken and Green Beans).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pad Prik King (Red Curry Chicken and Green Beans)"
+            }
+          },
+          {
+            "id": "cc4b4ab7f6ddecde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noodles/Kimchi Ramen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kimchi Ramen"
             }
           }
         ]
@@ -107,12 +205,11 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +291,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -216,35 +313,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "014c7c389d89d5d4",
+  "active": "a01f0dc5c3bc8943",
   "lastOpenFiles": [
+    "Noodles/Kimchi Ramen.md",
     "Planned Recipe List.md",
-    "Pasta/Crispy Gnocchi With Spinach and Feta.md",
+    "Chicken/Pad Prik King (Red Curry Chicken and Green Beans).md",
+    "Noodles/Peanut Noodles With Spicy Tofu.md",
+    "Pasta/Skillet Tortellini With Sausage and Kale.md",
+    "Soups/Quick-Braised Chicken With Greens.md",
     "All Recipes.base",
-    "Chicken/Quick Chicken Karahi (Spicy Chicken and Tomatoes With Chiles).md",
-    "Chicken/Miso-Maple Sheet-Pan Chicken With Brussels Sprouts.md",
-    "Chicken/Maangchi’s Cheese Buldak (Fire Chicken).md",
-    "Chicken/Easy Chicken Curry.md",
-    "Chicken/Dijon Chicken With Tomatoes and Scallions.md",
-    "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md",
-    "Soups/Coconut Curry Chicken Noodle Soup.md",
-    "Soups/Chicken and White Bean Stew.md",
-    "Chicken/Chicken Marsala.md",
-    "Chicken/Chicken Fricassee.md",
-    "Chicken/Sheet-Pan Chicken Thighs With Spicy Corn.md",
-    "Pasta/Linguine With Zucchini, Corn and Shrimp.md",
     "Soups/Creamy Lasagna Soup.md",
-    "Soups/Quick Chicken and Dumplings.md",
-    "Chicken/Chicken Shawarma Sheet-Pan Dinner.md",
-    "Mexican/Sheet-Pan Chicken Chilaquiles.md",
-    "Pasta/Homemade Hamburger Helper.md",
-    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
-    "Noodles/Simple Pad Thai.md",
-    "Mexican/Lime Chicken Fajitas.md",
-    "Sides/Preserved Lemons.md",
-    "Seafood/Curry Shrimp and Sweet Potato.md",
-    "Reference/Cooking Reference.md",
-    "Reference/Stocks.md",
+    "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md",
+    "Soups/Lemony Greek Chicken, Spinach and Potato Stew.md",
+    "Chicken/Sheet-Pan Red Curry Chicken With Butternut Squash.md",
+    "Soups/Smoky Black Bean and Sweet Potato Chili.md",
+    "Chicken/Creamy Tuscan Chicken.md",
+    "Chicken/Chicken Fricassee.md",
+    "Noodles/Peanut Butter Noodles.md",
+    "Vegetarian/One-Pan Dumplings With Greens.md",
+    "Pork/Sausage and Peppers.md",
+    "Chicken/Oyakodon (Japanese Chicken and Egg Rice Bowl).md",
+    "Chicken/Oyakodon (Chicken and Egg Rice Bowl).md",
+    "Chicken/Sticky Chicken and Brussels Sprouts Stir-Fry.md",
+    "Chicken/Chicken With Garlic-Chili-Ginger Sauce.md",
+    "Beef/Beef, Asparagus and Tofu Stir-Fry.md",
+    "Sides/Broccoli Rice With Eggs.md",
+    "Soups/Lasagna Soup.md",
+    "Chicken/Chicken and Chickpea Tray Bake.md",
+    "Breakfast/Breakfast Burritos.md",
+    "Baking/Banana Bread.md",
+    "Soups/Cheeseburger Soup.md.tmp.11656.8847e8983c87",
+    "Chicken/Cottage Cheese Meatballs.md.tmp.11656.c21d3b82df68",
+    "Soups/attachments/Cheeseburger Soup.jpg",
+    "Soups/attachments/Lasagna Soup.jpg",
+    "Chicken/attachments/Cottage Cheese Meatballs.jpg",
     "Reference/Mother Sauces.md.tmp.2648.a4333da19806",
     "Reference/attachments/mother_sauces.png",
     "Reference/attachments",
@@ -256,12 +358,8 @@
     "Camping/Bacon & Mushroom “Risotto”.md.tmp.28048.d1ba67bd9895",
     "Camping/Chili Mac.md.tmp.28048.4f4094edf719",
     "Camping/Not Boxed Mac & Cheese.md.tmp.28048.585c03c50b44",
-    "Camping/Broccoli Beef with Rice.md.tmp.28048.6f134be09dab",
-    "Camping/Japanese Curry & Rice – Chicken & Potato.md.tmp.28048.bafe0603d24f",
     "Camping/attachments/Ultimate Steak Trail Taco.png",
     "Camping/attachments/Thai Sweet Potato Soup.jpg",
-    "Camping/attachments/Tannenbomb.jpg",
-    "Camping/attachments/Steak & Pork Fajitas.png",
-    "Camping/attachments/Spanish Trail Mix.png"
+    "Camping/attachments/Tannenbomb.jpg"
   ]
 }

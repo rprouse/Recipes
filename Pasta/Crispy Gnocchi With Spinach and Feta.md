@@ -1,5 +1,13 @@
 ---
-tags: [pasta, easy, one-pot, quick, weeknight, vegetarian]
+tags:
+  - pasta
+  - easy
+  - one-pot
+  - quick
+  - weeknight
+  - vegetarian
+  - cooked
+  - make-again
 title: Crispy Gnocchi With Spinach and Feta
 author: Hetty Lui McKinnon
 servings: 4 servings

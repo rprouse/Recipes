@@ -1,12 +1,132 @@
 {
   "recentFiles": [
     {
+      "basename": "Planned Recipe List",
+      "path": "Planned Recipe List.md"
+    },
+    {
+      "basename": "Kimchi Ramen",
+      "path": "Noodles/Kimchi Ramen.md"
+    },
+    {
+      "basename": "Pad Prik King (Red Curry Chicken and Green Beans)",
+      "path": "Chicken/Pad Prik King (Red Curry Chicken and Green Beans).md"
+    },
+    {
+      "basename": "Peanut Noodles With Spicy Tofu",
+      "path": "Noodles/Peanut Noodles With Spicy Tofu.md"
+    },
+    {
+      "basename": "Skillet Tortellini With Sausage and Kale",
+      "path": "Pasta/Skillet Tortellini With Sausage and Kale.md"
+    },
+    {
+      "basename": "Quick-Braised Chicken With Greens",
+      "path": "Soups/Quick-Braised Chicken With Greens.md"
+    },
+    {
       "basename": "All Recipes",
       "path": "All Recipes.base"
     },
     {
-      "basename": "Planned Recipe List",
-      "path": "Planned Recipe List.md"
+      "basename": "Creamy Lasagna Soup",
+      "path": "Soups/Creamy Lasagna Soup.md"
+    },
+    {
+      "basename": "Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy)",
+      "path": "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md"
+    },
+    {
+      "basename": "Lemony Greek Chicken, Spinach and Potato Stew",
+      "path": "Soups/Lemony Greek Chicken, Spinach and Potato Stew.md"
+    },
+    {
+      "basename": "Sheet-Pan Red Curry Chicken With Butternut Squash",
+      "path": "Chicken/Sheet-Pan Red Curry Chicken With Butternut Squash.md"
+    },
+    {
+      "basename": "Smoky Black Bean and Sweet Potato Chili",
+      "path": "Soups/Smoky Black Bean and Sweet Potato Chili.md"
+    },
+    {
+      "basename": "Creamy Tuscan Chicken",
+      "path": "Chicken/Creamy Tuscan Chicken.md"
+    },
+    {
+      "basename": "Chicken Fricassee",
+      "path": "Chicken/Chicken Fricassee.md"
+    },
+    {
+      "basename": "Peanut Butter Noodles",
+      "path": "Noodles/Peanut Butter Noodles.md"
+    },
+    {
+      "basename": "One-Pan Dumplings With Greens",
+      "path": "Vegetarian/One-Pan Dumplings With Greens.md"
+    },
+    {
+      "basename": "Sausage and Peppers",
+      "path": "Pork/Sausage and Peppers.md"
+    },
+    {
+      "basename": "Oyakodon (Japanese Chicken and Egg Rice Bowl)",
+      "path": "Chicken/Oyakodon (Japanese Chicken and Egg Rice Bowl).md"
+    },
+    {
+      "basename": "Oyakodon (Chicken and Egg Rice Bowl)",
+      "path": "Chicken/Oyakodon (Chicken and Egg Rice Bowl).md"
+    },
+    {
+      "basename": "Sticky Chicken and Brussels Sprouts Stir-Fry",
+      "path": "Chicken/Sticky Chicken and Brussels Sprouts Stir-Fry.md"
+    },
+    {
+      "basename": "Chicken With Garlic-Chili-Ginger Sauce",
+      "path": "Chicken/Chicken With Garlic-Chili-Ginger Sauce.md"
+    },
+    {
+      "basename": "Beef, Asparagus and Tofu Stir-Fry",
+      "path": "Beef/Beef, Asparagus and Tofu Stir-Fry.md"
+    },
+    {
+      "basename": "Broccoli Rice With Eggs",
+      "path": "Sides/Broccoli Rice With Eggs.md"
+    },
+    {
+      "basename": "Lasagna Soup",
+      "path": "Soups/Lasagna Soup.md"
+    },
+    {
+      "basename": "Chicken and Chickpea Tray Bake",
+      "path": "Chicken/Chicken and Chickpea Tray Bake.md"
+    },
+    {
+      "basename": "Breakfast Burritos",
+      "path": "Breakfast/Breakfast Burritos.md"
+    },
+    {
+      "basename": "Banana Bread",
+      "path": "Baking/Banana Bread.md"
+    },
+    {
+      "basename": "Sheet-Pan Chicken Thighs With Spicy Corn",
+      "path": "Chicken/Sheet-Pan Chicken Thighs With Spicy Corn.md"
+    },
+    {
+      "basename": "Wolfgang Puck’s Chicken Potpie",
+      "path": "Chicken/Wolfgang Puck’s Chicken Potpie.md"
+    },
+    {
+      "basename": "Chicken Souvlaki With Tzatziki Sauce and Greek Salad",
+      "path": "Chicken/Chicken Souvlaki With Tzatziki Sauce and Greek Salad.md"
+    },
+    {
+      "basename": "Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce",
+      "path": "Chicken/Shawarma-Spiced Grilled Chicken With Tahini-Yogurt Sauce.md"
+    },
+    {
+      "basename": "Cottage Cheese Meatballs",
+      "path": "Chicken/Cottage Cheese Meatballs.md"
     },
     {
       "basename": "Crispy Gnocchi With Spinach and Feta",
@@ -49,20 +169,8 @@
       "path": "Chicken/Chicken Marsala.md"
     },
     {
-      "basename": "Chicken Fricassee",
-      "path": "Chicken/Chicken Fricassee.md"
-    },
-    {
-      "basename": "Sheet-Pan Chicken Thighs With Spicy Corn",
-      "path": "Chicken/Sheet-Pan Chicken Thighs With Spicy Corn.md"
-    },
-    {
       "basename": "Linguine With Zucchini, Corn and Shrimp",
       "path": "Pasta/Linguine With Zucchini, Corn and Shrimp.md"
-    },
-    {
-      "basename": "Creamy Lasagna Soup",
-      "path": "Soups/Creamy Lasagna Soup.md"
     },
     {
       "basename": "Quick Chicken and Dumplings",
@@ -91,114 +199,6 @@
     {
       "basename": "Lime Chicken Fajitas",
       "path": "Mexican/Lime Chicken Fajitas.md"
-    },
-    {
-      "basename": "Preserved Lemons",
-      "path": "Sides/Preserved Lemons.md"
-    },
-    {
-      "basename": "Curry Shrimp and Sweet Potato",
-      "path": "Seafood/Curry Shrimp and Sweet Potato.md"
-    },
-    {
-      "basename": "Cooking Reference",
-      "path": "Reference/Cooking Reference.md"
-    },
-    {
-      "basename": "Stocks",
-      "path": "Reference/Stocks.md"
-    },
-    {
-      "basename": "Salad Dressings",
-      "path": "Reference/Salad Dressings.md"
-    },
-    {
-      "basename": "Crispy Gnocchi With Sausage and Broccoli",
-      "path": "Pasta/Crispy Gnocchi With Sausage and Broccoli.md"
-    },
-    {
-      "basename": "Mother Sauces",
-      "path": "Reference/Mother Sauces.md"
-    },
-    {
-      "basename": "mother_sauces",
-      "path": "Reference/attachments/mother_sauces.png"
-    },
-    {
-      "basename": "Sesame Salmon Bowls",
-      "path": "Seafood/Sesame Salmon Bowls.md"
-    },
-    {
-      "basename": "Paprika Chicken and Potatoes",
-      "path": "Chicken/Paprika Chicken and Potatoes.md"
-    },
-    {
-      "basename": "Chile-Crisp Shrimp and Green Beans",
-      "path": "Seafood/Chile-Crisp Shrimp and Green Beans.md"
-    },
-    {
-      "basename": "Camping",
-      "path": "Camping.base"
-    },
-    {
-      "basename": "Peanut Butter Noodles (Ban Mian)",
-      "path": "Noodles/Peanut Butter Noodles (Ban Mian).md"
-    },
-    {
-      "basename": "Malaay Qumbe (Coconut Fish Curry)",
-      "path": "Seafood/Malaay Qumbe (Coconut Fish Curry).md"
-    },
-    {
-      "basename": "Steakhouse Bowl",
-      "path": "Camping/Steakhouse Bowl.md"
-    },
-    {
-      "basename": "Beef Stroganoff",
-      "path": "Camping/Beef Stroganoff.md"
-    },
-    {
-      "basename": "Horiatiki (Greek Salad)",
-      "path": "Salads/Horiatiki (Greek Salad).md"
-    },
-    {
-      "basename": "Beer-Marinated Chicken Tacos",
-      "path": "Mexican/Beer-Marinated Chicken Tacos.md"
-    },
-    {
-      "basename": "Creamy Tuscan Chicken",
-      "path": "Chicken/Creamy Tuscan Chicken.md"
-    },
-    {
-      "basename": "Garlic & Cracked Pepper Beef Jerky",
-      "path": "Camping/Garlic & Cracked Pepper Beef Jerky.md"
-    },
-    {
-      "basename": "Toasted Muesli",
-      "path": "Breakfast/Toasted Muesli.md"
-    },
-    {
-      "basename": "Bacon & Mushroom “Risotto”",
-      "path": "Camping/Bacon & Mushroom “Risotto”.md"
-    },
-    {
-      "basename": "Websites",
-      "path": "Websites.md"
-    },
-    {
-      "basename": "Japanese Curry and Rice with Chicken and Potato",
-      "path": "Camping/attachments/Japanese Curry and Rice with Chicken and Potato.png"
-    },
-    {
-      "basename": "Japanese Curry and Rice with Chicken and Potato",
-      "path": "Camping/Japanese Curry and Rice with Chicken and Potato.md"
-    },
-    {
-      "basename": "Baja Tuna Trail Tacos",
-      "path": "Camping/Baja Tuna Trail Tacos.md"
-    },
-    {
-      "basename": "Apricot Thyme Chicken and Chickpeas",
-      "path": "Chicken/Apricot Thyme Chicken and Chickpeas.md"
     }
   ],
   "omittedPaths": [],
