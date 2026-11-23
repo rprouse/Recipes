@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken/Sheet-Pan Red Curry Chicken With Butternut Squash.md",
+                "file": "Vegetarian/Saag Paneer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sheet-Pan Red Curry Chicken With Butternut Squash"
+              "title": "Saag Paneer"
             }
           }
         ]
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chicken/Sheet-Pan Red Curry Chicken With Butternut Squash.md",
+            "file": "Soups/Lentil Tomato Soup.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,12 +168,20 @@
   "active": "b6b90ed671b34446",
   "lastOpenFiles": [
     "Planned Recipe List.md",
-    "All Recipes.base",
+    "Mexican/Easy Chicken Tacos.md",
+    "Pasta/Crisp Gnocchi With Sausage and Peas.md",
+    "Soups/Quick-Braised Chicken With Greens.md",
+    "Soups/Lentil Tomato Soup.md",
+    "Chicken/Skillet Chicken With Mushrooms and Caramelized Onions.md",
+    "Pasta/Creamy One-Pot Pasta With Chicken and Mushrooms.md",
+    "Soups/Ras el Hanout Chickpea and Spinach Stew.md",
+    "Pasta/Skillet Tortellini With Sausage and Kale.md",
+    "Chicken/Pad Prik King (Red Curry Chicken and Green Beans).md",
+    "Noodles/Peanut Noodles With Spicy Tofu.md",
     "Chicken/Sheet-Pan Red Curry Chicken With Butternut Squash.md",
+    "All Recipes.base",
     "Chicken/Sheet-Pan Chicken With Black Beans and Squash.md",
     "Pasta/Spicy Butternut Squash Pasta With Spinach.md",
-    "Soups/Quick-Braised Chicken With Greens.md",
-    "Pasta/Creamy One-Pot Pasta With Chicken and Mushrooms.md",
     "Vegetarian/Mattar Paneer (Peas and Paneer in Spiced Tomato Gravy).md",
     "Soups/Creamy Lasagna Soup.md",
     "Soups/Lemony Greek Chicken, Spinach and Potato Stew.md",
@@ -189,13 +197,6 @@
     "Chicken/Cottage Cheese Meatballs.md",
     "Baking/Banana Bread.md",
     "Pasta/Crispy Gnocchi With Spinach and Feta.md",
-    "Mexican/Chicken Burrito Bowls with Spicy Green Sauce.md",
-    "Chicken/Dijon Chicken With Tomatoes and Scallions.md",
-    "Chicken/Stir-Fried Cumin Green Beans and Chicken.md",
-    "Pasta/Crisp Gnocchi With Sausage and Peas.md",
-    "Chicken/Keema Palak (Ground Chicken and Spinach Curry).md",
-    "Pork/Sheet-Pan Sausages With Caramelized Shallots and Apples.md",
-    "Vegetarian/Roasted Broccoli and Whipped Tofu With Chile Crisp Crunch.md",
     "Untitled",
     "Reference/attachments/mother_sauces.png",
     "Reference/attachments",

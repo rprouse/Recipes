@@ -1,5 +1,13 @@
 ---
-tags: [chicken, thai, quick, weeknight, easy, stovetop]
+tags:
+  - chicken
+  - thai
+  - quick
+  - weeknight
+  - easy
+  - stovetop
+  - cooked
+  - make-again
 title: Pad Prik King (Red Curry Chicken and Green Beans)
 author: Alexa Weibel
 servings: 4 servings

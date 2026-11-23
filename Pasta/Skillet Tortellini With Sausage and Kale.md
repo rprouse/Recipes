@@ -1,5 +1,12 @@
 ---
-tags: [pasta, quick, weeknight, easy, one-pot]
+tags:
+  - pasta
+  - quick
+  - weeknight
+  - easy
+  - one-pot
+  - cooked
+  - make-again
 title: Skillet Tortellini With Sausage and Kale
 author: Ali Slagle
 servings: 6 servings

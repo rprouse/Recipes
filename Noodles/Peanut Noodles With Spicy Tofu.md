@@ -1,5 +1,15 @@
 ---
-tags: [noodles, vegan, vegetarian, quick, weeknight, easy, budget, for-two]
+tags:
+  - noodles
+  - vegan
+  - vegetarian
+  - quick
+  - weeknight
+  - easy
+  - budget
+  - for-two
+  - cooked
+  - make-again
 title: Peanut Noodles With Spicy Tofu
 author: Sue Li
 servings: 2 servings
@@ -14,6 +24,8 @@ image: "[[attachments/Peanut Noodles With Spicy Tofu.jpg]]"
 # Peanut Noodles With Spicy Tofu
 
 Silky bucatini coated in a no-cook, garlicky peanut butter sauce made from pantry staples, topped with crisp, lightly spicy tofu crumbles that turn it into a full meal. The recipe doubles easily to serve four.
+
+I made with rice noodles. 
 
 ### 🛒 Ingredients
 - ⅓ cup unsweetened smooth, natural peanut butter

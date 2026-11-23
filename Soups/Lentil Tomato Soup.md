@@ -1,5 +1,14 @@
 ---
-tags: [soups, vegetarian, quick, weeknight, easy, budget, one-pot]
+tags:
+  - soups
+  - vegetarian
+  - quick
+  - weeknight
+  - easy
+  - budget
+  - one-pot
+  - cooked
+  - make-again
 title: Lentil Tomato Soup
 author: Carolina Gelen
 servings: 4 servings

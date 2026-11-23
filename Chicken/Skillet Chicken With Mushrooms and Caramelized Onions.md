@@ -1,5 +1,10 @@
 ---
-tags: [chicken, easy, weeknight, cooked]
+tags:
+  - chicken
+  - easy
+  - weeknight
+  - cooked
+  - make-again
 title: Skillet Chicken With Mushrooms and Caramelized Onions
 author: Yasmin Fahr
 servings: 4 servings
